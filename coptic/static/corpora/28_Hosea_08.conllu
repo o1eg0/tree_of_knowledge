@@ -1,0 +1,73 @@
+# newdoc id = sahidic.ot:28_Hosea_08
+# sent_id = sahidic_ot-28_Hosea_08_s0001
+# text_en = He shall come into their midst as the land, as an eagle against the house of the Lord, because they have transgressed my covenant, and have sinned against my law.
+# text = ϯⲛⲁϯ ⲥⲱϣ ⲛⲁⲩ ϩⲓⲙⲕⲁϩ ⲛϩⲏⲧ ⲉⲧⲃⲉϫⲉⲁⲩⲡⲁⲣⲁⲃⲁ ⲛⲧⲁⲇⲓⲁⲑⲏⲕⲏ ⲁⲩⲱ ⲁⲩⲣϣⲁϥⲧⲉ ⲉⲡⲁⲛⲟⲙⲟⲥ
+1-3	ϯⲛⲁϯ	_	_	_	_	_	_	_	_
+1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲥⲱϣ	_	_	_	_	_	_	_	_
+4	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲱϣ	ⲱϣ	VERB	V	VerbForm=Fin	3	xcomp	_	_
+6-7	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+6	ⲛⲁ	ⲛⲁ	ADP	PREP	_	7	case	_	_
+7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+8-9	ϩⲓⲙⲕⲁϩ	_	_	_	_	_	_	_	_
+8	ϩⲓ	ϩⲓ	ADP	PREP	_	9	case	_	_
+9	ⲙⲕⲁϩ	ⲙⲕⲁϩ	NOUN	N	_	5	obl	_	Entity=(abstract
+10-11	ⲛϩⲏⲧ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	9	nmod	_	Entity=abstract)
+12-16	ⲉⲧⲃⲉϫⲉⲁⲩⲡⲁⲣⲁⲃⲁ	_	_	_	_	_	_	_	_
+12	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	PART	PREP	_	16	mark	_	_
+13	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	12	fixed	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+16	ⲡⲁⲣⲁⲃⲁ	ⲡⲁⲣⲁⲃⲁ	VERB	V	Foreign=Yes|VerbForm=Fin	3	advcl	_	OrigLang=grc
+17-19	ⲛⲧⲁⲇⲓⲁⲑⲏⲕⲏ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	Entity=(abstract
+19	ⲇⲓⲁⲑⲏⲕⲏ	ⲇⲓⲁⲑⲏⲕⲏ	NOUN	N	Foreign=Yes	16	obj	_	Entity=abstract)|Orig=ⲇⲓⲁⲑⲩⲕⲏ|OrigLang=grc
+20	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	23	cc	_	_
+21-24	ⲁⲩⲣϣⲁϥⲧⲉ	_	_	_	_	_	_	_	_
+21	ⲁ	ⲁ	AUX	APST	_	23	aux	_	_
+22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	16	conj	_	_
+24	ϣⲁϥⲧⲉ	ϣⲁϥⲧⲉ	NUM	NUM	NumType=Card	23	obj	_	Entity=(abstract)
+25-27	ⲉⲡⲁⲛⲟⲙⲟⲥ	_	_	_	_	_	_	_	_
+25	ⲉ	ⲉ	ADP	PREP	_	27	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Entity=(person
+27	ⲁⲛⲟⲙⲟⲥ	ⲁⲛⲟⲙⲟⲥ	NOUN	N	Foreign=Yes	23	obl	_	Entity=person)|OrigLang=grc
+
+# sent_id = sahidic_ot-28_Hosea_08_s0002
+# text_en = They shall soon cry out to me, saying, O God, we know thee.
+# text = ⲥⲉⲛⲁϫⲓ ϣⲕⲁⲕ ⲉϩⲣⲁⲓ ⲉⲣⲟⲓ ϫⲉⲡⲛⲟⲩⲧⲉ ⲁⲛⲥⲟⲩⲱⲛⲅ ⲙⲡⲣⲛⲟϫⲛ ⲛⲥⲁⲃⲟⲗ ⲙⲙⲟⲕ
+1-3	ⲥⲉⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+1	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ϣⲕⲁⲕ	ϣⲕⲁⲕ	NOUN	N	_	3	obj	_	Entity=(abstract)
+5	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	3	advmod	_	_
+6-7	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+6	ⲉⲣⲟ	ⲉ	ADP	PREP	_	7	case	_	_
+7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+8-10	ϫⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
+10	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	13	vocative	_	Entity=person)
+11-14	ⲁⲛⲥⲟⲩⲱⲛⲅ	_	_	_	_	_	_	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+13	ⲥⲟⲩⲱⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	3	ccomp	_	_
+14	ⲅ	ⲅ	PRON	PPERO	_	13	obj	_	_
+15-17	ⲙⲡⲣⲛⲟϫⲛ	_	_	_	_	_	_	_	_
+15	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	16	advmod	_	_
+16	ⲛⲟϫ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	13	parataxis	_	_
+17	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	16	obj	_	_
+18-19	ⲛⲥⲁⲃⲟⲗ	_	_	_	_	_	_	_	_
+18	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	19	case	_	_
+19	ⲃⲟⲗ	ⲃⲟⲗ	NOUN	N	_	16	obl	_	_
+20-21	ⲙⲙⲟⲕ	_	_	_	_	_	_	_	_
+20	ⲙⲙⲟ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	19	nmod	_	_
+

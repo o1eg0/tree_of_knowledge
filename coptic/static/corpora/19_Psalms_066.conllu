@@ -1,0 +1,245 @@
+# newdoc id = sahidic.ot:19_Psalms_066
+# sent_id = sahidic_ot-19_Psalms_066_s0001
+# text_en = ...
+# text = ⲉⲡϫⲱⲕ ⲉⲃⲟⲗ ϩⲛⲛⲉⲥⲙⲟⲩ ⲡⲉⲯⲁⲗⲙⲟⲥ ⲛⲧⲱⲇⲏ
+1-3	ⲉⲡϫⲱⲕ	_	_	_	_	_	_	_	_
+1	ⲉ	ⲉ	ADP	PREP	_	3	case	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(event
+3	ϫⲱⲕ	ϫⲱⲕ	NOUN	N	_	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲛⲉⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(abstract
+7	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	3	nmod	_	Entity=abstract)
+8-9	ⲡⲉⲯⲁⲗⲙⲟⲥ	_	_	_	_	_	_	_	_
+8	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ⲯⲁⲗⲙⲟⲥ	ⲯⲁⲗⲙⲟⲥ	NOUN	N	Foreign=Yes	3	appos	_	OrigLang=grc
+10-12	ⲛⲧⲱⲇⲏ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Entity=(abstract
+12	ⲱⲇⲏ	ⲱⲇⲏ	NOUN	N	Foreign=Yes	9	nmod	_	Entity=abstract)event)|OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_066_s0002
+# text_en = God be merciful to us, and bless us; and cause his face to shine upon us. Pause.
+# text = ⲡⲛⲟⲩⲧⲉ ϣⲛϩⲧⲏⲕ ⲉϫⲱⲛ ⲛⲅⲥⲙⲟⲩ ⲉⲣⲟⲛ ⲙⲁⲣⲉⲡⲉⲕϩⲟ ⲣⲟⲩⲟⲉⲓⲛⲉ ⲉϩⲣⲁⲓ ⲉϫⲱⲛ ⲇⲓⲁⲯⲁⲗⲙⲁ
+1-2	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(person
+2	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	3	nsubj	_	Entity=person)
+3-5	ϣⲛϩⲧⲏⲕ	_	_	_	_	_	_	_	_
+3	ϣⲛ	ϣⲓⲛⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ϩⲧⲏ	ϩⲏⲧ	NOUN	N	_	3	obj	_	_
+5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
+6-7	ⲉϫⲱⲛ	_	_	_	_	_	_	_	_
+6	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	7	case	_	_
+7	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+8-10	ⲛⲅⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	10	aux	_	_
+9	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+10	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	VERB	V	VerbForm=Fin	3	advcl	_	_
+11-12	ⲉⲣⲟⲛ	_	_	_	_	_	_	_	_
+11	ⲉⲣⲟ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+13-15	ⲙⲁⲣⲉⲡⲉⲕϩⲟ	_	_	_	_	_	_	_	_
+13	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	16	aux	_	_
+14	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	15	det	_	Entity=(object
+15	ϩⲟ	ϩⲟ	NOUN	N	_	16	nsubj	_	Entity=object)
+16-17	ⲣⲟⲩⲟⲉⲓⲛⲉ	_	_	_	_	_	_	_	_
+16	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	3	nsubj	_	_
+17	ⲟⲩⲟⲉⲓⲛⲉ	ⲟⲩⲟⲉⲓⲛⲉ	VERB	V	VerbForm=Fin	16	parataxis	_	_
+18	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	17	advmod	_	_
+19-20	ⲉϫⲱⲛ	_	_	_	_	_	_	_	_
+19	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	21	case	_	_
+20	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	Entity=(person
+21	ⲇⲓⲁⲯⲁⲗⲙⲁ	ⲇⲓⲁⲯⲁⲗⲙⲁ	NOUN	N	Foreign=Yes	17	obl	_	Entity=person)|OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_066_s0003
+# text_en = That men may know thy way on the earth, thy salvation among all nations.
+# text = ⲉⲧⲣⲉⲛⲉⲓⲙⲉ ⲉⲧⲉⲕϩⲓⲏ ϩⲙⲡⲕⲁϩ ⲁⲩⲱ ⲡⲉⲕⲟⲩϫⲁⲓ ϩⲛⲛϩⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ
+1-4	ⲉⲧⲣⲉⲛⲉⲓⲙⲉ	_	_	_	_	_	_	_	_
+1	ⲉ	ⲉ	PART	PREP	_	2	mark	_	_
+2	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
+3	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	ⲉⲓⲙⲉ	ⲉⲓⲙⲉ	VERB	V	VerbForm=Fin	2	xcomp	_	_
+5-7	ⲉⲧⲉⲕϩⲓⲏ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
+6	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	7	det	_	Entity=(abstract
+7	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	4	obl	_	Entity=abstract)
+8-10	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+8	ϩⲙ	ϩⲛ	ADP	PREP	_	10	case	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(place
+10	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	4	obl	_	Entity=place)
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+12-13	ⲡⲉⲕⲟⲩϫⲁⲓ	_	_	_	_	_	_	_	_
+12	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	13	det	_	Entity=(abstract
+13	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	NOUN	N	_	16	nsubj	_	Entity=abstract)
+14-16	ϩⲛⲛϩⲉⲑⲛⲟⲥ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	16	case	_	_
+15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	Entity=(person
+16	ϩⲉⲑⲛⲟⲥ	ϩⲉⲑⲛⲟⲥ	NOUN	N	Foreign=Yes	4	obl	_	OrigLang=grc
+17-18	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+17	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	16	advmod	_	_
+18	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	17	det	_	Entity=person)
+
+# sent_id = sahidic_ot-19_Psalms_066_s0004
+# text_en = Let the nations, O God, give thanks to thee; let all the nations give thanks to thee.
+# text = ⲙⲁⲣⲟⲩⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉⲃⲟⲗ ⲡⲛⲟⲩⲧⲉ ⲛϭⲓⲛⲗⲁⲟⲥ ⲡⲛⲟⲩⲧⲉ ⲙⲁⲣⲉⲛⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ ⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉⲃⲟⲗ
+1-3	ⲙⲁⲣⲟⲩⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+1	ⲙⲁⲣ	ⲙⲁⲣⲉ	AUX	AJUS	_	3	aux	_	_
+2	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲟⲩⲱⲛϩ	ⲟⲩⲱⲛϩ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
+5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	3	advmod	_	_
+7-8	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(person
+8	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	3	vocative	_	Entity=person)
+9-11	ⲛϭⲓⲛⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+9	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	11	case	_	_
+10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	11	det	_	Entity=(organization
+11	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	3	dislocated	_	OrigLang=grc
+12-13	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	appos	_	Entity=organization)
+14-16	ⲙⲁⲣⲉⲛⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+14	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	20	aux	_	_
+15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	Entity=(person
+16	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	20	nsubj	_	OrigLang=grc
+17-18	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+17	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	16	advmod	_	_
+18	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	17	det	_	Entity=person)
+19-20	ⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+19	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	Entity=(abstract
+20	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	3	parataxis	_	_
+21-22	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+21	ⲛⲁ	ⲛⲁ	ADP	PREP	_	22	case	_	_
+22	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nmod	_	_
+23	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	20	advmod	_	Entity=abstract)
+
+# sent_id = sahidic_ot-19_Psalms_066_s0005
+# text_en = Let the nations rejoice and exult, for thou shalt judge the peoples in equity, and shalt guide the nations on the earth. Pause.
+# text = ⲙⲁⲣⲉⲛϩⲉⲑⲛⲟⲥ ⲉⲩⲫⲣⲁⲛⲉ ⲛⲥⲉⲧⲉⲗⲏⲗ ϫⲉⲕⲛⲁⲕⲣⲓⲛⲉ ⲛⲛⲗⲁⲟⲥ ϩⲛⲟⲩⲥⲟⲟⲩⲧⲛ ⲕⲛⲁϫⲓⲙⲟⲉⲓⲧ ϩⲏⲧⲟⲩ ⲛⲛϩⲉⲑⲛⲟⲥ ϩⲙⲡⲕⲁϩ ⲇⲓⲁⲯⲁⲗⲙⲁ
+1-3	ⲙⲁⲣⲉⲛϩⲉⲑⲛⲟⲥ	_	_	_	_	_	_	_	_
+1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	4	aux	_	_
+2	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	det	_	Entity=(person
+3	ϩⲉⲑⲛⲟⲥ	ϩⲉⲑⲛⲟⲥ	NOUN	N	Foreign=Yes	4	nsubj	_	Entity=person)|OrigLang=grc
+4	ⲉⲩⲫⲣⲁⲛⲉ	ⲉⲩⲫⲣⲁⲛⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
+5-7	ⲛⲥⲉⲧⲉⲗⲏⲗ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	7	aux	_	_
+6	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+7	ⲧⲉⲗⲏⲗ	ⲧⲉⲗⲏⲗ	VERB	V	VerbForm=Fin	4	advcl	_	_
+8-11	ϫⲉⲕⲛⲁⲕⲣⲓⲛⲉ	_	_	_	_	_	_	_	_
+8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	11	mark	_	_
+9	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
+11	ⲕⲣⲓⲛⲉ	ⲕⲣⲓⲛⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	7	ccomp	_	OrigLang=grc
+12-14	ⲛⲛⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	Entity=(organization
+14	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	11	obj	_	Entity=organization)|OrigLang=grc
+15-17	ϩⲛⲟⲩⲥⲟⲟⲩⲧⲛ	_	_	_	_	_	_	_	_
+15	ϩⲛ	ϩⲛ	ADP	PREP	_	17	case	_	_
+16	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ⲥⲟⲟⲩⲧⲛ	ⲥⲟⲟⲩⲧⲛ	NOUN	N	_	11	obl	_	Entity=abstract)
+18-20	ⲕⲛⲁϫⲓⲙⲟⲉⲓⲧ	_	_	_	_	_	_	_	_
+18	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
+19	ⲛⲁ	ⲛⲁ	AUX	FUT	_	20	aux	_	_
+20	ϫⲓⲙⲟⲉⲓⲧ	ϫⲓⲙⲟⲉⲓⲧ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+21-22	ϩⲏⲧⲟⲩ	_	_	_	_	_	_	_	_
+21	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	20	obl:npmod	_	_
+22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	21	det	_	_
+23-25	ⲛⲛϩⲉⲑⲛⲟⲥ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	25	det	_	Entity=(person
+25	ϩⲉⲑⲛⲟⲥ	ϩⲉⲑⲛⲟⲥ	NOUN	N	Foreign=Yes	20	obl	_	Entity=person)|OrigLang=grc
+26-28	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+26	ϩⲙ	ϩⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(place
+28	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	20	obl	_	Entity=place)
+29	ⲇⲓⲁⲯⲁⲗⲙⲁ	ⲇⲓⲁⲯⲁⲗⲙⲁ	PUNCT	PUNCT	Foreign=Yes	0	punct	_	OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_066_s0006
+# text_en = Let the peoples, O God, give thanks to thee; let all the peoples give thanks to thee.
+# text = ⲙⲁⲣⲟⲩⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉⲃⲟⲗ ⲛϭⲓⲛⲗⲁⲟⲥ ⲡⲛⲟⲩⲧⲉ ⲙⲁⲣⲉⲛⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ ⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉⲃⲟⲗ
+1-3	ⲙⲁⲣⲟⲩⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+1	ⲙⲁⲣ	ⲙⲁⲣⲉ	AUX	AJUS	_	3	aux	_	_
+2	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲟⲩⲱⲛϩ	ⲟⲩⲱⲛϩ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
+5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	3	advmod	_	_
+7-9	ⲛϭⲓⲛⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+7	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	9	case	_	_
+8	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	det	_	Entity=(organization
+9	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	3	dislocated	_	OrigLang=grc
+10-11	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	9	appos	_	Entity=organization)
+12-14	ⲙⲁⲣⲉⲛⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+12	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	18	aux	_	_
+13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	Entity=(person
+14	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	18	nsubj	_	OrigLang=grc
+15-16	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+15	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	14	advmod	_	_
+16	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	15	det	_	Entity=person)
+17-18	ⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+17	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	18	det	_	Entity=(abstract
+18	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	3	parataxis	_	_
+19-20	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+19	ⲛⲁ	ⲛⲁ	ADP	PREP	_	20	case	_	_
+20	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	nmod	_	_
+21	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	18	advmod	_	Entity=abstract)
+
+# sent_id = sahidic_ot-19_Psalms_066_s0007
+# text_en = The earth has yielded her fruit; let God, our God bless us.
+# text = ⲡⲕⲁϩ ⲁϥϯ ⲙⲡⲉϥⲕⲁⲣⲡⲟⲥ ⲡⲉⲛⲛⲟⲩⲧⲉ ⲥⲙⲟⲩ ⲉⲣⲟⲛ
+1-2	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(place
+2	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	5	dislocated	_	Entity=place)
+3-5	ⲁϥϯ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+6-8	ⲙⲡⲉϥⲕⲁⲣⲡⲟⲥ	_	_	_	_	_	_	_	_
+6	ⲙ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	Entity=(plant
+8	ⲕⲁⲣⲡⲟⲥ	ⲕⲁⲣⲡⲟⲥ	NOUN	N	Foreign=Yes	5	obj	_	Entity=plant)|OrigLang=grc
+9-10	ⲡⲉⲛⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+9	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	Entity=(person
+10	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	nsubj	_	Entity=person)
+11	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+12-13	ⲉⲣⲟⲛ	_	_	_	_	_	_	_	_
+12	ⲉⲣⲟ	ⲉ	ADP	PREP	_	13	case	_	_
+13	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	11	obl	_	_
+
+# sent_id = sahidic_ot-19_Psalms_066_s0008
+# text_en = Let God bless us; and let all the ends of the earth fear him.
+# text = ⲥⲙⲟⲩ ⲉⲣⲟⲛ ⲡⲉⲛⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲙⲁⲣⲟⲩⲣϩⲟⲧⲉ ϩⲏⲧⲕ ⲛϭⲓⲛⲉⲕⲣⲣⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲙⲡⲕⲁϩ
+1	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+2-3	ⲉⲣⲟⲛ	_	_	_	_	_	_	_	_
+2	ⲉⲣⲟ	ⲉ	ADP	PREP	_	3	case	_	_
+3	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	1	obl	_	_
+4-5	ⲡⲉⲛⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+4	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	Entity=(person
+5	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	1	vocative	_	Entity=person)
+6	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+7-9	ⲙⲁⲣⲟⲩⲣϩⲟⲧⲉ	_	_	_	_	_	_	_	_
+7	ⲙⲁⲣ	ⲙⲁⲣⲉ	AUX	AJUS	_	9	aux	_	_
+8	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲣϩⲟⲧⲉ	ⲣϩⲟⲧⲉ	VERB	V	VerbForm=Fin	1	conj	_	Morphs=ⲣ-ϩⲟⲧⲉ
+10-11	ϩⲏⲧⲕ	_	_	_	_	_	_	_	_
+10	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	9	obl:npmod	_	_
+11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	10	det	_	_
+12-14	ⲛϭⲓⲛⲉⲕⲣⲣⲱⲟⲩ	_	_	_	_	_	_	_	_
+12	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	14	case	_	_
+13	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	Entity=(person
+14	ⲣⲣⲱⲟⲩ	ⲣⲣⲟ	NOUN	N	_	9	dislocated	_	Orig=ⲣⲱⲟⲩ
+15-16	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+15	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	14	advmod	_	_
+16	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	15	det	_	_
+17-19	ⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	14	nmod	_	Entity=place)person)
+

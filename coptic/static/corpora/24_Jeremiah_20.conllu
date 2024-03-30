@@ -1,0 +1,39 @@
+# newdoc id = sahidic.ot:24_Jeremiah_20
+# sent_id = sahidic_ot-24_Jeremiah_20_s0001
+# text_en = Why is it that I came forth of the womb to see troubles and distresses, and my days are spent in shame?
+# text = ϫⲉⲟⲩ ⲉⲣⲟⲓ ⲡⲉ ⲉⲓ ⲉⲃⲟⲗ ϩⲛⲧⲙⲏⲧⲣⲁ ⲛⲧⲁⲙⲁⲁⲩ ⲉⲛⲁⲩ ⲉⲛⲉⲓϩⲓⲥⲉ ⲙⲛⲛⲉⲓⲉⲙⲕⲁϩ ϫⲉⲁⲛⲁϩⲟⲟⲩ ⲱϫⲛ
+1-2	ϫⲉⲟⲩ	_	_	_	_	_	_	_	_
+1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	2	mark	_	_
+2	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	0	root	_	_
+3-4	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+3	ⲉⲣⲟ	ⲉ	ADP	PREP	_	4	case	_	_
+4	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
+5	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
+6	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	2	csubj	_	_
+7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	10	case	_	_
+8-10	ϩⲛⲧⲙⲏⲧⲣⲁ	_	_	_	_	_	_	_	_
+8	ϩⲛ	ϩⲛ	ADP	PREP	_	7	fixed	_	_
+9	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Entity=(place
+10	ⲙⲏⲧⲣⲁ	ⲙⲏⲧⲣⲁ	NOUN	N	Foreign=Yes	6	obl	_	OrigLang=grc
+11-13	ⲛⲧⲁⲙⲁⲁⲩ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	Entity=(person
+13	ⲙⲁⲁⲩ	ⲙⲁⲁⲩ	NOUN	N	_	10	nmod	_	Entity=person)place)
+14-15	ⲉⲛⲁⲩ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	PART	PREP	_	15	mark	_	_
+15	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	6	xcomp	_	_
+16-18	ⲉⲛⲉⲓϩⲓⲥⲉ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉ	ADP	PREP	_	18	case	_	_
+17	ⲛⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	18	det	_	Entity=(abstract
+18	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	15	obl	_	Entity=abstract)
+19-21	ⲙⲛⲛⲉⲓⲉⲙⲕⲁϩ	_	_	_	_	_	_	_	_
+19	ⲙⲛ	ⲙⲛ	ADP	PREP	_	20	cc	_	_
+20	ⲛⲉⲓⲉ	ⲛⲉⲓⲉ	NOUN	N	_	18	conj	_	Entity=(abstract)
+21	ⲙⲕⲁϩ	ⲙⲕⲁϩ	VERB	V	VerbForm=Fin	15	parataxis	_	_
+22-25	ϫⲉⲁⲛⲁϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+22	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	26	mark	_	_
+23	ⲁ	ⲁ	AUX	APST	_	26	aux	_	_
+24	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det	_	Entity=(time
+25	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	26	nsubj	_	Entity=time)
+26	ⲱϫⲛ	ⲱϫⲛ	VERB	V	VerbForm=Fin	21	ccomp	_	_
+

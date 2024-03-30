@@ -1,0 +1,367 @@
+# newdoc id = sahidic.ot:19_Psalms_023
+# sent_id = sahidic_ot-19_Psalms_023_s0001
+# text_en = A Psalm for David on the first day of the week. The earth is the Lord's and the fullness thereof; the world, and all that dwell in it.
+# text = ⲡⲉⲯⲁⲗⲙⲟⲥ ⲛⲇⲁⲩⲉⲓⲇ ⲛⲥⲟⲩⲟⲩⲁ ⲛⲛⲥⲁⲃⲃⲁⲧⲟⲛ ⲡⲁϫⲟⲉⲓⲥ ⲡⲉ ⲡⲕⲁϩ ⲙⲛⲡⲉϥϫⲱⲕ ⲉⲃⲟⲗ ⲧⲟⲓⲕⲟⲩⲙⲉⲛⲏ ⲙⲛⲛⲉⲧⲟⲩⲏϩ ⲧⲏⲣⲟⲩ ϩⲣⲁⲓ ⲛϩⲏⲧⲥ
+1-2	ⲡⲉⲯⲁⲗⲙⲟⲥ	_	_	_	_	_	_	_	_
+1	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ⲯⲁⲗⲙⲟⲥ	ⲯⲁⲗⲙⲟⲥ	NOUN	N	Foreign=Yes	11	vocative	_	OrigLang=grc
+3-4	ⲛⲇⲁⲩⲉⲓⲇ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	_
+4	ⲇⲁⲩⲉⲓⲇ	ⲇⲁⲩⲉⲓⲇ	PROPN	NPROP	Foreign=Yes	2	nmod	_	Entity=(person-David|OrigLang=he
+5-6	ⲛⲥⲟⲩⲟⲩⲁ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲥⲟⲩⲟⲩⲁ	ⲥⲟⲩⲟⲩⲁ	NUM	NUM	NumType=Card	4	nmod	_	Entity=(time|Morphs=ⲥⲟⲩ-ⲟⲩⲁ|Orig=ⲥⲟⲩⲁ
+7-9	ⲛⲛⲥⲁⲃⲃⲁⲧⲟⲛ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	det	_	Entity=(time
+9	ⲥⲁⲃⲃⲁⲧⲟⲛ	ⲥⲁⲃⲃⲁⲧⲟⲛ	NOUN	N	Foreign=Yes	6	nmod	_	Entity=time)time)person-David)abstract)|OrigLang=he
+10-11	ⲡⲁϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+10	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	Entity=(person
+11	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	0	root	_	Entity=person)
+12	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	11	cop	_	_
+13-14	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	11	nsubj	_	Entity=place)
+15-17	ⲙⲛⲡⲉϥϫⲱⲕ	_	_	_	_	_	_	_	_
+15	ⲙⲛ	ⲙⲛ	ADP	PREP	_	17	cc	_	_
+16	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	Entity=(event
+17	ϫⲱⲕ	ϫⲱⲕ	NOUN	N	_	11	conj	_	_
+18	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	advmod	_	Entity=event)
+19-20	ⲧⲟⲓⲕⲟⲩⲙⲉⲛⲏ	_	_	_	_	_	_	_	_
+19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Entity=(place
+20	ⲟⲓⲕⲟⲩⲙⲉⲛⲏ	ⲟⲓⲕⲟⲩⲙⲉⲛⲏ	NOUN	N	Foreign=Yes	17	nsubj	_	Entity=place)|OrigLang=grc
+21-24	ⲙⲛⲛⲉⲧⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+21	ⲙⲛ	ⲙⲛ	ADP	PREP	_	22	cc	_	_
+22	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	20	conj	_	Entity=(abstract
+23	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	24	mark	_	_
+24	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	22	acl	_	_
+25-26	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+25	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	22	advmod	_	_
+26	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	25	det	_	_
+27	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	24	advmod	_	_
+28-29	ⲛϩⲏⲧⲥ	_	_	_	_	_	_	_	_
+28	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	29	case	_	_
+29	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-19_Psalms_023_s0002
+# text_en = He has founded it upon the seas, and prepared it upon the rivers.
+# text = ⲛⲧⲟϥ ⲁϥⲥⲙⲛⲥⲛⲧⲉ ⲙⲙⲟⲥ ϩⲓϫⲛⲛⲉⲑⲁⲗⲁⲥⲥⲁ ⲁⲩⲱ ⲁϥⲥⲃⲧⲱⲧⲥ ϩⲓϫⲛⲛⲓⲉⲣⲱⲟⲩ
+1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dislocated	_	_
+2-6	ⲁϥⲥⲙⲛⲥⲛⲧⲉ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲥⲙ	ⲥⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲥⲛⲧⲉ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	4	obj	_	Entity=(person)
+7-8	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+7	ⲙⲙⲟ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+9-11	ϩⲓϫⲛⲛⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+9	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	11	case	_	_
+10	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	11	det	_	Entity=(place
+11	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	4	obl	_	Entity=place)|OrigLang=grc
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
+13-16	ⲁϥⲥⲃⲧⲱⲧⲥ	_	_	_	_	_	_	_	_
+13	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	ⲥⲃⲧⲱⲧ	ⲥⲟⲃⲧⲉ	VERB	V	VerbForm=Fin	4	conj	_	_
+16	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17-19	ϩⲓϫⲛⲛⲓⲉⲣⲱⲟⲩ	_	_	_	_	_	_	_	_
+17	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	19	case	_	_
+18	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	19	det	_	Entity=(place
+19	ⲓⲉⲣⲱⲟⲩ	ⲉⲓⲟⲟⲣ	NOUN	N	_	15	obl	_	Entity=place)
+
+# sent_id = sahidic_ot-19_Psalms_023_s0003
+# text_en = Who shall go up to the mountain of the Lord, and who shall stand in his holy place?
+# text = ⲛⲓⲙ ⲡⲉⲧⲛⲁⲃⲱⲕ ⲉϩⲣⲁⲓ ⲉⲡⲧⲟⲟⲩ ⲙⲡϫⲟⲉⲓⲥ ⲏ ⲛⲓⲙ ⲡⲉⲧⲛⲁⲁϩⲉⲣⲁⲧϥ ϩⲙⲡⲙⲁ ⲙⲡⲉϥⲧⲃⲃⲟ
+1	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	0	root	_	_
+2-5	ⲡⲉⲧⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
+2	ⲡ	ⲡ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
+3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	1	csubj	_	_
+6	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	_
+7-9	ⲉⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(place
+9	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	5	obl	_	_
+10-12	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(person
+12	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	9	nmod	_	Entity=person)place)
+13	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	14	cc	_	OrigLang=grc
+14	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	1	conj	_	_
+15-20	ⲡⲉⲧⲛⲁⲁϩⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
+15	ⲡ	ⲡ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	_
+16	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	18	mark	_	_
+17	ⲛⲁ	ⲛⲁ	AUX	FUT	_	18	aux	_	_
+18	ⲁϩⲉ	ⲱϩⲉ	VERB	V	VerbForm=Fin	14	csubj	_	_
+19	ⲣⲁⲧ	ⲣⲁⲧ	NOUN	N	_	18	obj	_	_
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	19	det	_	_
+21-23	ϩⲙⲡⲙⲁ	_	_	_	_	_	_	_	_
+21	ϩⲙ	ϩⲛ	ADP	PREP	_	23	case	_	_
+22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(place
+23	ⲙⲁ	ⲙⲁ	NOUN	N	_	18	obl	_	_
+24-26	ⲙⲡⲉϥⲧⲃⲃⲟ	_	_	_	_	_	_	_	_
+24	ⲙ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	Entity=(abstract
+26	ⲧⲃⲃⲟ	ⲧⲃⲃⲟ	NOUN	N	_	23	nmod	_	Entity=abstract)place)
+
+# sent_id = sahidic_ot-19_Psalms_023_s0004
+# text_en = He that is innocent in his hands and pure in his heart; who has not lifted up his soul to vanity, nor sworn deceitfully to his neighbour.
+# text = ⲡⲉⲧⲟⲩⲁⲁⲃ ϩⲛⲛⲉϥϭⲓϫ ⲡⲉ ⲉϥⲧⲃⲃⲏⲩ ϩⲙⲡⲉϥϩⲏⲧ ⲉⲙⲡϥϫⲓ ⲛⲧⲉϥⲯⲩⲭⲏ ⲉϫⲛⲟⲩⲙⲛⲧⲉⲡⲣⲁ ⲉⲙⲡϥⲱⲣⲕ ⲙⲡⲉⲧϩⲓⲧⲟⲩⲱϥ ϩⲛⲟⲩⲕⲣⲟϥ
+1-3	ⲡⲉⲧⲟⲩⲁⲁⲃ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	Entity=(person
+2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
+3	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	1	acl	_	_
+4-6	ϩⲛⲛⲉϥϭⲓϫ	_	_	_	_	_	_	_	_
+4	ϩⲛ	ϩⲛ	ADP	PREP	_	6	case	_	_
+5	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	Entity=(object
+6	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	3	obl	_	Entity=object)
+7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
+8-10	ⲉϥⲧⲃⲃⲏⲩ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲧⲃⲃⲏⲩ	ⲧⲃⲃⲟ	VERB	VSTAT	VerbForm=Fin	1	acl	_	_
+11-13	ϩⲙⲡⲉϥϩⲏⲧ	_	_	_	_	_	_	_	_
+11	ϩⲙ	ϩⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	Entity=(abstract
+13	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	10	obl	_	Entity=abstract)person)
+14-17	ⲉⲙⲡϥϫⲓ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	17	mark	_	_
+15	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	17	aux	_	_
+16	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	10	advcl	_	_
+18-20	ⲛⲧⲉϥⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	Entity=(abstract
+20	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	17	obj	_	Entity=abstract)|OrigLang=grc
+21-23	ⲉϫⲛⲟⲩⲙⲛⲧⲉⲡⲣⲁ	_	_	_	_	_	_	_	_
+21	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	23	case	_	_
+22	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
+23	ⲙⲛⲧⲉⲡⲣⲁ	ⲙⲛⲧⲉⲡⲣⲁ	NOUN	N	_	17	obl	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ⲉⲡⲣⲁ
+24-27	ⲉⲙⲡϥⲱⲣⲕ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	27	mark	_	_
+25	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	27	aux	_	_
+26	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
+27	ⲱⲣⲕ	ⲱⲣⲕ	VERB	V	VerbForm=Fin	17	advcl	_	_
+28-32	ⲙⲡⲉⲧϩⲓⲧⲟⲩⲱϥ	_	_	_	_	_	_	_	_
+28	ⲙ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	obj	_	Entity=(person
+30	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	32	mark	_	_
+31	ϩⲓⲧⲟⲩⲱ	ϩⲓⲧⲟⲩⲛ	ADP	PREP	_	32	case	_	_
+32	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	acl	_	Entity=person)
+33-35	ϩⲛⲟⲩⲕⲣⲟϥ	_	_	_	_	_	_	_	_
+33	ϩⲛ	ϩⲛ	ADP	PREP	_	35	case	_	_
+34	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	35	det	_	Entity=(abstract
+35	ⲕⲣⲟϥ	ⲕⲣⲟϥ	NOUN	N	_	27	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-19_Psalms_023_s0005
+# text_en = He shall receive a blessing from the Lord, and mercy from God his Saviour.
+# text = ⲡⲁⲓ ⲛⲁϫⲓ ⲛⲟⲩⲥⲙⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡϫⲟⲉⲓⲥ ⲁⲩⲱ ⲟⲩⲛⲁ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡⲛⲟⲩⲧⲉ ⲡⲉϥⲥⲱⲧⲏⲣ
+1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	Entity=(person)
+2-3	ⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲛⲟⲩⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(abstract
+6	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	3	obj	_	_
+7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	10	case	_	_
+8-10	ϩⲓⲧⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+8	ϩⲓⲧⲙ	ϩⲓⲧⲛ	ADP	PREP	_	7	fixed	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
+10	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	6	nmod	_	Entity=person)abstract)
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+12-13	ⲟⲩⲛⲁ	_	_	_	_	_	_	_	_
+12	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	13	det	_	Entity=(abstract
+13	ⲛⲁ	ⲛⲁ	NOUN	N	_	3	conj	_	_
+14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	case	_	_
+15-17	ϩⲓⲧⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+15	ϩⲓⲧⲙ	ϩⲓⲧⲛ	ADP	PREP	_	14	fixed	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(person
+17	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	13	nmod	_	_
+18-19	ⲡⲉϥⲥⲱⲧⲏⲣ	_	_	_	_	_	_	_	_
+18	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
+19	ⲥⲱⲧⲏⲣ	ⲥⲱⲧⲏⲣ	NOUN	N	Foreign=Yes	17	appos	_	Entity=person)abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_023_s0006
+# text_en = This is the generation of them that seek him, that seek the face of the God of Jacob. Pause.
+# text = ⲧⲁⲓ ⲧⲉ ⲧⲅⲉⲛⲉⲁ ⲛⲛⲉⲧϣⲓⲛⲉ ⲛⲥⲁⲡϫⲟⲉⲓⲥ ⲛⲉⲧϣⲓⲛⲉ ⲛⲥⲁⲡϩⲟ ⲙⲡⲛⲟⲩⲧⲉ ⲛⲓⲁⲕⲱⲃ ⲇⲓⲁⲯⲁⲗⲙⲁ
+1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)
+2	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	1	cop	_	_
+3-4	ⲧⲅⲉⲛⲉⲁ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Entity=(abstract
+4	ⲅⲉⲛⲉⲁ	ⲅⲉⲛⲉⲁ	NOUN	N	Foreign=Yes	1	nsubj	_	OrigLang=grc
+5-8	ⲛⲛⲉⲧϣⲓⲛⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	4	nmod	_	Entity=(abstract
+7	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
+8	ϣⲓⲛⲉ	ϣⲓⲛⲉ	VERB	V	VerbForm=Fin	6	acl	_	_
+9-11	ⲛⲥⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+9	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(person
+11	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	8	obl	_	Entity=person)
+12-14	ⲛⲉⲧϣⲓⲛⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	6	appos	_	_
+13	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
+14	ϣⲓⲛⲉ	ϣⲓⲛⲉ	VERB	V	VerbForm=Fin	12	acl	_	_
+15-17	ⲛⲥⲁⲡϩⲟ	_	_	_	_	_	_	_	_
+15	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	17	case	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ϩⲟ	ϩⲟ	NOUN	N	_	14	obl	_	_
+18-20	ⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(person
+20	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	17	nmod	_	_
+21-22	ⲛⲓⲁⲕⲱⲃ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	20	nmod	_	Entity=(person-Jacob)person)abstract)abstract)abstract)|OrigLang=he
+23	ⲇⲓⲁⲯⲁⲗⲙⲁ	ⲇⲓⲁⲯⲁⲗⲙⲁ	PUNCT	PUNCT	Foreign=Yes	0	punct	_	OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_023_s0007
+# text_en = Lift up your gates, ye princes, and be ye lifted up, ye everlasting doors; and the king of glory shall come in.
+# text = ϥⲓ ⲛⲛⲉⲧⲛⲡⲩⲗⲏ ⲉϩⲣⲁⲓ ⲛⲁⲣⲭⲱⲛ ⲛⲧⲉⲧⲛϫⲓⲥⲉ ⲉϩⲣⲁⲓ ⲙⲡⲩⲗⲏ ⲛϣⲁ ⲉⲛⲉϩ ⲧⲁⲣⲉϥⲉⲓ ⲉϩⲟⲩⲛ ⲛϭⲓⲡⲣⲣⲟ ⲙⲡⲉⲟⲟⲩ
+1	ϥⲓ	ϥⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+2-4	ⲛⲛⲉⲧⲛⲡⲩⲗⲏ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲛ	ADP	PREP	_	4	case	_	_
+3	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	4	det	_	Entity=(place
+4	ⲡⲩⲗⲏ	ⲡⲩⲗⲏ	NOUN	N	Foreign=Yes	1	obj	_	OrigLang=grc
+5	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	1	advmod	_	_
+6-7	ⲛⲁⲣⲭⲱⲛ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲁⲣⲭⲱⲛ	ⲁⲣⲭⲱⲛ	NOUN	N	Foreign=Yes	4	nmod	_	Entity=(person)place)|OrigLang=grc
+8-10	ⲛⲧⲉⲧⲛϫⲓⲥⲉ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	10	aux	_	_
+9	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+10	ϫⲓⲥⲉ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	1	advcl	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲙⲡⲩⲗⲏ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲡⲩⲗⲏ	ⲡⲩⲗⲏ	NOUN	N	Foreign=Yes	10	obl	_	Entity=(place|OrigLang=grc
+14-15	ⲛϣⲁ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+15	ϣⲁ	ϣⲁ	NOUN	N	_	16	case	_	Entity=(event)
+16	ⲉⲛⲉϩ	ⲉⲛⲉϩ	ADV	ADV	_	13	nmod	_	Entity=place)
+17-19	ⲧⲁⲣⲉϥⲉⲓ	_	_	_	_	_	_	_	_
+17	ⲧⲁⲣⲉ	ⲧⲁⲣⲉ	AUX	AFUTCONJ	_	19	aux	_	_
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+19	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	1	parataxis	_	_
+20	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	19	advmod	_	_
+21-23	ⲛϭⲓⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+21	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	23	case	_	_
+22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(person
+23	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	19	dislocated	_	_
+24-26	ⲙⲡⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
+24	ⲙ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Entity=(abstract
+26	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	23	nmod	_	Entity=abstract)person)
+
+# sent_id = sahidic_ot-19_Psalms_023_s0008
+# text_en = Who is this king of Glory? the Lord strong and mighty, the Lord mighty in battle.
+# text = ⲛⲓⲙ ⲡⲉ ⲡⲉⲓⲣⲣⲟ ⲙⲡⲉⲟⲟⲩ ⲡϫⲟⲉⲓⲥ ⲡⲉ ⲡⲇⲩⲛⲁⲧⲟⲥ ⲉⲧⲧⲁϫⲣⲏⲩ ⲡϫⲟⲉⲓⲥ ⲡⲉⲧⲉⲟⲩⲛϭⲟⲙ ⲙⲙⲟϥ ϩⲙⲡⲡⲟⲗⲉⲙⲟⲥ ⲇⲓⲁⲯⲁⲗⲙⲁ
+1	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	0	root	_	_
+2	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
+3-4	ⲡⲉⲓⲣⲣⲟ	_	_	_	_	_	_	_	_
+3	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Entity=(person
+4	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	1	nsubj	_	_
+5-7	ⲙⲡⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	4	nmod	_	Entity=abstract)person)
+8-9	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(person
+9	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	1	parataxis	_	_
+10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	9	cop	_	_
+11-12	ⲡⲇⲩⲛⲁⲧⲟⲥ	_	_	_	_	_	_	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(person
+12	ⲇⲩⲛⲁⲧⲟⲥ	ⲇⲩⲛⲁⲧⲟⲥ	NOUN	N	Foreign=Yes	9	nsubj	_	OrigLang=grc
+13-14	ⲉⲧⲧⲁϫⲣⲏⲩ	_	_	_	_	_	_	_	_
+13	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
+14	ⲧⲁϫⲣⲏⲩ	ⲧⲁϫⲣⲟ	VERB	VSTAT	VerbForm=Fin	12	acl	_	_
+15-16	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Entity=(person
+16	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	9	nmod	_	Entity=person)person)
+17-20	ⲡⲉⲧⲉⲟⲩⲛϭⲟⲙ	_	_	_	_	_	_	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	appos	_	_
+18	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
+19	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	17	acl	_	_
+20	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	19	nsubj	_	_
+21-22	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
+21	ⲙⲙⲟ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+23-25	ϩⲙⲡⲡⲟⲗⲉⲙⲟⲥ	_	_	_	_	_	_	_	_
+23	ϩⲙ	ϩⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(event
+25	ⲡⲟⲗⲉⲙⲟⲥ	ⲡⲟⲗⲉⲙⲟⲥ	NOUN	N	Foreign=Yes	19	obl	_	Entity=event)person)|OrigLang=grc
+26	ⲇⲓⲁⲯⲁⲗⲙⲁ	ⲇⲓⲁⲯⲁⲗⲙⲁ	PUNCT	PUNCT	Foreign=Yes	0	punct	_	OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_023_s0009
+# text_en = Lift up your gates, ye princes; and be ye lift up, ye everlasting doors; and the king of glory shall come in.
+# text = ϥⲓ ⲛⲛⲉⲧⲙⲡⲩⲗⲏ ⲉϩⲣⲁⲓ ⲛⲁⲣⲭⲱⲛ ⲛⲧⲉⲧⲛϫⲓⲥⲉ ⲉϩⲣⲁⲓ ⲙⲡⲩⲗⲏ ⲛϣⲁ ⲉⲛⲉϩ ⲧⲁⲣⲉϥⲉⲓ ⲉϩⲟⲩⲛ ⲛϭⲓⲡⲣⲣⲟ ⲙⲡⲉⲟⲟⲩ
+1	ϥⲓ	ϥⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+2-6	ⲛⲛⲉⲧⲙⲡⲩⲗⲏ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
+3	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	1	obj	_	Entity=(person
+4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲡⲩⲗⲏ	ⲡⲩⲗⲏ	NOUN	N	Foreign=Yes	3	acl	_	Entity=(place)|OrigLang=grc
+7	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	6	advmod	_	_
+8-9	ⲛⲁⲣⲭⲱⲛ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲁⲣⲭⲱⲛ	ⲁⲣⲭⲱⲛ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=(person)person)|OrigLang=grc
+10-12	ⲛⲧⲉⲧⲛϫⲓⲥⲉ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	12	aux	_	_
+11	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_
+12	ϫⲓⲥⲉ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	1	advcl	_	_
+13	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+14-15	ⲙⲡⲩⲗⲏ	_	_	_	_	_	_	_	_
+14	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲡⲩⲗⲏ	ⲡⲩⲗⲏ	NOUN	N	Foreign=Yes	12	obl	_	Entity=(place|OrigLang=grc
+16-17	ⲛϣⲁ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ϣⲁ	ϣⲁ	NOUN	N	_	18	case	_	Entity=(event)
+18	ⲉⲛⲉϩ	ⲉⲛⲉϩ	ADV	ADV	_	15	nmod	_	Entity=place)
+19-21	ⲧⲁⲣⲉϥⲉⲓ	_	_	_	_	_	_	_	_
+19	ⲧⲁⲣⲉ	ⲧⲁⲣⲉ	AUX	AFUTCONJ	_	21	aux	_	_
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+21	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	1	parataxis	_	_
+22	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	21	advmod	_	_
+23-25	ⲛϭⲓⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+23	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(person
+25	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	21	dislocated	_	_
+26-28	ⲙⲡⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
+26	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(abstract
+28	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	25	nmod	_	Entity=abstract)person)
+
+# sent_id = sahidic_ot-19_Psalms_023_s0010
+# text_en = Who is this king of glory? The Lord of hosts, he is this king of glory.
+# text = ⲛⲓⲙ ⲡⲉ ⲡⲉⲓⲣⲣⲟ ⲙⲡⲉⲟⲟⲩ ⲡϫⲟⲉⲓⲥ ⲛⲛϭⲟⲙ ⲛⲧⲟϥ ⲡⲉ ⲡⲣⲣⲟ ⲙⲡⲉⲟⲟⲩ
+1	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	0	root	_	_
+2	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
+3-4	ⲡⲉⲓⲣⲣⲟ	_	_	_	_	_	_	_	_
+3	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Entity=(person
+4	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	1	nsubj	_	_
+5-7	ⲙⲡⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	4	nmod	_	_
+8-9	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	7	appos	_	_
+10-12	ⲛⲛϭⲟⲙ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	Entity=(abstract
+12	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	9	nmod	_	Entity=abstract)abstract)person)
+13	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	parataxis	_	_
+14	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	13	cop	_	_
+15-16	ⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Entity=(person
+16	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	13	nsubj	_	_
+17-19	ⲙⲡⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(abstract
+19	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	16	nmod	_	Entity=abstract)person)
+

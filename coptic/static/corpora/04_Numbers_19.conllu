@@ -1,0 +1,23 @@
+# newdoc id = sahidic.ot:04_Numbers_19
+# sent_id = sahidic_ot-04_Numbers_19_s0001
+# text_en = And the Lord spoke to Moses and Aaron, saying,
+# text = ⲁⲩⲱ ⲁⲡϫⲟⲉⲓⲥ ϣⲁϫⲉ ⲛⲁϩⲣⲙ ⲙⲱⲩⲥⲏⲥ ⲙⲛⲁⲁⲣⲱⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+2-4	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Entity=(person
+4	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	5	nsubj	_	Entity=person)
+5	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲛⲁϩⲣⲙ	ⲛⲁϩⲣⲛ	ADP	PREP	_	7	case	_	_
+7	ⲙⲱⲩⲥⲏⲥ	ⲙⲱⲩⲥⲏⲥ	PROPN	NPROP	Foreign=Yes	5	obl	_	Entity=(person-Moses)|OrigLang=he
+8-9	ⲙⲛⲁⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	cc	_	_
+9	ⲁⲁⲣⲱⲛ	ⲁⲁⲣⲱⲛ	PROPN	NPROP	_	7	conj	_	Entity=(person-Aaron)
+10-12	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	5	advcl	_	_
+13-14	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+13	ⲙⲙⲟ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+

@@ -1,0 +1,244 @@
+# newdoc id = sahidic.ot:01_Genesis_23
+# sent_id = sahidic_ot-01_Genesis_23_s0001
+# text_en = And he said in the ears of Ephron before the people of the land, Since thou art on my side, hear me; take the price of the field from me, and I will bury my dead there.
+# text = . . . ⲗⲁⲟⲥ ⲙⲡⲕⲁϩ ϫⲉⲉⲡⲉⲓⲇⲏ ⲁⲕϯⲧⲟⲟⲧ ⲥⲱⲧⲙ ⲛⲥⲱⲓ ⲡϩⲁⲧ ⲛⲧⲉⲓⲥⲱϣⲉ ϫⲓⲧϥ ⲛⲧⲟⲟⲧⲛⲅⲧⲱⲙⲉⲥ ⲙⲡⲁⲕⲱⲱⲥ ⲙⲙⲁⲩ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	0	root	_	Entity=(person|OrigLang=grc
+5-7	ⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place
+7	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	4	nmod	_	Entity=place)
+8-9	ϫⲉⲉⲡⲉⲓⲇⲏ	_	_	_	_	_	_	_	_
+8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
+9	ⲉⲡⲉⲓⲇⲏ	ⲉⲡⲉⲓⲇⲏ	SCONJ	CONJ	Foreign=Yes	12	mark	_	OrigLang=grc
+10-12	ⲁⲕϯⲧⲟⲟⲧ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+12	ϯⲧⲟⲟⲧ	ϯⲧⲟⲟⲧ	VERB	V	VerbForm=Fin	4	ccomp	_	Morphs=ϯ-ⲧⲟⲟⲧ
+13	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	12	parataxis	_	_
+14-15	ⲛⲥⲱⲓ	_	_	_	_	_	_	_	_
+14	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	15	case	_	_
+15	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	12	obl	_	Entity=person)
+16-17	ⲡϩⲁⲧ	_	_	_	_	_	_	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(substance
+17	ϩⲁⲧ	ϩⲁⲧ	NOUN	N	_	21	nsubj	_	_
+18-20	ⲛⲧⲉⲓⲥⲱϣⲉ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	Entity=(place
+20	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	17	nmod	_	Entity=place)substance)
+21-22	ϫⲓⲧϥ	_	_	_	_	_	_	_	_
+21	ϫⲓⲧ	ϫⲓ	VERB	V	VerbForm=Fin	13	parataxis	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+23-24	ⲛⲧⲟⲟⲧⲛⲅⲧⲱⲙⲉⲥ	_	_	_	_	_	_	_	_
+23	ⲛⲧⲟⲟⲧ	ⲛⲧⲛ	ADP	PREP	_	24	case	_	_
+24	ⲛⲅⲧⲱⲙⲉⲥ	ⲛⲅⲧⲱⲙⲉⲥ	NOUN	N	_	21	obl	_	Entity=(abstract
+25-27	ⲙⲡⲁⲕⲱⲱⲥ	_	_	_	_	_	_	_	_
+25	ⲙ	ⲛ	ADP	PREP	_	27	case	_	_
+26	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	Entity=(abstract
+27	ⲕⲱⲱⲥ	ⲕⲱⲱⲥ	NOUN	N	_	24	nmod	_	Entity=abstract)abstract)
+28	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	21	advmod	_	_
+
+# sent_id = sahidic_ot-01_Genesis_23_s0002
+# text_en = But Ephron answered Abraam, saying,
+# text = ⲁⲉⲫⲣⲱⲛ ⲇⲉ ⲟⲩⲱϣⲃ ⲉϥϫⲱ ⲙⲙⲟⲥ ⲛⲁⲃⲣⲁϩⲁⲙ
+1-2	ⲁⲉⲫⲣⲱⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲉⲫⲣⲱⲛ	ⲉⲫⲣⲱⲛ	PROPN	NPROP	_	4	nsubj	_	Entity=(person)
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4	ⲟⲩⲱϣⲃ	ⲟⲩⲱϣⲃ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	7	mark	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	4	advcl	_	_
+8-9	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+8	ⲙⲙⲟ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+10-11	ⲛⲁⲃⲣⲁϩⲁⲙ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲁⲃⲣⲁϩⲁⲙ	ⲁⲃⲣⲁϩⲁⲙ	PROPN	NPROP	Foreign=Yes	7	obl	_	Entity=(person-Abraham)|OrigLang=he
+
+# sent_id = sahidic_ot-01_Genesis_23_s0003
+# text_en = Nay, my lord, I have heard indeed, the land four hundred silver didrachms, but what can this be between me and thee? nay, do thou bury thy dead.
+# text = ϫⲉⲙⲙⲟⲛ ⲡⲁϫⲟⲉⲓⲥ ⲁⲓⲥⲱⲧⲙ ⲅⲁⲣ ϫⲉϥⲧⲉⲩϣⲉ ⲛⲥⲁⲧⲉⲉⲣⲉ ⲛϩⲁⲧ ⲟⲩⲡⲉ ⲡⲁⲓ ϩⲛⲧⲁⲙⲏⲧⲉ ⲙⲛⲧⲉⲕⲙⲏⲧⲉ ⲛⲧⲟⲕ ⲇⲉ ⲧⲱⲙⲉⲥ ⲙⲡⲉⲕⲕⲱⲱⲥ
+1-3	ϫⲉⲙⲙⲟⲛ	_	_	_	_	_	_	_	_
+1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	2	mark	_	_
+2	ⲙⲙⲟ	ⲛ_ⲛⲧⲟ	PRON	PREP_PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+4-5	ⲡⲁϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+4	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	Entity=(person
+5	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	2	nmod	_	Entity=person)
+6-8	ⲁⲓⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
+6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
+7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+9	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
+10-13	ϫⲉϥⲧⲉⲩϣⲉ	_	_	_	_	_	_	_	_
+10	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	15	mark	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+12	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	15	det	_	Entity=(object
+13	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	15	nummod	_	_
+14-15	ⲛⲥⲁⲧⲉⲉⲣⲉ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲥⲁⲧⲉⲉⲣⲉ	ⲥⲁⲧⲉⲉⲣⲉ	NOUN	N	Foreign=Yes	8	ccomp	_	OrigLang=grc
+16-17	ⲛϩⲁⲧ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ϩⲁⲧ	ϩⲁⲧ	NOUN	N	_	15	nmod	_	Entity=(substance)object)
+18-19	ⲟⲩⲡⲉ	_	_	_	_	_	_	_	_
+18	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	8	ccomp	_	_
+19	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	18	cop	_	_
+20	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	Entity=(abstract
+21-23	ϩⲛⲧⲁⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+21	ϩⲛ	ϩⲛ	ADP	PREP	_	23	case	_	_
+22	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	23	det	_	Entity=(place
+23	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	20	nmod	_	Entity=place)
+24-26	ⲙⲛⲧⲉⲕⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+24	ⲙⲛ	ⲙⲛ	ADP	PREP	_	26	cc	_	_
+25	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	26	det	_	Entity=(place
+26	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	23	conj	_	Entity=place)abstract)
+27	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	29	obl:npmod	_	_
+28	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	29	advmod	_	OrigLang=grc
+29	ⲧⲱⲙⲉⲥ	ⲧⲱⲙⲉⲥ	VERB	V	VerbForm=Fin	8	parataxis	_	_
+30-32	ⲙⲡⲉⲕⲕⲱⲱⲥ	_	_	_	_	_	_	_	_
+30	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	32	aux	_	_
+31	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	32	nsubj	_	_
+32	ⲕⲱⲱⲥ	ⲕⲱⲱⲥ	VERB	V	VerbForm=Fin	29	parataxis	_	_
+
+# sent_id = sahidic_ot-01_Genesis_23_s0004
+# text_en = And Abraam hearkened to Ephron, and Abraam rendered to Ephron the money, which he mentioned in the ears of the sons of Chet, four hundred didrachms of silver approved with merchants.
+# text = ⲁⲁⲃⲣⲁϩⲁⲙ ⲇⲉ ⲥⲱⲧⲙ ⲉⲉⲫⲣⲱⲛ ⲁϥⲧⲛⲛⲟⲟⲩ ⲙⲡϩⲁⲧ . . .
+1-2	ⲁⲁⲃⲣⲁϩⲁⲙ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲁⲃⲣⲁϩⲁⲙ	ⲁⲃⲣⲁϩⲁⲙ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=(person-Abraham)|OrigLang=he
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲉⲉⲫⲣⲱⲛ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
+6	ⲉⲫⲣⲱⲛ	ⲉⲫⲣⲱⲛ	PROPN	NPROP	_	4	obl	_	Entity=(person)
+7-9	ⲁϥⲧⲛⲛⲟⲟⲩ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲧⲛⲛⲟⲟⲩ	ⲧⲛⲛⲟⲟⲩ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+10-12	ⲙⲡϩⲁⲧ	_	_	_	_	_	_	_	_
+10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(substance
+12	ϩⲁⲧ	ϩⲁⲧ	NOUN	N	_	9	obl	_	Entity=substance)
+13	.	.	PUNCT	PUNCT	_	0	punct	_	_
+14	.	.	PUNCT	PUNCT	_	0	punct	_	_
+15	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_23_s0005
+# text_en = to Abraam for a possession, before the sons of Chet, and all that entered into the city.
+# text = . . . ⲙⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲩⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉⲧⲡⲟⲗⲓⲥ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4-5	ⲙⲛⲟⲩⲟⲛ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	cc	_	_
+5	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	0	root	_	Entity=(person
+6	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	5	det	_	_
+7-9	ⲉⲩⲃⲱⲕ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	5	acl	_	_
+10	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Entity=(place
+13	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	9	obl	_	Entity=place)person)|OrigLang=grc
+
+# sent_id = sahidic_ot-01_Genesis_23_s0006
+# text_en = After this Abraam buried Sarrha his wife in the Double Cave of the field, which is opposite Mambre, this is Chebron in the land of Chanaan.
+# text = ⲙⲛⲛⲥⲁⲛⲁⲓ ⲁⲁⲃⲣⲁϩⲁⲙ ⲧⲱⲙⲥ ⲛⲥⲁⲣⲣⲁ ⲧⲉϥⲥϩⲓⲙⲉ ⲉϩⲣⲁⲓ ϩⲙⲡⲉⲙϩⲁⲁⲩ ⲛⲧⲥⲱϣⲉ ⲉⲧⲟ ⲛⲥⲛⲁⲩ ⲧⲁⲓ ⲉⲧⲕⲏ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲙⲁⲙⲃⲣⲏ ⲉⲧⲉⲧⲁⲓⲧⲉ ⲭⲉⲃⲣⲱⲛ ϩⲙⲡⲕⲁϩ ⲛⲭⲁⲛⲁⲁⲛ
+1-2	ⲙⲛⲛⲥⲁⲛⲁⲓ	_	_	_	_	_	_	_	_
+1	ⲙⲛⲛⲥⲁ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	2	case	_	_
+2	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	5	obl	_	Entity=(abstract)
+3-4	ⲁⲁⲃⲣⲁϩⲁⲙ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ⲁⲃⲣⲁϩⲁⲙ	ⲁⲃⲣⲁϩⲁⲙ	PROPN	NPROP	Foreign=Yes	5	nsubj	_	Entity=(person-Abraham)|OrigLang=he
+5-6	ⲧⲱⲙⲥ	_	_	_	_	_	_	_	_
+5	ⲧⲱⲙ	ⲧⲱⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7-8	ⲛⲥⲁⲣⲣⲁ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲥⲁⲣⲣⲁ	ⲥⲁⲣⲣⲁ	PROPN	NPROP	Foreign=Yes	5	obl	_	Entity=(person-Sarah|OrigLang=he
+9-10	ⲧⲉϥⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+9	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	8	appos	_	Entity=person-Sarah)
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	14	advmod	_	_
+12-14	ϩⲙⲡⲉⲙϩⲁⲁⲩ	_	_	_	_	_	_	_	_
+12	ϩⲙ	ϩⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲙϩⲁⲁⲩ	ⲙϩⲁⲁⲩ	NOUN	N	_	5	obl	_	_
+15-17	ⲛⲧⲥⲱϣⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(place
+17	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	14	nmod	_	_
+18-19	ⲉⲧⲟ	_	_	_	_	_	_	_	_
+18	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
+19	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	VerbForm=Fin	17	acl	_	_
+20-21	ⲛⲥⲛⲁⲩ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	19	obl	_	Entity=(person)
+22	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	appos	_	_
+23-24	ⲉⲧⲕⲏ	_	_	_	_	_	_	_	_
+23	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	24	mark	_	_
+24	ⲕⲏ	ⲕⲱ	VERB	VSTAT	VerbForm=Fin	22	acl	_	_
+25-27	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+25	ⲙ	ⲛ	ADP	PREP	_	27	case	_	_
+26	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Entity=(abstract
+27	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	24	obl	_	_
+28	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	27	advmod	_	_
+29-30	ⲙⲙⲁⲙⲃⲣⲏ	_	_	_	_	_	_	_	_
+29	ⲙ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲙⲁⲙⲃⲣⲏ	ⲙⲁⲙⲃⲣⲏ	NOUN	N	_	27	nmod	_	Entity=(person)abstract)
+31-33	ⲉⲧⲉⲧⲁⲓⲧⲉ	_	_	_	_	_	_	_	_
+31	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	33	mark	_	_
+32	ⲧⲉ	ⲛⲧⲟ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	33	nsubj	_	_
+33	ⲧⲁⲓⲧⲉ	ⲧⲁⲓⲧⲉ	VERB	V	VerbForm=Fin	22	acl	_	_
+34	ⲭⲉⲃⲣⲱⲛ	ⲭⲉⲃⲣⲱⲛ	NOUN	N	_	33	obj	_	Entity=(person)
+35-37	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+35	ϩⲙ	ϩⲛ	ADP	PREP	_	37	case	_	_
+36	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	Entity=(place
+37	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	33	obl	_	_
+38-39	ⲛⲭⲁⲛⲁⲁⲛ	_	_	_	_	_	_	_	_
+38	ⲛ	ⲛ	ADP	PREP	_	39	case	_	_
+39	ⲭⲁⲛⲁⲁⲛ	ⲭⲁⲛⲁⲁⲛ	PROPN	NPROP	Foreign=Yes	37	nmod	_	Entity=(place-Canaan)place)place)place)|OrigLang=he
+
+# sent_id = sahidic_ot-01_Genesis_23_s0007
+# text_en = So the field and the cave which was in it were made sure to Abraam for possession of a burying place, by the sons of Chet.
+# text = ⲁⲩⲧⲁϫⲣⲉⲧⲥⲱϣⲉ ⲙⲛⲡⲉⲙϩⲁⲁⲩ ⲉⲧⲉⲛϩⲏⲧⲥ ⲛⲁⲃⲣⲁϩⲁⲙ ⲉⲩⲙⲁ ⲛⲧⲱⲙⲥ ⲉⲃⲟⲗ ϩⲓⲧⲛⲛϣⲏⲣⲉ ⲛⲭⲉⲧ
+1-5	ⲁⲩⲧⲁϫⲣⲉⲧⲥⲱϣⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲁϫⲣⲉ	ⲧⲁϫⲣⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Entity=(place
+5	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	3	obj	_	Entity=place)
+6-8	ⲙⲛⲡⲉⲙϩⲁⲁⲩ	_	_	_	_	_	_	_	_
+6	ⲙⲛ	ⲙⲛ	ADP	PREP	_	8	cc	_	_
+7	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(place
+8	ⲙϩⲁⲁⲩ	ⲙϩⲁⲁⲩ	NOUN	N	_	5	conj	_	Entity=place)
+9-11	ⲉⲧⲉⲛϩⲏⲧⲥ	_	_	_	_	_	_	_	_
+9	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
+10	ⲧⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	Entity=(abstract
+11	ϩⲏⲧⲥ	ϩⲏⲧⲥ	NOUN	N	_	3	obl	_	_
+12-13	ⲛⲁⲃⲣⲁϩⲁⲙ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲁⲃⲣⲁϩⲁⲙ	ⲁⲃⲣⲁϩⲁⲙ	PROPN	NPROP	Foreign=Yes	11	nmod	_	Entity=(person-Abraham)abstract)|OrigLang=he
+14-16	ⲉⲩⲙⲁ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	ADP	PREP	_	16	case	_	_
+15	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	16	det	_	Entity=(place
+16	ⲙⲁ	ⲙⲁ	NOUN	N	_	3	obl	_	_
+17-18	ⲛⲧⲱⲙⲥ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ⲧⲱⲙⲥ	ⲧⲱⲙⲥ	VERB	V	VerbForm=Fin	16	nmod	_	_
+19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	22	case	_	_
+20-22	ϩⲓⲧⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+20	ϩⲓⲧⲛ	ϩⲓⲧⲛ	ADP	PREP	_	19	fixed	_	_
+21	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	det	_	Entity=(person
+22	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	18	obl	_	_
+23-24	ⲛⲭⲉⲧ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲭⲉⲧ	ⲭⲉⲧ	NOUN	N	_	22	nmod	_	Entity=(abstract)person)place)
+

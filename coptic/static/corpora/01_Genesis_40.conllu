@@ -1,0 +1,250 @@
+# newdoc id = sahidic.ot:01_Genesis_40
+# sent_id = sahidic_ot-01_Genesis_40_s0001
+# text_en = Joseph went in to them in the morning, and saw them, and they had been troubled.
+# text = . . . ⲡⲉⲩϣⲟⲟⲡⲡⲉ ⲉⲩϣⲧⲣⲧⲱⲣ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4-5	ⲡⲉⲩϣⲟⲟⲡⲡⲉ	_	_	_	_	_	_	_	_
+4	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	Entity=(place
+5	ϣⲟⲟⲡⲡⲉ	ϣⲟⲟⲡⲡⲉ	NOUN	N	_	0	root	_	Entity=place)
+6-8	ⲉⲩϣⲧⲣⲧⲱⲣ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
+7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+8	ϣⲧⲣⲧⲱⲣ	ϣⲧⲟⲣⲧⲣ	VERB	VSTAT	VerbForm=Fin	5	acl	_	_
+
+# sent_id = sahidic_ot-01_Genesis_40_s0002
+# text_en = And he asked the eunuchs of Pharao who were with him in the prison with his master, saying, Why is it that your countenances are sad to-day?
+# text = ⲁϥϫⲛⲉⲛⲉⲥⲓⲟⲩⲣ ⲙⲫⲁⲣⲁⲱ ⲛⲁⲓ ⲉⲛⲉⲩϣⲟⲟⲡ ⲛⲙⲙⲁϥⲡⲉ ϩⲙⲡⲉϣⲧⲉⲕⲟ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲙⲡⲉⲩϫⲟⲉⲓⲥ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲁϩⲣⲟⲟⲩ ⲛⲉⲧⲛϩⲟ ⲉⲩⲟⲕⲙ ⲙⲡϩⲟⲟⲩ
+1-5	ⲁϥϫⲛⲉⲛⲉⲥⲓⲟⲩⲣ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϫⲛⲉ	ϫⲛⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(person
+5	ⲥⲓⲟⲩⲣ	ⲥⲓⲟⲩⲣ	NOUN	N	_	3	obj	_	_
+6-7	ⲙⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+6	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	5	nmod	_	Entity=(place-Ramesses_II|OrigLang=egy
+8	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	7	appos	_	Entity=place-Ramesses_II)person)
+9-12	ⲉⲛⲉⲩϣⲟⲟⲡ	_	_	_	_	_	_	_	_
+9	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
+10	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(person
+11	ϣⲟ	ϣⲟ	NUM	NUM	NumType=Card	12	nsubj	_	Entity=person)
+12	ⲟⲡ	ⲱⲡ	VERB	V	VerbForm=Fin	3	advcl	_	_
+13-16	ⲛⲙⲙⲁϥⲡⲉ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	det	_	Entity=(person
+15	ⲙⲁϥ	ⲙⲁϥ	NOUN	N	_	12	obj	_	Entity=person)
+16	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	12	cop	_	_
+17-19	ϩⲙⲡⲉϣⲧⲉⲕⲟ	_	_	_	_	_	_	_	_
+17	ϩⲙ	ϩⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ϣⲧⲉⲕⲟ	ϣⲧⲉⲕⲟ	NOUN	N	_	12	obl	_	Entity=place)
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	22	case	_	_
+21-22	ϩⲓⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+21	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	22	case	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
+23-25	ⲙⲡⲉⲩϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+23	ⲙ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	25	det	_	Entity=(person
+25	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	22	nmod	_	Entity=person)
+26-28	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+26	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	28	mark	_	_
+27	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+28	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	12	advcl	_	_
+29-30	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+29	ⲙⲙⲟ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	obj	_	_
+31-33	ϫⲉⲁϩⲣⲟⲟⲩ	_	_	_	_	_	_	_	_
+31	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	32	mark	_	_
+32	ⲁϩⲣⲟ	ⲁϩⲣⲟ	VERB	VBD	VerbForm=Fin	28	ccomp	_	_
+33	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
+34-35	ⲛⲉⲧⲛϩⲟ	_	_	_	_	_	_	_	_
+34	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	35	det	_	Entity=(object
+35	ϩⲟ	ϩⲟ	NOUN	N	_	32	nsubj	_	Entity=object)
+36-38	ⲉⲩⲟⲕⲙ	_	_	_	_	_	_	_	_
+36	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	38	mark	_	_
+37	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	_
+38	ⲟⲕⲙ	ⲱⲕⲙ	VERB	VSTAT	VerbForm=Fin	32	advcl	_	_
+39-41	ⲙⲡϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+39	ⲙ	ⲛ	ADP	PREP	_	41	case	_	_
+40	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	Entity=(time
+41	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	38	obl	_	Entity=time)|Orig=ⲟⲟⲩ
+
+# sent_id = sahidic_ot-01_Genesis_40_s0003
+# text_en = And they said to him, We have seen a dream, and there is no interpreter of it. And Joseph said to them, Is not the interpretation of them through god? tell than to me.
+# text = ⲛⲧⲟⲟⲩ ⲇⲉ ⲡⲉϫⲁⲩ ⲛⲁϥ ϫⲉⲛⲧⲁⲛⲛⲁⲩ ⲉⲩⲣⲁⲥⲟⲩ ⲁⲩⲱ ⲛϥϣⲟⲟⲡ ⲁⲛ ⲛϭⲓⲡⲉⲧⲛⲁⲃⲟⲗⲥ ⲡⲉϫⲁϥ ⲇⲉ ⲛⲁⲩ ⲛϭⲓⲓⲱⲥⲏⲫ ϫⲉⲙⲏ ⲉⲣⲉⲡⲉⲩⲃⲱⲗ ϣⲟⲟⲡ ⲁⲛ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲙⲡⲛⲟⲩⲧⲉ . . .
+1	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	dislocated	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+3-4	ⲡⲉϫⲁⲩ	_	_	_	_	_	_	_	_
+3	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5-6	ⲛⲁϥ	_	_	_	_	_	_	_	_
+5	ⲛⲁ	ⲛⲁ	ADP	PREP	_	6	case	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+7-11	ϫⲉⲛⲧⲁⲛⲛⲁⲩ	_	_	_	_	_	_	_	_
+7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	11	mark	_	_
+8	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	11	mark	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+11	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	3	ccomp	_	_
+12-14	ⲉⲩⲣⲁⲥⲟⲩ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
+13	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(abstract
+14	ⲣⲁⲥⲟⲩ	ⲣⲁⲥⲟⲩ	NOUN	N	_	11	obl	_	Entity=abstract)
+15	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	18	cc	_	_
+16-18	ⲛϥϣⲟⲟⲡ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	18	advmod	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	11	conj	_	_
+19	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	18	advmod	_	_
+20-23	ⲛϭⲓⲡⲉⲧⲛⲁⲃⲟⲗⲥ	_	_	_	_	_	_	_	_
+20	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	21	case	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	dislocated	_	Entity=(person
+22	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	23	mark	_	_
+23	ⲛⲁⲃⲟⲗⲥ	ⲛⲁⲃⲟⲗⲥ	VERB	V	VerbForm=Fin	21	acl	_	Entity=person)
+24-25	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
+24	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	18	parataxis	_	_
+25	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+26	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	24	advmod	_	OrigLang=grc
+27-28	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+27	ⲛⲁ	ⲛⲁ	ADP	PREP	_	28	case	_	_
+28	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	obl	_	_
+29-30	ⲛϭⲓⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+29	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	30	case	_	_
+30	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	24	dislocated	_	Entity=(person-Joseph_%28Genesis%29)|OrigLang=he
+31-32	ϫⲉⲙⲏ	_	_	_	_	_	_	_	_
+31	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	36	mark	_	_
+32	ⲙⲏ	ⲙⲏ	CCONJ	CONJ	Foreign=Yes	36	advmod	_	OrigLang=grc
+33-35	ⲉⲣⲉⲡⲉⲩⲃⲱⲗ	_	_	_	_	_	_	_	_
+33	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	36	mark	_	_
+34	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	35	det	_	Entity=(abstract
+35	ⲃⲱⲗ	ⲃⲱⲗ	NOUN	N	_	36	nsubj	_	Entity=abstract)
+36	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	24	ccomp	_	_
+37	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	36	advmod	_	_
+38	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	40	case	_	_
+39-40	ϩⲓⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+39	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	38	fixed	_	_
+40	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	obl	_	_
+41-43	ⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+41	ⲙ	ⲛ	ADP	PREP	_	43	case	_	_
+42	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	Entity=(person
+43	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	36	obl	_	Entity=person)
+44	.	.	PUNCT	PUNCT	_	0	punct	_	_
+45	.	.	PUNCT	PUNCT	_	0	punct	_	_
+46	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_40_s0004
+# text_en = And Joseph said to him, This is the interpretation of it. The three stems are three days.
+# text = ⲡⲉϫⲁϥ ⲛⲁϥ ⲛϭⲓⲓⲱⲥⲏⲫ ϫⲉⲡⲁⲓⲡⲉ ⲡⲉⲥⲃⲱⲗ ⲡϣⲟⲙⲛⲧ ⲛⲧⲁⲣ ϣⲟⲙⲛⲧ ⲛϩⲟⲟⲩⲛⲉ
+1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
+1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3-4	ⲛⲁϥ	_	_	_	_	_	_	_	_
+3	ⲛⲁ	ⲛⲁ	ADP	PREP	_	4	case	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5-6	ⲛϭⲓⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+6	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	1	dislocated	_	Entity=(person-Joseph_%28Genesis%29)|OrigLang=he
+7-8	ϫⲉⲡⲁⲓⲡⲉ	_	_	_	_	_	_	_	_
+7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	8	mark	_	_
+8	ⲡⲁⲓⲡⲉ	ⲡⲁⲓⲡⲉ	VERB	V	VerbForm=Fin	1	ccomp	_	_
+9-10	ⲡⲉⲥⲃⲱⲗ	_	_	_	_	_	_	_	_
+9	ⲡⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(abstract
+10	ⲃⲱⲗ	ⲃⲱⲗ	NOUN	N	_	8	obj	_	_
+11-12	ⲡϣⲟⲙⲛⲧ	_	_	_	_	_	_	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ϣⲟⲙⲛⲧ	ϣⲟⲙⲛⲧ	NUM	NUM	NumType=Card	10	nummod	_	Entity=abstract)
+13-15	ⲛⲧⲁⲣ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	15	aux	_	_
+14	ⲧⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+15	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	8	advcl	_	_
+16	ϣⲟⲙⲛⲧ	ϣⲟⲙⲛⲧ	NUM	NUM	NumType=Card	18	nummod	_	Entity=(abstract
+17-18	ⲛϩⲟⲟⲩⲛⲉ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ϩⲟⲟⲩⲛⲉ	ϩⲟⲟⲩⲛⲉ	NOUN	N	_	15	obj	_	Entity=abstract)
+
+# sent_id = sahidic_ot-01_Genesis_40_s0005
+# text_en = Yet three days and Pharao shall remember thy office, and he shall restore thee to thy place of chief cupbearer, and thou shalt give the cup of Pharao into his hand, according to thy former high place, as thou wast wont to be cupbearer.
+# text = ⲉⲧⲓ ⲕⲉϣⲟⲙⲛⲧ ⲛϩⲟⲟⲩⲛⲉ ⲫⲁⲣⲁⲱ ⲛⲁⲣ ⲛⲧⲉⲕⲁⲣⲭⲏ ⲛϥⲧⲁϩⲟⲕ ⲉⲣⲁⲧⲕ ⲉϩⲣⲁⲓ ⲉϫⲛⲧⲉⲕⲙⲛⲧⲣⲉϥⲟⲩⲱⲧϩ ⲛⲅϯ ⲙⲡⲁⲃⲟⲧ ⲙⲫⲁⲣⲁⲱ ⲉϩⲣⲁⲓ ⲉⲧⲉϥϭⲓϫ ⲕⲁⲧⲁⲧⲉⲕⲁⲣⲭⲏ ⲛϣⲟⲣⲡⲉ ⲛⲧϩⲉ ⲉⲛⲉⲕⲟⲩⲱⲧϩ ⲙⲙⲟⲥ
+1	ⲉⲧⲓ	ⲉⲧⲓ	ADV	ADV	Foreign=Yes	8	advmod	_	OrigLang=grc
+2-3	ⲕⲉϣⲟⲙⲛⲧ	_	_	_	_	_	_	_	_
+2	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	5	det	_	Entity=(person-Ramesses_II
+3	ϣⲟⲙⲛⲧ	ϣⲟⲙⲛⲧ	NUM	NUM	NumType=Card	5	nummod	_	_
+4-5	ⲛϩⲟⲟⲩⲛⲉ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ϩⲟⲟⲩⲛⲉ	ϩⲟⲟⲩⲛⲉ	NOUN	N	_	8	obl	_	_
+6	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	5	appos	_	Entity=person-Ramesses_II)|OrigLang=egy
+7-8	ⲛⲁⲣ	_	_	_	_	_	_	_	_
+7	ⲛⲁ	ⲛⲁ	AUX	FUT	_	8	aux	_	_
+8	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲣⲡⲙⲉⲉⲩⲉ
+9-11	ⲛⲧⲉⲕⲁⲣⲭⲏ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	11	det	_	Entity=(time
+11	ⲁⲣⲭⲏ	ⲁⲣⲭⲏ	NOUN	N	Foreign=Yes	8	obj	_	Entity=time)|OrigLang=grc
+12-15	ⲛϥⲧⲁϩⲟⲕ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲧⲁϩⲟ	ⲧⲁϩⲟ	VERB	V	VerbForm=Fin	8	advcl	_	_
+15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	obj	_	_
+16-17	ⲉⲣⲁⲧⲕ	_	_	_	_	_	_	_	_
+16	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	17	case	_	_
+17	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	obl	_	_
+18	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	14	advmod	_	_
+19-21	ⲉϫⲛⲧⲉⲕⲙⲛⲧⲣⲉϥⲟⲩⲱⲧϩ	_	_	_	_	_	_	_	_
+19	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	21	case	_	_
+20	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	21	det	_	Entity=(abstract
+21	ⲙⲛⲧⲣⲉϥⲟⲩⲱⲧϩ	ⲙⲛⲧⲣⲉϥⲟⲩⲱⲧϩ	NOUN	N	_	14	obl	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ⲣⲉϥ-ⲟⲩⲱⲧϩ
+22-24	ⲛⲅϯ	_	_	_	_	_	_	_	_
+22	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	24	aux	_	_
+23	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	_
+24	ϯ	ϯ	VERB	V	VerbForm=Fin	14	advcl	_	_
+25-27	ⲙⲡⲁⲃⲟⲧ	_	_	_	_	_	_	_	_
+25	ⲙ	ⲛ	ADP	PREP	_	27	case	_	_
+26	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	Entity=(abstract
+27	ⲃⲟⲧ	ⲃⲟⲧ	NOUN	N	_	24	obj	_	_
+28-29	ⲙⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+28	ⲙ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	27	nmod	_	Entity=(place-Ramesses_II)abstract)|OrigLang=egy
+30	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	33	case	_	_
+31-33	ⲉⲧⲉϥϭⲓϫ	_	_	_	_	_	_	_	_
+31	ⲉ	ⲉ	ADP	PREP	_	33	case	_	_
+32	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	33	det	_	Entity=(object
+33	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	24	obl	_	Entity=object)
+34-36	ⲕⲁⲧⲁⲧⲉⲕⲁⲣⲭⲏ	_	_	_	_	_	_	_	_
+34	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	36	case	_	OrigLang=grc
+35	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	36	det	_	Entity=(time
+36	ⲁⲣⲭⲏ	ⲁⲣⲭⲏ	NOUN	N	Foreign=Yes	24	obl	_	OrigLang=grc
+37-38	ⲛϣⲟⲣⲡⲉ	_	_	_	_	_	_	_	_
+37	ⲛ	ⲛ	ADP	PREP	_	38	case	_	_
+38	ϣⲟⲣⲡⲉ	ϣⲟⲣⲡⲉ	NOUN	N	_	36	nmod	_	Entity=(abstract)time)
+39-41	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+39	ⲛ	ⲛ	ADP	PREP	_	41	case	_	_
+40	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Orig=ⲑ
+41	ϩⲉ	ϩⲉ	NOUN	N	_	24	obl	_	Orig=ⲉ
+42-44	ⲉⲛⲉⲕⲟⲩⲱⲧϩ	_	_	_	_	_	_	_	_
+42	ⲉ	ⲉ	ADP	PREP	_	44	case	_	_
+43	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	44	det	_	Entity=(abstract
+44	ⲟⲩⲱⲧϩ	ⲟⲩⲱⲧϩ	NOUN	N	_	41	nmod	_	_
+45-46	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+45	ⲙⲙⲟ	ⲛ	ADP	PREP	_	46	case	_	_
+46	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	44	nmod	_	Entity=abstract)
+
+# sent_id = sahidic_ot-01_Genesis_40_s0006
+# text_en = But remember me of thyself, when it shall be well with thee, and thou shalt deal mercifully with me, and thou shalt make mention of me to Pharao, and thou shalt bring me forth out of this dungeon.
+# text = ⲁⲗⲗⲁ ⲁⲣⲓⲛⲁⲙⲉⲉⲩⲉ ϩⲙⲡⲉⲕϩⲏⲧ ⲉⲣϣⲁⲛ . . .
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
+2-5	ⲁⲣⲓⲛⲁⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
+2	ⲁⲣ	ⲁⲣ	ADV	NEG	Polarity=Neg	5	advmod	_	_
+3	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6-8	ϩⲙⲡⲉⲕϩⲏⲧ	_	_	_	_	_	_	_	_
+6	ϩⲙ	ϩⲛ	ADP	PREP	_	8	case	_	_
+7	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	Entity=(abstract
+8	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	5	obl	_	Entity=abstract)
+9	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	SCONJ	ACOND	_	5	advmod	_	_
+10	.	.	PUNCT	PUNCT	_	0	punct	_	_
+11	.	.	PUNCT	PUNCT	_	0	punct	_	_
+12	.	.	PUNCT	PUNCT	_	0	punct	_	_
+

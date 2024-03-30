@@ -1,0 +1,690 @@
+# newdoc id = sahidic.ot:01_Genesis_07
+# sent_id = sahidic_ot-01_Genesis_07_s0001
+# text_en = And the Lord God said to Noe, Enter thou and all thy family into the ark, for thee have I seen righteous before me in this generation.
+# text = ⲁⲩⲱ ⲁⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ϣⲁϫⲉ ⲙⲛⲛⲱϩⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ ⲛⲁϥ ϫⲉⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉⲧⲕⲓⲃⲱⲧⲟⲥ ⲛⲧⲟⲕ ⲙⲛⲛⲁⲡⲉⲕⲏⲓ ⲧⲏⲣⲟⲩ ϫⲉⲛⲧⲟⲕ ⲡⲉⲛⲧⲁⲓⲛⲁⲩ ⲉⲣⲟⲕ ⲛⲇⲓⲕⲁⲓⲟⲥ ⲁⲩⲱ ⲛⲧⲉⲗⲓⲟⲥ ⲙⲡⲁⲙⲧⲟ ⲉⲃⲟⲗ ϩⲛⲧⲉⲓⲅⲉⲛⲉⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+2-4	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Entity=(person
+4	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	7	dislocated	_	Entity=person)
+5-6	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(person
+6	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	nsubj	_	Entity=person)
+7	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+8-9	ⲙⲛⲛⲱϩⲉ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	case	_	_
+9	ⲛⲱϩⲉ	ⲛⲱϩⲉ	PROPN	NPROP	_	7	obl	_	Entity=(person-Noah)
+10-12	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	7	advcl	_	_
+13-14	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+13	ⲙⲙⲟ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+15-16	ⲛⲁϥ	_	_	_	_	_	_	_	_
+15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
+16	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
+17-18	ϫⲉⲃⲱⲕ	_	_	_	_	_	_	_	_
+17	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	18	mark	_	_
+18	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	12	ccomp	_	_
+19	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	18	advmod	_	_
+20-22	ⲉⲧⲕⲓⲃⲱⲧⲟⲥ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉ	ADP	PREP	_	22	case	_	_
+21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Entity=(object
+22	ⲕⲓⲃⲱⲧⲟⲥ	ⲕⲓⲃⲱⲧⲟⲥ	NOUN	N	Foreign=Yes	18	obl	_	Entity=object)|OrigLang=grc
+23	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	dislocated	_	_
+24-27	ⲙⲛⲛⲁⲡⲉⲕⲏⲓ	_	_	_	_	_	_	_	_
+24	ⲙⲛ	ⲙⲛ	ADP	PREP	_	25	cc	_	_
+25	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	23	conj	_	_
+26	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	27	det	_	Entity=(place
+27	ⲏⲓ	ⲏⲓ	NOUN	N	_	25	nmod	_	_
+28-29	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+28	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	27	advmod	_	_
+29	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	28	det	_	Entity=place)
+30-31	ϫⲉⲛⲧⲟⲕ	_	_	_	_	_	_	_	_
+30	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	31	mark	_	_
+31	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	ccomp	_	_
+32-36	ⲡⲉⲛⲧⲁⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
+32	ⲡ	ⲡ	PRON	COP	Gender=Masc|Number=Sing	31	cop	_	_
+33	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	36	mark	_	_
+34	ⲁ	ⲁ	AUX	APST	_	36	aux	_	_
+35	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	36	nsubj	_	_
+36	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	31	csubj	_	_
+37-38	ⲉⲣⲟⲕ	_	_	_	_	_	_	_	_
+37	ⲉⲣⲟ	ⲉ	ADP	PREP	_	38	case	_	_
+38	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	36	obl	_	_
+39-40	ⲛⲇⲓⲕⲁⲓⲟⲥ	_	_	_	_	_	_	_	_
+39	ⲛ	ⲛ	ADP	PREP	_	40	case	_	_
+40	ⲇⲓⲕⲁⲓⲟⲥ	ⲇⲓⲕⲁⲓⲟⲥ	NOUN	N	Foreign=Yes	36	obj	_	Entity=(person)|OrigLang=grc
+41	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	43	cc	_	_
+42-43	ⲛⲧⲉⲗⲓⲟⲥ	_	_	_	_	_	_	_	_
+42	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	43	det	_	Entity=(person
+43	ⲧⲉⲗⲓⲟⲥ	ⲧⲉⲗⲓⲟⲥ	NOUN	N	Foreign=Yes	40	conj	_	OrigLang=grc
+44-46	ⲙⲡⲁⲙⲧⲟ	_	_	_	_	_	_	_	_
+44	ⲙ	ⲛ	ADP	PREP	_	46	case	_	_
+45	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	46	det	_	Entity=(abstract
+46	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	43	nmod	_	_
+47	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	46	advmod	_	_
+48-50	ϩⲛⲧⲉⲓⲅⲉⲛⲉⲁ	_	_	_	_	_	_	_	_
+48	ϩⲛ	ϩⲛ	ADP	PREP	_	50	case	_	_
+49	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	50	det	_	Entity=(person
+50	ⲅⲉⲛⲉⲁ	ⲅⲉⲛⲉⲁ	NOUN	N	Foreign=Yes	46	nmod	_	Entity=person)abstract)person)|OrigLang=grc
+
+# sent_id = sahidic_ot-01_Genesis_07_s0002
+# text_en = And of the clean cattle take in to thee sevens, male and female, and of the unclean cattle pairs male and female.
+# text = ⲧⲉⲛⲟⲩ ϭⲉ ϫⲓ ⲉϩⲟⲩⲛ ⲛⲙⲙⲁⲕ ⲉⲃⲟⲗ ϩⲛⲛⲧⲃⲛⲟⲟⲩ ⲉⲧⲟⲩⲁⲁⲃ ⲥⲁϣϥ ⲥⲁϣϥ ⲟⲩϩⲟⲟⲩⲧ ⲙⲛⲟⲩⲥϩⲓⲙⲉ ⲁⲩⲱ ⲉⲃⲟⲗ ϩⲛⲛⲧⲃⲛⲟⲟⲩⲉ ⲉⲧⲉⲛⲥⲉⲟⲩⲁⲁⲃ ⲁⲛ ⲥⲛⲁⲩ ⲥⲛⲁⲩ ⲟⲩϩⲟⲟⲩⲧ ⲙⲛⲟⲩⲥϩⲓⲙⲉ
+1	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	3	advmod	_	_
+2	ϭⲉ	ϭⲉ	PART	PTC	_	3	advmod	_	_
+3	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	3	advmod	_	_
+5-6	ⲛⲙⲙⲁⲕ	_	_	_	_	_	_	_	_
+5	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	6	case	_	_
+6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	case	_	_
+8-9	ϩⲛⲛⲧⲃⲛⲟⲟⲩ	_	_	_	_	_	_	_	_
+8	ϩⲛ	ϩⲛ	ADP	PREP	_	7	fixed	_	_
+9	ⲛⲧⲃⲛⲟⲟⲩ	ⲛⲧⲃⲛⲟⲟⲩ	NOUN	N	_	3	obl	_	Entity=(abstract
+10-11	ⲉⲧⲟⲩⲁⲁⲃ	_	_	_	_	_	_	_	_
+10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
+11	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	9	acl	_	_
+12	ⲥⲁϣϥ	ⲥⲁϣϥ	NUM	NUM	NumType=Card	15	nummod	_	_
+13	ⲥⲁϣϥ	ⲥⲁϣϥ	NUM	NUM	NumType=Card	15	nummod	_	_
+14-15	ⲟⲩϩⲟⲟⲩⲧ	_	_	_	_	_	_	_	_
+14	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
+15	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	9	appos	_	_
+16-18	ⲙⲛⲟⲩⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+16	ⲙⲛ	ⲙⲛ	ADP	PREP	_	18	cc	_	_
+17	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	18	det	_	Entity=(person
+18	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	9	conj	_	Entity=person)
+19	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	23	cc	_	_
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	case	_	_
+21-23	ϩⲛⲛⲧⲃⲛⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+21	ϩⲛ	ϩⲛ	ADP	PREP	_	20	fixed	_	_
+22	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+23	ⲧⲃⲛⲟⲟⲩⲉ	ⲧⲃⲛⲏ	NOUN	N	_	15	conj	_	_
+24-27	ⲉⲧⲉⲛⲥⲉⲟⲩⲁⲁⲃ	_	_	_	_	_	_	_	_
+24	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	27	mark	_	_
+25	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	27	advmod	_	_
+26	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
+27	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	23	acl	_	_
+28	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	27	advmod	_	_
+29	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	30	compound	_	_
+30	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	32	nummod	_	_
+31-32	ⲟⲩϩⲟⲟⲩⲧ	_	_	_	_	_	_	_	_
+31	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	32	det	_	_
+32	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	15	conj	_	_
+33-35	ⲙⲛⲟⲩⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+33	ⲙⲛ	ⲙⲛ	ADP	PREP	_	35	cc	_	_
+34	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	35	det	_	_
+35	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	32	conj	_	Entity=abstract)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0003
+# text_en = And of clean flying creatures of the sky sevens, male and female, and of all unclean flying creatures pairs, male and female, to maintain seed on all the earth.
+# text = ⲉⲕⲉⲥⲁⲛⲟⲩϣⲟⲩ ⲛⲙⲙⲁⲕ ⲉⲩⲥⲡⲉⲣⲙⲁ ϩⲓϫⲙⲡⲕⲁϩ ⲧⲏⲣϥ
+1-3	ⲉⲕⲉⲥⲁⲛⲟⲩϣⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲉⲕⲉ	ⲉⲣⲉ_ⲛⲧⲟⲕ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	ⲥⲁⲛⲟⲩϣ	ⲥⲁⲁⲛϣ	VERB	V	VerbForm=Fin	0	root	_	_
+3	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+4-5	ⲛⲙⲙⲁⲕ	_	_	_	_	_	_	_	_
+4	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	5	case	_	_
+5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
+6-8	ⲉⲩⲥⲡⲉⲣⲙⲁ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉ	ADP	PREP	_	8	case	_	_
+7	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(object
+8	ⲥⲡⲉⲣⲙⲁ	ⲥⲡⲉⲣⲙⲁ	NOUN	N	Foreign=Yes	2	obl	_	Entity=object)|OrigLang=grc
+9-11	ϩⲓϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+9	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	2	obl	_	_
+12-13	ⲧⲏⲣϥ	_	_	_	_	_	_	_	_
+12	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	11	advmod	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	12	det	_	Entity=place)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0004
+# text_en = pairs went in to Noe into the ark, male and female, as God commanded Noe.
+# text = ⲉⲧⲕⲓⲃⲱⲧⲟⲥ ⲕⲁⲧⲁⲧϩⲉ ⲛⲧⲁⲡⲛⲟⲩⲧⲉ ϩⲱⲛ ⲙⲙⲟⲥ ⲉⲧⲟⲟⲧϥ
+1-3	ⲉⲧⲕⲓⲃⲱⲧⲟⲥ	_	_	_	_	_	_	_	_
+1	ⲉ	ⲉ	ADP	PREP	_	3	case	_	_
+2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Entity=(object
+3	ⲕⲓⲃⲱⲧⲟⲥ	ⲕⲓⲃⲱⲧⲟⲥ	NOUN	N	Foreign=Yes	0	root	_	OrigLang=grc
+4-6	ⲕⲁⲧⲁⲧϩⲉ	_	_	_	_	_	_	_	_
+4	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	6	case	_	OrigLang=grc
+5	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Orig=ⲑ
+6	ϩⲉ	ϩⲉ	NOUN	N	_	3	nmod	_	Orig=ⲉ
+7-10	ⲛⲧⲁⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+7	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
+8	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
+10	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	nsubj	_	Entity=person)
+11	ϩⲱⲛ	ϩⲱⲛ	VERB	V	VerbForm=Fin	6	acl	_	_
+12-13	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+12	ⲙⲙⲟ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+14-15	ⲉⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+14	ⲉⲧⲟⲟⲧ	ⲉⲧⲛ	ADP	PREP	_	15	case	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	Entity=object)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0005
+# text_en = And it came to pass after the seven days that the water of the flood came upon the earth.
+# text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲙⲛⲛⲥⲁⲡⲥⲁϣϥ ⲛϩⲟⲟⲩ ⲁⲡⲙⲟⲟⲩ ⲙⲡⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ ϣⲱⲡⲉ ⲉϫⲙⲡⲕⲁϩ ⲧⲏⲣϥ
+1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-7	ⲙⲛⲛⲥⲁⲡⲥⲁϣϥ	_	_	_	_	_	_	_	_
+5	ⲙⲛⲛⲥⲁ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	9	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(time
+7	ⲥⲁϣϥ	ⲥⲁϣϥ	NUM	NUM	NumType=Card	9	nummod	_	_
+8-9	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	3	obl	_	Entity=time)
+10-12	ⲁⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(substance
+12	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	16	nsubj	_	_
+13-15	ⲙⲡⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(event
+15	ⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ	ⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ	NOUN	N	Foreign=Yes	12	nmod	_	Entity=event)substance)|OrigLang=grc
+16	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+17-19	ⲉϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+17	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	16	obl	_	_
+20-21	ⲧⲏⲣϥ	_	_	_	_	_	_	_	_
+20	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	19	advmod	_	_
+21	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	20	det	_	Entity=place)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0006
+# text_en = In the six hundredth year of the life of Noe, in the second month, on the twenty-seventh day of the month, on this day all the fountains of the abyss were broken up, and the flood-gates of heaven were opened.
+# text = ϩⲣⲁⲓ ϩⲙⲡⲙⲉϩⲥⲟⲟⲩ ⲛϣⲉ ⲛⲣⲟⲙⲡⲉ ⲙⲡⲁϩⲉ ⲛⲛⲱϩⲉ ϩⲣⲁⲓ ϩⲙⲡⲙⲉϩⲥⲛⲁⲩ ⲛⲉⲃⲟⲧ ⲛⲥⲟⲩϫⲟⲩⲧⲥⲁϣϥ ⲙⲡⲉⲃⲟⲧ ϩⲣⲁⲓ ϩⲙⲡⲉϩⲟⲟⲩ ⲉⲧⲙⲙⲁⲩ ⲁⲩⲡⲱϩ ⲛϭⲓⲙⲡⲏⲅⲏ ⲙⲡⲛⲟⲩⲛ ⲁⲩⲱ ⲛⲕⲁⲧⲁϩⲣⲁⲕⲧⲏⲥ ⲛⲧⲡⲉ ⲁⲩⲟⲩⲱⲛ
+1	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	33	advmod	_	_
+2-4	ϩⲙⲡⲙⲉϩⲥⲟⲟⲩ	_	_	_	_	_	_	_	_
+2	ϩⲙ	ϩⲛ	ADP	PREP	_	19	case	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(time
+4	ⲙⲉϩⲥⲟⲟⲩ	ⲙⲉϩⲥⲟⲟⲩ	NUM	NUM	NumType=Card	33	obl	_	Entity=(time
+5-6	ⲛϣⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+6	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	8	nummod	_	_
+7-8	ⲛⲣⲟⲙⲡⲉ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	33	obl	_	Entity=time)
+9-11	ⲙⲡⲁϩⲉ	_	_	_	_	_	_	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(time(abstract
+11	ⲁϩⲉ	ⲁϩⲉ	NOUN	N	_	19	nmod	_	_
+12-13	ⲛⲛⲱϩⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲛⲱϩⲉ	ⲛⲱϩⲉ	PROPN	NPROP	_	11	nmod	_	Entity=(person-Noah)abstract)
+14	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	4	advmod	_	_
+15-17	ϩⲙⲡⲙⲉϩⲥⲛⲁⲩ	_	_	_	_	_	_	_	_
+15	ϩⲙ	ϩⲛ	ADP	PREP	_	19	case	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+17	ⲙⲉϩⲥⲛⲁⲩ	ⲙⲉϩⲥⲛⲁⲩ	NUM	NUM	NumType=Card	19	nummod	_	Morphs=ⲙⲉϩ-ⲥⲛⲁⲩ
+18-19	ⲛⲉⲃⲟⲧ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	4	obl	_	_
+20-21	ⲛⲥⲟⲩϫⲟⲩⲧⲥⲁϣϥ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ⲥⲟⲩϫⲟⲩⲧⲥⲁϣϥ	ⲥⲟⲩϫⲟⲩⲧⲥⲁϣϥ	NOUN	N	_	19	nmod	_	Entity=(time
+22-24	ⲙⲡⲉⲃⲟⲧ	_	_	_	_	_	_	_	_
+22	ⲙ	ⲛ	ADP	PREP	_	24	case	_	_
+23	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	Entity=(time
+24	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	21	nmod	_	Entity=time)time)time)time)
+25	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	48	advmod	_	_
+26-28	ϩⲙⲡⲉϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+26	ϩⲙ	ϩⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(time
+28	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	33	obl	_	_
+29-30	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+29	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	30	mark	_	_
+30	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	28	acl	_	Entity=time)
+31-33	ⲁⲩⲡⲱϩ	_	_	_	_	_	_	_	_
+31	ⲁ	ⲁ	AUX	APST	_	33	aux	_	_
+32	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_
+33	ⲡⲱϩ	ⲡⲱϩ	VERB	V	VerbForm=Fin	0	root	_	_
+34-36	ⲛϭⲓⲙⲡⲏⲅⲏ	_	_	_	_	_	_	_	_
+34	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	36	case	_	_
+35	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	36	det	_	Entity=(place
+36	ⲡⲏⲅⲏ	ⲡⲏⲅⲏ	NOUN	N	Foreign=Yes	33	dislocated	_	Entity=place)|Orig=ⲡⲩⲅⲏ|OrigLang=grc
+37-39	ⲙⲡⲛⲟⲩⲛ	_	_	_	_	_	_	_	_
+37	ⲙ	ⲛ	ADP	PREP	_	39	case	_	_
+38	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	Entity=(place
+39	ⲛⲟⲩⲛ	ⲛⲟⲩⲛ	NOUN	N	_	33	obl	_	Entity=place)
+40	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	42	cc	_	_
+41-42	ⲛⲕⲁⲧⲁϩⲣⲁⲕⲧⲏⲥ	_	_	_	_	_	_	_	_
+41	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	42	det	_	Entity=(person
+42	ⲕⲁⲧⲁϩⲣⲁⲕⲧⲏⲥ	ⲕⲁⲧⲁϩⲣⲁⲕⲧⲏⲥ	NOUN	N	Foreign=Yes	39	conj	_	OrigLang=grc
+43-45	ⲛⲧⲡⲉ	_	_	_	_	_	_	_	_
+43	ⲛ	ⲛ	ADP	PREP	_	45	case	_	_
+44	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	Entity=(place
+45	ⲡⲉ	ⲡⲉ	NOUN	N	_	42	nmod	_	Entity=place)person)
+46-48	ⲁⲩⲟⲩⲱⲛ	_	_	_	_	_	_	_	_
+46	ⲁ	ⲁ	AUX	APST	_	48	aux	_	_
+47	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	48	nsubj	_	_
+48	ⲟⲩⲱⲛ	ⲟⲩⲱⲛ	VERB	V	VerbForm=Fin	33	parataxis	_	_
+
+# sent_id = sahidic_ot-01_Genesis_07_s0007
+# text_en = And the rain was upon the earth forty days and forty nights.
+# text = ⲁⲡⲙⲟⲟⲩ ⲙⲡⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ ϭⲙϭⲟⲙ ⲉϩⲣⲁⲓ ⲉϫⲙⲡⲕⲁϩ ⲛϩⲙⲉ ⲛϩⲟⲟⲩ ⲙⲛϩⲙⲉ ⲛⲟⲩϣⲏ
+1-3	ⲁⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(substance
+3	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	7	nsubj	_	_
+4-6	ⲙⲡⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ	_	_	_	_	_	_	_	_
+4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(event
+6	ⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ	ⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=event)substance)|OrigLang=grc
+7	ϭⲙϭⲟⲙ	ϭⲙϭⲟⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+8	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	7	advmod	_	_
+9-11	ⲉϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+9	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	7	obl	_	Entity=place)
+12-13	ⲛϩⲙⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+13	ϩⲙⲉ	ϩⲙⲉ	NUM	NUM	NumType=Card	15	nummod	_	Entity=(time
+14-15	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	7	obl	_	Entity=time)
+16-17	ⲙⲛϩⲙⲉ	_	_	_	_	_	_	_	_
+16	ⲙⲛ	ⲙⲛ	ADP	PREP	_	20	cc	_	_
+17	ϩⲙⲉ	ϩⲙⲉ	NUM	NUM	NumType=Card	20	nummod	_	Entity=(person
+18-20	ⲛⲟⲩϣⲏ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
+20	ϣⲏ	ϣⲏ	NOUN	N	_	15	conj	_	Entity=person)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0008
+# text_en = On that very day entered Noe, Sem, Cham, Japheth, the sons of Noe, and the wife of Noe, and the three wives of his sons with him into the ark.
+# text = ϩⲣⲁⲓ ⲇⲉ ϩⲙⲡⲉϩⲟⲟⲩ ⲉⲧⲙⲙⲁⲩ ⲁⲩⲃⲱⲕ ⲛϭⲓⲛⲱϩⲉ ⲙⲛⲛⲉϥϣⲏⲣⲉ ⲥⲏⲙ ⲭⲁⲙ ⲓⲁⲫⲉⲧ ⲙⲛⲧⲉⲥϩⲓⲙⲉ ⲛⲛⲱϩⲉ ⲙⲛϣⲟⲙⲛⲧⲉ ⲛⲥϩⲓⲙⲉ ⲛⲛⲉϥϣⲏⲣⲉ ⲛⲙⲙⲁϥ ⲁⲩⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉⲧⲕⲓⲃⲱⲧⲟⲥ ⲛⲙⲙⲁϥ
+1	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	10	advmod	_	OrigLang=grc
+3-5	ϩⲙⲡⲉϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+3	ϩⲙ	ϩⲛ	ADP	PREP	_	5	case	_	_
+4	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(time
+5	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	10	obl	_	_
+6-7	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+7	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	5	acl	_	Entity=time)
+8-10	ⲁⲩⲃⲱⲕ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+11-12	ⲛϭⲓⲛⲱϩⲉ	_	_	_	_	_	_	_	_
+11	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	12	case	_	_
+12	ⲛⲱϩⲉ	ⲛⲱϩⲉ	PROPN	NPROP	_	10	dislocated	_	Entity=(person-Noah)
+13-15	ⲙⲛⲛⲉϥϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	15	cc	_	_
+14	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	Entity=(person-Ham_%28son_of_Noah%29
+15	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	12	conj	_	_
+16	ⲥⲏⲙ	ⲥⲏⲙ	X	UNKNOWN	_	15	nummod	_	_
+17	ⲭⲁⲙ	ⲭⲁⲙ	PROPN	NPROP	_	15	appos	_	Entity=person-Ham_%28son_of_Noah%29)
+18	ⲓⲁⲫⲉⲧ	ⲓⲁⲫⲉⲧ	X	UNKNOWN	_	17	dep	_	_
+19-21	ⲙⲛⲧⲉⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+19	ⲙⲛ	ⲙⲛ	ADP	PREP	_	21	cc	_	_
+20	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	Entity=(person
+21	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	12	conj	_	_
+22-23	ⲛⲛⲱϩⲉ	_	_	_	_	_	_	_	_
+22	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+23	ⲛⲱϩⲉ	ⲛⲱϩⲉ	PROPN	NPROP	_	21	nmod	_	Entity=(person-Noah)
+24-25	ⲙⲛϣⲟⲙⲛⲧⲉ	_	_	_	_	_	_	_	_
+24	ⲙⲛ	ⲙⲛ	ADP	PREP	_	27	cc	_	_
+25	ϣⲟⲙⲛⲧⲉ	ϣⲟⲙⲛⲧⲉ	NUM	NUM	NumType=Card	27	nummod	_	Entity=(person
+26-27	ⲛⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+26	ⲛ	ⲛ	ADP	PREP	_	27	case	_	_
+27	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	23	conj	_	_
+28-30	ⲛⲛⲉϥϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+29	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	30	det	_	Entity=(person
+30	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	27	nmod	_	Entity=person)person)person)
+31-32	ⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
+31	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	32	case	_	_
+32	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	obl	_	_
+33-35	ⲁⲩⲃⲱⲕ	_	_	_	_	_	_	_	_
+33	ⲁ	ⲁ	AUX	APST	_	35	aux	_	_
+34	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	35	nsubj	_	_
+35	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	10	parataxis	_	_
+36	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	35	advmod	_	_
+37-39	ⲉⲧⲕⲓⲃⲱⲧⲟⲥ	_	_	_	_	_	_	_	_
+37	ⲉ	ⲉ	ADP	PREP	_	39	case	_	_
+38	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	Entity=(object
+39	ⲕⲓⲃⲱⲧⲟⲥ	ⲕⲓⲃⲱⲧⲟⲥ	NOUN	N	Foreign=Yes	35	obl	_	Entity=object)|OrigLang=grc
+40-41	ⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
+40	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	41	case	_	_
+41	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	obl	_	_
+
+# sent_id = sahidic_ot-01_Genesis_07_s0009
+# text_en = And they that entered went in male and female of all flesh, as God commanded Noe, and the Lord God shut the ark outside of him.
+# text = ⲁⲩⲱ ⲁⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ϣⲧⲁⲙ ⲙⲡⲣⲟ ⲛⲧⲕⲓⲃⲱⲧⲟⲥ ⲉⲣⲟϥ ⲛⲛⲱϩⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+2-4	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Entity=(person
+4	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	7	nsubj	_	Entity=person)
+5-6	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(person
+6	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	nsubj	_	Entity=person)
+7	ϣⲧⲁⲙ	ϣⲧⲁⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+8-10	ⲙⲡⲣⲟ	_	_	_	_	_	_	_	_
+8	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(object
+10	ⲣⲟ	ⲣⲟ	NOUN	N	_	7	obl	_	_
+11-13	ⲛⲧⲕⲓⲃⲱⲧⲟⲥ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Entity=(object
+13	ⲕⲓⲃⲱⲧⲟⲥ	ⲕⲓⲃⲱⲧⲟⲥ	NOUN	N	Foreign=Yes	10	nmod	_	OrigLang=grc
+14-15	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+14	ⲉⲣⲟ	ⲉ	ADP	PREP	_	15	case	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+16-17	ⲛⲛⲱϩⲉ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲛⲱϩⲉ	ⲛⲱϩⲉ	PROPN	NPROP	_	13	nmod	_	Entity=(person-Noah)object)object)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0010
+# text_en = And the flood was upon the earth forty days and forty nights, and the water abounded greatly and bore up the ark, and it was lifted on high from off the earth.
+# text = ⲁⲡⲙⲟⲟⲩ ⲙⲡⲕⲁⲧⲁⲕⲙⲩⲥⲙⲟⲥ ϭⲙϭⲟⲙ ⲉⲙⲁⲧⲉ ⲁϥⲧⲱⲟⲩⲛ ⲛⲧⲕⲓⲃⲱⲧⲟⲥ ⲉϩⲣⲁⲓ ⲉⲃⲟⲗ ϩⲓϫⲙⲡⲕⲁϩ ⲁⲥϣⲉⲉⲓ ⲙⲛⲡⲙⲟⲟⲩ
+1-3	ⲁⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(substance
+3	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	7	nsubj	_	_
+4-6	ⲙⲡⲕⲁⲧⲁⲕⲙⲩⲥⲙⲟⲥ	_	_	_	_	_	_	_	_
+4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(place
+6	ⲕⲁⲧⲁⲕⲙⲩⲥⲙⲟⲥ	ⲕⲁⲧⲁⲕⲙⲩⲥⲙⲟⲥ	NOUN	N	_	3	nmod	_	Entity=place)substance)
+7	ϭⲙϭⲟⲙ	ϭⲙϭⲟⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+8	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	7	advmod	_	_
+9-11	ⲁϥⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	7	parataxis	_	_
+12-14	ⲛⲧⲕⲓⲃⲱⲧⲟⲥ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Entity=(object
+14	ⲕⲓⲃⲱⲧⲟⲥ	ⲕⲓⲃⲱⲧⲟⲥ	NOUN	N	Foreign=Yes	11	obj	_	Entity=object)|OrigLang=grc
+15	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	11	advmod	_	_
+16	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	19	case	_	_
+17-19	ϩⲓϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+17	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	16	fixed	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	11	obl	_	Entity=place)
+20-22	ⲁⲥϣⲉⲉⲓ	_	_	_	_	_	_	_	_
+20	ⲁ	ⲁ	AUX	APST	_	22	aux	_	_
+21	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+22	ϣⲉⲉⲓ	ϣⲉⲉⲓ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+23-25	ⲙⲛⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+23	ⲙⲛ	ⲙⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(substance
+25	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	22	obl	_	Entity=substance)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0011
+# text_en = And the water prevailed and abounded exceedingly upon the earth, and the ark was borne upon the water.
+# text = ⲁⲡⲙⲟⲟⲩ ϭⲙϭⲟⲙ ⲁϥⲁϣⲁⲓ ⲉⲙⲁⲧⲉ ϩⲓϫⲙⲡⲕⲁϩ ⲁⲥϩⲗⲟⲟⲗⲉ ⲛϭⲓⲧⲕⲓⲃⲱⲧⲟⲥ ⲁⲩⲱ ⲛⲉⲥⲛⲁ ⲉⲥⲛⲏⲩ ⲙⲛⲡⲙⲟⲟⲩ
+1-3	ⲁⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(substance
+3	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	4	nsubj	_	Entity=substance)
+4	ϭⲙϭⲟⲙ	ϭⲙϭⲟⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲁϥⲁϣⲁⲓ	_	_	_	_	_	_	_	_
+5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	ⲁϣⲁⲓ	ⲁϣⲁⲉⲓ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+8	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	7	advmod	_	_
+9-11	ϩⲓϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+9	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	7	obl	_	Entity=place)
+12-14	ⲁⲥϩⲗⲟⲟⲗⲉ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ϩⲗⲟⲟⲗⲉ	ϩⲗⲟⲟⲗⲉ	VERB	V	VerbForm=Fin	7	parataxis	_	_
+15-17	ⲛϭⲓⲧⲕⲓⲃⲱⲧⲟⲥ	_	_	_	_	_	_	_	_
+15	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(object
+17	ⲕⲓⲃⲱⲧⲟⲥ	ⲕⲓⲃⲱⲧⲟⲥ	NOUN	N	Foreign=Yes	14	dislocated	_	Entity=object)|OrigLang=grc
+18	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	21	cc	_	_
+19-21	ⲛⲉⲥⲛⲁ	_	_	_	_	_	_	_	_
+19	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	21	aux	_	_
+20	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+21	ⲛⲁ	ⲛⲁ	AUX	FUT	_	14	conj	_	_
+22-24	ⲉⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
+22	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	24	mark	_	_
+23	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+24	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	21	advcl	_	_
+25-27	ⲙⲛⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+25	ⲙⲛ	ⲙⲛ	ADP	PREP	_	27	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Entity=(substance
+27	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	24	obl	_	Entity=substance)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0012
+# text_en = And the water prevailed exceedingly upon the earth, and covered all the high mountains which were under heaven.
+# text = ⲡⲙⲟⲟⲩ ⲇⲉ ⲛⲉϥⲛⲏⲩ ⲛϭⲙϭⲟⲙ ⲉⲙⲁⲧⲉ ⲁⲩⲱ ⲁⲡⲙⲟⲟⲩ ϩⲱⲃⲥ ⲛⲧⲟⲟⲩ ⲛⲓⲙ ⲉⲧϫⲟⲥⲉ ϩⲁⲣⲟⲥ ⲛⲧⲡⲉ ⲁϥϩⲱⲃⲥ ⲉϩⲣⲁⲓ ⲉϫⲱⲟⲩ
+1-2	ⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(substance
+2	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	6	dislocated	_	Entity=substance)
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
+4-6	ⲛⲉϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+4	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	6	aux	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	0	root	_	_
+7-8	ⲛϭⲙϭⲟⲙ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ϭⲙϭⲟⲙ	ϭⲙϭⲟⲙ	VERB	V	VerbForm=Fin	6	xcomp	_	_
+9	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	8	advmod	_	_
+10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+11-13	ⲁⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(substance
+13	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	14	nsubj	_	Entity=substance)
+14	ϩⲱⲃⲥ	ϩⲱⲃⲥ	VERB	V	VerbForm=Fin	6	conj	_	_
+15	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+16	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	15	det	_	_
+17-18	ⲉⲧϫⲟⲥⲉ	_	_	_	_	_	_	_	_
+17	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	18	mark	_	_
+18	ϫⲟⲥⲉ	ϫⲓⲥⲉ	VERB	VSTAT	VerbForm=Fin	15	acl	_	_
+19-20	ϩⲁⲣⲟⲥ	_	_	_	_	_	_	_	_
+19	ϩⲁⲣⲟ	ϩⲁ	ADP	PREP	_	20	case	_	_
+20	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obl	_	_
+21-23	ⲛⲧⲡⲉ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Entity=(place
+23	ⲡⲉ	ⲡⲉ	NOUN	N	_	14	obl	_	Entity=place)
+24-26	ⲁϥϩⲱⲃⲥ	_	_	_	_	_	_	_	_
+24	ⲁ	ⲁ	AUX	APST	_	26	aux	_	_
+25	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
+26	ϩⲱⲃⲥ	ϩⲱⲃⲥ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+27	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	26	advmod	_	_
+28-29	ⲉϫⲱⲟⲩ	_	_	_	_	_	_	_	_
+28	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	29	case	_	_
+29	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	26	obl	_	_
+
+# sent_id = sahidic_ot-01_Genesis_07_s0013
+# text_en = Fifteen cubits upwards was the water raised, and it covered all the high mountains.
+# text = ⲙⲙⲛⲧⲉ ⲙⲙⲁϩⲉ ⲁϥϫⲓⲥⲉ ⲛϭⲓⲡⲙⲟⲟⲩ ⲉⲙⲁⲧⲉ ⲁϥϩⲱⲃⲥ ⲛⲛⲧⲟⲟⲩ ⲧⲏⲣⲟⲩ ⲉⲧϫⲟⲥⲉ
+1	ⲙⲙⲛⲧⲉ	ⲙⲛⲧⲉ	VERB	EXIST	Polarity=Neg	6	dislocated	_	_
+2-3	ⲙⲙⲁϩⲉ	_	_	_	_	_	_	_	_
+2	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+3	ⲙⲁϩⲉ	ⲙⲁϩⲉ	NOUN	N	_	1	appos	_	_
+4-6	ⲁϥϫⲓⲥⲉ	_	_	_	_	_	_	_	_
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ϫⲓⲥⲉ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+7-9	ⲛϭⲓⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+7	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	9	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(substance
+9	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	6	dislocated	_	Entity=substance)
+10	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	1	advmod	_	_
+11-13	ⲁϥϩⲱⲃⲥ	_	_	_	_	_	_	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	ϩⲱⲃⲥ	ϩⲱⲃⲥ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+14-16	ⲛⲛⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	Entity=(place
+16	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	13	obj	_	_
+17-18	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+17	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	16	advmod	_	_
+18	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	17	det	_	_
+19-20	ⲉⲧϫⲟⲥⲉ	_	_	_	_	_	_	_	_
+19	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	20	mark	_	_
+20	ϫⲟⲥⲉ	ϫⲓⲥⲉ	VERB	VSTAT	VerbForm=Fin	16	acl	_	Entity=place)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0014
+# text_en = And there died all flesh that moved upon the earth, of flying creatures and cattle, and of wild beasts, and every reptile moving upon the earth, and every man.
+# text = ⲁⲩⲱ ⲁⲩⲙⲟⲩ ⲛϭⲓⲥⲁⲣⲝ ⲛⲓⲙ ⲉⲧⲕⲓⲙ ϩⲓϫⲙⲡϩⲟ ⲙⲡⲕⲁϩ ⲛϩⲁⲗⲁⲁⲧⲉ ⲙⲛⲛⲧⲃⲛⲟⲟⲩⲉ ⲙⲛⲛⲉⲑⲏⲣⲓⲟⲛ ⲙⲛⲛϫⲁⲧⲃⲉ ⲛⲓⲙ ⲉⲧⲕⲓⲙ ϩⲓϫⲙⲡⲕⲁⲥ ⲙⲛⲣⲱⲙⲉ ⲛⲓⲙ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁⲩⲙⲟⲩ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲛϭⲓⲥⲁⲣⲝ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+6	ⲥⲁⲣⲝ	ⲥⲁⲣⲝ	NOUN	N	Foreign=Yes	4	dislocated	_	Entity=(object|OrigLang=grc
+7	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	6	det	_	_
+8-9	ⲉⲧⲕⲓⲙ	_	_	_	_	_	_	_	_
+8	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+9	ⲕⲓⲙ	ⲕⲓⲙ	VERB	V	VerbForm=Fin	6	acl	_	_
+10-12	ϩⲓϫⲙⲡϩⲟ	_	_	_	_	_	_	_	_
+10	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	12	case	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(abstract
+12	ϩⲟ	ϩⲟ	NOUN	N	_	9	obl	_	_
+13-15	ⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(place
+15	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	12	nmod	_	_
+16-17	ⲛϩⲁⲗⲁⲁⲧⲉ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ϩⲁⲗⲁⲁⲧⲉ	ϩⲁⲗⲏⲧ	NOUN	N	_	15	nmod	_	Entity=(animal)
+18-20	ⲙⲛⲛⲧⲃⲛⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+18	ⲙⲛ	ⲙⲛ	ADP	PREP	_	26	cc	_	_
+19	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	20	det	_	Entity=(animal
+20	ⲧⲃⲛⲟⲟⲩⲉ	ⲧⲃⲛⲏ	NOUN	N	_	17	conj	_	Entity=animal)
+21-23	ⲙⲛⲛⲉⲑⲏⲣⲓⲟⲛ	_	_	_	_	_	_	_	_
+21	ⲙⲛ	ⲙⲛ	ADP	PREP	_	26	cc	_	_
+22	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	23	det	_	Entity=(animal
+23	ⲑⲏⲣⲓⲟⲛ	ⲑⲏⲣⲓⲟⲛ	NOUN	N	Foreign=Yes	17	conj	_	Entity=animal)|OrigLang=grc
+24-26	ⲙⲛⲛϫⲁⲧⲃⲉ	_	_	_	_	_	_	_	_
+24	ⲙⲛ	ⲙⲛ	ADP	PREP	_	26	cc	_	_
+25	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	26	det	_	Entity=(person
+26	ϫⲁⲧⲃⲉ	ϫⲁⲧⲃⲉ	NOUN	N	_	17	conj	_	_
+27	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	26	det	_	_
+28-29	ⲉⲧⲕⲓⲙ	_	_	_	_	_	_	_	_
+28	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	29	mark	_	_
+29	ⲕⲓⲙ	ⲕⲓⲙ	VERB	V	VerbForm=Fin	26	acl	_	_
+30-32	ϩⲓϫⲙⲡⲕⲁⲥ	_	_	_	_	_	_	_	_
+30	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	32	case	_	_
+31	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	Entity=(object
+32	ⲕⲁⲥ	ⲕⲁⲥ	NOUN	N	_	29	obl	_	Entity=object)person)
+33-34	ⲙⲛⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+33	ⲙⲛ	ⲙⲛ	ADP	PREP	_	34	cc	_	_
+34	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	17	conj	_	Entity=(person
+35	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	34	det	_	Entity=person)place)abstract)object)
+
+# sent_id = sahidic_ot-01_Genesis_07_s0015
+# text_en = And all things which have the breath of life, and whatever was on the dry land, died.
+# text = ⲉⲧⲉⲟⲩⲛ ⲛⲓⲃⲉ ⲛⲱⲛϩ ⲛϩⲏⲧⲟⲩ
+1-2	ⲉⲧⲉⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	2	mark	_	_
+2	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
+3	ⲛⲓⲃⲉ	ⲛⲓⲃⲉ	NOUN	N	_	2	nsubj	_	Entity=(abstract
+4-5	ⲛⲱⲛϩ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	3	nmod	_	Entity=(abstract)abstract)
+6-7	ⲛϩⲏⲧⲟⲩ	_	_	_	_	_	_	_	_
+6	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	7	case	_	_
+7	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+
+# sent_id = sahidic_ot-01_Genesis_07_s0016
+# text_en = And blotted out every offspring which was upon the face of the earth, both man and beast, and reptiles, and birds of the sky, and they were blotted out from the earth, and Noe was left alone, and those with him in the ark.
+# text = ⲁⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ϥⲱⲧⲉ ⲉⲃⲟⲗ ⲙⲡⲥⲱⲛⲧ ⲧⲏⲣϥ ⲛⲧⲁϥⲧⲁⲙⲓⲟϥ ⲛϫⲓⲛ ⲣⲱⲙⲉ ϣⲁⲧⲃⲛⲏ ⲁⲩⲱ ⲛϫⲓⲛ ⲟⲩϫⲁⲧⲃⲉ ϣⲁⲛϩⲁⲗⲁⲁⲧⲉ ⲛⲧⲡⲉ ϣⲁⲧⲛ ⲛⲱϩⲉ ⲙⲁⲩⲁⲁϥ ⲛⲧⲁϥϣⲱϫⲡ ⲙⲛⲛⲉⲧⲛⲙⲙⲁϥ ⲛϩⲟⲩⲛ ⲛⲧⲕⲓⲃⲱⲧⲟⲥ
+1-3	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	6	nsubj	_	Entity=person)
+4-5	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(person
+5	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	6	nsubj	_	Entity=person)
+6	ϥⲱⲧⲉ	ϥⲱⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	advmod	_	_
+8-10	ⲙⲡⲥⲱⲛⲧ	_	_	_	_	_	_	_	_
+8	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
+10	ⲥⲱⲛⲧ	ⲥⲱⲛⲧ	NOUN	N	_	6	obj	_	_
+11-12	ⲧⲏⲣϥ	_	_	_	_	_	_	_	_
+11	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	10	advmod	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	_
+13-17	ⲛⲧⲁϥⲧⲁⲙⲓⲟϥ	_	_	_	_	_	_	_	_
+13	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	VerbForm=Fin	10	acl	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+18-19	ⲛϫⲓⲛ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	20	case	_	_
+20	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	16	obl	_	Entity=(person)
+21-22	ϣⲁⲧⲃⲛⲏ	_	_	_	_	_	_	_	_
+21	ϣⲁ	ϣⲁ	ADP	PREP	_	22	case	_	_
+22	ⲧⲃⲛⲏ	ⲧⲃⲛⲏ	NOUN	N	_	16	obl	_	Entity=(animal)
+23	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	27	cc	_	_
+24-25	ⲛϫⲓⲛ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	27	det	_	Entity=(abstract
+25	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	27	case	_	_
+26-27	ⲟⲩϫⲁⲧⲃⲉ	_	_	_	_	_	_	_	_
+26	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
+27	ϫⲁⲧⲃⲉ	ϫⲁⲧⲃⲉ	NOUN	N	_	30	conj	_	Entity=abstract)
+28-30	ϣⲁⲛϩⲁⲗⲁⲁⲧⲉ	_	_	_	_	_	_	_	_
+28	ϣⲁ	ϣⲁ	ADP	PREP	_	30	case	_	_
+29	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	30	det	_	Entity=(animal
+30	ϩⲁⲗⲁⲁⲧⲉ	ϩⲁⲗⲏⲧ	NOUN	N	_	16	obl	_	_
+31-33	ⲛⲧⲡⲉ	_	_	_	_	_	_	_	_
+31	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
+32	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	Entity=(place
+33	ⲡⲉ	ⲡⲉ	NOUN	N	_	30	nmod	_	_
+34	ϣⲁⲧⲛ	ϣⲁⲧⲛ	ADP	PREP	_	35	case	_	_
+35	ⲛⲱϩⲉ	ⲛⲱϩⲉ	PROPN	NPROP	_	33	nmod	_	Entity=(person-Noah
+36-37	ⲙⲁⲩⲁⲁϥ	_	_	_	_	_	_	_	_
+36	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	ADV	IMOD	_	35	advmod	_	_
+37	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	36	det	_	_
+38-41	ⲛⲧⲁϥϣⲱϫⲡ	_	_	_	_	_	_	_	_
+38	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	41	mark	_	_
+39	ⲁ	ⲁ	AUX	APST	_	41	aux	_	_
+40	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	_
+41	ϣⲱϫⲡ	ϣⲱϫⲡ	VERB	V	VerbForm=Fin	35	acl	_	_
+42-46	ⲙⲛⲛⲉⲧⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
+42	ⲙⲛ	ⲙⲛ	ADP	PREP	_	43	case	_	_
+43	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	41	obl	_	Entity=(person
+44	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	46	mark	_	_
+45	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	46	case	_	_
+46	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	acl	_	_
+47	ⲛϩⲟⲩⲛ	ⲛϩⲟⲩⲛ	ADV	ADV	_	46	advmod	_	_
+48-50	ⲛⲧⲕⲓⲃⲱⲧⲟⲥ	_	_	_	_	_	_	_	_
+48	ⲛ	ⲛ	ADP	PREP	_	50	case	_	_
+49	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	50	det	_	Entity=(object
+50	ⲕⲓⲃⲱⲧⲟⲥ	ⲕⲓⲃⲱⲧⲟⲥ	NOUN	N	Foreign=Yes	47	nmod	_	Entity=object)person)person-Noah)place)animal)abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-01_Genesis_07_s0017
+# text_en = And the water was raised over the earth an hundred and fifty days.
+# text = ⲁⲩⲱ ⲁϥϫⲓⲥⲉ ⲛϭⲓⲡⲙⲟⲟⲩ ⲉϫⲙⲡⲕⲁϩ ⲛϣⲉ ⲧⲁⲉⲓⲟⲩ ⲛϩⲟⲟⲩ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁϥϫⲓⲥⲉ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ϫⲓⲥⲉ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲛϭⲓⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(substance
+7	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	4	dislocated	_	Entity=substance)
+8-10	ⲉϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+8	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	10	case	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(place
+10	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	4	obl	_	_
+11-12	ⲛϣⲉ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ϣⲉ	ϣⲉ	NOUN	N	_	10	nmod	_	Entity=(person)place)
+13	ⲧⲁⲉⲓⲟⲩ	ⲧⲁⲉⲓⲟⲩ	NUM	NUM	NumType=Card	15	nummod	_	Entity=(time|Orig=ⲧⲁⲓⲟⲩ
+14-15	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	4	obl	_	Entity=time)
+

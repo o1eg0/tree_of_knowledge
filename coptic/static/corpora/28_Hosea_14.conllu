@@ -1,0 +1,198 @@
+# newdoc id = sahidic.ot:28_Hosea_14
+# sent_id = sahidic_ot-28_Hosea_14_s0001
+# text_en = Assur shall never save us; we will not mount on horseback; we will no longer say to the works of our hands, Our gods. He who is in thee shall pity the orphan.
+# text = ⲡⲛⲟⲩⲧⲉ ⲉⲧ ⲛϩⲏⲧⲕ ⲛⲁⲛⲁ ⲛⲟⲩⲟⲣⲫⲗⲛⲟⲥ
+1-2	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(person
+2	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	0	root	_	_
+3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+4-5	ⲛϩⲏⲧⲕ	_	_	_	_	_	_	_	_
+4	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	5	case	_	_
+5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	acl	_	_
+6-8	ⲛⲁⲛⲁ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	5	advmod	_	_
+8	ⲁ	ⲁ	AUX	APST	_	11	case	_	_
+9-11	ⲛⲟⲩⲟⲣⲫⲗⲛⲟⲥ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	Entity=(person
+11	ⲟⲣⲫⲗⲛⲟⲥ	ⲟⲣⲫⲗⲛⲟⲥ	NOUN	N	_	2	nmod	_	Entity=person)person)
+
+# sent_id = sahidic_ot-28_Hosea_14_s0002
+# text_en = I will restore their dwellings, I will love them truly: for he has turned away my wrath from him.
+# text = ϯⲛⲁⲧⲁⲗϭⲟ ⲛⲉⲩⲙⲁ ⲛϣⲱⲡⲉ ⲁⲩⲱ ϯⲛⲁⲛⲁⲩ ⲉϩⲛⲁⲓ ϯⲛⲁⲕⲧⲟ ⲙⲡⲁϭⲱⲛⲧ ⲉⲃⲟⲗ ⲙⲙⲟⲟⲩ ⲁⲩⲱ
+1-3	ϯⲛⲁⲧⲁⲗϭⲟ	_	_	_	_	_	_	_	_
+1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ⲧⲁⲗϭⲟ	ⲧⲁⲗϭⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲛⲉⲩⲙⲁ	_	_	_	_	_	_	_	_
+4	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	Entity=(place
+5	ⲙⲁ	ⲙⲁ	NOUN	N	_	3	obj	_	_
+6-7	ⲛϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	5	nmod	_	Entity=place)
+8	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
+9-11	ϯⲛⲁⲛⲁⲩ	_	_	_	_	_	_	_	_
+9	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
+11	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	3	conj	_	Orig=ⲛⲁⲛⲁⲩ
+12-13	ⲉϩⲛⲁⲓ	_	_	_	_	_	_	_	_
+12	ⲉϩⲛⲁ	ⲉϩⲛⲁ	ADP	PREP	_	13	case	_	_
+13	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	obl	_	_
+14-16	ϯⲛⲁⲕⲧⲟ	_	_	_	_	_	_	_	_
+14	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+15	ⲛⲁ	ⲛⲁ	AUX	FUT	_	16	aux	_	_
+16	ⲕⲧⲟ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	3	conj	_	_
+17-19	ⲙⲡⲁϭⲱⲛⲧ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	Entity=(abstract
+19	ϭⲱⲛⲧ	ϭⲱⲛⲧ	NOUN	N	_	16	obj	_	Entity=abstract)
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	22	case	_	_
+21-22	ⲙⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+21	ⲙⲙⲟ	ⲛ	ADP	PREP	_	20	fixed	_	_
+22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	16	obl	_	_
+23	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
+
+# sent_id = sahidic_ot-28_Hosea_14_s0003
+# text_en = I will be as dew to Israel: he shall bloom as the lily, and cast forth his roots as Libanus.
+# text = ϯⲛⲁϣⲱⲡⲉ ⲛⲧϩⲉ ⲛⲟⲩⲉⲓⲱⲧ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲁⲩⲱ ϥⲛⲁϯⲟⲩⲱ ⲉϩⲣⲁⲓ ⲛⲧϩⲉ ⲛⲧϩⲉ ⲛⲟⲩⲕⲣⲓⲛⲟⲛ ⲁⲩⲱ ϥⲛⲁⲛⲉϫ ⲛⲟⲩⲛⲉ ⲉⲃⲟⲗ ⲛⲧϩⲉ ⲙⲡⲗⲓⲃⲁⲛⲟⲥ
+1-3	ϯⲛⲁϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Orig=ⲑ
+6	ϩⲉ	ϩⲉ	NOUN	N	_	3	obl	_	Orig=ⲉ
+7-9	ⲛⲟⲩⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(person
+9	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	6	nmod	_	_
+10-12	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+12	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	9	nmod	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)person)|Orig=ⲓⲏⲗ|OrigLang=he
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
+14-16	ϥⲛⲁϯⲟⲩⲱ	_	_	_	_	_	_	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+15	ⲛⲁ	ⲛⲁ	AUX	FUT	_	16	aux	_	_
+16	ϯⲟⲩⲱ	ϯⲟⲩⲱ	VERB	V	VerbForm=Fin	3	conj	_	Morphs=ϯ-ⲟⲩⲱ
+17	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	16	advmod	_	_
+18-20	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Orig=ⲑ
+20	ϩⲉ	ϩⲉ	NOUN	N	_	16	obl	_	Orig=ⲉ
+21-23	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Orig=ⲑ
+23	ϩⲉ	ϩⲉ	NOUN	N	_	20	nmod	_	Orig=ⲉ
+24-26	ⲛⲟⲩⲕⲣⲓⲛⲟⲛ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	26	det	_	Entity=(object
+26	ⲕⲣⲓⲛⲟⲛ	ⲕⲣⲓⲛⲟⲛ	NOUN	N	Foreign=Yes	23	nmod	_	Entity=object)|OrigLang=grc
+27	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	30	cc	_	_
+28-30	ϥⲛⲁⲛⲉϫ	_	_	_	_	_	_	_	_
+28	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+29	ⲛⲁ	ⲛⲁ	AUX	FUT	_	30	aux	_	_
+30	ⲛⲉϫ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	3	conj	_	_
+31	ⲛⲟⲩⲛⲉ	ⲛⲟⲩⲛⲉ	NOUN	N	_	30	obj	_	Entity=(plant)
+32	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	30	advmod	_	_
+33-35	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+33	ⲛ	ⲛ	ADP	PREP	_	35	case	_	_
+34	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	Orig=ⲑ
+35	ϩⲉ	ϩⲉ	NOUN	N	_	30	obl	_	Orig=ⲉ
+36-38	ⲙⲡⲗⲓⲃⲁⲛⲟⲥ	_	_	_	_	_	_	_	_
+36	ⲙ	ⲛ	ADP	PREP	_	38	case	_	_
+37	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Entity=(substance
+38	ⲗⲓⲃⲁⲛⲟⲥ	ⲗⲓⲃⲁⲛⲟⲥ	NOUN	N	Foreign=Yes	35	nmod	_	Entity=substance)|OrigLang=grc
+
+# sent_id = sahidic_ot-28_Hosea_14_s0004
+# text_en = His branches shall spread, and he shall be as a fruitful olive, and his smell shall be as the smell of Libanus.
+# text = ⲥⲉⲛⲁⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ⲛϭⲓⲛϥⲕⲗⲁⲧⲟⲥ ⲁⲩⲱ ⲥⲉⲛⲁⲉⲣⲑⲉ ⲛⲟⲩⲃⲱ ⲛϫⲟⲉⲓⲧ ϩⲁⲡⲉⲥⲟⲩⲧⲁϩ ⲡⲉϥⲥⲧⲟⲓ ⲛⲁϣⲱⲡⲉ ⲛⲧϩⲉ ⲙⲡⲗⲓⲃⲁⲛⲟⲥ
+1-3	ⲥⲉⲛⲁⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
+1	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	3	advmod	_	_
+5-8	ⲛϭⲓⲛϥⲕⲗⲁⲧⲟⲥ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	8	case	_	_
+6	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	8	aux	_	_
+7	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	ⲕⲗⲁⲧⲟⲥ	ⲕⲗⲁⲧⲟⲥ	VERB	V	VerbForm=Fin	3	advcl	_	_
+9	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
+10-11	ⲥⲉⲛⲁⲉⲣⲑⲉ	_	_	_	_	_	_	_	_
+10	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲛⲁⲉⲣⲑⲉ	ⲛⲁⲉⲣⲑⲉ	VERB	V	VerbForm=Fin	3	conj	_	_
+12-14	ⲛⲟⲩⲃⲱ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(object
+14	ⲃⲱ	ⲃⲱ	NOUN	N	_	11	obj	_	_
+15-16	ⲛϫⲟⲉⲓⲧ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+16	ϫⲟⲉⲓⲧ	ϫⲟⲉⲓⲧ	NOUN	N	_	14	nmod	_	Entity=(object)object)
+17-19	ϩⲁⲡⲉⲥⲟⲩⲧⲁϩ	_	_	_	_	_	_	_	_
+17	ϩⲁ	ϩⲁ	ADP	PREP	_	19	case	_	_
+18	ⲡⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	Entity=(abstract
+19	ⲟⲩⲧⲁϩ	ⲟⲩⲧⲁϩ	NOUN	N	_	11	obl	_	_
+20-21	ⲡⲉϥⲥⲧⲟⲓ	_	_	_	_	_	_	_	_
+20	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
+21	ⲥⲧⲟⲓ	ⲥⲧⲟⲓ	NOUN	N	_	19	appos	_	Entity=abstract)
+22-23	ⲛⲁϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+22	ⲛⲁ	ⲛⲁ	AUX	FUT	_	23	aux	_	_
+23	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+24-26	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	Orig=ⲑ
+26	ϩⲉ	ϩⲉ	NOUN	N	_	23	obl	_	Orig=ⲉ
+27-29	ⲙⲡⲗⲓⲃⲁⲛⲟⲥ	_	_	_	_	_	_	_	_
+27	ⲙ	ⲛ	ADP	PREP	_	29	case	_	_
+28	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	Entity=(substance
+29	ⲗⲓⲃⲁⲛⲟⲥ	ⲗⲓⲃⲁⲛⲟⲥ	NOUN	N	Foreign=Yes	26	nmod	_	Entity=substance)|OrigLang=grc
+
+# sent_id = sahidic_ot-28_Hosea_14_s0005
+# text_en = They shall return, and dwell under his shadow: they shall live and be satisfied with corn, and he shall flower as a vine: his memorial shall be to Ephraim as the wine of Libanus.
+# text = ⲥⲉⲛⲁⲕⲧⲟⲟⲩ ⲛⲥⲉϩⲙⲟⲟⲥ ϩⲁⲧⲉϥϩⲁⲓⲃⲉⲥ ⲥⲉⲛⲁⲱⲛϩ ⲁⲩⲱ ⲛⲥⲉⲧⲥⲓⲟⲟⲩ ⲙⲡⲉⲥⲟⲩⲟ ⲥⲉⲛⲁϯⲟⲩⲱ ⲉⲃⲟⲗ ⲛⲧϩⲉ ⲛⲟⲩⲃⲱ ⲛⲉⲗⲟⲟⲗⲉ
+1-4	ⲥⲉⲛⲁⲕⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ⲕⲧⲟ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+5-7	ⲛⲥⲉϩⲙⲟⲟⲥ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	7	aux	_	_
+6	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+7	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	VerbForm=Fin	3	advcl	_	_
+8-10	ϩⲁⲧⲉϥϩⲁⲓⲃⲉⲥ	_	_	_	_	_	_	_	_
+8	ϩⲁ	ϩⲁ	ADP	PREP	_	10	case	_	_
+9	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(abstract
+10	ϩⲁⲓⲃⲉⲥ	ϩⲁⲉⲓⲃⲉⲥ	NOUN	N	_	7	obl	_	Entity=abstract)
+11-13	ⲥⲉⲛⲁⲱⲛϩ	_	_	_	_	_	_	_	_
+11	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+12	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	_
+13	ⲱⲛϩ	ⲱⲛϩ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+14	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	17	cc	_	_
+15-18	ⲛⲥⲉⲧⲥⲓⲟⲟⲩ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	17	aux	_	_
+16	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+17	ⲧⲥⲓⲟ	ⲧⲥⲉⲓⲟ	VERB	V	VerbForm=Fin	13	conj	_	_
+18	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+19-21	ⲙⲡⲉⲥⲟⲩⲟ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(plant
+21	ⲥⲟⲩⲟ	ⲥⲟⲩⲟ	NOUN	N	_	17	obl	_	Entity=plant)
+22-24	ⲥⲉⲛⲁϯⲟⲩⲱ	_	_	_	_	_	_	_	_
+22	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
+23	ⲛⲁ	ⲛⲁ	AUX	FUT	_	24	aux	_	_
+24	ϯⲟⲩⲱ	ϯⲟⲩⲱ	VERB	V	VerbForm=Fin	13	conj	_	Morphs=ϯ-ⲟⲩⲱ
+25	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	24	advmod	_	_
+26-28	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+26	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+27	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	Orig=ⲑ
+28	ϩⲉ	ϩⲉ	NOUN	N	_	24	obl	_	Orig=ⲉ
+29-31	ⲛⲟⲩⲃⲱ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	31	case	_	_
+30	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	31	det	_	Entity=(plant
+31	ⲃⲱ	ⲃⲱ	NOUN	N	_	28	nmod	_	_
+32-33	ⲛⲉⲗⲟⲟⲗⲉ	_	_	_	_	_	_	_	_
+32	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
+33	ⲉⲗⲟⲟⲗⲉ	ⲉⲗⲟⲟⲗⲉ	NOUN	N	_	31	nmod	_	Entity=plant)
+

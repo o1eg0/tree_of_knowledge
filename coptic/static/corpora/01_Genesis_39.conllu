@@ -1,0 +1,273 @@
+# newdoc id = sahidic.ot:01_Genesis_39
+# sent_id = sahidic_ot-01_Genesis_39_s0001
+# text_en = and in this house there is nothing above me, nor has anything been kept back from me, but thou, because thou art his wifehow then shall I do this wicked thing, and sin against God?
+# text = . . . ⲙⲛⲗⲁⲁⲩ ϩⲏⲡ ⲉⲣⲟⲓ ϩⲙⲡⲉϥⲏⲓ ⲟⲩⲇⲉ ⲙⲡⲃⲟⲗ ⲉⲧⲟⲟⲧⲛ ⲛⲥⲁⲃⲗⲗⲉ ϫⲉⲛⲧⲉⲧⲉϥⲥϩⲓⲙⲉ ⲁⲩⲱ ⲛⲁϣ ⲛϩⲉ ϯⲛⲁⲉⲓⲣⲉ ⲙⲡⲉⲓϣⲁϫⲉ ⲙⲡⲟⲛⲏⲣⲟⲛ ⲧⲁⲣⲛⲟⲃⲉ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡⲛⲟⲩⲧⲉ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4-5	ⲙⲛⲗⲁⲁⲩ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	AUX	EXIST	Polarity=Neg	6	aux	_	_
+5	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	6	nsubj	_	Entity=(abstract)
+6	ϩⲏⲡ	ϩⲱⲡ	VERB	VSTAT	VerbForm=Fin	0	root	_	_
+7-8	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+7	ⲉⲣⲟ	ⲉ	ADP	PREP	_	8	case	_	_
+8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+9-11	ϩⲙⲡⲉϥⲏⲓ	_	_	_	_	_	_	_	_
+9	ϩⲙ	ϩⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(place
+11	ⲏⲓ	ⲏⲓ	NOUN	N	_	6	obl	_	Entity=place)
+12	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	15	cc	_	OrigLang=grc
+13-15	ⲙⲡⲃⲟⲗ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(place
+15	ⲃⲟⲗ	ⲃⲟⲗ	NOUN	N	_	11	conj	_	_
+16-17	ⲉⲧⲟⲟⲧⲛ	_	_	_	_	_	_	_	_
+16	ⲉⲧⲟⲟⲧ	ⲉⲧⲛ	ADP	PREP	_	17	case	_	_
+17	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	15	nmod	_	Entity=place)
+18-19	ⲛⲥⲁⲃⲗⲗⲉ	_	_	_	_	_	_	_	_
+18	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	19	case	_	_
+19	ⲃⲗⲗⲉ	ⲃⲗⲗⲉ	NOUN	N	_	6	obl	_	Entity=(person)
+20-23	ϫⲉⲛⲧⲉⲧⲉϥⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+20	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	23	mark	_	_
+21	ⲛⲧⲉ	ⲛⲧⲟ	PRON	PPERI	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	_
+22	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	Entity=(person
+23	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	6	ccomp	_	Entity=person)
+24	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	26	cc	_	_
+25-26	ⲛⲁϣ	_	_	_	_	_	_	_	_
+25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+26	ⲁϣ	ⲁϣ	PRON	PINT	PronType=Int	34	conj	_	_
+27-28	ⲛϩⲉ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+28	ϩⲉ	ϩⲉ	NOUN	N	_	26	nmod	_	_
+29-31	ϯⲛⲁⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
+29	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	31	nsubj	_	_
+30	ⲛⲁ	ⲛⲁ	AUX	FUT	_	31	aux	_	_
+31	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	6	conj	_	_
+32-34	ⲙⲡⲉⲓϣⲁϫⲉ	_	_	_	_	_	_	_	_
+32	ⲙ	ⲛ	ADP	PREP	_	34	case	_	_
+33	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	34	det	_	Entity=(abstract
+34	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	31	obj	_	_
+35-36	ⲙⲡⲟⲛⲏⲣⲟⲛ	_	_	_	_	_	_	_	_
+35	ⲙ	ⲛ	ADP	PREP	_	36	case	_	_
+36	ⲡⲟⲛⲏⲣⲟⲛ	ⲡⲟⲛⲏⲣⲟⲛ	NOUN	N	Foreign=Yes	34	nmod	_	Entity=abstract)|OrigLang=grc
+37-38	ⲧⲁⲣⲛⲟⲃⲉ	_	_	_	_	_	_	_	_
+37	ⲧⲁ	ⲛⲧⲉ_ⲁⲛⲟⲕ	PRON	ACONJ_PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	38	nsubj	_	_
+38	ⲣⲛⲟⲃⲉ	ⲣⲛⲟⲃⲉ	VERB	V	VerbForm=Fin	31	advcl	_	Morphs=ⲣ-ⲛⲟⲃⲉ
+39-41	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+39	ⲙ	ⲛ	ADP	PREP	_	41	case	_	_
+40	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	Entity=(abstract
+41	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	38	obl	_	_
+42	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	41	advmod	_	_
+43-45	ⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+43	ⲙ	ⲛ	ADP	PREP	_	45	case	_	_
+44	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	Entity=(person
+45	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	41	nmod	_	Entity=person)abstract)
+
+# sent_id = sahidic_ot-01_Genesis_39_s0002
+# text_en = And when she talked with Joseph day by day, and he hearkened not to her to sleep with her, so as to be with her,
+# text = ⲛⲉⲥϣⲁϫⲉ ⲙⲛⲓⲱⲥⲏⲫ ⲉⲃⲟⲗ ϩⲛⲟⲩϩⲟⲟⲩ ⲉⲩϩⲟⲟⲩ ⲙⲡⲉϥⲥⲱⲧⲙ ⲛⲁⲥ ⲉⲉⲛⲕⲟⲧⲕ ⲛⲙⲙⲁⲥ ⲉⲧⲣⲉϥϣⲱⲡⲉ ⲛⲙⲙⲁⲥ
+1-3	ⲛⲉⲥϣⲁϫⲉ	_	_	_	_	_	_	_	_
+1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲙⲛⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	case	_	_
+5	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	3	obl	_	Entity=(person-Joseph_%28Genesis%29)|OrigLang=he
+6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	case	_	_
+7-9	ϩⲛⲟⲩϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+7	ϩⲛ	ϩⲛ	ADP	PREP	_	6	fixed	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(time
+9	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	3	obl	_	Entity=time)
+10-12	ⲉⲩϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	3	advcl	_	_
+13-15	ⲙⲡⲉϥⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	Entity=(abstract
+15	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	NOUN	N	_	12	obj	_	Entity=abstract)
+16-17	ⲛⲁⲥ	_	_	_	_	_	_	_	_
+16	ⲛⲁ	ⲛⲁ	ADP	PREP	_	17	case	_	_
+17	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
+18-19	ⲉⲉⲛⲕⲟⲧⲕ	_	_	_	_	_	_	_	_
+18	ⲉ	ⲉ	PART	PREP	_	19	mark	_	_
+19	ⲉⲛⲕⲟⲧⲕ	ⲉⲛⲕⲟⲧⲕ	VERB	V	VerbForm=Inf	12	xcomp	_	_
+20-21	ⲛⲙⲙⲁⲥ	_	_	_	_	_	_	_	_
+20	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	21	case	_	_
+21	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+22-25	ⲉⲧⲣⲉϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+22	ⲉ	ⲉ	PART	PREP	_	23	mark	_	_
+23	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	19	xcomp	_	_
+24	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+25	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	23	xcomp	_	_
+26-27	ⲛⲙⲙⲁⲥ	_	_	_	_	_	_	_	_
+26	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	27	case	_	_
+27	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obl	_	_
+
+# sent_id = sahidic_ot-01_Genesis_39_s0003
+# text_en = it came to pass on a certain day, that Joseph went into the house to do his business, and there was no one of the household within.
+# text = ⲁⲩϩⲟⲟⲩ ⲇⲉ ⲛⲧⲉⲓⲙⲓⲛⲉ ⲧⲁⲓ ϣⲱⲡⲉ . . .
+1-3	ⲁⲩϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-7	ⲛⲧⲉⲓⲙⲓⲛⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	ⲙⲓⲛⲉ	ⲙⲓⲛⲉ	NOUN	N	_	3	obl	_	_
+8	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	nsubj	_	Entity=(abstract)
+9	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	.	.	PUNCT	PUNCT	_	0	punct	_	_
+11	.	.	PUNCT	PUNCT	_	0	punct	_	_
+12	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_39_s0004
+# text_en = that she called those that were in the house, and spoke to them, saying, See, he has brought in to us a Hebrew servant to mock ushe came in to me, saying, Lie with me, and I cried with a loud voice.
+# text = . . ⲉⲥϫⲱ ⲙⲙⲟⲥ ϫⲉⲉⲓⲥⲁϥⲉⲓⲛⲉ ⲛⲁⲛ ⲉϩⲟⲩⲛ ⲛⲟⲩϩⲙϩⲁⲗ ⲛϩⲉⲃⲣⲁⲓⲟⲥ ⲉⲥⲱⲃⲉ ⲙⲙⲟⲛ ⲁϥⲉⲓ ⲉϩⲟⲩⲛ ϣⲁⲣⲟⲓ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲛⲕⲟⲧⲕ ⲛⲙⲙⲁⲓ ⲁⲓϫⲓϣⲕⲁⲕ ⲉⲃⲟⲗ ϩⲛⲟⲩⲛⲟϭ ⲛⲥⲙⲏ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3-5	ⲉⲥϫⲱ	_	_	_	_	_	_	_	_
+3	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	5	mark	_	_
+4	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+6-7	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+6	ⲙⲙⲟ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+8-12	ϫⲉⲉⲓⲥⲁϥⲉⲓⲛⲉ	_	_	_	_	_	_	_	_
+8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
+9	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	12	advmod	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲉⲓⲛⲉ	ⲉⲓⲛⲉ	VERB	V	VerbForm=Fin	5	ccomp	_	_
+13-14	ⲛⲁⲛ	_	_	_	_	_	_	_	_
+13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	14	case	_	_
+14	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	obl	_	_
+15	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	12	advmod	_	_
+16-18	ⲛⲟⲩϩⲙϩⲁⲗ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	18	det	_	Entity=(person
+18	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	12	obj	_	_
+19-20	ⲛϩⲉⲃⲣⲁⲓⲟⲥ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ϩⲉⲃⲣⲁⲓⲟⲥ	ϩⲉⲃⲣⲁⲓⲟⲥ	NOUN	N	Foreign=Yes	18	nmod	_	Entity=(person)person)|OrigLang=he
+21-22	ⲉⲥⲱⲃⲉ	_	_	_	_	_	_	_	_
+21	ⲉ	ⲉ	PART	PREP	_	22	mark	_	_
+22	ⲥⲱⲃⲉ	ⲥⲱⲃⲉ	VERB	V	VerbForm=Inf	12	xcomp	_	_
+23-24	ⲙⲙⲟⲛ	_	_	_	_	_	_	_	_
+23	ⲙⲙⲟ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	22	obj	_	_
+25-27	ⲁϥⲉⲓ	_	_	_	_	_	_	_	_
+25	ⲁ	ⲁ	AUX	APST	_	27	aux	_	_
+26	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
+27	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+28	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	27	advmod	_	_
+29-30	ϣⲁⲣⲟⲓ	_	_	_	_	_	_	_	_
+29	ϣⲁⲣⲟ	ϣⲁ	ADP	PREP	_	30	case	_	_
+30	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	27	obl	_	_
+31-33	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+31	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	33	mark	_	_
+32	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	_
+33	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	27	advcl	_	_
+34-35	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+34	ⲙⲙⲟ	ⲛ	ADP	PREP	_	35	case	_	_
+35	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obj	_	_
+36-37	ϫⲉⲛⲕⲟⲧⲕ	_	_	_	_	_	_	_	_
+36	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	37	mark	_	_
+37	ⲛⲕⲟⲧⲕ	ⲛⲕⲟⲧⲕ	VERB	V	VerbForm=Fin	33	ccomp	_	_
+38-39	ⲛⲙⲙⲁⲓ	_	_	_	_	_	_	_	_
+38	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	39	case	_	_
+39	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	37	obl	_	_
+40-42	ⲁⲓϫⲓϣⲕⲁⲕ	_	_	_	_	_	_	_	_
+40	ⲁ	ⲁ	AUX	APST	_	42	aux	_	_
+41	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	42	nsubj	_	_
+42	ϫⲓϣⲕⲁⲕ	ϫⲓϣⲕⲁⲕ	VERB	V	VerbForm=Fin	12	parataxis	_	Morphs=ϫⲓ-ϣⲕⲁⲕ
+43	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	46	case	_	_
+44-46	ϩⲛⲟⲩⲛⲟϭ	_	_	_	_	_	_	_	_
+44	ϩⲛ	ϩⲛ	ADP	PREP	_	43	fixed	_	_
+45	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	46	det	_	Entity=(abstract
+46	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	42	obl	_	_
+47-48	ⲛⲥⲙⲏ	_	_	_	_	_	_	_	_
+47	ⲛ	ⲛ	ADP	PREP	_	48	case	_	_
+48	ⲥⲙⲏ	ⲥⲙⲏ	NOUN	N	_	46	nmod	_	Entity=abstract)
+
+# sent_id = sahidic_ot-01_Genesis_39_s0005
+# text_en = And when he heard that I lifted up my voice and cried, having left his clothes with me, he fled, and went forth out.
+# text = ϩⲙⲡⲉⲧⲣⲉϥⲥⲱⲧⲙ ⲇⲉ ϫⲉⲁⲓϫⲓⲥⲉ ⲛⲧⲁⲥⲙⲏ ⲁⲩⲱ ⲁⲓⲭⲓϣⲕⲁⲕ ⲉⲃⲟⲗ ⲁϥⲕⲱ ⲛⲛⲉϥϩⲟⲓⲧⲉ ⲛⲧⲟⲟⲧⲁϥⲡⲱⲧ ⲁϥⲉⲓ ⲉⲃⲟⲗ
+1-5	ϩⲙⲡⲉⲧⲣⲉϥⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
+1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	_
+2	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(event
+3	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	3	xcomp	_	Entity=event)
+6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	21	advmod	_	OrigLang=grc
+7-10	ϫⲉⲁⲓϫⲓⲥⲉ	_	_	_	_	_	_	_	_
+7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	ϫⲓⲥⲉ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	5	ccomp	_	_
+11-13	ⲛⲧⲁⲥⲙⲏ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	Entity=(abstract
+13	ⲥⲙⲏ	ⲥⲙⲏ	NOUN	N	_	10	obj	_	Entity=abstract)
+14	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	17	cc	_	_
+15-17	ⲁⲓⲭⲓϣⲕⲁⲕ	_	_	_	_	_	_	_	_
+15	ⲁ	ⲁ	AUX	APST	_	17	aux	_	_
+16	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+17	ⲭⲓϣⲕⲁⲕ	ⲭⲓϣⲕⲁⲕ	VERB	V	VerbForm=Fin	10	conj	_	_
+18	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	advmod	_	_
+19-21	ⲁϥⲕⲱ	_	_	_	_	_	_	_	_
+19	ⲁ	ⲁ	AUX	APST	_	21	aux	_	_
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+21	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	17	parataxis	_	_
+22-24	ⲛⲛⲉϥϩⲟⲓⲧⲉ	_	_	_	_	_	_	_	_
+22	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+23	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	Entity=(object
+24	ϩⲟⲓⲧⲉ	ϩⲟⲉⲓⲧⲉ	NOUN	N	_	21	obj	_	Entity=object)
+25-28	ⲛⲧⲟⲟⲧⲁϥⲡⲱⲧ	_	_	_	_	_	_	_	_
+25	ⲛⲧⲟⲟⲧ	ⲛⲧⲛ	PART	PREP	_	28	mark	_	_
+26	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
+27	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+28	ⲡⲱⲧ	ⲡⲱⲧ	VERB	V	VerbForm=Fin	21	parataxis	_	_
+29-31	ⲁϥⲉⲓ	_	_	_	_	_	_	_	_
+29	ⲁ	ⲁ	AUX	APST	_	31	aux	_	_
+30	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	_
+31	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	28	parataxis	_	_
+32	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	31	advmod	_	_
+
+# sent_id = sahidic_ot-01_Genesis_39_s0006
+# text_en = So she leaves the clothes by her, until the master came to his house.
+# text = ⲁⲩⲱ ⲁⲥⲕⲱ ⲛⲉⲛϩⲟⲓⲧⲉ ⲛⲧⲟⲟⲧⲥ ϣⲁⲛⲧⲉⲡⲉⲥϫⲟⲉⲓⲥ ⲉⲓ ⲉϩⲟⲩⲛ ⲉⲡⲉϥⲏⲓ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁⲥⲕⲱ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲛⲉⲛϩⲟⲓⲧⲉ	_	_	_	_	_	_	_	_
+5	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	Entity=(object
+6	ϩⲟⲓⲧⲉ	ϩⲟⲉⲓⲧⲉ	NOUN	N	_	4	obj	_	Entity=object)
+7-8	ⲛⲧⲟⲟⲧⲥ	_	_	_	_	_	_	_	_
+7	ⲛⲧⲟⲟⲧ	ⲛⲧⲛ	ADP	PREP	_	8	case	_	_
+8	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+9-11	ϣⲁⲛⲧⲉⲡⲉⲥϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+9	ϣⲁⲛⲧⲉ	ϣⲁⲛⲧⲉ	AUX	ALIM	_	12	aux	_	_
+10	ⲡⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(person
+11	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	12	nsubj	_	Entity=person)
+12	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	4	advcl	_	_
+13	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	12	advmod	_	_
+14-16	ⲉⲡⲉϥⲏⲓ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	ADP	PREP	_	16	case	_	_
+15	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	Entity=(place
+16	ⲏⲓ	ⲏⲓ	NOUN	N	_	12	obl	_	Entity=place)
+
+# sent_id = sahidic_ot-01_Genesis_39_s0007
+# text_en = And she spoke to him according to these words, saying, The Hebrew servant, whom thou broughtest in to us, came in to me to mock me, and said to me, I will lie with thee.
+# text = ⲁⲥϣⲁϫⲉ . . .
+1-3	ⲁⲥϣⲁϫⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	0	punct	_	_
+5	.	.	PUNCT	PUNCT	_	0	punct	_	_
+6	.	.	PUNCT	PUNCT	_	0	punct	_	_
+

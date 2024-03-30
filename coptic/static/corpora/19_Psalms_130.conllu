@@ -1,0 +1,115 @@
+# newdoc id = sahidic.ot:19_Psalms_130
+# sent_id = sahidic_ot-19_Psalms_130_s0001
+# text_en = O Lord, my heart is not exalted, neither have mine eyes been haughtily raised: neither have I exercised myself in great matters, nor in things too wonderful for me.
+# text = ⲧⲱⲇⲏ ⲛⲛⲧⲱⲣⲧⲣ ⲡϫⲟⲉⲓⲥ ⲙⲡⲉⲛⲁϩⲏⲧ ϫⲓⲥⲉ ⲟⲩⲇⲉ ⲙⲡⲉⲛⲁⲃⲁⲗ ϫⲁⲥⲧⲟⲩ ⲟⲩⲇⲉ ⲙⲡⲓⲙⲟⲟϣⲉ ⲙⲛⲛⲓⲛⲟϭ ⲟⲩⲇⲉ ⲙⲛⲛⲓϣⲡⲏⲣⲉ ⲉϩⲟⲩ ⲉⲣⲟⲓ
+1-2	ⲧⲱⲇⲏ	_	_	_	_	_	_	_	_
+1	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ⲱⲇⲏ	ⲱⲇⲏ	NOUN	N	Foreign=Yes	0	root	_	OrigLang=grc
+3-5	ⲛⲛⲧⲱⲣⲧⲣ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(object
+5	ⲧⲱⲣⲧⲣ	ⲧⲱⲣⲧⲣ	NOUN	N	_	2	nmod	_	Entity=object)
+6-7	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
+7	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	2	appos	_	_
+8-10	ⲙⲡⲉⲛⲁϩⲏⲧ	_	_	_	_	_	_	_	_
+8	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	11	aux	_	_
+9	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	11	nsubj	_	Entity=abstract)
+11	ϫⲓⲥⲉ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	2	acl	_	_
+12	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	16	cc	_	OrigLang=grc
+13-15	ⲙⲡⲉⲛⲁⲃⲁⲗ	_	_	_	_	_	_	_	_
+13	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	16	aux	_	_
+14	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	Entity=(object
+15	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	16	nsubj	_	Entity=object)
+16-17	ϫⲁⲥⲧⲟⲩ	_	_	_	_	_	_	_	_
+16	ϫⲁⲥⲧ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	11	conj	_	_
+17	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+18	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	21	cc	_	OrigLang=grc
+19-21	ⲙⲡⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
+19	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	21	aux	_	_
+20	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+21	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	11	conj	_	_
+22-24	ⲙⲛⲛⲓⲛⲟϭ	_	_	_	_	_	_	_	_
+22	ⲙⲛ	ⲙⲛ	ADP	PREP	_	24	case	_	_
+23	ⲛⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	24	det	_	Entity=(person
+24	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	21	obl	_	Entity=person)
+25	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	28	cc	_	OrigLang=grc
+26-28	ⲙⲛⲛⲓϣⲡⲏⲣⲉ	_	_	_	_	_	_	_	_
+26	ⲙⲛ	ⲙⲛ	ADP	PREP	_	28	cc	_	_
+27	ⲛⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	28	det	_	Entity=(event
+28	ϣⲡⲏⲣⲉ	ϣⲡⲏⲣⲉ	NOUN	N	_	24	conj	_	Entity=event)
+29	ⲉϩⲟⲩ	ⲉϩⲟⲩ	ADV	ADV	_	31	case	_	Morphs=ⲉ-ϩⲟⲩ
+30-31	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+30	ⲉⲣⲟ	ⲉ	ADP	PREP	_	31	case	_	_
+31	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	21	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-19_Psalms_130_s0002
+# text_en = I shall have sinned if I have not been humble, but have exulted my soul: according to the relation of a weaned child to his mother, so wilt thou recompense my soul.
+# text = ⲉϣⲱⲡ ⲉⲙⲡⲓⲑⲃⲃⲓⲟⲓ ⲁⲗⲗⲁ ⲁⲓϫⲓⲥⲉ ⲛⲧⲁⲯⲩⲭⲏ ⲛⲧϩⲉ ⲙⲡⲉⲛⲧⲁⲩⲟⲙϫϥ ⲉⲧⲉϥⲙⲁⲁⲩ ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲙⲡⲧⲱⲱⲃⲉ ⲛⲧⲁⲯⲩⲭⲏ
+1-2	ⲉϣⲱⲡ	_	_	_	_	_	_	_	_
+1	ⲉ	ⲉ	PART	PREP	_	2	mark	_	_
+2	ϣⲱⲡ	ϣⲱⲡ	VERB	V	VerbForm=Inf	0	root	_	_
+3-7	ⲉⲙⲡⲓⲑⲃⲃⲓⲟⲓ	_	_	_	_	_	_	_	_
+3	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	6	mark	_	_
+4	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	6	aux	_	_
+5	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	ⲑⲃⲃⲓⲟ	ⲑⲃⲃⲓⲟ	VERB	V	VerbForm=Fin	2	advcl	_	_
+7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+8	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	11	cc	_	OrigLang=grc
+9-11	ⲁⲓϫⲓⲥⲉ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	ϫⲓⲥⲉ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	2	conj	_	_
+12-14	ⲛⲧⲁⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	Entity=(abstract
+14	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	11	obj	_	Entity=abstract)|OrigLang=grc
+15-17	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Orig=ⲑ
+17	ϩⲉ	ϩⲉ	NOUN	N	_	11	obl	_	Orig=ⲉ
+18-23	ⲙⲡⲉⲛⲧⲁⲩⲟⲙϫϥ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ⲡⲉⲛⲧ	ⲡⲉⲛⲧ	NOUN	N	_	17	nmod	_	Entity=(event)
+20	ⲁ	ⲁ	AUX	APST	_	22	aux	_	_
+21	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
+22	ⲟⲙϫ	ⲟⲙϫ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+23	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+24-26	ⲉⲧⲉϥⲙⲁⲁⲩ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	26	case	_	_
+25	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	Entity=(person
+26	ⲙⲁⲁⲩ	ⲙⲁⲁⲩ	NOUN	N	_	22	obl	_	Entity=person)
+27	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	22	parataxis	_	Entity=(abstract)
+28	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	27	cop	_	_
+29-30	ⲧϩⲉ	_	_	_	_	_	_	_	_
+29	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	Orig=ⲑ
+30	ϩⲉ	ϩⲉ	NOUN	N	_	27	nsubj	_	Orig=ⲉ
+31-33	ⲙⲡⲧⲱⲱⲃⲉ	_	_	_	_	_	_	_	_
+31	ⲙ	ⲛ	ADP	PREP	_	33	case	_	_
+32	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	Entity=(object
+33	ⲧⲱⲱⲃⲉ	ⲧⲱⲱⲃⲉ	NOUN	N	_	30	nmod	_	_
+34-36	ⲛⲧⲁⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+34	ⲛ	ⲛ	ADP	PREP	_	36	case	_	_
+35	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	36	det	_	Entity=(abstract
+36	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	33	nmod	_	Entity=abstract)object)|OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_130_s0003
+# text_en = Let Israel hope in the Lord, from henceforth and for ever.
+# text = ⲙⲁⲣⲉⲡⲓⲥⲣⲁⲏⲗ ϩⲉⲗⲡⲓⲍⲉ ⲉⲡϫⲟⲉⲓⲥ ϫⲓⲛⲧⲉⲛⲟⲩ ϣⲁⲉⲛⲉϩ
+1-3	ⲙⲁⲣⲉⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	4	aux	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+3	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)|OrigLang=he
+4	ϩⲉⲗⲡⲓⲍⲉ	ϩⲉⲗⲡⲓⲍⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
+5-7	ⲉⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	4	obl	_	Entity=person)
+8-9	ϫⲓⲛⲧⲉⲛⲟⲩ	_	_	_	_	_	_	_	_
+8	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	9	case	_	_
+9	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	4	obl	_	_
+10-11	ϣⲁⲉⲛⲉϩ	_	_	_	_	_	_	_	_
+10	ϣⲁ	ϣⲁ	ADP	PREP	_	11	case	_	_
+11	ⲉⲛⲉϩ	ⲉⲛⲉϩ	NOUN	N	_	4	obl	_	Entity=(time)
+

@@ -1,0 +1,437 @@
+# newdoc id = sahidic.ot:01_Genesis_47
+# sent_id = sahidic_ot-01_Genesis_47_s0001
+# text_en = And Pharao spoke to Joseph, saying, Thy father, and thy brethren, are come to thee.
+# text = ⲡⲉϫⲁϥ ⲇⲉ ⲛϭⲓⲫⲁⲣⲁⲱ ⲛⲓⲱⲥⲏⲫ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲡⲉⲕⲉⲓⲱⲧ ⲙⲛⲛⲉⲕⲥⲛⲏⲩ ⲁⲩⲉⲓ ϣⲁⲣⲟⲕ
+1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
+1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
+4-5	ⲛϭⲓⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+4	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	5	case	_	_
+5	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	1	dislocated	_	Entity=(person-Ramesses_II|OrigLang=egy
+6-7	ⲛⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	5	nmod	_	Entity=(person-Joseph_%28Genesis%29)person-Ramesses_II)|OrigLang=he
+8-10	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	1	advcl	_	_
+11-12	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+11	ⲙⲙⲟ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+13-15	ϫⲉⲡⲉⲕⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+13	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	21	mark	_	_
+14	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	15	det	_	Entity=(person
+15	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	21	dislocated	_	Entity=person)
+16-18	ⲙⲛⲛⲉⲕⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
+16	ⲙⲛ	ⲙⲛ	ADP	PREP	_	18	cc	_	_
+17	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	18	det	_	Entity=(person
+18	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	15	conj	_	Entity=person)
+19-21	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+19	ⲁ	ⲁ	AUX	APST	_	21	aux	_	_
+20	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+21	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	10	ccomp	_	_
+22-23	ϣⲁⲣⲟⲕ	_	_	_	_	_	_	_	_
+22	ϣⲁⲣⲟ	ϣⲁ	ADP	PREP	_	23	case	_	_
+23	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	21	obl	_	_
+
+# sent_id = sahidic_ot-01_Genesis_47_s0002
+# text_en = Behold, the land of Egypt is before thee; settle thy father and thy brethren in the best land.
+# text = ⲉⲓⲥϩⲏⲏⲧⲉ ⲡⲕⲁϩ ⲛⲕⲏⲙⲉ ⲙⲡⲉⲩⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲁⲣⲉⲡⲉⲕⲉⲓⲱⲧ ⲙⲛⲛⲉⲕⲥⲛⲏⲩ ϣⲱⲡⲉ ϩⲣⲁⲓ ϩⲙⲡⲕⲁϩ ⲉⲛⲁⲛⲟⲩϥ
+1-2	ⲉⲓⲥϩⲏⲏⲧⲉ	_	_	_	_	_	_	_	_
+1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	17	advmod	_	_
+2	ϩⲏⲏⲧⲉ	ϩⲏⲏⲧⲉ	PART	PTC	_	1	fixed	_	_
+3-4	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Entity=(place
+4	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	17	vocative	_	_
+5-6	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	4	nmod	_	Entity=(place-Egypt)
+7-9	ⲙⲡⲉⲩⲙⲧⲟ	_	_	_	_	_	_	_	_
+7	ⲙ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+9	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	4	nmod	_	_
+10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	Entity=abstract)place)
+11-13	ⲙⲁⲣⲉⲡⲉⲕⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+11	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	17	aux	_	_
+12	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	13	det	_	Entity=(person
+13	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	17	nsubj	_	Entity=person)
+14-16	ⲙⲛⲛⲉⲕⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
+14	ⲙⲛ	ⲙⲛ	ADP	PREP	_	16	cc	_	_
+15	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	det	_	Entity=(person
+16	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	13	conj	_	Entity=person)
+17	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+18	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	17	advmod	_	_
+19-21	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+19	ϩⲙ	ϩⲛ	ADP	PREP	_	21	case	_	_
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(place
+21	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	17	obl	_	Entity=place)
+22-24	ⲉⲛⲁⲛⲟⲩϥ	_	_	_	_	_	_	_	_
+22	ⲉ	ⲉ	ADP	PREP	_	24	case	_	_
+23	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	Entity=(substance
+24	ⲛⲟⲩϥ	ⲛⲟⲩϥ	NOUN	N	_	17	obl	_	Entity=substance)
+
+# sent_id = sahidic_ot-01_Genesis_47_s0003
+# text_en = And Joseph brought in Jacob his father, and set him before Pharao; and Jacob blessed Pharao.
+# text = ⲁⲓⲱⲥⲏⲫ ⲉⲓⲛⲉ ⲉϩⲟⲩⲛ ⲙⲡⲉϥⲉⲓⲱⲧ ⲓⲁⲕⲱⲃ ⲁϥⲧⲁϩⲟϥ ⲉⲣⲁⲧϥ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲫⲁⲣⲁⲱ ⲁⲓⲁⲕⲱⲃ ⲥⲙⲟⲩ ⲉⲫⲁⲣⲁⲱ . . .
+1-2	ⲁⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	3	nsubj	_	Entity=(person-Joseph_%28Genesis%29)|OrigLang=he
+3	ⲉⲓⲛⲉ	ⲉⲓⲛⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	3	advmod	_	_
+5-7	ⲙⲡⲉϥⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	Entity=(person
+7	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	3	obj	_	_
+8	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	7	nmod	_	Entity=(person-Jacob)person)|OrigLang=he
+9-12	ⲁϥⲧⲁϩⲟϥ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲧⲁϩⲟ	ⲧⲁϩⲟ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13-14	ⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
+13	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	14	case	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+15-17	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+15	ⲙ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	11	obl	_	_
+18	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	advmod	_	_
+19-20	ⲙⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	17	nmod	_	Entity=(person-Ramesses_II)abstract)|OrigLang=egy
+21-22	ⲁⲓⲁⲕⲱⲃ	_	_	_	_	_	_	_	_
+21	ⲁ	ⲁ	AUX	APST	_	23	aux	_	_
+22	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	23	nsubj	_	Entity=(person-Jacob)|OrigLang=he
+23	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+24-25	ⲉⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	25	case	_	_
+25	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	23	obl	_	Entity=(person-Ramesses_II)|OrigLang=egy
+26	.	.	PUNCT	PUNCT	_	0	punct	_	_
+27	.	.	PUNCT	PUNCT	_	0	punct	_	_
+28	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_47_s0004
+# text_en = And Joseph settled his father and his brethren, and gave them a possession in the land of Egypt, in the best land, in the land of Ramesses, as Pharao commanded.
+# text = ⲁⲓⲱⲥⲏⲫ ⲇⲉ ⲧⲣⲉⲡⲉϥⲉⲓⲱⲧ ϣⲱⲡⲉ ⲙⲛⲛⲉϥⲥⲛⲏⲩ ⲁⲩⲱ ⲁϥϯ ⲛⲁⲩ ⲛⲟⲩⲙⲁ ⲛϣⲱⲡⲉ ϩⲙⲡⲕⲁϩ ⲛⲕⲏⲙⲉ ⲉⲃⲟⲗ ϩⲙⲡⲕⲁϩ ⲉⲛⲁⲛⲟⲩϥ ϩⲙⲡⲕⲁϩ ⲛϩⲣⲁⲙⲉⲥⲥⲏ ⲕⲁⲧⲁⲧϩⲉ ⲛⲧⲁϥⲟⲩⲉϩⲥⲁϩⲛⲉ ⲛⲁϥ ⲛϭⲓⲫⲁⲣⲁⲱ
+1-2	ⲁⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=(person-Joseph_%28Genesis%29)|OrigLang=he
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4-6	ⲧⲣⲉⲡⲉϥⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+4	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
+5	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	Entity=(person
+6	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	7	nsubj	_	Entity=person)
+7	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	4	xcomp	_	_
+8-10	ⲙⲛⲛⲉϥⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	case	_	_
+9	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(person
+10	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	7	obl	_	Entity=person)
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+12-14	ⲁϥϯ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ϯ	ϯ	VERB	V	VerbForm=Fin	4	conj	_	_
+15-16	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
+16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obl	_	_
+17-19	ⲛⲟⲩⲙⲁ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ⲙⲁ	ⲙⲁ	NOUN	N	_	14	obj	_	_
+20-21	ⲛϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	19	nmod	_	Entity=place)
+22-24	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+22	ϩⲙ	ϩⲛ	ADP	PREP	_	24	case	_	_
+23	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	Entity=(place
+24	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	14	obl	_	_
+25-26	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+26	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	24	nmod	_	Entity=(place-Egypt)
+27	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	30	case	_	_
+28-30	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+28	ϩⲙ	ϩⲛ	ADP	PREP	_	27	fixed	_	_
+29	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	Entity=(place
+30	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	24	nmod	_	Entity=place)place)
+31-33	ⲉⲛⲁⲛⲟⲩϥ	_	_	_	_	_	_	_	_
+31	ⲉ	ⲉ	ADP	PREP	_	33	case	_	_
+32	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	33	det	_	Entity=(substance
+33	ⲛⲟⲩϥ	ⲛⲟⲩϥ	NOUN	N	_	14	obl	_	Entity=substance)
+34-36	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+34	ϩⲙ	ϩⲛ	ADP	PREP	_	36	case	_	_
+35	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	Entity=(place
+36	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	14	obl	_	_
+37-38	ⲛϩⲣⲁⲙⲉⲥⲥⲏ	_	_	_	_	_	_	_	_
+37	ⲛ	ⲛ	ADP	PREP	_	38	case	_	_
+38	ϩⲣⲁⲙⲉⲥⲥⲏ	ϩⲣⲁⲙⲉⲥⲥⲏ	NOUN	N	_	36	nmod	_	Entity=(object)place)
+39-41	ⲕⲁⲧⲁⲧϩⲉ	_	_	_	_	_	_	_	_
+39	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	41	case	_	OrigLang=grc
+40	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Orig=ⲑ
+41	ϩⲉ	ϩⲉ	NOUN	N	_	14	obl	_	Orig=ⲉ
+42-45	ⲛⲧⲁϥⲟⲩⲉϩⲥⲁϩⲛⲉ	_	_	_	_	_	_	_	_
+42	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	45	mark	_	_
+43	ⲁ	ⲁ	AUX	APST	_	45	aux	_	_
+44	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	nsubj	_	_
+45	ⲟⲩⲉϩⲥⲁϩⲛⲉ	ⲟⲩⲉϩⲥⲁϩⲛⲉ	VERB	V	VerbForm=Fin	41	acl	_	Morphs=ⲟⲩⲉϩ-ⲥⲁϩⲛⲉ
+46-47	ⲛⲁϥ	_	_	_	_	_	_	_	_
+46	ⲛⲁ	ⲛⲁ	ADP	PREP	_	47	case	_	_
+47	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	obl	_	_
+48-49	ⲛϭⲓⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+48	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	49	case	_	_
+49	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	45	dislocated	_	Entity=(person-Ramesses_II)|OrigLang=egy
+
+# sent_id = sahidic_ot-01_Genesis_47_s0005
+# text_en = And Joseph gave provision to his father, and his brethren, and to all the house of his father, corn for each person.
+# text = ⲁⲓⲱⲥⲏⲫ ϣⲓⲡⲥⲟⲩⲟ ⲙⲡⲉϥⲉⲓⲱⲧ ⲙⲛⲛⲉϥⲥⲛⲏⲩ ⲙⲛⲛⲁⲡⲏⲓ ⲧⲏⲣⲟⲩ ⲛⲧⲉⲡⲉϥⲉⲓⲱⲧ . . .
+1-2	ⲁⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	3	nsubj	_	Entity=(person-Joseph_%28Genesis%29)|OrigLang=he
+3-5	ϣⲓⲡⲥⲟⲩⲟ	_	_	_	_	_	_	_	_
+3	ϣⲓ	ϣⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(plant
+5	ⲥⲟⲩⲟ	ⲥⲟⲩⲟ	NOUN	N	_	3	obj	_	_
+6-8	ⲙⲡⲉϥⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+6	ⲙ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	Entity=(person
+8	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	5	nmod	_	Orig=ⲓⲱⲧ
+9-11	ⲙⲛⲛⲉϥⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
+9	ⲙⲛ	ⲙⲛ	ADP	PREP	_	11	cc	_	_
+10	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(person
+11	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	8	conj	_	Entity=person)
+12-15	ⲙⲛⲛⲁⲡⲏⲓ	_	_	_	_	_	_	_	_
+12	ⲙⲛ	ⲙⲛ	ADP	PREP	_	13	cc	_	_
+13	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	8	conj	_	Entity=person)
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(place
+15	ⲏⲓ	ⲏⲓ	NOUN	N	_	8	conj	_	_
+16-17	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+16	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	15	advmod	_	_
+17	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	16	det	_	_
+18-20	ⲛⲧⲉⲡⲉϥⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+18	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	20	case	_	_
+19	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	Entity=(person
+20	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	15	nmod	_	Entity=person)place)plant)
+21	.	.	PUNCT	PUNCT	_	0	punct	_	_
+22	.	.	PUNCT	PUNCT	_	0	punct	_	_
+23	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_47_s0006
+# text_en = except only the land of the priests; Joseph bought not this, for Pharao gave a portion in the way of gift to the priests; and they ate their portion which Pharao gave them; therefore they sold not their land.
+# text = . . . ⲁϥⲧⲱϣ ⲅⲁⲣ ⲛⲟⲩⲧⲟⲉ ⲛⲛⲟⲩⲏⲏⲃ ⲛϭⲓⲫⲁⲣⲁⲱ ⲉⲩⲟⲩⲱⲙ ⲛⲧⲧⲟⲉ ⲛⲧⲁⲫⲁⲣⲁⲱ ⲧⲟϣⲥ ⲛⲁⲩ ⲉⲧⲃⲉⲡⲁⲓ ⲙⲡⲟⲩϯ ⲙⲡⲉⲩⲕⲁϩ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4-6	ⲁϥⲧⲱϣ	_	_	_	_	_	_	_	_
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ⲧⲱϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
+8-10	ⲛⲟⲩⲧⲟⲉ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(object
+10	ⲧⲟⲉ	ⲧⲟⲉ	NOUN	N	_	6	obj	_	_
+11-13	ⲛⲛⲟⲩⲏⲏⲃ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	13	det	_	Entity=(person
+13	ⲟⲩⲏⲏⲃ	ⲟⲩⲏⲏⲃ	NOUN	N	_	10	nmod	_	Entity=person)object)
+14-15	ⲛϭⲓⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+14	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	15	case	_	_
+15	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	6	dislocated	_	Entity=(person-Ramesses_II)|OrigLang=egy
+16-18	ⲉⲩⲟⲩⲱⲙ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	18	mark	_	_
+17	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
+18	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	6	advcl	_	_
+19-21	ⲛⲧⲧⲟⲉ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	Entity=(object
+21	ⲧⲟⲉ	ⲧⲟⲉ	NOUN	N	_	18	obj	_	_
+22-24	ⲛⲧⲁⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+22	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	25	mark	_	_
+23	ⲁ	ⲁ	AUX	APST	_	25	aux	_	_
+24	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	25	nsubj	_	Entity=(person-Ramesses_II)|OrigLang=egy
+25-26	ⲧⲟϣⲥ	_	_	_	_	_	_	_	_
+25	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	21	acl	_	_
+26	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
+27-28	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+27	ⲛⲁ	ⲛⲁ	ADP	PREP	_	28	case	_	_
+28	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	25	obl	_	_
+29-30	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
+29	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	30	case	_	_
+30	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	25	obl	_	Entity=(abstract)
+31-33	ⲙⲡⲟⲩϯ	_	_	_	_	_	_	_	_
+31	ⲙ	ⲛ	ADP	PREP	_	33	case	_	_
+32	ⲡⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	33	det	_	Entity=(abstract
+33	ϯ	ϯ	NOUN	N	_	25	obl	_	_
+34-36	ⲙⲡⲉⲩⲕⲁϩ	_	_	_	_	_	_	_	_
+34	ⲙ	ⲛ	ADP	PREP	_	36	case	_	_
+35	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	36	det	_	Entity=(place
+36	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	33	nmod	_	Entity=place)abstract)object)
+
+# sent_id = sahidic_ot-01_Genesis_47_s0007
+# text_en = And Joseph said to all the Egyptians, Behold, I have bought you and your land this day for Pharao; take seed for you, and sow the land.
+# text = ⲡⲉϫⲁϥ ⲇⲉ ⲛϭⲓⲓⲱⲥⲏⲫ ⲛⲛⲣⲙⲛⲕⲏⲙⲉ ⲧⲏⲣⲟⲩ ϫⲉⲉⲓⲥϩⲏⲏⲧⲉ ⲁⲓϣⲉⲡⲧⲏⲩⲧⲛ ⲙⲡϩⲟⲟⲩ ⲙⲛⲡⲉⲧⲛⲕⲁϩ ⲉⲫⲁⲣⲁⲱ ϫⲓ ⲛⲏⲧⲛ ⲛⲟⲩϭⲣⲱϭ ⲛⲧⲉⲧⲛϫⲟ ⲙⲡⲕⲁϩ
+1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
+1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
+4-5	ⲛϭⲓⲓⲱⲥⲏⲫ	_	_	_	_	_	_	_	_
+4	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	5	case	_	_
+5	ⲓⲱⲥⲏⲫ	ⲓⲱⲥⲏⲫ	PROPN	NPROP	Foreign=Yes	1	dislocated	_	Entity=(person-Joseph_%28Genesis%29|OrigLang=he
+6-8	ⲛⲛⲣⲙⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(person
+8	ⲣⲙⲛⲕⲏⲙⲉ	ⲣⲙⲛⲕⲏⲙⲉ	NOUN	N	_	5	nmod	_	_
+9-10	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+9	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	8	advmod	_	_
+10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	9	det	_	Entity=person)person-Joseph_%28Genesis%29)
+11-13	ϫⲉⲉⲓⲥϩⲏⲏⲧⲉ	_	_	_	_	_	_	_	_
+11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	16	mark	_	_
+12	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	16	advmod	_	_
+13	ϩⲏⲏⲧⲉ	ϩⲏⲏⲧⲉ	PART	PTC	_	12	fixed	_	_
+14-17	ⲁⲓϣⲉⲡⲧⲏⲩⲧⲛ	_	_	_	_	_	_	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+16	ϣⲉⲡ	ϣⲱⲡ	VERB	V	VerbForm=Fin	1	ccomp	_	_
+17	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	16	obj	_	_
+18-20	ⲙⲡϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(time
+20	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	16	obl	_	Entity=time)|Orig=ⲟⲟⲩ
+21-23	ⲙⲛⲡⲉⲧⲛⲕⲁϩ	_	_	_	_	_	_	_	_
+21	ⲙⲛ	ⲙⲛ	ADP	PREP	_	23	cc	_	_
+22	ⲡⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	23	det	_	Entity=(place
+23	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	20	conj	_	Entity=place)
+24-25	ⲉⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	25	case	_	_
+25	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	26	obl	_	Entity=(place-Ramesses_II)|OrigLang=egy
+26	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	16	parataxis	_	_
+27-28	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
+27	ⲛⲏ	ⲛⲁ	ADP	PREP	_	28	case	_	_
+28	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	26	obl	_	_
+29-31	ⲛⲟⲩϭⲣⲱϭ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	31	case	_	_
+30	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	31	det	_	Entity=(plant
+31	ϭⲣⲱϭ	ϭⲣⲱϭ	NOUN	N	_	26	obj	_	Entity=plant)
+32-34	ⲛⲧⲉⲧⲛϫⲟ	_	_	_	_	_	_	_	_
+32	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	34	aux	_	_
+33	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	34	nsubj	_	_
+34	ϫⲟ	ϫⲟ	VERB	V	VerbForm=Fin	26	advcl	_	_
+35-37	ⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+35	ⲙ	ⲛ	ADP	PREP	_	37	case	_	_
+36	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	Entity=(place
+37	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	34	obj	_	Entity=place)
+
+# sent_id = sahidic_ot-01_Genesis_47_s0008
+# text_en = And there shall be the fruits of it; and ye shall give the fifth part to Pharao, and the four parts shall be for yourselves, for seed for the earth, and for food for you, and all that are in your houses.
+# text = ⲁⲩⲱ ⲉϣⲱⲡⲉ ⲉⲩϣⲁⲛϯⲕⲁⲣⲡⲟⲥ . . .
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	SCONJ	CONJ	_	4	mark	_	_
+3-4	ⲉⲩϣⲁⲛϯⲕⲁⲣⲡⲟⲥ	_	_	_	_	_	_	_	_
+3	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ	PRON	ACOND_PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ϯⲕⲁⲣⲡⲟⲥ	ϯⲕⲁⲣⲡⲟⲥ	VERB	V	VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	0	punct	_	_
+6	.	.	PUNCT	PUNCT	_	0	punct	_	_
+7	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_47_s0009
+# text_en = And Joseph appointed it to them for an ordinance until this day; to reserve a fifth part for Pharao, on the land of Egypt, except only the land of the priests, that was not Pharao's.
+# text = . . . ⲙⲫⲁⲣⲁⲱ ⲥⲁⲃⲗⲡⲕⲁϩ ⲙⲙⲁⲧⲉ ⲛⲛⲟⲩⲏⲏⲃ ⲉⲧⲉⲙⲡⲉϥϣⲱⲡⲉ ⲙⲫⲁⲣⲁⲱ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4-5	ⲙⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+4	ⲙ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	6	nsubj	_	Entity=(place-Ramesses_II)|OrigLang=egy
+6-8	ⲥⲁⲃⲗⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+6	ⲥⲁⲃⲗ	ⲥⲁⲃⲗ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(place
+8	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	6	obj	_	_
+9	ⲙⲙⲁⲧⲉ	ⲙⲙⲁⲧⲉ	ADV	ADV	_	6	advmod	_	_
+10-12	ⲛⲛⲟⲩⲏⲏⲃ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	Entity=(person
+12	ⲟⲩⲏⲏⲃ	ⲟⲩⲏⲏⲃ	NOUN	N	_	8	nmod	_	_
+13-16	ⲉⲧⲉⲙⲡⲉϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+13	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+14	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	16	aux	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	12	acl	_	_
+17-18	ⲙⲫⲁⲣⲁⲱ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ⲫⲁⲣⲁⲱ	ⲫⲁⲣⲁⲱ	PROPN	NPROP	Foreign=Yes	16	obl	_	Entity=(person-Ramesses_II)person)place)|OrigLang=egy
+
+# sent_id = sahidic_ot-01_Genesis_47_s0010
+# text_en = And Israel dwelt in Egypt, in the land of Gesem, and they gained an inheritance upon it; and they increased and multiplied very greatly.
+# text = ⲁⲡⲓⲥⲣⲁⲏⲗ ⲇⲉ ⲟⲩⲱϩ ϩⲙⲡⲕⲁϩ ⲛⲕⲏⲙⲉ ϩⲓϫⲙⲡⲕⲁϩ ⲛⲅⲉⲥⲉⲙ ⲁⲩⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ϩⲓϫⲱϥ ⲁⲩⲱ ⲁⲩⲁⲓⲁⲓ ⲁⲩⲁϣⲁⲓ ⲉⲙⲁⲧⲉ
+1-3	ⲁⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+3	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	5	nsubj	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)|Orig=ⲓⲏⲗ|OrigLang=he
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
+5	ⲟⲩⲱϩ	ⲟⲩⲱϩ	VERB	V	VerbForm=Fin	0	root	_	_
+6-8	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+6	ϩⲙ	ϩⲛ	ADP	PREP	_	8	case	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(place-Egypt
+8	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	5	obl	_	_
+9-10	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	8	nmod	_	Entity=place-Egypt)
+11-13	ϩⲓϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+11	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place
+13	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	5	obl	_	_
+14-15	ⲛⲅⲉⲥⲉⲙ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲅⲉⲥⲉⲙ	ⲅⲉⲥⲉⲙ	PROPN	NPROP	_	13	nmod	_	Entity=(person)place)
+16-18	ⲁⲩⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	_	_	_	_	_	_	_	_
+16	ⲁ	ⲁ	AUX	APST	_	18	aux	_	_
+17	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
+18	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	5	parataxis	_	OrigLang=grc
+19-20	ϩⲓϫⲱϥ	_	_	_	_	_	_	_	_
+19	ϩⲓϫⲱ	ϩⲓϫⲛ	ADP	PREP	_	20	case	_	_
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl	_	_
+21	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
+22-24	ⲁⲩⲁⲓⲁⲓ	_	_	_	_	_	_	_	_
+22	ⲁ	ⲁ	AUX	APST	_	24	aux	_	_
+23	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
+24	ⲁⲓⲁⲓ	ⲁⲓⲁⲓ	VERB	V	VerbForm=Fin	18	conj	_	_
+25-27	ⲁⲩⲁϣⲁⲓ	_	_	_	_	_	_	_	_
+25	ⲁ	ⲁ	AUX	APST	_	27	aux	_	_
+26	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
+27	ⲁϣⲁⲓ	ⲁϣⲁⲉⲓ	VERB	V	VerbForm=Fin	24	parataxis	_	_
+28	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	27	advmod	_	_
+
+# sent_id = sahidic_ot-01_Genesis_47_s0011
+# text_en = And Jacob survived seventeen years in the land of Egypt; and Jacob's days of the years of his life were a hundred and forty-seven years.
+# text = ⲁⲓⲁⲕⲱⲃ ⲇⲉ ⲱⲛϩ ϩⲙⲡⲕⲁϩ ⲛⲕⲏⲙⲉ ⲙⲙⲛⲧⲥⲁϣϥⲉ ⲛⲣⲟⲙⲡⲉ ⲁⲩϣⲱⲡⲉ ⲇⲉ ⲛϭⲓⲛⲉϩⲟⲟⲩ . . .
+1-2	ⲁⲓⲁⲕⲱⲃ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=(person-Jacob)|OrigLang=he
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4	ⲱⲛϩ	ⲱⲛϩ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+5	ϩⲙ	ϩⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place-Egypt
+7	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	4	obl	_	_
+8-9	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	7	nmod	_	Entity=place-Egypt)
+10-11	ⲙⲙⲛⲧⲥⲁϣϥⲉ	_	_	_	_	_	_	_	_
+10	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲙⲛⲧⲥⲁϣϥⲉ	ⲙⲛⲧⲥⲁϣϥⲉ	NUM	NUM	NumType=Card	13	nummod	_	Entity=(time|Morphs=ⲙⲛⲧ-ⲥⲁϣϥⲉ
+12-13	ⲛⲣⲟⲙⲡⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	4	obl	_	Entity=time)
+14-16	ⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+16	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+17	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	16	advmod	_	OrigLang=grc
+18-20	ⲛϭⲓⲛⲉϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+18	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	20	case	_	_
+19	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	20	det	_	Entity=(animal
+20	ⲉϩⲟⲟⲩ	ⲉϩⲉ	NOUN	N	_	16	dislocated	_	Entity=animal)
+21	.	.	PUNCT	PUNCT	_	0	punct	_	_
+22	.	.	PUNCT	PUNCT	_	0	punct	_	_
+23	.	.	PUNCT	PUNCT	_	0	punct	_	_
+

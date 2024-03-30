@@ -1,0 +1,78 @@
+# newdoc id = sahidic.ot:02_Exodus_28
+# sent_id = sahidic_ot-02_Exodus_28_s0001
+# text_en = And do thou take to thyself both Aaron thy brother, and his sons, even them of the children of Israel; so that Aaron, and Nadab and Abiud, and Eleazar and Ithamar, sons of Aaron, may minister to me.
+# text = ⲙⲛⲁⲇⲁⲃ ⲙⲛⲁⲃⲓⲟⲩⲇ ⲙⲛⲉⲗⲉⲁⲍⲁⲣ ⲙⲛⲓⲑⲁⲙⲁⲣ ⲉⲧⲉⲛϣⲏⲣⲉ ⲛⲉ ⲛⲁⲁⲣⲱⲛ
+1-2	ⲙⲛⲁⲇⲁⲃ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲁⲇⲁⲃ	ⲁⲇⲁⲃ	PROPN	NPROP	_	0	root	_	Entity=(person-Nadab_%28son_of_Aaron%29)
+3-4	ⲙⲛⲁⲃⲓⲟⲩⲇ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	8	cc	_	_
+4	ⲁⲃⲓⲟⲩⲇ	ⲁⲃⲓⲟⲩⲇ	PROPN	NPROP	_	2	conj	_	Entity=(person-Abihud
+5-6	ⲙⲛⲉⲗⲉⲁⲍⲁⲣ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	8	cc	_	_
+6	ⲉⲗⲉⲁⲍⲁⲣ	ⲉⲗⲉⲁⲍⲁⲣ	PROPN	NPROP	_	2	conj	_	Entity=(person-Eleazar)
+7-8	ⲙⲛⲓⲑⲁⲙⲁⲣ	_	_	_	_	_	_	_	_
+7	ⲙⲛ	ⲙⲛ	ADP	PREP	_	8	cc	_	_
+8	ⲓⲑⲁⲙⲁⲣ	ⲓⲑⲁⲙⲁⲣ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+9-11	ⲉⲧⲉⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+9	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
+10	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(person-Aaron
+11	ⲛϣⲏⲣⲉ	ⲛϣⲏⲣⲉ	NOUN	N	_	4	nmod	_	_
+12	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	11	cop	_	_
+13-14	ⲛⲁⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+14	ⲁⲁⲣⲱⲛ	ⲁⲁⲣⲱⲛ	PROPN	NPROP	_	11	appos	_	Entity=person-Aaron)person-Abihud)
+
+# sent_id = sahidic_ot-02_Exodus_28_s0002
+# text_en = And thou shalt make holy apparel for Aaron thy brother, for honour and glory.
+# text = ⲁⲩⲱ ⲉⲕⲉⲧⲁⲙⲓⲟ ⲛⲟⲩⲥⲧⲟⲗⲏ ⲉⲥⲟⲩⲁⲁⲃ ⲛⲁⲁⲣⲱ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2-3	ⲉⲕⲉⲧⲁⲙⲓⲟ	_	_	_	_	_	_	_	_
+2	ⲉⲕⲉ	ⲉⲣⲉ_ⲛⲧⲟⲕ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲛⲟⲩⲥⲧⲟⲗⲏ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(object
+6	ⲥⲧⲟⲗⲏ	ⲥⲧⲟⲗⲏ	NOUN	N	Foreign=Yes	3	obj	_	OrigLang=grc
+7-9	ⲉⲥⲟⲩⲁⲁⲃ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
+8	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	6	acl	_	Entity=object)
+10-11	ⲛⲁⲁⲣⲱ	_	_	_	_	_	_	_	_
+10	ⲛⲁⲁ	ⲛⲁⲁ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲣⲱ	ⲣⲱ	ADV	ADV	_	10	advmod	_	_
+
+# sent_id = sahidic_ot-02_Exodus_28_s0003
+# text_en = And they shall take the gold, and the blue, and the purple, and the scarlet, and the fine linen.
+# text = ϩⲩⲁⲕⲓⲛⲑⲟⲥ ⲙⲛⲟⲩϫⲏϭⲉ ⲙⲛⲟⲩⲕⲟⲕⲕⲟⲥ ⲉϥⲥⲏⲧ ⲙⲛⲟⲩϣⲛⲥ ⲉϥⲥⲏⲧ
+1	ϩⲩⲁⲕⲓⲛⲑⲟⲥ	ϩⲩⲁⲕⲓⲛⲑⲟⲥ	NOUN	N	Foreign=Yes	0	root	_	Entity=(person)|OrigLang=grc
+2-4	ⲙⲛⲟⲩϫⲏϭⲉ	_	_	_	_	_	_	_	_
+2	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	cc	_	_
+3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(object
+4	ϫⲏϭⲉ	ϫⲏϭⲉ	NOUN	N	_	1	conj	_	Entity=object)
+5-7	ⲙⲛⲟⲩⲕⲟⲕⲕⲟⲥ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	cc	_	_
+6	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ⲕⲟⲕⲕⲟⲥ	ⲕⲟⲕⲕⲟⲥ	NOUN	N	Foreign=Yes	1	conj	_	Entity=person)|OrigLang=grc
+8-10	ⲉϥⲥⲏⲧ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲥⲏⲧ	ⲥⲏⲧ	VERB	V	VerbForm=Fin	1	advcl	_	_
+11-13	ⲙⲛⲟⲩϣⲛⲥ	_	_	_	_	_	_	_	_
+11	ⲙⲛ	ⲙⲛ	ADP	PREP	_	13	case	_	_
+12	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	13	det	_	Entity=(object
+13	ϣⲛⲥ	ϣⲛⲥ	NOUN	N	_	10	obl	_	Entity=object)
+14-16	ⲉϥⲥⲏⲧ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	16	mark	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	ⲥⲏⲧ	ⲥⲏⲧ	VERB	V	VerbForm=Fin	10	advcl	_	_
+
+# sent_id = sahidic_ot-02_Exodus_28_s0004
+# text_en = And they shall make the shoulder-piece of fine linen spun, the woven work of the embroiderer.
+# text = ⲩⲙⲧ ϩⲁⲣ ⲉⲓⲟⲡⲉ
+1	ⲩⲙⲧ	ⲩⲙⲧ	VERB	V	VerbForm=Fin	0	root	_	_
+2-3	ϩⲁⲣ	_	_	_	_	_	_	_	_
+2	ϩⲁ	ϩⲁ	ADP	PREP	_	3	case	_	_
+3	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	1	xcomp	_	_
+4	ⲉⲓⲟⲡⲉ	ⲉⲓⲟⲡⲉ	NOUN	N	_	3	obj	_	Entity=(abstract)
+

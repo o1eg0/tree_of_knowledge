@@ -1,0 +1,2020 @@
+# newdoc id = sahidic.ot:06_Joshua_15
+# sent_id = sahidic_ot-06_Joshua_15_s0001
+# text_en = And the borders of the tribe of Juda according to their families were from the borders of Idumea from the wilderness of sin, as far as Cades southward.
+# text = ⲛⲧⲟϣ ⲇⲉ ⲛⲧⲉⲡϩⲩⲗⲏ ⲛⲓⲟⲩⲇⲁⲥ ⲕⲁⲧⲁⲛⲉⲩⲇⲏⲙⲟⲥ ⲁⲩϣⲱⲡⲉ ⲛⲁⲩ ϫⲓⲛⲛⲧⲟϣ ⲛⲧⲓⲇⲟⲩⲙⲁⲓⲁ ϫⲓⲛⲧⲉⲣⲏⲙⲟⲥ ⲛⲥⲓⲛ ϣⲁϩⲣⲁⲓ ⲉⲕⲁⲇⲏⲥ ⲉⲡⲥⲁ ⲙⲡⲉⲙⲛⲧ
+1-2	ⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Entity=(abstract
+2	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	14	dislocated	_	_
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	14	advmod	_	OrigLang=grc
+4-6	ⲛⲧⲉⲡϩⲩⲗⲏ	_	_	_	_	_	_	_	_
+4	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	6	case	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(abstract|Orig=ⲫ
+6	ϩⲩⲗⲏ	ϩⲩⲗⲏ	NOUN	N	Foreign=Yes	2	nmod	_	Orig=ⲩⲗⲏ|OrigLang=grc
+7-8	ⲛⲓⲟⲩⲇⲁⲥ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲓⲟⲩⲇⲁⲥ	ⲓⲟⲩⲇⲁⲥ	PROPN	NPROP	Foreign=Yes	6	nmod	_	Entity=(person-Judah_%28son_of_Jacob%29)abstract)|OrigLang=he
+9-11	ⲕⲁⲧⲁⲛⲉⲩⲇⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+9	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	11	case	_	OrigLang=grc
+10	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(person
+11	ⲇⲏⲙⲟⲥ	ⲇⲏⲙⲟⲥ	NOUN	N	_	2	nmod	_	Entity=person)abstract)
+12-14	ⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+14	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+15-16	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
+16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obl	_	_
+17-19	ϫⲓⲛⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+17	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	19	case	_	_
+18	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	19	det	_	Entity=(abstract
+19	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	14	obl	_	_
+20-22	ⲛⲧⲓⲇⲟⲩⲙⲁⲓⲁ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Entity=(place|Orig=ϯ
+22	ⲓⲇⲟⲩⲙⲁⲓⲁ	ⲓⲇⲟⲩⲙⲁⲓⲁ	NOUN	N	_	19	nmod	_	Entity=place)abstract)|Orig=ⲇⲟⲩⲙⲁⲓⲁ
+23-25	ϫⲓⲛⲧⲉⲣⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+23	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	25	case	_	_
+24	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	Entity=(place
+25	ⲉⲣⲏⲙⲟⲥ	ⲉⲣⲏⲙⲟⲥ	NOUN	N	Foreign=Yes	14	obl	_	OrigLang=grc
+26-27	ⲛⲥⲓⲛ	_	_	_	_	_	_	_	_
+26	ⲛ	ⲛ	ADP	PREP	_	27	case	_	_
+27	ⲥⲓⲛ	ⲥⲓⲛ	NOUN	N	_	25	nmod	_	Entity=(abstract)place)
+28	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	30	advmod	_	_
+29-30	ⲉⲕⲁⲇⲏⲥ	_	_	_	_	_	_	_	_
+29	ⲉ	ⲉ	PART	PREP	_	30	mark	_	_
+30	ⲕⲁⲇⲏⲥ	ⲕⲁⲇⲏⲥ	VERB	V	VerbForm=Inf	14	xcomp	_	_
+31-33	ⲉⲡⲥⲁ	_	_	_	_	_	_	_	_
+31	ⲉ	ⲉ	ADP	PREP	_	33	case	_	_
+32	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	Entity=(place
+33	ⲥⲁ	ⲥⲁ	NOUN	N	_	30	obl	_	_
+34-36	ⲙⲡⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+34	ⲙ	ⲛ	ADP	PREP	_	36	case	_	_
+35	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	Entity=(place
+36	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	33	nmod	_	Entity=place)place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0002
+# text_en = And their borders were from the south as far as a part of the salt sea from the high country that extends southward.
+# text = ⲁⲩⲱ ⲛⲉⲩⲧⲟϣ ⲁⲩϣⲱⲡⲉ ϫⲓⲛⲡⲉⲙⲛⲧ ϣⲁϩⲣⲁⲓ ⲉⲩⲙⲉⲣⲟⲥ ⲛⲧⲑⲁⲗⲁⲥⲥⲁ ⲙⲙⲗϩ ϫⲓⲛⲙⲡⲕⲟⲟϩ ⲙⲡⲧⲟⲟⲩ ⲉⲧⲛⲏⲩ ⲉϩⲣⲁⲓ ⲉⲡⲉⲙⲛⲧ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲛⲉⲩⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	4	aux	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+6	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+7	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+8-10	ϫⲓⲛⲡⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+8	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	10	case	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(place
+10	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	7	obl	_	Entity=place)
+11	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	18	advmod	_	_
+12-14	ⲉⲩⲙⲉⲣⲟⲥ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
+13	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(abstract
+14	ⲙⲉⲣⲟⲥ	ⲙⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	7	obl	_	OrigLang=grc
+15-17	ⲛⲧⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(place|Orig=ⲑ
+17	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	14	nmod	_	Entity=place)abstract)|Orig=ⲁⲗⲁⲥⲥⲁ|OrigLang=grc
+18	ⲙⲙⲗϩ	ⲙⲙⲗϩ	VERB	V	VerbForm=Fin	7	conj	_	_
+19-22	ϫⲓⲛⲙⲡⲕⲟⲟϩ	_	_	_	_	_	_	_	_
+19	ϫⲓⲛ	ϫⲓⲛ	ADV	ADV	_	22	advmod	_	_
+20	ⲙ	ⲛ	ADP	PREP	_	22	case	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(place
+22	ⲕⲟⲟϩ	ⲕⲟⲟϩ	NOUN	N	_	18	obl	_	_
+23-25	ⲙⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+23	ⲙ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(place
+25	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	22	nmod	_	_
+26-27	ⲉⲧⲛⲏⲩ	_	_	_	_	_	_	_	_
+26	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	27	mark	_	_
+27	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	25	acl	_	_
+28	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	27	advmod	_	_
+29-31	ⲉⲡⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+29	ⲉ	ⲉ	ADP	PREP	_	31	case	_	_
+30	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Entity=(place
+31	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	27	obl	_	Entity=place)place)place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0003
+# text_en = And they proceed before the ascent of Acrabin, and go out round Sena, and go up from the south to Cades Barne; and go out to Asoron, and proceed up to Sarada, and go out by the way that is west of Cades.
+# text = ⲁⲩⲱ ϥⲏⲕ ϣⲁⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛⲧⲉϩⲓⲏ ⲛⲃⲱⲕ ⲉϩⲣⲁⲓ ⲉⲁⲕⲣⲁⲃⲓⲛ ⲁⲩⲱ ϥⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ⲉⲁⲕⲥⲉⲛⲁⲭⲓⲙ ⲁⲩⲱ ϥⲃⲏⲕ ⲉϩⲣⲁⲓ ϫⲓⲛⲡⲉⲙⲛⲧ ⲉϫⲛⲕⲁⲇⲏⲥ ⲃⲁⲣⲛⲏ ⲁⲩⲱ ϥⲛⲏⲩ ⲉⲃⲟⲗ ⲉⲁⲥⲱⲣⲱⲛ ⲁⲩⲱ ⲉⲁⲥⲁⲣⲁⲇⲁ ⲁⲩⲱ ϥⲛⲏⲩ ⲉϩⲣⲁⲓ ⲉϫⲛⲕⲁⲇⲏⲥ ⲕⲁⲧⲁⲙⲙⲁ ⲛϩⲱⲧⲡ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ϥⲏⲕ	ϥⲏⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+3-5	ϣⲁⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+3	ϣⲁ	ϣⲁ	ADP	PREP	_	5	case	_	_
+4	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(abstract
+5	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	2	obl	_	_
+6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	5	advmod	_	_
+7-8	ⲛⲧⲉϩⲓⲏ	_	_	_	_	_	_	_	_
+7	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	8	case	_	_
+8	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	5	nmod	_	Entity=(place
+9-10	ⲛⲃⲱⲕ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	8	nmod	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	Entity=place)abstract)
+12-15	ⲉⲁⲕⲣⲁⲃⲓⲛ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
+13	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
+14	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+15	ⲣⲁⲃⲓⲛ	ⲣⲁⲃⲓⲛ	VERB	V	VerbForm=Fin	10	advcl	_	_
+16	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	18	cc	_	_
+17-18	ϥⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	15	conj	_	_
+19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	18	advmod	_	_
+20-23	ⲉⲁⲕⲥⲉⲛⲁⲭⲓⲙ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	23	mark	_	_
+21	ⲁ	ⲁ	AUX	APST	_	23	aux	_	_
+22	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	_
+23	ⲥⲉⲛⲁⲭⲓⲙ	ⲥⲉⲛⲁⲭⲓⲙ	VERB	V	VerbForm=Fin	18	advcl	_	_
+24	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	26	cc	_	_
+25-26	ϥⲃⲏⲕ	_	_	_	_	_	_	_	_
+25	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
+26	ⲃⲏⲕ	ⲃⲱⲕ	VERB	VSTAT	VerbForm=Fin	2	conj	_	_
+27	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	26	advmod	_	_
+28-30	ϫⲓⲛⲡⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+28	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	30	case	_	_
+29	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	Entity=(place
+30	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	26	obl	_	Entity=place)
+31-32	ⲉϫⲛⲕⲁⲇⲏⲥ	_	_	_	_	_	_	_	_
+31	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	32	case	_	_
+32	ⲕⲁⲇⲏⲥ	ⲕⲁⲇⲏⲥ	NOUN	N	_	26	obl	_	Entity=(person
+33	ⲃⲁⲣⲛⲏ	ⲃⲁⲣⲛⲏ	PROPN	NPROP	_	32	appos	_	Entity=person)
+34	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	36	cc	_	_
+35-36	ϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+35	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	_
+36	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	2	conj	_	_
+37	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	47	advmod	_	_
+38-40	ⲉⲁⲥⲱⲣⲱⲛ	_	_	_	_	_	_	_	_
+38	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	40	mark	_	_
+39	ⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	40	nsubj	_	_
+40	ⲥⲱⲣⲱⲛ	ⲥⲱⲣⲱⲛ	VERB	V	VerbForm=Fin	36	advcl	_	_
+41	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	36	cc	_	_
+42-44	ⲉⲁⲥⲁⲣⲁⲇⲁ	_	_	_	_	_	_	_	_
+42	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	44	mark	_	_
+43	ⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	44	nsubj	_	_
+44	ⲥⲁⲣⲁⲇⲁ	ⲥⲁⲣⲁⲇⲁ	VERB	V	VerbForm=Fin	40	conj	_	_
+45	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	47	cc	_	_
+46-47	ϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+46	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	_
+47	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	2	conj	_	_
+48	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	47	advmod	_	_
+49-50	ⲉϫⲛⲕⲁⲇⲏⲥ	_	_	_	_	_	_	_	_
+49	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	50	case	_	_
+50	ⲕⲁⲇⲏⲥ	ⲕⲁⲇⲏⲥ	NOUN	N	_	47	obl	_	Entity=(place)
+51-53	ⲕⲁⲧⲁⲙⲙⲁ	_	_	_	_	_	_	_	_
+51	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	53	case	_	OrigLang=grc
+52	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	53	det	_	Entity=(place
+53	ⲙⲁ	ⲙⲁ	NOUN	N	_	47	obl	_	_
+54-55	ⲛϩⲱⲧⲡ	_	_	_	_	_	_	_	_
+54	ⲛ	ⲛ	ADP	PREP	_	55	case	_	_
+55	ϩⲱⲧⲡ	ϩⲱⲧⲡ	NOUN	N	_	53	nmod	_	Entity=(object)place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0004
+# text_en = And they go out to Selmona, and issue at the valley of Egypt; and the termination of its boundaries shall be at the sea: these are their boundaries southward.
+# text = ⲁⲩⲱ ϥⲃⲏⲕ ⲉϩⲣⲁⲓ ⲉϫⲛⲥⲉⲗⲙⲱⲛⲁ ⲁⲩⲱ ϥⲛⲏⲩ ⲉⲃⲟⲗ ϣⲁϩⲣⲁⲓ ⲉⲡⲓⲁ ⲛⲕⲏⲙⲉ ⲁⲩⲱ ⲡⲉⲓⲉⲃⲟⲗ ⲛⲛⲉϥⲧⲟϣ ϥⲛⲏⲩ ⲉϫⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ ⲛⲁⲓ ⲛⲉ ⲛⲉⲩⲧⲟϣ ϫⲓⲛⲡⲉⲙⲛⲧ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2-3	ϥⲃⲏⲕ	_	_	_	_	_	_	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲃⲏⲕ	ⲃⲱⲕ	VERB	VSTAT	VerbForm=Fin	0	root	_	_
+4	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	3	advmod	_	_
+5-6	ⲉϫⲛⲥⲉⲗⲙⲱⲛⲁ	_	_	_	_	_	_	_	_
+5	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	6	case	_	_
+6	ⲥⲉⲗⲙⲱⲛⲁ	ⲥⲉⲗⲙⲱⲛⲁ	NOUN	N	_	3	obl	_	Entity=(place)
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+8-9	ϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	3	conj	_	_
+10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	_
+11	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+12-14	ⲉⲡⲓⲁ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(abstract
+14	ⲓⲁ	ⲓⲁ	NOUN	N	_	9	obl	_	_
+15-16	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+16	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	14	nmod	_	Entity=(place-Egypt)abstract)
+17	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
+18-19	ⲡⲉⲓⲉⲃⲟⲗ	_	_	_	_	_	_	_	_
+18	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	22	det	_	Entity=(abstract
+19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	22	case	_	_
+20-22	ⲛⲛⲉϥⲧⲟϣ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	19	fixed	_	_
+21	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
+22	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	24	obl	_	Entity=abstract)
+23-24	ϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+23	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+24	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	3	conj	_	_
+25-27	ⲉϫⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+25	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	27	case	_	_
+26	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	Entity=(place
+27	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	24	obl	_	Entity=place)|OrigLang=grc
+28-29	ⲛⲁⲓ	_	_	_	_	_	_	_	_
+28	ⲛⲁ	ⲛⲁ	ADP	PREP	_	29	case	_	_
+29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	24	obl	_	_
+30	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	24	cop	_	_
+31-33	ⲛⲉⲩⲧⲟϣ	_	_	_	_	_	_	_	_
+31	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	33	aux	_	_
+32	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_
+33	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	24	parataxis	_	_
+34-36	ϫⲓⲛⲡⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+34	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	36	case	_	_
+35	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	Entity=(place
+36	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	33	obl	_	Entity=place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0005
+# text_en = And their boundaries eastward are all the salt sea as far as Jordan; and their borders from the north, and from the border of the sea, and from part of Jordan
+# text = ⲁⲩⲱ ⲛⲉⲩⲧⲟϣ ϫⲓⲛⲙⲙⲁ ⲛϣⲁⲧⲉⲑⲁⲗⲁⲥⲥⲁ ⲙⲙⲗϩ ϣⲁϩⲣⲁⲓ ⲉⲩⲙⲉⲣⲟⲥ ⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ ⲁⲩⲱ ⲛⲉⲩⲧⲟϣ ⲛⲏⲩ ⲉϩⲣⲁⲓ ⲉϫⲙⲡⲉⲙϩⲓⲧ ⲁⲩⲱ ϫⲓⲛⲙⲡⲕⲟⲟϩ ⲉⲧϫⲟⲥⲉ ⲙⲡⲧⲟⲟⲩ ⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ ⲁⲩⲱ ϫⲓⲛⲟⲩⲙⲉⲣⲟⲥ ⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲛⲉⲩⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	4	aux	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ϫⲓⲛⲙⲙⲁ	_	_	_	_	_	_	_	_
+5	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	7	case	_	_
+6	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(place
+7	ⲙⲁ	ⲙⲁ	NOUN	N	_	4	obl	_	_
+8-11	ⲛϣⲁⲧⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+9	ϣⲁ	ϣⲁ	ADP	PREP	_	11	case	_	_
+10	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	7	nmod	_	Entity=place)place)|OrigLang=grc
+12	ⲙⲙⲗϩ	ⲙⲙⲗϩ	VERB	V	VerbForm=Fin	4	conj	_	_
+13	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+14-16	ⲉⲩⲙⲉⲣⲟⲥ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	ADP	PREP	_	16	case	_	_
+15	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	16	det	_	Entity=(abstract
+16	ⲙⲉⲣⲟⲥ	ⲙⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	12	obl	_	OrigLang=grc
+17-19	ⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place-Jordan_River
+19	ⲓⲟⲣⲇⲁⲛⲏⲥ	ⲓⲟⲣⲇⲁⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	16	nmod	_	Entity=place-Jordan_River)abstract)|OrigLang=he
+20	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
+21-23	ⲛⲉⲩⲧⲟϣ	_	_	_	_	_	_	_	_
+21	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	24	aux	_	_
+22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
+23	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	4	conj	_	_
+24	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	4	conj	_	_
+25	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	24	advmod	_	_
+26-28	ⲉϫⲙⲡⲉⲙϩⲓⲧ	_	_	_	_	_	_	_	_
+26	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(place
+28	ⲉⲙϩⲓⲧ	ⲉⲙϩⲓⲧ	NOUN	N	_	24	obl	_	Entity=place)
+29	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	33	cc	_	_
+30-33	ϫⲓⲛⲙⲡⲕⲟⲟϩ	_	_	_	_	_	_	_	_
+30	ϫⲓⲛ	ϫⲓⲛ	ADV	ADV	_	33	case	_	_
+31	ⲙ	ⲛ	ADP	PREP	_	33	case	_	_
+32	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	Entity=(place
+33	ⲕⲟⲟϩ	ⲕⲟⲟϩ	NOUN	N	_	28	conj	_	_
+34-35	ⲉⲧϫⲟⲥⲉ	_	_	_	_	_	_	_	_
+34	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	35	mark	_	_
+35	ϫⲟⲥⲉ	ϫⲓⲥⲉ	VERB	VSTAT	VerbForm=Fin	33	acl	_	_
+36-38	ⲙⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+36	ⲙ	ⲛ	ADP	PREP	_	38	case	_	_
+37	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Entity=(place
+38	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	35	obl	_	_
+39-41	ⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+39	ⲛ	ⲛ	ADP	PREP	_	41	case	_	_
+40	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Entity=(place
+41	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	38	nmod	_	Entity=place)place)|OrigLang=grc
+42	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	45	cc	_	_
+43-45	ϫⲓⲛⲟⲩⲙⲉⲣⲟⲥ	_	_	_	_	_	_	_	_
+43	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	45	case	_	_
+44	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	45	det	_	Entity=(abstract
+45	ⲙⲉⲣⲟⲥ	ⲙⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	38	conj	_	OrigLang=grc
+46-48	ⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ	_	_	_	_	_	_	_	_
+46	ⲙ	ⲛ	ADP	PREP	_	48	case	_	_
+47	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	Entity=(place-Jordan_River
+48	ⲓⲟⲣⲇⲁⲛⲏⲥ	ⲓⲟⲣⲇⲁⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	45	nmod	_	Entity=place-Jordan_River)abstract)place)|OrigLang=he
+
+# sent_id = sahidic_ot-06_Joshua_15_s0006
+# text_en = the borders go up to Baethaglaam, and they go along from the north to Baetharaba, and the borders go on up to the stone of Baeon the son of Ruben.
+# text = ⲛⲉⲩⲧⲟϣ ⲥⲉⲛⲏⲩ ⲉϩⲣⲁⲓ ⲉϫⲛⲃⲁⲓⲑⲁⲅ ⲗⲁⲁⲙ ⲁⲩⲱ ⲥⲉⲛⲟⲩϫⲉ ϫⲓⲛⲡⲉⲙϩⲓⲧ ⲉϩⲣⲁⲓ ⲉⲃⲁⲓⲑⲁⲣⲁⲃⲁ ⲁⲩⲱ ⲛⲧⲟϣ ⲥⲉⲃⲏⲕ ⲉϩⲣⲁⲓ ⲉϫⲙⲡⲱⲛⲉ ⲛⲃⲁⲓⲱⲛ ⲡϣⲏⲣⲉ ⲛϩⲣⲟⲩⲃⲏⲛ
+1-3	ⲛⲉⲩⲧⲟϣ	_	_	_	_	_	_	_	_
+1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲥⲉⲛⲏⲩ	_	_	_	_	_	_	_	_
+4	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	3	xcomp	_	_
+6	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	_
+7-8	ⲉϫⲛⲃⲁⲓⲑⲁⲅ	_	_	_	_	_	_	_	_
+7	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	8	case	_	_
+8	ⲃⲁⲓⲑⲁⲅ	ⲃⲁⲓⲑⲁⲅ	PROPN	NPROP	_	5	obl	_	Entity=(place)
+9	ⲗⲁⲁⲙ	ⲗⲁⲁⲙ	VERB	V	VerbForm=Fin	3	advcl	_	_
+10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_
+11-12	ⲥⲉⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
+11	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	9	conj	_	_
+13-15	ϫⲓⲛⲡⲉⲙϩⲓⲧ	_	_	_	_	_	_	_	_
+13	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(abstract
+15	ⲉⲙϩⲓⲧ	ⲉⲙϩⲓⲧ	NOUN	N	_	12	obl	_	Entity=abstract)
+16	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+17-18	ⲉⲃⲁⲓⲑⲁⲣⲁⲃⲁ	_	_	_	_	_	_	_	_
+17	ⲉ	ⲉ	ADP	PREP	_	18	case	_	_
+18	ⲃⲁⲓⲑⲁⲣⲁⲃⲁ	ⲃⲁⲓⲑⲁⲣⲁⲃⲁ	PROPN	NPROP	_	12	obl	_	Entity=(person)
+19	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	23	cc	_	_
+20-21	ⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	Entity=(abstract
+21	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	23	dislocated	_	Entity=abstract)
+22-23	ⲥⲉⲃⲏⲕ	_	_	_	_	_	_	_	_
+22	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	ⲃⲏⲕ	ⲃⲱⲕ	VERB	VSTAT	VerbForm=Fin	9	conj	_	_
+24	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	23	advmod	_	_
+25-27	ⲉϫⲙⲡⲱⲛⲉ	_	_	_	_	_	_	_	_
+25	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	27	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Entity=(object
+27	ⲱⲛⲉ	ⲱⲛⲉ	NOUN	N	_	23	obl	_	_
+28-29	ⲛⲃⲁⲓⲱⲛ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ⲃⲁⲓⲱⲛ	ⲃⲁⲓⲱⲛ	PROPN	NPROP	_	27	nmod	_	Entity=(person
+30-31	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+30	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	29	appos	_	_
+32-34	ⲛϩⲣⲟⲩⲃⲏⲛ	_	_	_	_	_	_	_	_
+32	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
+33	ϩⲣⲟⲩⲃⲏ	ϩⲣⲟⲩⲃⲏ	NOUN	N	_	31	nmod	_	Entity=(abstract)person)object)
+34	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0007
+# text_en = And the borders continue on to the fourth part of the valley of Achor, and go down to Galgal, which is before the approach of Adammin, which is southward in the valley, and terminate at the water of the fountain of the sun; and their going forth shall be the fountain of Rogel.
+# text = ⲁⲩⲱ ⲛⲧⲟϣ ⲥⲉϫⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲡⲟⲩⲛ ⲛϥⲧⲟⲟⲩ ⲙⲡⲓⲁ ⲛⲁⲭⲱⲣ ⲁⲩⲱ ⲥⲉⲛⲏⲩ ⲉϩⲣⲁⲓ ⲉϫⲛⲅⲁⲗⲅⲁⲗ ⲧⲁⲓ ⲉⲧⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡϫⲓⲥⲉ ⲛⲁⲇⲁⲙⲓⲛ ⲧⲁⲓ ⲉⲧⲥⲁⲉⲙⲛⲧ ⲙⲡⲓⲁ ⲁⲩⲱ ⲥⲉⲛⲏⲩ ⲉⲃⲟⲗ ⲉϫⲙⲡⲙⲟⲟⲩ ⲛⲧⲡⲏⲅⲏ ⲙⲡⲣⲏ ⲁⲩⲱ ⲡⲉϥⲓ ⲉⲃⲟⲗ ⲉϥⲉϣⲱⲡⲉ ⲧⲉ ⲧⲡⲏⲅⲏ ⲛϩⲣⲱⲅⲏⲗ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+2-3	ⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	det	_	Entity=(abstract
+3	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	5	dislocated	_	Entity=abstract)
+4-5	ⲥⲉϫⲓ	_	_	_	_	_	_	_	_
+4	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	_
+7-9	ⲉϫⲛⲡⲟⲩⲛ	_	_	_	_	_	_	_	_
+7	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	5	obl	_	_
+10-11	ⲛϥⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	ϥⲧⲟⲟⲩ	ϥⲧⲟⲟⲩ	NUM	NUM	NumType=Card	9	nummod	_	_
+12-13	ⲙⲡⲓⲁ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲡⲓⲁ	ⲡⲓⲁ	NOUN	N	_	11	nmod	_	Entity=(abstract
+14	ⲛⲁⲭⲱⲣ	ⲛⲁⲭⲱⲣ	PROPN	NPROP	_	13	appos	_	Entity=abstract)
+15	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	17	cc	_	_
+16-17	ⲥⲉⲛⲏⲩ	_	_	_	_	_	_	_	_
+16	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+17	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	5	conj	_	_
+18	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	17	advmod	_	_
+19-20	ⲉϫⲛⲅⲁⲗⲅⲁⲗ	_	_	_	_	_	_	_	_
+19	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	20	case	_	_
+20	ⲅⲁⲗⲅⲁⲗ	ⲅⲁⲗⲅⲁⲗ	PROPN	NPROP	_	17	obl	_	Entity=(place
+21	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	20	appos	_	Entity=place)
+22-25	ⲉⲧⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+22	ⲉ	ⲉ	ADP	PREP	_	25	case	_	_
+23	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	25	advmod	_	_
+24	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(abstract
+25	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	38	obl	_	_
+26	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	25	advmod	_	_
+27-29	ⲙⲡϫⲓⲥⲉ	_	_	_	_	_	_	_	_
+27	ⲙ	ⲛ	ADP	PREP	_	29	case	_	_
+28	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	Entity=(place
+29	ϫⲓⲥⲉ	ϫⲓⲥⲉ	NOUN	N	_	25	nmod	_	Entity=place)
+30	ⲛⲁⲇⲁⲙⲓⲛ	ⲛⲁⲇⲁⲙⲓⲛ	ADP	PREP	_	31	case	_	_
+31	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	obl	_	Entity=(abstract
+32-33	ⲉⲧⲥⲁⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+32	ⲉⲧⲥⲁ	ⲉⲧⲥⲁ	DET	ART	_	33	det	_	Entity=(place
+33	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	31	nmod	_	_
+34-35	ⲙⲡⲓⲁ	_	_	_	_	_	_	_	_
+34	ⲙ	ⲛ	ADP	PREP	_	35	case	_	_
+35	ⲡⲓⲁ	ⲡⲓⲁ	NOUN	N	_	33	nmod	_	Entity=(abstract)place)abstract)
+36	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	38	cc	_	_
+37-38	ⲥⲉⲛⲏⲩ	_	_	_	_	_	_	_	_
+37	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	_
+38	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	5	conj	_	_
+39	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	38	advmod	_	_
+40-42	ⲉϫⲙⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+40	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	42	case	_	_
+41	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	Entity=(substance
+42	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	38	obl	_	Entity=substance)
+43-45	ⲛⲧⲡⲏⲅⲏ	_	_	_	_	_	_	_	_
+43	ⲛ	ⲛ	ADP	PREP	_	45	case	_	_
+44	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	Entity=(place
+45	ⲡⲏⲅⲏ	ⲡⲏⲅⲏ	NOUN	N	Foreign=Yes	25	nmod	_	OrigLang=grc
+46-48	ⲙⲡⲣⲏ	_	_	_	_	_	_	_	_
+46	ⲙ	ⲛ	ADP	PREP	_	48	case	_	_
+47	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	Entity=(object
+48	ⲣⲏ	ⲣⲏ	NOUN	N	_	45	nmod	_	Entity=object)place)abstract)
+49	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	38	cc	_	_
+50-51	ⲡⲉϥⲓ	_	_	_	_	_	_	_	_
+50	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	Entity=(abstract
+51	ⲉϥⲓ	ⲉϥⲓ	NOUN	N	_	54	dislocated	_	Orig=ⲉϥⲉⲓ
+52	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	51	advmod	_	Entity=abstract)
+53-54	ⲉϥⲉϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+53	ⲉϥⲉ	ⲉⲣⲉ_ⲛⲧⲟϥ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	54	nsubj	_	_
+54	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	5	conj	_	_
+55	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	54	cop	_	_
+56-57	ⲧⲡⲏⲅⲏ	_	_	_	_	_	_	_	_
+56	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	57	det	_	Entity=(place
+57	ⲡⲏⲅⲏ	ⲡⲏⲅⲏ	NOUN	N	Foreign=Yes	54	nsubj	_	OrigLang=grc
+58-59	ⲛϩⲣⲱⲅⲏⲗ	_	_	_	_	_	_	_	_
+58	ⲛ	ⲛ	ADP	PREP	_	59	case	_	_
+59	ϩⲣⲱⲅⲏⲗ	ϩⲣⲱⲅⲏⲗ	NOUN	N	_	57	nmod	_	Entity=(object)place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0008
+# text_en = And the borders go up to the valley of Ennom, behind Jebus southward; this is Jerusalem: and the borders terminate at the top of the mountain, which is before the valley of Ennom toward the sea, which is by the side of the land of Raphain northward.
+# text = ⲁⲩⲱ ⲛⲉϥⲧⲟϣ ⲥⲉⲃⲏⲕ ⲉϩⲣⲁⲓ ⲉⲡⲓⲁ ⲛⲟⲛⲱⲙ ⲉϫⲙⲡⲣⲏⲥ ⲙⲡⲓⲉⲃⲟⲩⲥ ϫⲓⲛⲡⲉϥⲉⲙⲛⲧ ⲧⲁⲓ ⲧⲉ ⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲁⲩⲱ ⲛⲧⲟϣ ⲥⲉⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ⲉϫⲙⲡⲕⲟⲟϩ ⲙⲡⲧⲟⲟⲩ ⲡⲁⲓ ⲉⲧⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡⲓⲁ ⲛⲟⲛⲱⲙ ϩⲁⲧⲛⲧⲑⲁⲗⲁⲥⲥⲁ ⲧⲁⲓ ⲉⲧⲥⲁⲟⲩⲥⲁ ⲙⲡⲕⲁϩ ⲛϩⲣⲁⲫⲁⲉⲓⲛ ⲉϫⲙⲡⲉⲙϩⲓⲧ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲛⲉϥⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲥⲉⲃⲏⲕ	_	_	_	_	_	_	_	_
+5	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+6	ⲃⲏⲕ	ⲃⲱⲕ	VERB	VSTAT	VerbForm=Fin	4	xcomp	_	_
+7	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	6	advmod	_	_
+8-10	ⲉⲡⲓⲁ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉ	ADP	PREP	_	10	case	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
+10	ⲓⲁ	ⲓⲁ	NOUN	N	_	6	obl	_	Entity=abstract)
+11	ⲛⲟⲛⲱⲙ	ⲛⲟⲛⲱⲙ	VERB	V	VerbForm=Fin	6	advcl	_	_
+12-14	ⲉϫⲙⲡⲣⲏⲥ	_	_	_	_	_	_	_	_
+12	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲣⲏⲥ	ⲣⲏⲥ	NOUN	N	_	11	obl	_	_
+15-17	ⲙⲡⲓⲉⲃⲟⲩⲥ	_	_	_	_	_	_	_	_
+15	ⲙ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(object
+17	ⲓⲉⲃⲟⲩⲥ	ⲓⲉⲃⲟⲩⲥ	NOUN	N	_	14	nmod	_	Entity=object)place)
+18-20	ϫⲓⲛⲡⲉϥⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+18	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	Entity=(abstract(place
+20	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	21	obl	_	Entity=place)
+21	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	parataxis	_	Entity=abstract)
+22	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	21	cop	_	_
+23-24	ⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	_	_	_	_	_	_	_	_
+23	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	Entity=(place-Jerusalem|Orig=ⲑ
+24	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	PROPN	NPROP	Foreign=Yes	21	nsubj	_	Entity=place-Jerusalem)|Orig=ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ|OrigLang=he
+25	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	29	cc	_	_
+26-27	ⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+26	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	27	det	_	Entity=(abstract
+27	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	29	dislocated	_	Entity=abstract)
+28-29	ⲥⲉⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
+28	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	_
+29	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	21	conj	_	_
+30	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	29	advmod	_	_
+31-33	ⲉϫⲙⲡⲕⲟⲟϩ	_	_	_	_	_	_	_	_
+31	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	33	case	_	_
+32	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	Entity=(place
+33	ⲕⲟⲟϩ	ⲕⲟⲟϩ	NOUN	N	_	29	obl	_	_
+34-36	ⲙⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+34	ⲙ	ⲛ	ADP	PREP	_	36	case	_	_
+35	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	Entity=(place
+36	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	33	nmod	_	_
+37	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	36	appos	_	Entity=place)place)
+38-41	ⲉⲧⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+38	ⲉ	ⲉ	PART	PREP	_	51	mark	_	_
+39	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	51	advmod	_	_
+40	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	Entity=(place(abstract
+41	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	51	obl	_	_
+42	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	41	advmod	_	_
+43-44	ⲙⲡⲓⲁ	_	_	_	_	_	_	_	_
+43	ⲙ	ⲛ	ADP	PREP	_	44	case	_	_
+44	ⲡⲓⲁ	ⲡⲓⲁ	NOUN	N	_	41	nmod	_	Entity=(abstract)abstract)
+45	ⲛⲟⲛⲱⲙ	ⲛⲟⲛⲱⲙ	VERB	V	VerbForm=Fin	21	parataxis	_	_
+46-48	ϩⲁⲧⲛⲧⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+46	ϩⲁⲧⲛ	ϩⲁⲧⲛ	ADP	PREP	_	48	case	_	_
+47	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	Orig=ⲑ
+48	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	45	obl	_	Orig=ⲁⲗⲁⲥⲥⲁ|OrigLang=grc
+49	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	48	appos	_	_
+50-53	ⲉⲧⲥⲁⲟⲩⲥⲁ	_	_	_	_	_	_	_	_
+50	ⲉ	ⲉ	PART	PREP	_	51	mark	_	_
+51	ⲧⲥⲁ	ⲧⲥⲁ	VERB	V	VerbForm=Inf	49	xcomp	_	_
+52	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	53	det	_	Entity=(place
+53	ⲥⲁ	ⲥⲁ	NOUN	N	_	51	obj	_	_
+54-56	ⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+54	ⲙ	ⲛ	ADP	PREP	_	56	case	_	_
+55	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	56	det	_	Entity=(place
+56	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	53	nmod	_	_
+57-58	ⲛϩⲣⲁⲫⲁⲉⲓⲛ	_	_	_	_	_	_	_	_
+57	ⲛ	ⲛ	ADP	PREP	_	58	case	_	_
+58	ϩⲣⲁⲫⲁⲉⲓⲛ	ϩⲣⲁⲫⲁⲉⲓⲛ	NOUN	N	_	56	nmod	_	Entity=(person)place)place)place)
+59-61	ⲉϫⲙⲡⲉⲙϩⲓⲧ	_	_	_	_	_	_	_	_
+59	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	61	case	_	_
+60	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	Entity=(abstract
+61	ⲉⲙϩⲓⲧ	ⲉⲙϩⲓⲧ	NOUN	N	_	45	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0009
+# text_en = And the border going forth from the top of the mountain terminates at the fountain of the water of Naphtho, and terminates at mount Ephron; and the border will lead to Baal; this is the city of Jarim.
+# text = ⲁⲩⲱ ⲡⲧⲟϣ ϥⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ϫⲓⲛⲛϫⲱϥ ⲙⲡⲧⲟⲟⲩ ⲉϫⲛⲧⲡⲏⲅⲏ ⲡⲙⲟⲟⲩ ⲛⲁⲭⲑ ⲥ ⲁⲩⲱ ϥⲛⲏⲩ ⲉⲃⲟⲗ ⲉⲡⲧⲟⲟⲩ ⲛⲉⲫⲣⲱⲛ ⲁⲩⲱ ⲡⲧⲟϣ ϥⲛⲁⲉⲓⲛⲉ ⲉϫⲛⲓⲉⲃⲁⲁⲗ ⲧⲁⲓ ⲧⲉ ⲧⲡⲟⲗⲓⲥ ⲓⲁⲣⲓⲙ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+2-3	ⲡⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(abstract
+3	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	5	dislocated	_	Entity=abstract)
+4-5	ϥⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	5	advmod	_	_
+7-10	ϫⲓⲛⲛϫⲱϥ	_	_	_	_	_	_	_	_
+7	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	9	case	_	_
+8	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	det	_	Entity=(object
+9	ϫⲱ	ϫⲱ	NOUN	N	_	5	obl	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	9	det	_	_
+11-13	ⲙⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place
+13	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	9	nmod	_	Entity=place)object)
+14-16	ⲉϫⲛⲧⲡⲏⲅⲏ	_	_	_	_	_	_	_	_
+14	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	16	case	_	_
+15	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Entity=(place
+16	ⲡⲏⲅⲏ	ⲡⲏⲅⲏ	NOUN	N	Foreign=Yes	5	obl	_	OrigLang=grc
+17-18	ⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	16	appos	_	_
+19	ⲛⲁⲭⲑ	ⲛⲁⲭⲑ	ADP	PREP	_	20	case	_	_
+20	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nmod	_	Entity=place)
+21	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	23	cc	_	_
+22-23	ϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+23	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	5	conj	_	_
+24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	advmod	_	_
+25-27	ⲉⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+25	ⲉ	ⲉ	ADP	PREP	_	27	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Entity=(place
+27	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	23	obl	_	Entity=place)
+28	ⲛⲉⲫⲣⲱⲛ	ⲛⲉⲫⲣⲱⲛ	VERB	V	VerbForm=Fin	23	dep	_	_
+29	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	34	cc	_	_
+30-31	ⲡⲧⲟϣ	_	_	_	_	_	_	_	_
+30	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Entity=(abstract
+31	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	34	dislocated	_	Entity=abstract)
+32-34	ϥⲛⲁⲉⲓⲛⲉ	_	_	_	_	_	_	_	_
+32	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
+33	ⲛⲁ	ⲛⲁ	AUX	FUT	_	34	aux	_	_
+34	ⲉⲓⲛⲉ	ⲉⲓⲛⲉ	VERB	V	VerbForm=Fin	5	conj	_	_
+35-36	ⲉϫⲛⲓⲉⲃⲁⲁⲗ	_	_	_	_	_	_	_	_
+35	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	36	case	_	_
+36	ⲓⲉⲃⲁⲁⲗ	ⲓⲉⲃⲁⲁⲗ	PROPN	NPROP	_	34	obl	_	Entity=(place)
+37	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	34	parataxis	_	Entity=(abstract)
+38	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	37	cop	_	_
+39-40	ⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+39	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	Entity=(place
+40	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	37	nsubj	_	OrigLang=grc
+41	ⲓⲁⲣⲓⲙ	ⲓⲁⲣⲓⲙ	PROPN	NPROP	_	40	appos	_	Entity=place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0010
+# text_en = And the border will go round from Baal to the sea, and will go on to the mount of Assar behind the city of Jarin northwards; this is Chaslon: and it will come down to the city of Sun, and will go on to the south.
+# text = ⲁⲩⲱ ⲡⲧⲟϣ ϥⲛⲁⲕⲱⲧⲉ ⲉϫⲛⲃⲁⲁⲗ ⲉϫⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ ⲁⲩⲱ ϥⲛⲁⲉⲓ ⲉϩⲣⲁⲓ ⲉⲡⲧⲟⲟⲩ ⲛⲁⲥⲁⲓⲣⲓⲟⲥ ⲛⲥⲁⲥⲡⲓⲣ ⲛⲧⲡⲟⲗⲓⲥ ⲓⲁⲣⲓⲙ ϫⲓⲛⲙⲡⲉⲙϩⲓⲧ ⲧⲁⲓ ⲧⲉ ⲭⲁⲥⲇⲱⲛ ⲁⲩⲱ ϥⲛⲁⲉⲓ ⲉϫⲛⲧⲡⲟⲗⲓⲥ ⲙⲡⲣⲏ ⲁⲩⲱ ϥⲛⲁⲕⲱⲧⲉ ⲉⲡⲉⲙⲛⲧ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+2-3	ⲡⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(abstract
+3	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	6	dislocated	_	Entity=abstract)
+4-6	ϥⲛⲁⲕⲱⲧⲉ	_	_	_	_	_	_	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	ⲛⲁ	ⲛⲁ	AUX	FUT	_	6	aux	_	_
+6	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+7-8	ⲉϫⲛⲃⲁⲁⲗ	_	_	_	_	_	_	_	_
+7	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	8	case	_	_
+8	ⲃⲁⲁⲗ	ⲃⲁⲁⲗ	PROPN	NPROP	_	6	obl	_	Entity=(place)
+9-11	ⲉϫⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+9	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	11	case	_	_
+10	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	6	obl	_	Entity=place)|OrigLang=grc
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
+13-15	ϥⲛⲁⲉⲓ	_	_	_	_	_	_	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	ⲛⲁ	ⲛⲁ	AUX	FUT	_	15	aux	_	_
+15	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	6	conj	_	_
+16	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	15	advmod	_	_
+17-19	ⲉⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+17	ⲉ	ⲉ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	15	obl	_	Entity=place)
+20-21	ⲛⲁⲥⲁⲓⲣⲓⲟⲥ	_	_	_	_	_	_	_	_
+20	ⲛⲁ	ⲛⲁ	AUX	FUT	_	21	aux	_	_
+21	ⲥⲁⲓⲣⲓⲟⲥ	ⲥⲁⲓⲣⲓⲟⲥ	VERB	V	VerbForm=Fin	6	xcomp	_	_
+22-23	ⲛⲥⲁⲥⲡⲓⲣ	_	_	_	_	_	_	_	_
+22	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	23	case	_	_
+23	ⲥⲡⲓⲣ	ⲥⲡⲓⲣ	NOUN	N	_	21	obl	_	Entity=(object
+24-26	ⲛⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	Entity=(place
+26	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	23	nmod	_	OrigLang=grc
+27	ⲓⲁⲣⲓⲙ	ⲓⲁⲣⲓⲙ	PROPN	NPROP	_	26	appos	_	Entity=place)object)
+28-31	ϫⲓⲛⲙⲡⲉⲙϩⲓⲧ	_	_	_	_	_	_	_	_
+28	ϫⲓⲛ	ϫⲓⲛ	ADV	ADV	_	31	case	_	_
+29	ⲙ	ⲛ	ADP	PREP	_	28	fixed	_	_
+30	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Entity=(abstract(object
+31	ⲉⲙϩⲓⲧ	ⲉⲙϩⲓⲧ	NOUN	N	_	32	nmod	_	Entity=object)
+32	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	21	parataxis	_	Entity=abstract)
+33	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	32	cop	_	_
+34	ⲭⲁⲥⲇⲱⲛ	ⲭⲁⲥⲇⲱⲛ	PROPN	NPROP	_	32	nsubj	_	Entity=(person)
+35	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	38	cc	_	_
+36-38	ϥⲛⲁⲉⲓ	_	_	_	_	_	_	_	_
+36	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	nsubj	_	_
+37	ⲛⲁ	ⲛⲁ	AUX	FUT	_	38	aux	_	_
+38	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	6	conj	_	_
+39-41	ⲉϫⲛⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+39	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	41	case	_	_
+40	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Entity=(place
+41	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	38	obl	_	OrigLang=grc
+42-44	ⲙⲡⲣⲏ	_	_	_	_	_	_	_	_
+42	ⲙ	ⲛ	ADP	PREP	_	44	case	_	_
+43	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	Entity=(object
+44	ⲣⲏ	ⲣⲏ	NOUN	N	_	41	nmod	_	Entity=object)place)
+45	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	48	cc	_	_
+46-48	ϥⲛⲁⲕⲱⲧⲉ	_	_	_	_	_	_	_	_
+46	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	48	nsubj	_	_
+47	ⲛⲁ	ⲛⲁ	AUX	FUT	_	48	aux	_	_
+48	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	6	conj	_	_
+49-51	ⲉⲡⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+49	ⲉ	ⲉ	ADP	PREP	_	51	case	_	_
+50	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	Entity=(place
+51	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	48	obl	_	Entity=place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0011
+# text_en = And the border terminates behind Accaron northward, and the borders will terminate at Socchoth, and the borders will go on to the south, and will terminate at Lebna, and the issue of the borders will be at the sea; and their borders shall be toward the sea, the great sea shall be the boundary.
+# text = ⲁⲩⲱ ⲡⲧⲟϣ ϥⲛⲁⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ⲛⲥⲁⲥⲡⲓⲣ ⲛⲁⲕⲕⲁⲣⲱⲛ ⲉϫⲙⲡⲉⲙϩⲓⲧ ⲁⲩⲱ ⲛⲧⲟϣ ⲥⲉⲛⲟⲩϫⲉ ⲉϩⲣⲁⲓ ⲉⲥⲟⲭⲱⲑ ⲁⲩⲱ ⲛⲧⲟϣ ⲥⲉⲛⲁⲉⲓ ⲉⲃⲟⲗ ⲉϫⲙⲡⲉⲙⲛⲧ ⲁⲩⲱ ⲥⲉⲛⲁⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ⲉϫⲛⲗⲉⲙⲛⲁ ⲁⲩⲱ ⲡⲉⲓⲉⲃⲟⲗ ⲛⲛⲧⲟϣ ⲉϥⲛⲏⲩ ⲉϫⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+2-3	ⲡⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(abstract
+3	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	6	dislocated	_	Entity=abstract)
+4-6	ϥⲛⲁⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	ⲛⲁ	ⲛⲁ	AUX	FUT	_	6	aux	_	_
+6	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	advmod	_	_
+8-9	ⲛⲥⲁⲥⲡⲓⲣ	_	_	_	_	_	_	_	_
+8	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	9	case	_	_
+9	ⲥⲡⲓⲣ	ⲥⲡⲓⲣ	NOUN	N	_	6	obl	_	Entity=(object)
+10-11	ⲛⲁⲕⲕⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
+11	ⲕⲕⲁⲣⲱⲛ	ⲕⲕⲁⲣⲱⲛ	VERB	V	VerbForm=Fin	6	xcomp	_	_
+12-14	ⲉϫⲙⲡⲉⲙϩⲓⲧ	_	_	_	_	_	_	_	_
+12	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(object
+14	ⲉⲙϩⲓⲧ	ⲉⲙϩⲓⲧ	NOUN	N	_	11	obl	_	Entity=object)
+15	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	19	cc	_	_
+16-17	ⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	17	det	_	Entity=(abstract
+17	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	19	dislocated	_	Entity=abstract)
+18-19	ⲥⲉⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
+18	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+19	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	11	conj	_	_
+20	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	19	advmod	_	_
+21-22	ⲉⲥⲟⲭⲱⲑ	_	_	_	_	_	_	_	_
+21	ⲉ	ⲉ	PART	PREP	_	22	mark	_	_
+22	ⲥⲟⲭⲱⲑ	ⲥⲟⲭⲱⲑ	VERB	V	VerbForm=Inf	19	xcomp	_	_
+23	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	36	cc	_	_
+24-25	ⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	25	det	_	Entity=(abstract
+25	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	28	dislocated	_	Entity=abstract)
+26-28	ⲥⲉⲛⲁⲉⲓ	_	_	_	_	_	_	_	_
+26	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	28	nsubj	_	_
+27	ⲛⲁ	ⲛⲁ	AUX	FUT	_	28	aux	_	_
+28	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	11	conj	_	_
+29	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	28	advmod	_	_
+30-32	ⲉϫⲙⲡⲉⲙⲛⲧ	_	_	_	_	_	_	_	_
+30	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	29	fixed	_	_
+31	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	Entity=(place
+32	ⲉⲙⲛⲧ	ⲉⲙⲛⲧ	NOUN	N	_	28	obl	_	Entity=place)
+33	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	36	cc	_	_
+34-36	ⲥⲉⲛⲁⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
+34	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	36	nsubj	_	_
+35	ⲛⲁ	ⲛⲁ	AUX	FUT	_	36	aux	_	_
+36	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	11	conj	_	_
+37	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	36	advmod	_	_
+38-39	ⲉϫⲛⲗⲉⲙⲛⲁ	_	_	_	_	_	_	_	_
+38	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	37	fixed	_	_
+39	ⲗⲉⲙⲛⲁ	ⲗⲉⲙⲛⲁ	PROPN	NPROP	_	36	obl	_	Entity=(person)
+40	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	36	cc	_	_
+41-42	ⲡⲉⲓⲉⲃⲟⲗ	_	_	_	_	_	_	_	_
+41	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	45	det	_	Entity=(abstract
+42	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	45	case	_	_
+43-45	ⲛⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+43	ⲛ	ⲛ	ADP	PREP	_	42	fixed	_	_
+44	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	45	det	_	_
+45	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	36	obl	_	Entity=abstract)
+46-48	ⲉϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+46	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	48	mark	_	_
+47	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	48	nsubj	_	_
+48	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	45	acl	_	_
+49-51	ⲉϫⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+49	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	51	case	_	_
+50	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	51	det	_	Entity=(place
+51	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	48	obl	_	Entity=place)|OrigLang=grc
+
+# sent_id = sahidic_ot-06_Joshua_15_s0012
+# text_en = These are the borders of the children of Juda round about according to their families.
+# text = ⲁⲩⲱ ⲛⲉⲩⲧⲟϣ ⲉⲩⲛⲁϣⲱⲡⲉ ϫⲓⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ ⲛⲟϭ ⲧⲉⲧⲛⲁⲡⲱⲣϫ ⲉⲃⲟⲗ ⲙⲡⲧⲟϣ ⲛⲁⲓ ⲛⲉ ⲛⲧⲟϣ ⲉⲧⲕⲱⲧⲉ ⲛⲛϣⲏⲣⲉ ⲛⲓⲟⲩⲇⲁ ⲕⲁⲧⲁⲛⲉⲩⲇⲏⲙⲟⲥ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲛⲉⲩⲧⲟϣ	_	_	_	_	_	_	_	_
+2	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	4	aux	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲧⲟϣ	ⲧⲱϣ	VERB	V	VerbForm=Fin	0	root	_	_
+5-8	ⲉⲩⲛⲁϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
+6	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+7	ⲛⲁ	ⲛⲁ	AUX	FUT	_	8	aux	_	_
+8	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	4	advcl	_	_
+9-11	ϫⲓⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+9	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	11	case	_	_
+10	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	8	obl	_	Entity=place)|OrigLang=grc
+12	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	8	obl	_	Entity=(abstract
+13-16	ⲧⲉⲧⲛⲁⲡⲱⲣϫ	_	_	_	_	_	_	_	_
+13	ⲧ	ⲧ	PRON	COP	Gender=Fem|Number=Sing	12	cop	_	_
+14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+15	ⲛⲁ	ⲛⲁ	AUX	FUT	_	16	aux	_	_
+16	ⲡⲱⲣϫ	ⲡⲱⲣϫ	VERB	V	VerbForm=Fin	12	acl	_	_
+17	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	16	advmod	_	_
+18-20	ⲙⲡⲧⲟϣ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(abstract
+20	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	16	obl	_	Entity=abstract)abstract)
+21	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	8	parataxis	_	Entity=(abstract)
+22	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	21	cop	_	_
+23-24	ⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	24	det	_	Entity=(abstract
+24	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	21	nsubj	_	_
+25-26	ⲉⲧⲕⲱⲧⲉ	_	_	_	_	_	_	_	_
+25	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	26	mark	_	_
+26	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	24	acl	_	_
+27-29	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+28	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	29	det	_	Entity=(person
+29	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	26	obl	_	_
+30-31	ⲛⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+30	ⲛ	ⲛ	ADP	PREP	_	31	case	_	_
+31	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	29	nmod	_	Entity=(place-Judea)person)|OrigLang=he
+32-34	ⲕⲁⲧⲁⲛⲉⲩⲇⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+32	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	34	case	_	OrigLang=grc
+33	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	34	det	_	Entity=(person
+34	ⲇⲏⲙⲟⲥ	ⲇⲏⲙⲟⲥ	NOUN	N	_	26	obl	_	Entity=person)abstract)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0013
+# text_en = And to Chaleb the son of Jephone he gave a portion in the midst of the children of Juda by the command of God; and Joshua gave him the city of Arboc the metropolis of Enac; this is Chebron.
+# text = ⲁⲩⲱ ⲁϥϯ ⲛⲭⲁⲗⲉⲃ ⲡϣⲏⲣⲉ ⲛⲓⲉⲫⲟⲛⲏ ⲛⲟⲩⲙⲉⲣⲓⲥ ϩⲛⲧⲙⲏⲧⲉ ⲛⲛϣⲏⲣⲉ ⲛⲓⲟⲩⲇⲁ ϩⲓⲧⲙⲡⲟⲩⲉϩⲥⲁϩⲛⲉ ⲙⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲓⲏⲥⲟⲩⲥ ⲁϥϯ ⲛⲁϥ ⲛⲁⲣⲁⲃⲱⲕ ⲧⲡⲟⲗⲓⲥ ⲧⲛⲟϭ ⲙⲡⲟⲗⲓⲥ ⲛⲉⲙⲁⲕ ⲉⲧⲉⲧⲁⲓ ⲧⲉ ⲭⲉⲃⲣⲱⲛ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁϥϯ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲛⲭⲁⲗⲉⲃ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲭⲁⲗⲉⲃ	ⲭⲁⲗⲉⲃ	PROPN	NPROP	_	4	obj	_	Entity=(person-Caleb
+7-8	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	6	appos	_	_
+9-10	ⲛⲓⲉⲫⲟⲛⲏ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲓⲉⲫⲟⲛⲏ	ⲓⲉⲫⲟⲛⲏ	NOUN	N	_	8	nmod	_	Entity=(abstract)person-Caleb)
+11-13	ⲛⲟⲩⲙⲉⲣⲓⲥ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	13	det	_	Entity=(place(abstract
+13	ⲙⲉⲣⲓⲥ	ⲙⲉⲣⲓⲥ	NOUN	N	Foreign=Yes	16	nmod	_	Entity=abstract)|OrigLang=grc
+14-16	ϩⲛⲧⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	16	case	_	_
+15	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	4	obl	_	_
+17-19	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	19	det	_	Entity=(person
+19	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	16	nmod	_	_
+20-21	ⲛⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	19	nmod	_	Entity=(person-Judah_%28son_of_Jacob%29)person)place)|OrigLang=he
+22-24	ϩⲓⲧⲙⲡⲟⲩⲉϩⲥⲁϩⲛⲉ	_	_	_	_	_	_	_	_
+22	ϩⲓⲧⲙ	ϩⲓⲧⲛ	ADP	PREP	_	24	case	_	_
+23	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	Entity=(abstract
+24	ⲟⲩⲉϩⲥⲁϩⲛⲉ	ⲟⲩⲉϩⲥⲁϩⲛⲉ	NOUN	N	_	4	obl	_	Morphs=ⲟⲩⲉϩ-ⲥⲁϩⲛⲉ
+25-27	ⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+25	ⲙ	ⲛ	ADP	PREP	_	27	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Entity=(person
+27	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	24	nmod	_	Entity=person)abstract)
+28	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	32	cc	_	_
+29	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	32	dislocated	_	Entity=(person-Joshua)|OrigLang=he
+30-32	ⲁϥϯ	_	_	_	_	_	_	_	_
+30	ⲁ	ⲁ	AUX	APST	_	32	aux	_	_
+31	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
+32	ϯ	ϯ	VERB	V	VerbForm=Fin	4	conj	_	_
+33-34	ⲛⲁϥ	_	_	_	_	_	_	_	_
+33	ⲛⲁ	ⲛⲁ	ADP	PREP	_	34	case	_	_
+34	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obl	_	_
+35-37	ⲛⲁⲣⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
+35	ⲛⲁ	ⲛⲁ	AUX	FUT	_	37	aux	_	_
+36	ⲣⲁ	ⲣⲁ	AUX	V	VerbForm=Fin	37	aux	_	_
+37	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	4	conj	_	_
+38-39	ⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+38	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	Entity=(place
+39	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	37	obj	_	OrigLang=grc
+40-41	ⲧⲛⲟϭ	_	_	_	_	_	_	_	_
+40	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Entity=(place
+41	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	39	appos	_	_
+42-43	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+42	ⲙ	ⲛ	ADP	PREP	_	43	case	_	_
+43	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	41	nmod	_	OrigLang=grc
+44	ⲛⲉⲙⲁⲕ	ⲛⲉⲙⲁⲕ	PROPN	NPROP	_	41	appos	_	_
+45-46	ⲉⲧⲉⲧⲁⲓ	_	_	_	_	_	_	_	_
+45	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	46	mark	_	_
+46	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	44	acl	_	Entity=(abstract)
+47	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	46	cop	_	Entity=place)place)
+48	ⲭⲉⲃⲣⲱⲛ	ⲭⲉⲃⲣⲱⲛ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0014
+# text_en = And Chaleb the son of Jephone destroyed thence the three sons of Enac, Susi, and Tholami, and Achima.
+# text = ⲁⲭⲁⲗⲉⲃ ⲡϣⲏⲣⲉ ⲛⲓⲉⲫⲟⲛⲏ ⲁϥϥⲱⲧⲉ ⲉⲃⲟⲗ ⲙⲡϣⲁ ⲉⲧⲙⲙⲁⲩ ⲙⲡϣⲱⲙⲛⲧ ⲛϣⲉⲉⲣⲉ ⲛⲉⲛⲁⲕ ⲥⲟⲩⲥⲓ ⲁⲩⲱ ⲙⲡⲁⲱⲑ ⲗⲙⲉⲓ ⲙⲛⲁⲭⲓⲙⲁ
+1-2	ⲁⲭⲁⲗⲉⲃ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+2	ⲭⲁⲗⲉⲃ	ⲭⲁⲗⲉⲃ	PROPN	NPROP	_	9	dislocated	_	Entity=(person-Caleb
+3-4	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	2	appos	_	_
+5-6	ⲛⲓⲉⲫⲟⲛⲏ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲓⲉⲫⲟⲛⲏ	ⲓⲉⲫⲟⲛⲏ	PROPN	NPROP	_	4	nmod	_	Entity=(place)person-Caleb)
+7-9	ⲁϥϥⲱⲧⲉ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ϥⲱⲧⲉ	ϥⲱⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	_
+11	ⲙⲡϣⲁ	ⲙⲡϣⲁ	NOUN	N	_	9	obl:npmod	_	Entity=(abstract
+12-13	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+12	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
+13	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	11	acl	_	Entity=abstract)
+14-16	ⲙⲡϣⲱⲙⲛⲧ	_	_	_	_	_	_	_	_
+14	ⲙ	ⲛ	ADP	PREP	_	16	case	_	_
+15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Entity=(abstract
+16	ϣⲱⲙⲛⲧ	ϣⲱⲙⲛⲧ	NOUN	N	_	9	obj	_	_
+17-18	ⲛϣⲉⲉⲣⲉ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	16	nmod	_	Entity=(person
+19	ⲛⲉⲛⲁⲕ	ⲛⲉⲛⲁⲕ	ADP	PREP	_	20	case	_	_
+20	ⲥⲟⲩⲥⲓ	ⲥⲟⲩⲥⲓ	NOUN	N	_	18	nmod	_	Entity=(time)person)abstract)
+21	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
+22-23	ⲙⲡⲁⲱⲑ	_	_	_	_	_	_	_	_
+22	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	23	det	_	Entity=(person
+23	ⲡⲁⲱⲑ	ⲡⲁⲱⲑ	NOUN	N	_	24	nsubj	_	Entity=person)
+24	ⲗⲙⲉⲓ	ⲗⲙⲉⲓ	VERB	V	VerbForm=Fin	9	conj	_	_
+25	ⲙⲛⲁⲭⲓⲙⲁ	ⲙⲛⲁⲭⲓⲙⲁ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0015
+# text_en = And Chaleb went up thence to the inhabitants of Dabir; and the name of Dabir before was the city of Letters.
+# text = ⲭⲁⲗⲉⲃ ⲇⲉ ⲁϥⲉⲓ ⲉϩⲣⲁⲓ ⲉⲃⲟⲗ ϩⲙⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ ⲉϫⲛⲛⲉⲧⲟⲩⲏϩ ϩⲛⲇⲁⲃⲓⲣ ⲇⲁⲃⲓⲣ ⲇⲉ ⲛⲉⲩⲙⲟⲩⲧⲉ ⲉⲡⲉⲥⲣⲁⲛ ⲛϣⲟⲣⲡ ϫⲉⲧⲡⲟⲗⲓⲥ ⲛⲛⲉⲥϩⲁⲓ
+1	ⲭⲁⲗⲉⲃ	ⲭⲁⲗⲉⲃ	VERB	V	VerbForm=Fin	5	dislocated	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
+3-5	ⲁϥⲉⲓ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	_
+7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	10	case	_	_
+8-10	ϩⲙⲡⲙⲁ	_	_	_	_	_	_	_	_
+8	ϩⲙ	ϩⲛ	ADP	PREP	_	7	fixed	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(place
+10	ⲙⲁ	ⲙⲁ	NOUN	N	_	5	obl	_	_
+11-12	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
+12	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	10	acl	_	Entity=place)
+13-16	ⲉϫⲛⲛⲉⲧⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+13	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	14	case	_	_
+14	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	obl	_	Entity=(abstract
+15	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+16	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	14	acl	_	_
+17-18	ϩⲛⲇⲁⲃⲓⲣ	_	_	_	_	_	_	_	_
+17	ϩⲛ	ϩⲛ	ADP	PREP	_	19	case	_	_
+18	ⲇⲁⲃⲓⲣ	ⲇⲁⲃⲓⲣ	DET	ART	_	19	det	_	Entity=(person
+19	ⲇⲁⲃⲓⲣ	ⲇⲁⲃⲓⲣ	NOUN	N	_	16	obl	_	Entity=person)abstract)
+20	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	23	advmod	_	OrigLang=grc
+21-23	ⲛⲉⲩⲙⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+21	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	23	aux	_	_
+22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+24-26	ⲉⲡⲉⲥⲣⲁⲛ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	26	case	_	_
+25	ⲡⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	Entity=(abstract
+26	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	23	obl	_	_
+27-28	ⲛϣⲟⲣⲡ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+28	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	26	nmod	_	Entity=abstract)
+29-31	ϫⲉⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+29	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	31	mark	_	_
+30	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	Entity=(place
+31	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	23	ccomp	_	OrigLang=grc
+32-34	ⲛⲛⲉⲥϩⲁⲓ	_	_	_	_	_	_	_	_
+32	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
+33	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	34	det	_	Entity=(abstract
+34	ⲥϩⲁⲓ	ⲥϩⲁⲓ	NOUN	N	_	31	nmod	_	Entity=abstract)place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0016
+# text_en = And Chaleb said, Whosoever shall take and destroy the city of Letters, and master it, to him will I give my daughter Ascha to wife.
+# text = ⲁⲩⲱ ⲭⲁⲗⲉⲃ ⲡⲉϫⲁϥ ϫⲉⲡⲉⲧⲛⲁϫⲓ ⲛⲧⲡⲟⲗⲓⲥ ⲛⲛⲉⲥϩⲁⲓ ⲛϥⲧⲁⲕⲟⲥ ϯⲛⲁϯ ⲛⲁϥ ⲛⲉⲥⲭⲁ ⲧⲁϣⲉⲉⲣⲉ ⲛⲥϩⲓⲙⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2	ⲭⲁⲗⲉⲃ	ⲭⲁⲗⲉⲃ	PART	PTC	_	3	advmod	_	_
+3-4	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
+3	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5-9	ϫⲉⲡⲉⲧⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+5	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	22	mark	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	dislocated	_	Entity=(person
+7	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	9	aux	_	_
+9	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	6	acl	_	_
+10-12	ⲛⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Entity=(place
+12	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	9	obj	_	OrigLang=grc
+13-15	ⲛⲛⲉⲥϩⲁⲓ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	det	_	Entity=(abstract
+15	ⲥϩⲁⲓ	ⲥϩⲁⲓ	NOUN	N	_	12	nmod	_	Entity=abstract)place)person)
+16-19	ⲛϥⲧⲁⲕⲟⲥ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	18	aux	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	9	advcl	_	_
+19	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+20-22	ϯⲛⲁϯ	_	_	_	_	_	_	_	_
+20	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+21	ⲛⲁ	ⲛⲁ	AUX	FUT	_	22	aux	_	_
+22	ϯ	ϯ	VERB	V	VerbForm=Fin	3	ccomp	_	_
+23-24	ⲛⲁϥ	_	_	_	_	_	_	_	_
+23	ⲛⲁ	ⲛⲁ	ADP	PREP	_	24	case	_	_
+24	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	_
+25-26	ⲛⲉⲥⲭⲁ	_	_	_	_	_	_	_	_
+25	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	26	det	_	Entity=(person
+26	ⲥⲭⲁ	ⲥⲭⲁ	NOUN	N	_	22	vocative	_	_
+27-28	ⲧⲁϣⲉⲉⲣⲉ	_	_	_	_	_	_	_	_
+27	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	28	det	_	_
+28	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	26	appos	_	_
+29-30	ⲛⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	28	nmod	_	Entity=(person)person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0017
+# text_en = And Gothoniel the son of Chenez the brother of Chaleb took it; and he gave him Ascha his daughter to wife.
+# text = ⲁⲩⲱ ⲁϥϫⲓ ⲛⲧⲡⲟⲗⲓⲥ ⲛϭⲓⲅⲟⲑⲟⲛⲓⲏⲗ ⲡϣⲏⲣⲉ ⲛⲅⲉⲛⲉⲍⲡⲥⲟⲛ ⲛⲭⲁⲗⲉⲃ ⲁⲩⲱ ⲁϥϯ ⲛⲁϥ ⲛⲉⲥⲭⲁ ⲧⲉϥϣⲉⲉⲣⲉ ⲛⲥϩⲓⲙⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁϥϫⲓ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲛⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Entity=(place
+7	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	4	obj	_	Entity=place)|OrigLang=grc
+8-9	ⲛϭⲓⲅⲟⲑⲟⲛⲓⲏⲗ	_	_	_	_	_	_	_	_
+8	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	9	case	_	_
+9	ⲅⲟⲑⲟⲛⲓⲏⲗ	ⲅⲟⲑⲟⲛⲓⲏⲗ	PROPN	NPROP	_	4	dislocated	_	Entity=(person
+10-11	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	9	appos	_	_
+12-15	ⲛⲅⲉⲛⲉⲍⲡⲥⲟⲛ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲅⲉⲛⲉⲍ	ⲅⲉⲛⲉⲍ	PROPN	NPROP	_	11	nmod	_	Entity=(person
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	13	appos	_	_
+16-17	ⲛⲭⲁⲗⲉⲃ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲭⲁⲗⲉⲃ	ⲭⲁⲗⲉⲃ	NOUN	N	_	15	nmod	_	Entity=(person)person)person)
+18	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	21	cc	_	_
+19-21	ⲁϥϯ	_	_	_	_	_	_	_	_
+19	ⲁ	ⲁ	AUX	APST	_	21	aux	_	_
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+21	ϯ	ϯ	VERB	V	VerbForm=Fin	4	conj	_	_
+22-23	ⲛⲁϥ	_	_	_	_	_	_	_	_
+22	ⲛⲁ	ⲛⲁ	ADP	PREP	_	23	case	_	_
+23	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
+24-25	ⲛⲉⲥⲭⲁ	_	_	_	_	_	_	_	_
+24	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	25	det	_	Entity=(person
+25	ⲥⲭⲁ	ⲥⲭⲁ	NOUN	N	_	21	dislocated	_	_
+26-27	ⲧⲉϥϣⲉⲉⲣⲉ	_	_	_	_	_	_	_	_
+26	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
+27	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	25	appos	_	_
+28-29	ⲛⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	27	nmod	_	Entity=(person)person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0018
+# text_en = And it came to pass as she went out that she counselled him, saying, I will ask of my father a field; and she cried from off her ass; and Chaleb said to her, What is it?
+# text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲉⲥⲛⲏⲩ ⲉⲃⲟⲗ ⲁϥϫⲓϣⲟϫⲛⲉ ⲛⲙⲙⲁⲥ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲁⲓⲧⲉⲓ ⲙⲡⲟⲩⲉⲓⲱⲧ ⲛⲟⲩⲥⲱϣⲉ ⲁⲩⲱ ⲁⲥⲱϣ ⲉⲃⲟⲗ ϩⲓϫⲙⲡⲓⲱ ⲡⲉϫⲁϥ ⲇⲉ ⲛⲁⲥ ⲛϭⲓⲭⲁⲗⲉⲃ ϫⲉⲁϩⲣⲟ ⲧⲉⲱϣ ⲉⲃⲟⲗ
+1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-7	ⲉⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	7	mark	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	3	advcl	_	_
+8	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	advmod	_	_
+9-11	ⲁϥϫⲓϣⲟϫⲛⲉ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	ϫⲓϣⲟϫⲛⲉ	ϫⲓϣⲟϫⲛⲉ	VERB	V	VerbForm=Fin	3	parataxis	_	Morphs=ϫⲓ-ϣⲟϫⲛⲉ
+12-13	ⲛⲙⲙⲁⲥ	_	_	_	_	_	_	_	_
+12	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	13	case	_	_
+13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+14-16	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	16	mark	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	11	advcl	_	_
+17-18	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+17	ⲙⲙⲟ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+19-20	ϫⲉⲁⲓⲧⲉⲓ	_	_	_	_	_	_	_	_
+19	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	20	mark	_	_
+20	ⲁⲓⲧⲉⲓ	ⲁⲓⲧⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	16	ccomp	_	Orig=ⲁⲓⲧⲓ|OrigLang=grc
+21-23	ⲙⲡⲟⲩⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+21	ⲙ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲡⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	23	det	_	Entity=(person
+23	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	20	obj	_	Entity=person)|Orig=ⲓⲱⲧ
+24-26	ⲛⲟⲩⲥⲱϣⲉ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	26	det	_	Entity=(place
+26	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	20	obl	_	Entity=place)
+27	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	30	cc	_	_
+28-30	ⲁⲥⲱϣ	_	_	_	_	_	_	_	_
+28	ⲁ	ⲁ	AUX	APST	_	30	aux	_	_
+29	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+30	ⲱϣ	ⲱϣ	VERB	V	VerbForm=Fin	20	conj	_	_
+31	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	33	case	_	_
+32-33	ϩⲓϫⲙⲡⲓⲱ	_	_	_	_	_	_	_	_
+32	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	31	fixed	_	_
+33	ⲡⲓⲱ	ⲡⲓⲱ	NOUN	N	_	30	obl	_	Entity=(abstract)
+34-35	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
+34	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	30	parataxis	_	_
+35	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
+36	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	34	advmod	_	OrigLang=grc
+37-38	ⲛⲁⲥ	_	_	_	_	_	_	_	_
+37	ⲛⲁ	ⲛⲁ	ADP	PREP	_	38	case	_	_
+38	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	obl	_	_
+39-40	ⲛϭⲓⲭⲁⲗⲉⲃ	_	_	_	_	_	_	_	_
+39	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	40	case	_	_
+40	ⲭⲁⲗⲉⲃ	ⲭⲁⲗⲉⲃ	PROPN	NPROP	_	34	dislocated	_	Entity=(person-Caleb)
+41-42	ϫⲉⲁϩⲣⲟ	_	_	_	_	_	_	_	_
+41	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	42	mark	_	_
+42	ⲁϩⲣⲟ	ⲁϩⲣⲟ	VERB	VBD	VerbForm=Fin	34	ccomp	_	_
+43-44	ⲧⲉⲱϣ	_	_	_	_	_	_	_	_
+43	ⲧⲉ	ⲛⲧⲟ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	44	nsubj	_	_
+44	ⲱϣ	ⲱϣ	VERB	V	VerbForm=Fin	34	ccomp	_	_
+45	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	44	advmod	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0019
+# text_en = And she said to him, Give me a blessing, for thou hast set me in the land of Nageb; give me Botthanis: and he gave her Gonaethla the upper, and Gonaethla the lower.
+# text = ⲡⲉϫⲁⲥ ⲛⲁϥ ϫⲉⲙⲁ ⲛⲁⲓ ⲛⲟⲩⲥⲙⲟⲩ ⲉⲃⲟⲗϫⲉ ⲁⲕⲧⲁⲁⲧ ⲉⲡⲕⲁϩ ⲛⲁⲅⲉⲃ ⲟⲩⲕⲁϩ ⲉϥⲟⲩⲏⲩ ⲙⲁ ⲛⲁⲓ ⲛⲧⲃⲁⲓⲑⲑⲓⲁⲛⲓⲥ ⲁⲩⲱ ⲁϥϯ ⲛⲁⲥ ⲛⲧⲅⲟⲛⲁⲓⲑⲗⲁⲁⲙ ⲉⲧϩⲙⲡϩⲃⲃⲉ
+1-2	ⲡⲉϫⲁⲥ	_	_	_	_	_	_	_	_
+1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3-4	ⲛⲁϥ	_	_	_	_	_	_	_	_
+3	ⲛⲁ	ⲛⲁ	ADP	PREP	_	4	case	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5-6	ϫⲉⲙⲁ	_	_	_	_	_	_	_	_
+5	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	6	mark	_	_
+6	ⲙⲁ	ϯ	VERB	VIMP	VerbForm=Fin	1	ccomp	_	_
+7-8	ⲛⲁⲓ	_	_	_	_	_	_	_	_
+7	ⲛⲁ	ⲛⲁ	ADP	PREP	_	8	case	_	_
+8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+9-11	ⲛⲟⲩⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	Entity=(abstract
+11	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	6	obj	_	_
+12-14	ⲉⲃⲟⲗϫⲉ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	_
+13	ⲃⲟⲗ	ⲃⲱⲗ	VERB	V	VerbForm=Inf	11	acl	_	Entity=abstract)
+14	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	17	mark	_	_
+15-17	ⲁⲕⲧⲁⲁⲧ	_	_	_	_	_	_	_	_
+15	ⲁ	ⲁ	AUX	APST	_	17	aux	_	_
+16	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+17	ⲧⲁⲁⲧ	ϯ	VERB	V	VerbForm=Fin	13	ccomp	_	_
+18-20	ⲉⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+18	ⲉ	ⲉ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(place
+20	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	17	obl	_	Entity=place)
+21	ⲛⲁⲅⲉⲃ	ⲛⲁⲅⲉⲃ	ADP	PREP	_	23	case	_	_
+22-23	ⲟⲩⲕⲁϩ	_	_	_	_	_	_	_	_
+22	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	23	det	_	Entity=(place
+23	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	17	obl	_	_
+24-26	ⲉϥⲟⲩⲏⲩ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	26	mark	_	_
+25	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
+26	ⲟⲩⲏⲩ	ⲟⲩⲉ	VERB	VSTAT	VerbForm=Fin	23	acl	_	_
+27	ⲙⲁ	ϯ	VERB	VIMP	VerbForm=Fin	26	obl:npmod	_	_
+28	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	27	nsubj	_	Entity=(abstract)
+29-30	ⲛⲧⲃⲁⲓⲑⲑⲓⲁⲛⲓⲥ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲧⲃⲁⲓⲑⲑⲓⲁⲛⲓⲥ	ⲧⲃⲁⲓⲑⲑⲓⲁⲛⲓⲥ	PROPN	NPROP	_	26	obl	_	Entity=(person)place)
+31	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	34	cc	_	_
+32-34	ⲁϥϯ	_	_	_	_	_	_	_	_
+32	ⲁ	ⲁ	AUX	APST	_	34	aux	_	_
+33	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
+34	ϯ	ϯ	VERB	V	VerbForm=Fin	6	conj	_	_
+35-36	ⲛⲁⲥ	_	_	_	_	_	_	_	_
+35	ⲛⲁ	ⲛⲁ	ADP	PREP	_	36	case	_	_
+36	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	obl	_	_
+37-38	ⲛⲧⲅⲟⲛⲁⲓⲑⲗⲁⲁⲙ	_	_	_	_	_	_	_	_
+37	ⲛ	ⲛ	ADP	PREP	_	38	case	_	_
+38	ⲧⲅⲟⲛⲁⲓⲑⲗⲁⲁⲙ	ⲧⲅⲟⲛⲁⲓⲑⲗⲁⲁⲙ	DET	ART	_	34	obj	_	Entity=(person
+39-42	ⲉⲧϩⲙⲡϩⲃⲃⲉ	_	_	_	_	_	_	_	_
+39	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	42	mark	_	_
+40	ϩⲙ	ϩⲛ	ADP	PREP	_	42	case	_	_
+41	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	Entity=(abstract
+42	ϩⲃⲃⲉ	ϩⲃⲃⲉ	NOUN	N	_	38	acl	_	Entity=abstract)person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0020
+# text_en = This is the inheritance of the tribe of the children of Juda.
+# text = ⲧⲁⲓ ⲧⲉ ⲧⲉⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ ⲛⲧⲉⲡϩⲩⲗⲏ ⲛⲛϣⲏⲣⲉ ⲛⲓⲟⲩⲇⲁ
+1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)
+2	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	1	cop	_	_
+3-4	ⲧⲉⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	_	_	_	_	_	_	_	_
+3	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Entity=(abstract
+4	ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	NOUN	N	Foreign=Yes	1	nsubj	_	OrigLang=grc
+5-7	ⲛⲧⲉⲡϩⲩⲗⲏ	_	_	_	_	_	_	_	_
+5	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(abstract|Orig=ⲫ
+7	ϩⲩⲗⲏ	ϩⲩⲗⲏ	NOUN	N	Foreign=Yes	4	nmod	_	Orig=ⲩⲗⲏ|OrigLang=grc
+8-10	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	det	_	Entity=(person
+10	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	7	nmod	_	_
+11-12	ⲛⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	10	nmod	_	Entity=(place-Judea)person)abstract)abstract)|OrigLang=he
+
+# sent_id = sahidic_ot-06_Joshua_15_s0021
+# text_en = And their cities were cities belonging to the tribe of the children of Juda on the borders of Edom by the wilderness, and Baeseleel, and Ara, and Asor,
+# text = ⲁⲩϣⲱⲡⲉ ⲇⲉ ⲛϭⲓⲛⲉⲩⲡⲟⲗⲓⲥ ⲧϣⲣⲡ ⲙⲡⲟⲗⲓⲥ ⲛⲧⲉⲡϩⲩⲗⲏ ⲛⲛϣⲏⲣⲉ ⲛⲓⲟⲩⲇⲁⲥ ϩⲓϫⲙⲡⲧⲟϣ ⲛⲉⲇⲱⲙ ϩⲓⲧⲉⲣⲏⲙⲟⲥ ⲁⲩⲱ ⲃⲉⲥⲉⲏⲗⲏⲉⲓⲛ ⲁⲩⲱ ⲁⲣⲁ ⲙⲛⲁⲥⲱⲣ
+1-3	ⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-7	ⲛϭⲓⲛⲉⲩⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	7	case	_	_
+6	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	Entity=(place
+7	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	3	dislocated	_	OrigLang=grc
+8-9	ⲧϣⲣⲡ	_	_	_	_	_	_	_	_
+8	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	ϣⲣⲡ	ϣⲣⲡ	NOUN	N	_	7	appos	_	_
+10-11	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+10	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	9	nmod	_	Entity=(place)|OrigLang=grc
+12-14	ⲛⲧⲉⲡϩⲩⲗⲏ	_	_	_	_	_	_	_	_
+12	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	14	case	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(abstract|Orig=ⲫ
+14	ϩⲩⲗⲏ	ϩⲩⲗⲏ	NOUN	N	Foreign=Yes	9	nmod	_	Orig=ⲩⲗⲏ|OrigLang=grc
+15-17	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	17	det	_	Entity=(person
+17	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	14	nmod	_	_
+18-19	ⲛⲓⲟⲩⲇⲁⲥ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ⲓⲟⲩⲇⲁⲥ	ⲓⲟⲩⲇⲁⲥ	PROPN	NPROP	Foreign=Yes	17	nmod	_	Entity=(person-Judah_%28son_of_Jacob%29)person)abstract)place)|OrigLang=he
+20-22	ϩⲓϫⲙⲡⲧⲟϣ	_	_	_	_	_	_	_	_
+20	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	22	case	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(abstract
+22	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	23	obl	_	Entity=abstract)
+23	ⲛⲉⲇⲱⲙ	ⲛⲉⲇⲱⲙ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+24-26	ϩⲓⲧⲉⲣⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+24	ϩⲓ	ϩⲓ	ADP	PREP	_	26	case	_	_
+25	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	Entity=(place
+26	ⲉⲣⲏⲙⲟⲥ	ⲉⲣⲏⲙⲟⲥ	NOUN	N	Foreign=Yes	23	obl	_	Entity=place)|OrigLang=grc
+27	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	29	cc	_	_
+28-29	ⲃⲉⲥⲉⲏⲗⲏⲉⲓⲛ	_	_	_	_	_	_	_	_
+28	ⲃⲉⲥⲉ	ⲃⲉⲥⲉ	NOUN	N	Foreign=Yes	29	nsubj	_	Entity=(abstract)|OrigLang=grc
+29	ⲏⲗⲏⲉⲓⲛ	ⲏⲗⲏⲉⲓⲛ	VERB	V	VerbForm=Fin	23	conj	_	_
+30	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	33	cc	_	_
+31	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	Foreign=Yes	29	advmod	_	OrigLang=grc
+32-33	ⲙⲛⲁⲥⲱⲣ	_	_	_	_	_	_	_	_
+32	ⲙⲛ	ⲙⲛ	ADP	PREP	_	33	case	_	_
+33	ⲁⲥⲱⲣ	ⲁⲥⲱⲣ	PROPN	NPROP	_	29	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0022
+# text_en = and Icam, and Regma, and Aruel,
+# text = ⲁⲩⲱ ⲓⲅⲙⲁ ⲙⲛⲣⲉⲅⲙⲁ ⲁⲩⲱ ⲁⲣⲟⲩⲏⲗ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲓⲅⲙⲁ	ⲓⲅⲙⲁ	PROPN	NPROP	_	0	root	_	Entity=(place)
+3-4	ⲙⲛⲣⲉⲅⲙⲁ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	cc	_	_
+4	ⲣⲉⲅⲙⲁ	ⲣⲉⲅⲙⲁ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+5	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+6-7	ⲁⲣⲟⲩⲏⲗ	_	_	_	_	_	_	_	_
+6	ⲁⲣ	ⲁ_ⲛⲧⲟ	PRON	APST_PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+7	ⲟⲩⲏⲗ	ⲟⲩⲏⲗ	VERB	V	VerbForm=Fin	2	conj	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0023
+# text_en = and Cades, and Asorionain, and Maenam,
+# text = ⲙⲛⲕⲁⲇⲏⲥ ⲁⲩⲱ ⲁⲓⲥⲟⲣⲓⲛⲱⲛⲁⲉⲓⲙ ⲁⲩⲱ ⲙⲉⲙⲁⲛ
+1-2	ⲙⲛⲕⲁⲇⲏⲥ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲕⲁⲇⲏⲥ	ⲕⲁⲇⲏⲥ	PROPN	NPROP	_	6	obl	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+4-6	ⲁⲓⲥⲟⲣⲓⲛⲱⲛⲁⲉⲓⲙ	_	_	_	_	_	_	_	_
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	ⲥⲟⲣⲓⲛⲱⲛⲁⲉⲓⲙ	ⲥⲟⲣⲓⲛⲱⲛⲁⲉⲓⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+8-10	ⲙⲉⲙⲁⲛ	_	_	_	_	_	_	_	_
+8	ⲙⲉ	ⲙⲉⲣⲉ	AUX	ANEGAOR	Polarity=Neg	9	det	_	Entity=(place
+9	ⲙⲁ	ⲙⲁ	NOUN	N	_	6	conj	_	Entity=place)
+10	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0024
+# text_en = and Balmaenan, and their villages,
+# text = ⲁⲩⲱ ⲃⲁⲗⲙⲁⲑ ⲙⲛⲛⲉⲩⲧⲙⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲃⲁⲗⲙⲁⲑ	ⲃⲁⲗⲙⲁⲑ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3-6	ⲙⲛⲛⲉⲩⲧⲙⲉ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	cc	_	_
+4	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	2	advmod	_	_
+6	ⲉ	ⲉ	ADP	PREP	_	5	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0025
+# text_en = and the cities of Aseron, this is Asor,
+# text = ⲁⲩⲱ ⲧⲡⲟⲗⲓⲥ ⲉⲥⲣⲱⲙ ⲧⲁⲓ ⲧⲉ ⲁⲥⲱⲣ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+2-3	ⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Entity=(place
+3	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	5	dislocated	_	OrigLang=grc
+4	ⲉⲥⲣⲱⲙ	ⲉⲥⲣⲱⲙ	PROPN	NPROP	Foreign=Yes	3	appos	_	Entity=place)|OrigLang=he
+5	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)
+6	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	5	cop	_	_
+7	ⲁⲥⲱⲣ	ⲁⲥⲱⲣ	PROPN	NPROP	_	5	nsubj	_	Entity=(place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0026
+# text_en = and Sen, and Salmaa, and Molada,
+# text = ⲁⲩⲱ ⲥⲏⲙ ⲙⲛⲁⲥⲁⲗⲙⲁ ⲁⲩⲱ ⲙⲛⲱⲗⲙⲁⲇⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2	ⲥⲏⲙ	ⲥⲏⲙ	DET	ART	_	3	det	_	Entity=(abstract
+3-4	ⲙⲛⲁⲥⲁⲗⲙⲁ	_	_	_	_	_	_	_	_
+3	ⲙⲛⲁ	ⲙⲛⲁ	NOUN	N	_	4	nsubj	_	Entity=abstract)
+4	ⲥⲁⲗⲙⲁ	ⲥⲁⲗⲙⲁ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+6-7	ⲙⲛⲱⲗⲙⲁⲇⲁ	_	_	_	_	_	_	_	_
+6	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	4	conj	_	_
+7	ⲱⲗⲙⲁⲇⲁ	ⲱⲗⲙⲁⲇⲁ	NOUN	N	_	6	nsubj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0027
+# text_en = and Seri, and Baephalath,
+# text = ⲙⲛⲥⲉⲣⲅⲁⲣⲉⲓ ⲁⲩⲱ ⲃⲉⲫⲁⲗⲁⲑ
+1-2	ⲙⲛⲥⲉⲣⲅⲁⲣⲉⲓ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲥⲉⲣⲅⲁⲣⲉⲓ	ⲥⲉⲣⲅⲁⲣⲉⲓ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+4	ⲃⲉⲫⲁⲗⲁⲑ	ⲃⲉⲫⲁⲗⲁⲑ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0028
+# text_en = and Cholaseola, and Beersabee; and their villages, and their hamlets,
+# text = ⲙⲛⲭⲟⲗⲁ ⲁⲩⲱ ⲥⲉⲱⲗⲁ ⲙⲛⲃⲉⲣⲥⲏⲃⲉⲉ ⲁⲩⲱ ⲛⲉⲩⲧⲙⲉ ⲙⲛⲛⲉⲩⲡⲟⲗⲓⲥ ⲏ ⲛⲉⲩⲣⲥⲟⲟⲩⲉ
+1-2	ⲙⲛⲭⲟⲗⲁ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲭⲟⲗⲁ	ⲭⲟⲗⲁ	PROPN	NPROP	_	4	obl	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+4	ⲥⲉⲱⲗⲁ	ⲥⲉⲱⲗⲁ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲙⲛⲃⲉⲣⲥⲏⲃⲉⲉ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	case	_	_
+6	ⲃⲉⲣⲥⲏⲃⲉⲉ	ⲃⲉⲣⲥⲏⲃⲉⲉ	PROPN	NPROP	_	4	obl	_	Entity=(person)
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+8-10	ⲛⲉⲩⲧⲙⲉ	_	_	_	_	_	_	_	_
+8	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+9	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	10	advmod	_	_
+10	ⲉ	ⲛⲧⲟ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	conj	_	_
+11-13	ⲙⲛⲛⲉⲩⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+11	ⲙⲛ	ⲙⲛ	ADP	PREP	_	13	case	_	_
+12	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	Entity=(place
+13	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	10	conj	_	Entity=place)|OrigLang=grc
+14	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	17	cc	_	OrigLang=grc
+15-18	ⲛⲉⲩⲣⲥⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+15	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	17	aux	_	_
+16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+17	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	4	conj	_	_
+18	ⲥⲟⲟⲩⲉ	ⲥⲟ	NUM	NUM	NumType=Card	17	obl:npmod	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0029
+# text_en = Bala and Bacoc, and Asom,
+# text = ⲃⲁⲗⲁⲕ ⲁⲩⲱ ⲁⲕⲟⲕ ⲁⲥⲟⲙ
+1	ⲃⲁⲗⲁⲕ	ⲃⲁⲗⲁⲕ	PROPN	NPROP	_	7	dislocated	_	Entity=(person-Balak)
+2	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+3-4	ⲁⲕⲟⲕ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+4	ⲕⲟⲕ	ⲕⲟⲕ	PROPN	NPROP	_	7	dislocated	_	Entity=(person)
+5-7	ⲁⲥⲟⲙ	_	_	_	_	_	_	_	_
+5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	ⲟⲙ	ⲟⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0030
+# text_en = and Elboudad, and Baethel, and Herma,
+# text = ⲙⲛⲉⲗⲑⲉⲩⲇⲁⲇ ⲁⲩⲱ ⲃⲁⲓⲑⲏⲗ ⲙⲛϩⲉⲣⲙⲁ
+1	ⲙⲛⲉⲗⲑⲉⲩⲇⲁⲇ	ⲙⲛⲉⲗⲑⲉⲩⲇⲁⲇ	VERB	V	VerbForm=Fin	0	root	_	_
+2	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	1	cc	_	_
+3	ⲃⲁⲓⲑⲏⲗ	ⲃⲁⲓⲑⲏⲗ	PROPN	NPROP	_	1	dislocated	_	Entity=(place)
+4-5	ⲙⲛϩⲉⲣⲙⲁ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	cc	_	_
+5	ϩⲉⲣⲙⲁ	ϩⲉⲣⲙⲁ	PROPN	NPROP	_	3	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0031
+# text_en = and Sekelac, and Macharim, and Sethennac,
+# text = ⲁⲩⲱ ⲥⲉⲗⲁⲇⲁⲇ ⲙⲛⲙⲁⲭⲁⲣⲓⲙ ⲁⲩⲱ ⲥⲉⲑⲉⲛⲛⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2-3	ⲥⲉⲗⲁⲇⲁⲇ	_	_	_	_	_	_	_	_
+2	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲗⲁⲇⲁⲇ	ⲗⲁⲇⲁⲇ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲙⲛⲙⲁⲭⲁⲣⲓⲙ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	case	_	_
+5	ⲙⲁⲭⲁⲣⲓⲙ	ⲙⲁⲭⲁⲣⲓⲙ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+6	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
+7-8	ⲥⲉⲑⲉⲛⲛⲁ	_	_	_	_	_	_	_	_
+7	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+8	ⲑⲉⲛⲛⲁ	ⲑⲉⲛⲛⲁ	VERB	V	VerbForm=Fin	3	conj	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0032
+# text_en = and Labos, and Sale, and Eromoth; twenty-nine cities, and their villages.
+# text = ⲙⲛⲡⲉⲗⲁⲃⲱⲥ ⲁⲩⲱ ⲥⲁⲗⲱ ⲙⲛⲉⲣⲉⲙⲱⲑ ϫⲟⲩⲧⲯⲓⲧⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲧⲙⲉ
+1-2	ⲙⲛⲡⲉⲗⲁⲃⲱⲥ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲡⲉⲗⲁⲃⲱⲥ	ⲡⲉⲗⲁⲃⲱⲥ	PROPN	NPROP	_	5	obl	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+4-5	ⲥⲁⲗⲱ	_	_	_	_	_	_	_	_
+4	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲁⲗⲱ	ⲁⲗⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+6-7	ⲙⲛⲉⲣⲉⲙⲱⲑ	_	_	_	_	_	_	_	_
+6	ⲙⲛⲉⲣⲉ	ⲙⲛⲉⲣⲉ	ADP	PREP	_	8	case	_	_
+7	ⲙⲱⲑ	ⲙⲱⲑ	DET	ART	_	8	det	_	Entity=(object
+8	ϫⲟⲩⲧⲯⲓⲧⲉ	ϫⲟⲩⲧⲯⲓⲧⲉ	NOUN	N	_	5	obl	_	_
+9-10	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	8	nmod	_	Entity=(place)|OrigLang=grc
+11-14	ⲙⲛⲛⲉⲩⲧⲙⲉ	_	_	_	_	_	_	_	_
+11	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	cc	_	_
+12	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	Entity=object)
+13	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	5	advmod	_	_
+14	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0033
+# text_en = In the plain country Astaol, and Raa, and Assa,
+# text = ϩⲛⲧⲥⲱϣⲉ ⲡⲕⲁϩ ⲉⲧϩⲛⲧⲙⲏⲧⲉ ⲁⲥⲧⲁⲱⲗ ⲙⲛⲁⲥⲁⲣⲁ ⲁⲩⲱ ⲉⲥⲥⲁ
+1-3	ϩⲛⲧⲥⲱϣⲉ	_	_	_	_	_	_	_	_
+1	ϩⲛ	ϩⲛ	ADP	PREP	_	3	case	_	_
+2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Entity=(place
+3	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	12	obl	_	_
+4-5	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	3	appos	_	_
+6-9	ⲉⲧϩⲛⲧⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+7	ϩⲛ	ϩⲛ	ADP	PREP	_	9	case	_	_
+8	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Entity=(place
+9	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	5	acl	_	Entity=place)place)
+10-12	ⲁⲥⲧⲁⲱⲗ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲧⲁⲱⲗ	ⲧⲁⲱⲗ	VERB	V	VerbForm=Fin	0	root	_	_
+13-14	ⲙⲛⲁⲥⲁⲣⲁ	_	_	_	_	_	_	_	_
+13	ⲙⲛⲁ	ⲙⲛⲁ	ADP	PREP	_	14	case	_	_
+14	ⲥⲁⲣⲁ	ⲥⲁⲣⲁ	PROPN	NPROP	_	12	obl	_	Entity=(person-Sarah_of_the_Desert)
+15	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	18	cc	_	_
+16-18	ⲉⲥⲥⲁ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	18	mark	_	_
+17	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	ⲥⲁ	ⲥⲁ	NOUN	N	_	12	conj	_	Entity=(place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0034
+# text_en = and Ramen, and Tano, and Iluthoth, and Maeani,
+# text = ⲙⲛϩⲉⲣⲁⲙⲙⲉ ⲁⲩⲱ ⲧⲁⲛⲱ ⲙⲛⲓⲁⲣⲓⲙⲟⲩⲑ
+1-2	ⲙⲛϩⲉⲣⲁⲙⲙⲉ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ϩⲉⲣⲁⲙⲙⲉ	ϩⲉⲣⲁⲙⲙⲉ	NOUN	N	_	0	root	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+4	ⲧⲁⲛⲱ	ⲧⲁⲛⲱ	VERB	V	VerbForm=Fin	2	conj	_	_
+5-6	ⲙⲛⲓⲁⲣⲓⲙⲟⲩⲑ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	case	_	_
+6	ⲓⲁⲣⲓⲙⲟⲩⲑ	ⲓⲁⲣⲓⲙⲟⲩⲑ	PROPN	NPROP	_	4	obl	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0035
+# text_en = and Jermuth, and Odollam, and Membra, and Saocho, and Jazeca.
+# text = ⲁⲩⲱ ⲟⲇⲟⲗⲗⲁⲙ ⲙⲛⲗⲉⲙⲉⲣⲁ ⲁⲩⲱ ⲥⲁⲱⲭⲱ ⲙⲛⲁⲍⲏⲕⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲟⲇⲟⲗⲗⲁⲙ	ⲟⲇⲟⲗⲗⲁⲙ	PROPN	NPROP	_	0	root	_	Entity=(place-Adullam)
+3-4	ⲙⲛⲗⲉⲙⲉⲣⲁ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	cc	_	_
+4	ⲗⲉⲙⲉⲣⲁ	ⲗⲉⲙⲉⲣⲁ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+5	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+6	ⲥⲁⲱⲭⲱ	ⲥⲁⲱⲭⲱ	VERB	V	VerbForm=Fin	2	conj	_	_
+7	ⲙⲛⲁⲍⲏⲕⲁ	ⲙⲛⲁⲍⲏⲕⲁ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0036
+# text_en = And Sacarim and Gadera, and its villages; fourteen cities, and their villages;
+# text = ⲁⲩⲱ ⲥⲁⲣⲅⲁⲣⲓⲙ ⲙⲛⲇⲁⲣⲅⲏⲣⲁ ⲙⲛⲛⲉⲩⲣⲥⲟⲟⲩⲉ ⲙⲛⲧⲁϥⲧⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲧⲙⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲥⲁⲣⲅⲁⲣⲓⲙ	ⲥⲁⲣⲅⲁⲣⲓⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+3-4	ⲙⲛⲇⲁⲣⲅⲏⲣⲁ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	case	_	_
+4	ⲇⲁⲣⲅⲏⲣⲁ	ⲇⲁⲣⲅⲏⲣⲁ	PROPN	NPROP	_	2	obl	_	Entity=(person)
+5-7	ⲙⲛⲛⲉⲩⲣⲥⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	cc	_	_
+6	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	Entity=(abstract
+7	ⲣⲥⲟⲟⲩⲉ	ⲣⲥⲟⲟⲩⲉ	NOUN	N	_	4	conj	_	Entity=abstract)
+8-10	ⲙⲛⲧⲁϥⲧⲉ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	cc	_	_
+9	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	Entity=(object
+10	ϥⲧⲉ	ϥⲧⲉ	NOUN	N	_	4	conj	_	_
+11-12	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	10	nmod	_	Entity=(place)|OrigLang=grc
+13-16	ⲙⲛⲛⲉⲩⲧⲙⲉ	_	_	_	_	_	_	_	_
+13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	cc	_	_
+14	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+15	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	10	advmod	_	Entity=object)
+16	ⲉ	ⲉ	ADP	PREP	_	10	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0037
+# text_en = Senna, and Adasan, and Magadalgad,
+# text = ⲥⲉⲛⲛⲁ ⲁⲩⲱ ⲁⲇⲁⲥⲁⲛ ⲁⲩⲱ ⲙⲁⲅⲁⲇⲁⲅⲁⲇ
+1-3	ⲥⲉⲛⲛⲁ	_	_	_	_	_	_	_	_
+1	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
+3	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	0	root	_	Entity=(person)
+4	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+5-6	ⲁⲇⲁⲥⲁⲛ	_	_	_	_	_	_	_	_
+5	ⲁ	ⲁ	AUX	APST	_	6	orphan	_	_
+6	ⲇⲁⲥⲁⲛ	ⲇⲁⲥⲁⲛ	PROPN	NPROP	_	3	conj	_	Entity=(person)
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
+8	ⲙⲁⲅⲁⲇⲁⲅⲁⲇ	ⲙⲁⲅⲁⲇⲁⲅⲁⲇ	PROPN	NPROP	_	6	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0038
+# text_en = and Dalad, and Maspha, and Jachareel,
+# text = ⲙⲛⲧⲁⲗⲁⲗ ⲁⲩⲱ ⲙⲁⲥⲥⲓⲁ ⲙⲛⲓⲕⲁⲣⲉⲏⲗ
+1-3	ⲙⲛⲧⲁⲗⲁⲗ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	3	case	_	_
+2	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	Entity=(person
+3	ⲗⲁⲗ	ⲗⲁⲗ	NOUN	N	_	0	root	_	Entity=person)
+4	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+5-6	ⲙⲁⲥⲥⲓⲁ	_	_	_	_	_	_	_	_
+5	ⲙⲁ	ⲙⲉⲣⲉ	AUX	ANEGAOR	Polarity=Neg	3	conj	_	_
+6	ⲥⲥⲓⲁ	ⲥⲥⲓⲁ	PRON	PPERS	_	7	nsubj	_	_
+7-8	ⲙⲛⲓⲕⲁⲣⲉⲏⲗ	_	_	_	_	_	_	_	_
+7	ⲙⲛⲓ	ⲙⲛⲓ	VERB	V	VerbForm=Fin	3	conj	_	_
+8	ⲕⲁⲣⲉⲏⲗ	ⲕⲁⲣⲉⲏⲗ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0039
+# text_en = and Basedoth, and Ideadalea;
+# text = ⲁⲩⲱ ⲗⲁⲭⲏⲥ ⲙⲛⲃⲁⲥⲏⲇⲱⲑ ⲁⲩⲱ ⲉⲛⲉⲇⲉⲗⲉⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲗⲁⲭⲏⲥ	ⲗⲁⲭⲏⲥ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3-4	ⲙⲛⲃⲁⲥⲏⲇⲱⲑ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	8	cc	_	_
+4	ⲃⲁⲥⲏⲇⲱⲑ	ⲃⲁⲥⲏⲇⲱⲑ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+5	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
+6-8	ⲉⲛⲉⲇⲉⲗⲉⲁ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉ	ADP	PREP	_	8	case	_	_
+7	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(person
+8	ⲇⲉⲗⲉⲁ	ⲇⲉⲗⲉⲁ	NOUN	N	_	2	conj	_	Entity=person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0040
+# text_en = and Chabra, and Maches, and Maachos,
+# text = ⲙⲛⲭⲁⲃⲣⲁ ⲁⲩⲱ ⲙⲁⲭⲟⲉⲥ ⲙⲛⲅⲁⲗⲉⲛⲟⲥ
+1-2	ⲙⲛⲭⲁⲃⲣⲁ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲭⲁⲃⲣⲁ	ⲭⲁⲃⲣⲁ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+4	ⲙⲁⲭⲟⲉⲥ	ⲙⲁⲭⲟⲉⲥ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+5-6	ⲙⲛⲅⲁⲗⲉⲛⲟⲥ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	cc	_	_
+6	ⲅⲁⲗⲉⲛⲟⲥ	ⲅⲁⲗⲉⲛⲟⲥ	PROPN	NPROP	_	4	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0041
+# text_en = and Geddor, and Bagadiel, and Noman, and Machedan: sixteen cities, and their villages;
+# text = ⲁⲩⲱ ⲅⲉⲇⲇⲱⲣ ⲙⲛⲃⲁⲅⲁⲇⲓⲏⲗ ⲁⲩⲱ ⲉⲛⲱⲙⲁⲛ ⲙⲛⲙⲁⲕⲏⲇⲁⲛ ⲙⲛⲧⲁⲥⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩϯⲙⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲅⲉⲇⲇⲱⲣ	ⲅⲉⲇⲇⲱⲣ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3-4	ⲙⲛⲃⲁⲅⲁⲇⲓⲏⲗ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	cc	_	_
+4	ⲃⲁⲅⲁⲇⲓⲏⲗ	ⲃⲁⲅⲁⲇⲓⲏⲗ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+5	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+6-7	ⲉⲛⲱⲙⲁⲛ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉ	PART	PREP	_	7	mark	_	_
+7	ⲛⲱⲙⲁⲛ	ⲛⲱⲙⲁⲛ	VERB	V	VerbForm=Inf	2	conj	_	_
+8-9	ⲙⲛⲙⲁⲕⲏⲇⲁⲛ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	case	_	_
+9	ⲙⲁⲕⲏⲇⲁⲛ	ⲙⲁⲕⲏⲇⲁⲛ	PROPN	NPROP	_	7	obl	_	Entity=(person)
+10-11	ⲙⲛⲧⲁⲥⲉ	_	_	_	_	_	_	_	_
+10	ⲙⲛ	ⲙⲛ	ADP	PREP	_	11	cc	_	_
+11	ⲧⲁⲥⲉ	ⲧⲁⲥⲉ	NUM	NUM	NumType=Card	9	conj	_	Entity=(abstract
+12-13	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	11	nmod	_	Entity=(place)abstract)|OrigLang=grc
+14-16	ⲙⲛⲛⲉⲩϯⲙⲉ	_	_	_	_	_	_	_	_
+14	ⲙⲛ	ⲙⲛ	ADP	PREP	_	16	cc	_	_
+15	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	Entity=(place
+16	ϯⲙⲉ	ϯⲙⲉ	NOUN	N	_	2	conj	_	Entity=place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0042
+# text_en = Lebna, and Ithac, and Anoch,
+# text = ⲗⲉⲙⲛⲁ ⲁⲩⲱ ⲓⲁⲑⲁⲕⲁⲛⲱⲭ
+1	ⲗⲉⲙⲛⲁ	ⲗⲉⲙⲛⲁ	VERB	V	VerbForm=Fin	0	root	_	_
+2	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	1	cc	_	_
+3	ⲓⲁⲑⲁⲕⲁⲛⲱⲭ	ⲓⲁⲑⲁⲕⲁⲛⲱⲭ	PROPN	NPROP	_	1	dislocated	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0043
+# text_en = and Jana, and Nasib,
+# text = ⲙⲛⲓⲁⲛⲁ ⲁⲩⲱ ⲛⲁⲥⲓⲙ
+1-3	ⲙⲛⲓⲁⲛⲁ	_	_	_	_	_	_	_	_
+1	ⲙ	ⲛ	ADP	PREP	_	3	case	_	_
+2	ⲛⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	3	det	_	Entity=(abstract
+3	ⲁⲛⲁ	ⲁⲛⲁⲓ	NOUN	N	_	0	root	_	Entity=abstract)
+4	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+5	ⲛⲁⲥⲓⲙ	ⲛⲁⲥⲓⲙ	PROPN	NPROP	_	3	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0044
+# text_en = and Keilam, and Akiezi, and Kezib, and Bathesar, and Aelom: ten cities, and their villages;
+# text = ⲙⲛⲕⲓⲗⲁⲙ ⲁⲩⲱ ⲁⲙⲉϩⲉⲓ ⲙⲛⲕⲉⲥⲉⲓⲃ ⲁⲩⲱ ⲃⲁⲣⲏⲥⲁ ⲙⲛⲉⲗⲱⲙ ⲙⲏⲧⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲧⲙⲉ
+1-2	ⲙⲛⲕⲓⲗⲁⲙ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲕⲓⲗⲁⲙ	ⲕⲓⲗⲁⲙ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	_
+4-5	ⲁⲙⲉϩⲉⲓ	_	_	_	_	_	_	_	_
+4	ⲁ	ⲁ	AUX	APST	_	5	conj	_	_
+5	ⲙⲉϩⲉⲓ	ⲙⲉϩⲉⲓ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+6-7	ⲙⲛⲕⲉⲥⲉⲓⲃ	_	_	_	_	_	_	_	_
+6	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	cc	_	_
+7	ⲕⲉⲥⲉⲓⲃ	ⲕⲉⲥⲉⲓⲃ	PROPN	NPROP	_	5	conj	_	Entity=(person)
+8	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	_
+9	ⲃⲁⲣⲏⲥⲁ	ⲃⲁⲣⲏⲥⲁ	PROPN	NPROP	_	5	conj	_	Entity=(place)
+10	ⲙⲛⲉⲗⲱⲙ	ⲙⲛⲉⲗⲱⲙ	X	FM	_	5	conj	_	_
+11	ⲙⲏⲧⲉ	ⲙⲏⲧ	NUM	NUM	NumType=Card	5	conj	_	Entity=(abstract
+12-13	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	11	nmod	_	Entity=(place|OrigLang=grc
+14-17	ⲙⲛⲛⲉⲩⲧⲙⲉ	_	_	_	_	_	_	_	_
+14	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	cc	_	_
+15	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	Entity=place)abstract)
+16	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	10	advmod	_	_
+17	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0045
+# text_en = Accaron and her villages, and their hamlets:
+# text = ⲁⲕⲕⲁⲣⲱⲛ ⲙⲛⲛⲉⲥⲧⲙⲉ ⲁⲩⲱ ⲛⲉⲩⲣⲥⲟⲟⲩⲉ
+1-3	ⲁⲕⲕⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	ⲕⲁⲣⲱⲛ	ⲕⲁⲣⲱⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4-7	ⲙⲛⲛⲉⲥⲧⲙⲉ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	case	_	_
+5	ⲛⲉⲥ	ⲡⲉⲥ	DET	PPOS	_	3	obl	_	_
+6	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	3	advmod	_	_
+7	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	obl	_	_
+8	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
+9-12	ⲛⲉⲩⲣⲥⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+9	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	11	aux	_	_
+10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	3	conj	_	_
+12	ⲥⲟⲟⲩⲉ	ⲥⲟ	NUM	NUM	NumType=Card	11	obl:npmod	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0046
+# text_en = from Accaron, Gemna, and all the cities that are near Asedoth; and their villages.
+# text = ϫⲓⲛⲁⲕⲕⲁⲣⲱⲛ ⲓⲉⲣⲉⲙⲛⲁ ⲙⲛⲛⲕⲉⲙⲁ ⲏ ⲛⲕⲉⲡⲟⲗⲓⲥ ⲧⲏⲣⲟⲩ ϩⲓⲧⲟⲩⲱⲥ ⲛⲁⲥⲏⲇⲱⲑ ⲙⲛⲛⲉⲩⲕⲉⲧⲙⲉ
+1-3	ϫⲓⲛⲁⲕⲕⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+1	ϫⲓⲛ	ϫⲓⲛ	SCONJ	CONJ	_	4	mark	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲕⲕⲁⲣⲱⲛ	ⲕⲕⲁⲣⲱⲛ	PRON	PPERS	_	4	nsubj	_	_
+4-5	ⲓⲉⲣⲉⲙⲛⲁ	_	_	_	_	_	_	_	_
+4	ⲓⲉⲣⲉ	ⲓⲉⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲙⲛⲁ	ⲙⲛⲁ	NOUN	N	_	4	obj	_	Entity=(abstract)
+6-9	ⲙⲛⲛⲕⲉⲙⲁ	_	_	_	_	_	_	_	_
+6	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	case	_	_
+7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	det	_	Entity=(place
+8	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	9	det	_	_
+9	ⲙⲁ	ⲙⲁ	NOUN	N	_	5	conj	_	Entity=place)
+10	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	13	cc	_	OrigLang=grc
+11-13	ⲛⲕⲉⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	13	det	_	Entity=(place
+12	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	13	det	_	_
+13	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	5	conj	_	OrigLang=grc
+14-15	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+14	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	13	advmod	_	_
+15	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	14	det	_	_
+16-17	ϩⲓⲧⲟⲩⲱⲥ	_	_	_	_	_	_	_	_
+16	ϩⲓⲧⲟⲩⲱ	ϩⲓⲧⲟⲩⲛ	ADP	PREP	_	17	case	_	_
+17	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Entity=place)
+18	ⲛⲁⲥⲏⲇⲱⲑ	ⲛⲁⲥⲏⲇⲱⲑ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+19-21	ⲙⲛⲛⲉⲩⲕⲉⲧⲙⲉ	_	_	_	_	_	_	_	_
+19	ⲙⲛ	ⲙⲛ	ADP	PREP	_	21	case	_	_
+20	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	Entity=(object
+21	ⲕⲉⲧⲙⲉ	ⲕⲉⲧⲙⲉ	NOUN	N	_	18	obl	_	Entity=object)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0047
+# text_en = Asiedoth, and her villages, and her hamlets; Gaza, and its villages and its hamlets as far as the river of Egypt, and the great sea is the boundary.
+# text = ⲁⲥⲓⲇⲱⲑ ⲙⲛⲛⲉⲥⲧⲙⲉ ⲙⲛⲛⲉⲥⲕⲉⲣⲥⲟⲟⲩⲉ ϣⲁϩⲣⲁⲓ ⲉⲡⲉⲭⲉⲓⲙⲁⲣⲣⲟⲥ ⲡⲙⲟⲩ ⲛⲥⲱⲣⲙ ⲛⲕⲏⲙⲉ ⲁⲩⲱ ⲧⲉⲑⲁⲗⲁⲥⲥⲁ ⲛⲟϭ ⲛⲧⲟⲥ ⲧⲉⲧⲛⲁⲡⲱⲣϫ ⲛⲁⲩ ⲉⲃⲟⲗ
+1-2	ⲁⲥⲓⲇⲱⲑ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	2	aux	_	_
+2	ⲥⲓⲇⲱⲑ	ⲥⲓⲇⲱⲑ	PROPN	NPROP	_	0	root	_	Entity=(person
+3-6	ⲙⲛⲛⲉⲥⲧⲙⲉ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	cc	_	_
+4	ⲛⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+5	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	13	advmod	_	_
+6	ⲉ	ⲛⲧⲟ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	2	det	_	_
+7-9	ⲙⲛⲛⲉⲥⲕⲉⲣⲥⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+7	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	case	_	_
+8	ⲛⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	ⲕⲉⲣⲥⲟⲟⲩⲉ	ⲕⲉⲣⲥⲟⲟⲩⲉ	NOUN	N	_	2	conj	_	Entity=abstract)
+10	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	13	advmod	_	_
+11-13	ⲉⲡⲉⲭⲉⲓⲙⲁⲣⲣⲟⲥ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place
+13	ⲭⲉⲓⲙⲁⲣⲣⲟⲥ	ⲭⲉⲓⲙⲁⲣⲣⲟⲥ	NOUN	N	Foreign=Yes	2	nmod	_	Orig=ⲭⲓⲙⲁⲣⲣⲟⲥ|OrigLang=grc
+14-15	ⲡⲙⲟⲩ	_	_	_	_	_	_	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	13	appos	_	Entity=place)person)
+16-18	ⲛⲥⲱⲣⲙ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	18	aux	_	_
+17	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	ⲱⲣⲙ	ⲱⲣⲙ	VERB	V	VerbForm=Fin	2	advcl	_	_
+19-20	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	18	obl	_	Entity=(place-Egypt)
+21	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	_
+22-23	ⲧⲉⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+22	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	Entity=(time
+23	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	25	nsubj	_	Entity=(place)|OrigLang=grc
+24	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	23	nsubj	_	Entity=time)
+25	ⲛⲧⲟⲥ	ⲛⲧⲟⲥ	PRON	PPERI	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	conj	_	_
+26-29	ⲧⲉⲧⲛⲁⲡⲱⲣϫ	_	_	_	_	_	_	_	_
+26	ⲧ	ⲧ	PRON	COP	Gender=Fem|Number=Sing	25	cop	_	_
+27	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	29	mark	_	_
+28	ⲛⲁ	ⲛⲁ	AUX	FUT	_	29	aux	_	_
+29	ⲡⲱⲣϫ	ⲡⲱⲣϫ	VERB	V	VerbForm=Fin	25	csubj	_	_
+30-31	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+30	ⲛⲁ	ⲛⲁ	ADP	PREP	_	31	case	_	_
+31	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	29	obl	_	_
+32	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	29	advmod	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0048
+# text_en = And in the hill country Samir, and Jether, and Socha,
+# text = ⲁⲩⲱ ϩⲛⲧⲟⲣⲓⲛⲏ ⲡⲕⲁϩ ⲉⲧϫⲟⲥⲉ ⲥⲁⲙⲉⲓⲣ ⲙⲛⲓⲉⲑⲉⲣ ⲁⲩⲱ ⲥⲱⲭⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2-3	ϩⲛⲧⲟⲣⲓⲛⲏ	_	_	_	_	_	_	_	_
+2	ϩⲛ	ϩⲛ	ADP	PREP	_	3	case	_	_
+3	ⲧⲟⲣⲓⲛⲏ	ⲧⲟⲣⲓⲛⲏ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(place
+5	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	3	obj	_	_
+6-7	ⲉⲧϫⲟⲥⲉ	_	_	_	_	_	_	_	_
+6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+7	ϫⲟⲥⲉ	ϫⲓⲥⲉ	VERB	VSTAT	VerbForm=Fin	5	acl	_	Entity=place)
+8	ⲥⲁⲙⲉⲓⲣ	ⲥⲁⲙⲉⲓⲣ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+9-10	ⲙⲛⲓⲉⲑⲉⲣ	_	_	_	_	_	_	_	_
+9	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	case	_	_
+10	ⲓⲉⲑⲉⲣ	ⲓⲉⲑⲉⲣ	PROPN	NPROP	_	8	obl	_	Entity=(person)
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_
+12	ⲥⲱⲭⲁ	ⲥⲱⲭⲁ	PROPN	NPROP	_	8	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0049
+# text_en = and Renna and the city of Letters, this is Dabir;
+# text = ⲙⲛⲣⲉⲛⲛⲁ ⲧⲡⲟⲗⲓⲥ ⲛⲛⲉⲥϩⲁⲓ ⲧⲁⲓ ⲧⲉ ⲧⲁⲃⲓⲣ
+1-2	ⲙⲛⲣⲉⲛⲛⲁ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲣⲉⲛⲛⲁ	ⲣⲉⲛⲛⲁ	PROPN	NPROP	_	8	obl	_	Entity=(abstract(person
+3-4	ⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	2	appos	_	OrigLang=grc
+5-7	ⲛⲛⲉⲥϩⲁⲓ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(object
+7	ⲥϩⲁⲓ	ⲥϩⲁⲓ	NOUN	N	_	4	nmod	_	Entity=object)person)
+8	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=abstract)
+9	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	8	cop	_	_
+10-11	ⲧⲁⲃⲓⲣ	_	_	_	_	_	_	_	_
+10	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	Entity=(object
+11	ⲃⲓⲣ	ⲃⲓⲣ	NOUN	N	_	8	nsubj	_	Entity=object)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0050
+# text_en = and Anon, and Es, and Man, and Aesam,
+# text = ⲁⲩⲱ ⲁⲛⲱⲣ ⲙⲛⲁⲥⲑⲁⲙⲁ ⲁⲩⲱ ⲁⲓⲥⲁⲙ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+2-3	ⲁⲛⲱⲣ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+3	ⲛⲱⲣ	ⲛⲱⲣ	DET	ART	_	4	det	_	Entity=(abstract
+4-5	ⲙⲛⲁⲥⲑⲁⲙⲁ	_	_	_	_	_	_	_	_
+4	ⲙⲛⲁ	ⲙⲛⲁ	NOUN	N	_	5	nsubj	_	Entity=abstract)
+5	ⲥⲑⲁⲙⲁ	ⲥⲑⲁⲙⲁ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+7-9	ⲁⲓⲥⲁⲙ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	ⲥⲁⲙ	ⲥⲁⲙ	VERB	V	VerbForm=Fin	5	conj	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0051
+# text_en = and Gosom, and Chalu, and Channa, and Gelom: eleven cities, and their villages;
+# text = ⲙⲛⲅⲟⲥⲟⲙ ⲁⲩⲱ ⲭⲁⲗⲟⲩ ⲙⲛⲗⲁⲛⲟⲩ ⲙⲛⲧⲟⲩⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲧⲙⲉ
+1-2	ⲙⲛⲅⲟⲥⲟⲙ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲅⲟⲥⲟⲙ	ⲅⲟⲥⲟⲙ	PROPN	NPROP	_	7	obl	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+4	ⲭⲁⲗⲟⲩ	ⲭⲁⲗⲟⲩ	VERB	V	VerbForm=Fin	7	conj	_	_
+5-6	ⲙⲛⲗⲁⲛⲟⲩ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	case	_	_
+6	ⲗⲁⲛⲟⲩ	ⲗⲁⲛⲟⲩ	NOUN	N	_	4	obl	_	Entity=(time
+7-8	ⲙⲛⲧⲟⲩⲉ	_	_	_	_	_	_	_	_
+7	ⲙⲛⲧ	ⲙⲛⲧⲉ	VERB	EXIST	Polarity=Neg	0	root	_	_
+8	ⲟⲩⲉ	ⲟⲩⲉ	NOUN	N	_	7	nsubj	_	Entity=(abstract
+9-10	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	8	nmod	_	Entity=(place)abstract)|OrigLang=grc
+11-14	ⲙⲛⲛⲉⲩⲧⲙⲉ	_	_	_	_	_	_	_	_
+11	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	cc	_	_
+12	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	Entity=time)
+13	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	7	advmod	_	_
+14	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0052
+# text_en = Aerem, and Remna, and Soma,
+# text = ⲉⲣⲉⲙ ⲙⲛⲣⲉⲙⲛⲁ ⲁⲩⲱ ⲥⲟⲙⲁ
+1-2	ⲉⲣⲉⲙ	_	_	_	_	_	_	_	_
+1	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
+2	ⲙ	ⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
+3-4	ⲙⲛⲣⲉⲙⲛⲁ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	case	_	_
+4	ⲣⲉⲙⲛⲁ	ⲣⲉⲙⲛⲁ	PROPN	NPROP	_	0	root	_	Entity=(person)
+5	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+6	ⲥⲟⲙⲁ	ⲥⲟⲙⲁ	VERB	V	VerbForm=Fin	4	conj	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0053
+# text_en = and Jemain, and Baethachu, and Phacua,
+# text = ⲙⲛⲓⲁⲙⲉⲑ ⲁⲩⲱ ⲃⲁⲓⲑⲁϩⲟⲩ ⲙⲛⲫⲁⲕⲟⲩⲁ
+1-2	ⲙⲛⲓⲁⲙⲉⲑ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲓⲁⲙⲉⲑ	ⲓⲁⲙⲉⲑ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+4	ⲃⲁⲓⲑⲁϩⲟⲩ	ⲃⲁⲓⲑⲁϩⲟⲩ	PROPN	NPROP	_	2	conj	_	Entity=(person)
+5-6	ⲙⲛⲫⲁⲕⲟⲩⲁ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	cc	_	_
+6	ⲫⲁⲕⲟⲩⲁ	ⲫⲁⲕⲟⲩⲁ	PROPN	NPROP	_	4	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0054
+# text_en = and Euma, and the city Arboc, this is Chebron, and Soraith: nine cities and their villages:
+# text = ⲁⲩⲱ ⲉⲩⲁ ⲙⲛⲧⲡⲟⲗⲓⲥ ⲛⲁⲣⲃⲟⲕ ⲧⲁⲓ ⲧⲉ ⲭⲉⲃⲣⲱⲛ ⲙⲛⲥⲱⲣⲁⲓⲑ ⲯⲓⲧⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲣⲥⲟⲟⲩⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+2-4	ⲉⲩⲁ	_	_	_	_	_	_	_	_
+2	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲁ	ⲁ	VERB	V	VerbForm=Fin	9	advcl	_	_
+5-7	ⲙⲛⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	case	_	_
+6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Entity=(place
+7	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	4	obl	_	Entity=place)|OrigLang=grc
+8-9	ⲛⲁⲣⲃⲟⲕ	_	_	_	_	_	_	_	_
+8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	9	aux	_	_
+9	ⲣⲃⲟⲕ	ⲣⲃⲟⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+10	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	parataxis	_	Entity=(abstract)
+11	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	10	cop	_	_
+12	ⲭⲉⲃⲣⲱⲛ	ⲭⲉⲃⲣⲱⲛ	PROPN	NPROP	_	10	nsubj	_	Entity=(place-Hebron)
+13-14	ⲙⲛⲥⲱⲣⲁⲓⲑ	_	_	_	_	_	_	_	_
+13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	15	cc	_	_
+14	ⲥⲱⲣⲁⲓⲑ	ⲥⲱⲣⲁⲓⲑ	DET	ART	_	15	det	_	Entity=(object
+15	ⲯⲓⲧⲉ	ⲯⲓⲧⲉ	NOUN	N	_	12	conj	_	_
+16-17	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+16	ⲙ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	15	nmod	_	Entity=(place)|OrigLang=grc
+18-20	ⲙⲛⲛⲉⲩⲣⲥⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+18	ⲙⲛ	ⲙⲛ	ADP	PREP	_	20	cc	_	_
+19	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	Entity=(abstract
+20	ⲣⲥⲟⲟⲩⲉ	ⲣⲥⲟⲟⲩⲉ	NOUN	N	_	17	conj	_	Entity=abstract)object)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0055
+# text_en = Maor, and Chermel, and Ozib, and Itan,
+# text = ⲙⲛⲙⲁⲓⲱⲣ ⲙⲛⲭⲉⲣⲙⲉⲗ ⲁⲩⲱ ⲟⲍⲉⲓⲃ ⲙⲛⲓⲧⲁⲛ
+1-2	ⲙⲛⲙⲁⲓⲱⲣ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲙⲁⲓⲱⲣ	ⲙⲁⲓⲱⲣ	PROPN	NPROP	_	0	root	_	Entity=(place)
+3-4	ⲙⲛⲭⲉⲣⲙⲉⲗ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	cc	_	_
+4	ⲭⲉⲣⲙⲉⲗ	ⲭⲉⲣⲙⲉⲗ	PROPN	NPROP	_	2	conj	_	Entity=(place-Carmel_%28biblical_settlement%29)
+5	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
+6	ⲟⲍⲉⲓⲃ	ⲟⲍⲉⲓⲃ	VERB	V	VerbForm=Fin	2	conj	_	_
+7	ⲙⲛⲓⲧⲁⲛ	ⲙⲛⲓⲧⲁⲛ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0056
+# text_en = and Jariel, and Aricam, and Zacanaim,
+# text = ⲁⲩⲱ ⲁⲣⲓⲏⲗ ⲙⲛⲁⲣⲓⲕⲁⲙ ⲁⲩⲱ ⲥⲉⲛⲁⲕⲓⲙ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+2	ⲁⲣⲓⲏⲗ	ⲁⲣⲓⲏⲗ	PROPN	NPROP	_	7	dislocated	_	Entity=(person
+3	ⲙⲛⲁⲣⲓⲕⲁⲙ	ⲙⲛⲁⲣⲓⲕⲁⲙ	NOUN	N	_	2	appos	_	Entity=person)
+4	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+5-7	ⲥⲉⲛⲁⲕⲓⲙ	_	_	_	_	_	_	_	_
+5	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+6	ⲛⲁ	ⲛⲁ	AUX	FUT	_	7	aux	_	_
+7	ⲕⲓⲙ	ⲕⲓⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0057
+# text_en = and Gabaa, and Thamnatha; nine cities, and their villages;
+# text = ⲙⲛⲅⲁⲃⲁⲁ ⲁⲩⲱ ⲑⲁⲙⲛⲁ ⲯⲓⲧⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲧⲙⲉ
+1-2	ⲙⲛⲅⲁⲃⲁⲁ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲅⲁⲃⲁⲁ	ⲅⲁⲃⲁⲁ	PROPN	NPROP	_	0	root	_	Entity=(person)
+3	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+4	ⲑⲁⲙⲛⲁ	ⲑⲁⲙⲛⲁ	VERB	EXIST	_	2	conj	_	_
+5	ⲯⲓⲧⲉ	ⲯⲓⲧⲉ	NOUN	N	_	4	nsubj	_	Entity=(abstract
+6-7	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+6	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	5	nmod	_	Entity=(place)abstract)|OrigLang=grc
+8-11	ⲙⲛⲛⲉⲩⲧⲙⲉ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	cc	_	_
+9	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+10	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	4	advmod	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	10	case	_	_
+
+# sent_id = sahidic_ot-06_Joshua_15_s0058
+# text_en = Aelua, and Bethsur, and Geddon,
+# text = ⲁⲛⲟⲩⲁ ⲁⲩⲱ ⲃⲁⲓⲑⲥⲟⲩⲣ ⲙⲛⲅⲉⲇⲇⲱⲣ
+1-3	ⲁⲛⲟⲩⲁ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	det	_	Entity=(abstract|Orig=ⲗ
+3	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	0	root	_	Entity=abstract)
+4	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+5	ⲃⲁⲓⲑⲥⲟⲩⲣ	ⲃⲁⲓⲑⲥⲟⲩⲣ	PROPN	NPROP	_	3	conj	_	Entity=(person)
+6-7	ⲙⲛⲅⲉⲇⲇⲱⲣ	_	_	_	_	_	_	_	_
+6	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	cc	_	_
+7	ⲅⲉⲇⲇⲱⲣ	ⲅⲉⲇⲇⲱⲣ	PROPN	NPROP	_	3	conj	_	Entity=(person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0059
+# text_en = and Magaroth, and Baethanam, and Thecum; six cities, and their villages; Theco, and Ephratha, this is Baethleem, and Phagor, and Aetan, and Culon, and Tatam, and Thobes, and Carem, and Galem, and Thether, and Manocho: eleven cities, and their villages,
+# text = ⲁⲩⲱ ⲙⲁⲕⲕⲁⲣⲱⲑ ⲙⲛⲃⲁⲓⲑⲁⲛⲁⲙ ⲁⲩⲱ ⲉⲧϩⲉⲕⲟⲩⲙ ⲥⲟ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲕⲉⲧⲙⲉ a ⲧϩⲉⲕⲕⲱ ⲙⲛⲉⲫⲣⲁⲑⲁ ⲧⲁⲓ ⲧⲉ ⲃⲏⲑⲗⲉⲉⲙ ⲁⲩⲱ ⲫⲁⲅⲱⲣ ⲙⲛⲉⲧⲁⲛ ⲁⲩⲱ ⲕⲟⲩⲗⲱⲙ ⲙⲛⲧⲁⲧⲁⲛ ⲁⲩⲱ ⲥⲱⲃⲏⲥ ⲙⲛⲕⲉⲉ ⲁⲩⲱ ⲕⲁⲗⲓⲙ ⲙⲛⲧϩⲉⲏⲣ ⲁⲩⲱ ⲙⲁⲛⲟⲭⲱ ⲙⲛⲧⲟⲩⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲕⲉϯⲙⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲙⲁⲕⲕⲁⲣⲱⲑ	_	_	_	_	_	_	_	_
+2	ⲙⲁ	ⲙⲉⲣⲉ	AUX	ANEGAOR	Polarity=Neg	4	dislocated	_	_
+3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	ⲕⲁⲣⲱⲑ	ⲕⲁⲣⲱⲑ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲙⲛⲃⲁⲓⲑⲁⲛⲁⲙ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	case	_	_
+6	ⲃⲁⲓⲑⲁⲛⲁⲙ	ⲃⲁⲓⲑⲁⲛⲁⲙ	PROPN	NPROP	_	4	obl	_	Entity=(person)
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+8-10	ⲉⲧϩⲉⲕⲟⲩⲙ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉ	PART	PREP	_	9	mark	_	_
+9	ⲧϩⲉ	ⲧϩⲉ	VERB	V	VerbForm=Inf	4	conj	_	Orig=ⲑⲉ
+10	ⲕⲟⲩⲙ	ⲕⲟⲩⲙ	DET	PPOS	Foreign=Yes	11	det	_	Entity=(person|OrigLang=arc
+11	ⲥⲟ	ⲥⲟ	NOUN	N	_	9	obj	_	_
+12-13	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	11	nmod	_	Entity=(place)person)|OrigLang=grc
+14-17	ⲙⲛⲛⲉⲩⲕⲉⲧⲙⲉ	_	_	_	_	_	_	_	_
+14	ⲙⲛ	ⲙⲛ	ADP	PREP	_	16	cc	_	_
+15	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	Entity=(object
+16	ⲕⲉⲧ	ⲕⲉⲧ	NOUN	N	_	11	conj	_	Entity=object)
+17	ⲙⲉ	ⲙⲉⲣⲉ	AUX	ANEGAOR	Polarity=Neg	19	aux	_	_
+18	a	a	PRON	PPERS	_	19	nsubj	_	_
+19-21	ⲧϩⲉⲕⲕⲱ	_	_	_	_	_	_	_	_
+19	ⲧϩⲉ	ⲧϩⲉ	VERB	V	VerbForm=Fin	4	parataxis	_	Orig=ⲑⲉ
+20	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	21	nsubj	_	_
+21	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	19	xcomp	_	_
+22-23	ⲙⲛⲉⲫⲣⲁⲑⲁ	_	_	_	_	_	_	_	_
+22	ⲙⲛ	ⲙⲛ	ADP	PREP	_	23	case	_	_
+23	ⲉⲫⲣⲁⲑⲁ	ⲉⲫⲣⲁⲑⲁ	PROPN	NPROP	_	21	obl	_	Entity=(place-Ephrath)
+24	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	21	parataxis	_	Entity=(abstract)
+25	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	24	cop	_	_
+26	ⲃⲏⲑⲗⲉⲉⲙ	ⲃⲏⲑⲗⲉⲉⲙ	PROPN	NPROP	Foreign=Yes	24	nsubj	_	Entity=(person-Bethlehem)|OrigLang=he
+27	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	28	cc	_	_
+28	ⲫⲁⲅⲱⲣ	ⲫⲁⲅⲱⲣ	PROPN	NPROP	_	24	conj	_	Entity=(person)
+29-31	ⲙⲛⲉⲧⲁⲛ	_	_	_	_	_	_	_	_
+29	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	24	conj	_	_
+30	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	31	mark	_	_
+31	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	29	advmod	_	Orig=ⲁⲙ
+32	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	33	cc	_	_
+33	ⲕⲟⲩⲗⲱⲙ	ⲕⲟⲩⲗⲱⲙ	VERB	V	VerbForm=Fin	24	conj	_	_
+34-36	ⲙⲛⲧⲁⲧⲁⲛ	_	_	_	_	_	_	_	_
+34	ⲙⲛ	ⲙⲛ	ADP	PREP	_	36	case	_	_
+35	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	36	det	_	Entity=(object
+36	ⲧⲁⲛ	ⲧⲁⲛ	NOUN	N	_	33	obl	_	Entity=object)
+37	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	38	cc	_	_
+38	ⲥⲱⲃⲏⲥ	ⲥⲱⲃⲏⲥ	PROPN	NPROP	_	33	conj	_	Entity=(person)
+39-40	ⲙⲛⲕⲉⲉ	_	_	_	_	_	_	_	_
+39	ⲙⲛ	ⲙⲛ	ADP	PREP	_	40	cc	_	_
+40	ⲕⲉⲉ	ⲕⲉⲉ	PROPN	NPROP	_	38	conj	_	Entity=(person)
+41	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	42	cc	_	_
+42	ⲕⲁⲗⲓⲙ	ⲕⲁⲗⲓⲙ	VERB	V	VerbForm=Fin	38	conj	_	_
+43-45	ⲙⲛⲧϩⲉⲏⲣ	_	_	_	_	_	_	_	_
+43	ⲙⲛ	ⲙⲛ	ADP	PREP	_	55	case	_	_
+44	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	Entity=(place|Orig=ⲑ
+45	ϩⲉⲏⲣ	ϩⲉⲏⲣ	NOUN	N	_	38	conj	_	Entity=place)|Orig=ⲉⲏⲣ
+46	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	48	cc	_	_
+47	ⲙⲁⲛⲟⲭⲱ	ⲙⲁⲛⲟⲭⲱ	PROPN	NPROP	_	38	conj	_	Entity=(person)
+48-49	ⲙⲛⲧⲟⲩⲉ	_	_	_	_	_	_	_	_
+48	ⲙⲛⲧ	ⲙⲛⲧⲉ	VERB	EXIST	Polarity=Neg	4	conj	_	_
+49	ⲟⲩⲉ	ⲟⲩⲉ	NOUN	N	_	48	nsubj	_	Entity=(abstract
+50-51	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+50	ⲙ	ⲛ	ADP	PREP	_	51	case	_	_
+51	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	49	nmod	_	Entity=(place)abstract)|OrigLang=grc
+52-55	ⲙⲛⲛⲉⲩⲕⲉϯⲙⲉ	_	_	_	_	_	_	_	_
+52	ⲙⲛ	ⲙⲛ	ADP	PREP	_	55	cc	_	_
+53	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	55	det	_	Entity=(place
+54	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	55	det	_	_
+55	ϯⲙⲉ	ϯⲙⲉ	NOUN	N	_	38	conj	_	Entity=place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0060
+# text_en = Cariathbaal, this is the city of Jarim, and Sotheba: two cities, and their villages:
+# text = ⲕⲁⲣⲓⲁⲑⲃⲁⲗ ⲧⲁⲓ ⲧⲉ ⲧⲡⲟⲗⲓⲥ ⲛⲁⲣⲓⲙ ⲁⲩⲱ ⲥⲱⲑⲏⲃⲁ ⲥⲛⲧⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲣⲥⲟⲟⲩⲉ
+1	ⲕⲁⲣⲓⲁⲑⲃⲁⲗ	ⲕⲁⲣⲓⲁⲑⲃⲁⲗ	PROPN	NPROP	_	0	root	_	Entity=(place)
+2	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	1	parataxis	_	Entity=(abstract)
+3	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	2	cop	_	_
+4-5	ⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+4	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Entity=(place
+5	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	2	nsubj	_	OrigLang=grc
+6-7	ⲛⲁⲣⲓⲙ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲁⲣⲓⲙ	ⲁⲣⲓⲙ	NOUN	N	_	5	nmod	_	Entity=(abstract)place)
+8	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+9	ⲥⲱⲑⲏⲃⲁ	ⲥⲱⲑⲏⲃⲁ	VERB	EXIST	_	5	conj	_	_
+10	ⲥⲛⲧⲉ	ⲥⲛⲧⲉ	NOUN	N	_	9	nsubj	_	Entity=(person
+11-12	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	10	nmod	_	Entity=(place)|OrigLang=grc
+13-15	ⲙⲛⲛⲉⲩⲣⲥⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	15	cc	_	_
+14	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	15	det	_	Entity=(abstract
+15	ⲣⲥⲟⲟⲩⲉ	ⲣⲥⲟⲟⲩⲉ	NOUN	N	_	12	conj	_	Entity=abstract)person)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0061
+# text_en = and Baddargeis, and Tharabaam, and Aenon;
+# text = ⲇⲁⲃⲇⲁⲃⲁⲣⲅⲓⲥ ⲁⲩⲱ ⲑⲁⲣⲁⲃⲁⲙ ⲙⲛⲙⲁⲣⲱⲛ
+1	ⲇⲁⲃⲇⲁⲃⲁⲣⲅⲓⲥ	ⲇⲁⲃⲇⲁⲃⲁⲣⲅⲓⲥ	PROPN	NPROP	_	0	root	_	Entity=(person)
+2	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+3	ⲑⲁⲣⲁⲃⲁⲙ	ⲑⲁⲣⲁⲃⲁⲙ	VERB	V	VerbForm=Fin	1	conj	_	_
+4-6	ⲙⲛⲙⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	case	_	_
+5	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	6	det	_	Entity=(person-Aaron
+6	ⲁⲣⲱⲛ	ⲁⲣⲱⲛ	PROPN	NPROP	_	3	obl	_	Entity=person-Aaron)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0062
+# text_en = and Aeochioza, and Naphlazon, and the cities of Sadon, and Ancades; seven cities, and their villages.
+# text = ⲁⲩⲱ ⲥⲟⲭⲟⲍⲁ ⲙⲛⲛⲁⲫⲗⲁⲍⲱ ⲁⲩⲱ ⲥⲁⲇⲱⲙ ⲙⲛⲁⲅⲕⲁⲇⲏⲥ ⲥⲁϣϥⲉ ⲙⲡⲟⲗⲓⲥ ⲙⲛⲛⲉⲩⲕⲉϯⲙⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲥⲟⲭⲟⲍⲁ	ⲥⲟⲭⲟⲍⲁ	VERB	V	VerbForm=Fin	0	root	_	_
+3-5	ⲙⲛⲛⲁⲫⲗⲁⲍⲱ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	case	_	_
+4	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	Entity=(abstract
+5	ⲫⲗⲁⲍⲱ	ⲫⲗⲁⲍⲱ	NOUN	N	_	2	obl	_	Entity=abstract)
+6	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
+7	ⲥⲁⲇⲱⲙ	ⲥⲁⲇⲱⲙ	VERB	V	VerbForm=Fin	2	conj	_	_
+8-9	ⲙⲛⲁⲅⲕⲁⲇⲏⲥ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	case	_	_
+9	ⲁⲅⲕⲁⲇⲏⲥ	ⲁⲅⲕⲁⲇⲏⲥ	NOUN	N	_	7	obl	_	Entity=(person
+10	ⲥⲁϣϥⲉ	ⲥⲁϣϥ	NUM	NUM	NumType=Card	9	nummod	_	Entity=person)
+11-12	ⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	7	nmod	_	Entity=(place)|OrigLang=grc
+13-16	ⲙⲛⲛⲉⲩⲕⲉϯⲙⲉ	_	_	_	_	_	_	_	_
+13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	16	cc	_	_
+14	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	Entity=(place
+15	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	16	det	_	_
+16	ϯⲙⲉ	ϯⲙⲉ	NOUN	N	_	12	conj	_	Entity=place)
+
+# sent_id = sahidic_ot-06_Joshua_15_s0063
+# text_en = And the Jebusite dwelt in Jerusalem, and the children of Juda could not destroy them; and the Jebusites dwelt in Jerusalem to this day.
+# text = ⲁⲩⲱ ⲡⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ ⲡⲁⲓ ⲉⲛⲉϥⲟⲩⲏϩ ϩⲛⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲛϣⲏⲣⲉ ⲛⲓⲟⲩⲇⲁⲥ ⲙⲡⲟⲩϣϭⲙϭⲟⲙ ⲉⲧⲁⲕⲟⲟⲩ ⲁⲩⲱ ⲛⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ ⲁⲩⲟⲩⲱⲙ ϩⲛⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ϣⲁϩⲣⲁⲓ ⲉⲡϩⲟⲟⲩ ⲛϩⲟⲟⲩ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	27	cc	_	_
+2-3	ⲡⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ	_	_	_	_	_	_	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person-Jebusite
+3	ⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ	ⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ	PROPN	NPROP	_	27	dislocated	_	_
+4	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	appos	_	_
+5-8	ⲉⲛⲉϥⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
+6	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	8	advmod	_	_
+7	ⲉϥ	ⲉϥ	PRON	PPERS	_	8	nsubj	_	_
+8	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	4	acl	_	_
+9-11	ϩⲛⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	_	_	_	_	_	_	_	_
+9	ϩⲛ	ϩⲛ	ADP	PREP	_	11	case	_	_
+10	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(place-Jerusalem|Orig=ⲑ
+11	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	PROPN	NPROP	Foreign=Yes	8	obl	_	Orig=ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ|OrigLang=he
+12-13	ⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	13	det	_	Entity=(person
+13	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	11	obl:npmod	_	_
+14-15	ⲛⲓⲟⲩⲇⲁⲥ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲓⲟⲩⲇⲁⲥ	ⲓⲟⲩⲇⲁⲥ	PROPN	NPROP	Foreign=Yes	13	nmod	_	Entity=(person-Judah_%28son_of_Jacob%29)person)place-Jerusalem)|OrigLang=he
+16-18	ⲙⲡⲟⲩϣϭⲙϭⲟⲙ	_	_	_	_	_	_	_	_
+16	ⲙ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲡⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	18	det	_	Entity=(abstract
+18	ϣϭⲙϭⲟⲙ	ϣϭⲙϭⲟⲙ	NOUN	N	_	8	obj	_	_
+19-21	ⲉⲧⲁⲕⲟⲟⲩ	_	_	_	_	_	_	_	_
+19	ⲉ	ⲉ	ADP	PREP	_	21	case	_	_
+20	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	Entity=(time
+21	ⲕⲟⲟⲩ	ⲕⲟⲟⲩ	NOUN	N	_	18	nmod	_	Entity=time)
+22	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
+23-24	ⲛⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ	ⲓⲉⲃⲟⲩⲥⲁⲓⲟⲥ	PROPN	NPROP	_	21	conj	_	Entity=(person-Jebusite)abstract)person-Jebusite)
+25-27	ⲁⲩⲟⲩⲱⲙ	_	_	_	_	_	_	_	_
+25	ⲁ	ⲁ	AUX	APST	_	27	aux	_	_
+26	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
+27	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲟⲩⲱϩ
+28-30	ϩⲛⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	_	_	_	_	_	_	_	_
+28	ϩⲛ	ϩⲛ	ADP	PREP	_	30	case	_	_
+29	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	Entity=(place-Jerusalem|Orig=ⲑ
+30	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	PROPN	NPROP	Foreign=Yes	27	obl	_	Entity=place-Jerusalem)|Orig=ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ|OrigLang=he
+31	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	27	advmod	_	_
+32-34	ⲉⲡϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+32	ⲉ	ⲉ	ADP	PREP	_	34	case	_	_
+33	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	Entity=(time
+34	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	27	obl	_	Orig=ⲟⲟⲩ
+35-36	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+35	ⲛ	ⲛ	ADP	PREP	_	36	case	_	_
+36	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	34	nmod	_	Entity=time)
+

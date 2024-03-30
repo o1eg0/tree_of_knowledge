@@ -1,0 +1,268 @@
+# newdoc id = sahidic.ot:01_Genesis_35
+# sent_id = sahidic_ot-01_Genesis_35_s0001
+# text_en = And the land which I gave to Abraam and Isaac, I have given it to thee; and it shall come to pass that I will give this land also to thy seed after thee.
+# text = . . . ⲡⲕⲁϩ ⲛⲧⲁⲓⲧⲁⲁϥ ⲛⲁⲃⲣⲁϩⲁⲙ ⲙⲛⲓⲥⲁⲁⲕ ⲁⲓⲧⲁⲁϥ ⲛⲁⲕ ⲉϥⲛⲁϣⲱⲡⲉ ⲛⲁⲕ ⲙⲛⲡⲉⲕⲥⲡⲉⲣⲙⲁ ⲙⲛⲛⲥⲱⲕ ⲛϭⲓⲡⲓⲕⲁϩ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4-5	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(place
+5	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	17	dislocated	_	_
+6-10	ⲛⲧⲁⲓⲧⲁⲁϥ	_	_	_	_	_	_	_	_
+6	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	ⲧⲁⲁ	ϯ	VERB	V	VerbForm=Fin	5	acl	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11-12	ⲛⲁⲃⲣⲁϩⲁⲙ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲁⲃⲣⲁϩⲁⲙ	ⲁⲃⲣⲁϩⲁⲙ	PROPN	NPROP	Foreign=Yes	9	obl	_	Entity=(person-Abraham)|OrigLang=he
+13-14	ⲙⲛⲓⲥⲁⲁⲕ	_	_	_	_	_	_	_	_
+13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	14	cc	_	_
+14	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	12	conj	_	Entity=(person-Isaac)place)|OrigLang=he
+15-18	ⲁⲓⲧⲁⲁϥ	_	_	_	_	_	_	_	_
+15	ⲁ	ⲁ	AUX	APST	_	17	aux	_	_
+16	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+17	ⲧⲁⲁ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+19-20	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+19	ⲛⲁ	ⲛⲁ	ADP	PREP	_	20	case	_	_
+20	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	obl	_	_
+21-24	ⲉϥⲛⲁϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+21	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	24	mark	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+23	ⲛⲁ	ⲛⲁ	AUX	FUT	_	24	aux	_	_
+24	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	17	advcl	_	_
+25-26	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+25	ⲛⲁ	ⲛⲁ	ADP	PREP	_	26	case	_	_
+26	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	obl	_	_
+27-29	ⲙⲛⲡⲉⲕⲥⲡⲉⲣⲙⲁ	_	_	_	_	_	_	_	_
+27	ⲙⲛ	ⲙⲛ	ADP	PREP	_	29	case	_	_
+28	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	29	det	_	Entity=(object
+29	ⲥⲡⲉⲣⲙⲁ	ⲥⲡⲉⲣⲙⲁ	NOUN	N	Foreign=Yes	24	obl	_	Entity=object)|OrigLang=grc
+30-31	ⲙⲛⲛⲥⲱⲕ	_	_	_	_	_	_	_	_
+30	ⲙⲛⲛⲥⲱ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	31	case	_	_
+31	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	obl	_	_
+32-34	ⲛϭⲓⲡⲓⲕⲁϩ	_	_	_	_	_	_	_	_
+32	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	34	case	_	_
+33	ⲡⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	34	det	_	Entity=(place
+34	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	24	dislocated	_	Entity=place)
+
+# sent_id = sahidic_ot-01_Genesis_35_s0002
+# text_en = And God went up from him from the place where he spoke with him.
+# text = ⲁⲡⲛⲟⲩⲧⲉ ⲃⲱⲕ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲉⲃⲟⲗ ϩⲙⲡⲙⲁ ⲛⲧⲁϥϣⲁϫⲉ ⲛⲙⲙⲁϥ ⲛϩⲏⲧϥ
+1-3	ⲁⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	4	nsubj	_	Entity=person)
+4	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	11	case	_	_
+6-7	ϩⲓⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+6	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	5	fixed	_	_
+7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+8	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	11	case	_	_
+9-11	ϩⲙⲡⲙⲁ	_	_	_	_	_	_	_	_
+9	ϩⲙ	ϩⲛ	ADP	PREP	_	8	fixed	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲙⲁ	ⲙⲁ	NOUN	N	_	4	obl	_	_
+12-15	ⲛⲧⲁϥϣⲁϫⲉ	_	_	_	_	_	_	_	_
+12	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	15	mark	_	_
+13	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	11	acl	_	_
+16-17	ⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
+16	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	17	case	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	_
+18-19	ⲛϩⲏⲧϥ	_	_	_	_	_	_	_	_
+18	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	19	case	_	_
+19	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	Entity=place)
+
+# sent_id = sahidic_ot-01_Genesis_35_s0003
+# text_en = And Jacob set up a pillar in the place where God spoke with him, a pillar of stone; and offered a libation upon it, and poured oil upon it.
+# text = ⲁⲓⲁⲕⲱⲃ ⲧⲁϩⲟ ⲉⲣⲁⲧϥ ⲛⲟⲩⲥⲧⲏⲗⲏ ϩⲙⲡⲙⲁ ⲛⲧⲁϥϣⲁϫⲉ ⲛⲙⲙⲁϥ ⲛϩⲏⲧϥ ⲟⲩⲥⲧⲏⲗⲏ ⲛⲱⲛⲉ ⲁϥⲟⲩⲱⲧⲃ ⲉϩⲣⲁⲓ ⲉϫⲱϥ ⲛⲟⲩⲱⲧⲛ ⲁⲩⲱ ⲁϥⲡⲱϩⲧ ⲉϩⲣⲁⲓ ⲉϫⲱϥ ⲛⲟⲩⲛⲉϩ . . .
+1-2	ⲁⲓⲁⲕⲱⲃ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	2	aux	_	_
+2	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	0	root	_	Entity=(person-Jacob|OrigLang=he
+3-4	ⲧⲁϩⲟ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ⲁϩⲟ	ⲁϩⲟ	NOUN	N	_	2	appos	_	_
+5-6	ⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
+5	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	6	case	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+7-9	ⲛⲟⲩⲥⲧⲏⲗⲏ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(person
+9	ⲥⲧⲏⲗⲏ	ⲥⲧⲏⲗⲏ	NOUN	N	Foreign=Yes	6	nmod	_	OrigLang=grc
+10-12	ϩⲙⲡⲙⲁ	_	_	_	_	_	_	_	_
+10	ϩⲙ	ϩⲛ	ADP	PREP	_	12	case	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(place
+12	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	nmod	_	_
+13-16	ⲛⲧⲁϥϣⲁϫⲉ	_	_	_	_	_	_	_	_
+13	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	12	acl	_	_
+17-18	ⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
+17	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	18	case	_	_
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+19-20	ⲛϩⲏⲧϥ	_	_	_	_	_	_	_	_
+19	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	20	case	_	_
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	Entity=place)person)
+21-22	ⲟⲩⲥⲧⲏⲗⲏ	_	_	_	_	_	_	_	_
+21	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
+22	ⲥⲧⲏⲗⲏ	ⲥⲧⲏⲗⲏ	NOUN	N	Foreign=Yes	2	appos	_	OrigLang=grc
+23-24	ⲛⲱⲛⲉ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲱⲛⲉ	ⲱⲛⲉ	NOUN	N	_	22	nmod	_	Entity=(object)person-Jacob)
+25-27	ⲁϥⲟⲩⲱⲧⲃ	_	_	_	_	_	_	_	_
+25	ⲁ	ⲁ	AUX	APST	_	27	aux	_	_
+26	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
+27	ⲟⲩⲱⲧⲃ	ⲟⲩⲱⲧⲃ	VERB	V	VerbForm=Fin	22	parataxis	_	_
+28	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	27	advmod	_	_
+29-30	ⲉϫⲱϥ	_	_	_	_	_	_	_	_
+29	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	30	case	_	_
+30	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obl	_	_
+31-32	ⲛⲟⲩⲱⲧⲛ	_	_	_	_	_	_	_	_
+31	ⲛ	ⲛ	ADP	PREP	_	32	case	_	_
+32	ⲟⲩⲱⲧⲛ	ⲟⲩⲱⲧⲛ	NOUN	N	_	27	obl	_	Entity=(abstract)
+33	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	36	cc	_	_
+34-36	ⲁϥⲡⲱϩⲧ	_	_	_	_	_	_	_	_
+34	ⲁ	ⲁ	AUX	APST	_	36	aux	_	_
+35	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	_
+36	ⲡⲱϩⲧ	ⲡⲱϩⲧ	VERB	V	VerbForm=Fin	27	conj	_	_
+37	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	36	advmod	_	_
+38-39	ⲉϫⲱϥ	_	_	_	_	_	_	_	_
+38	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	39	case	_	_
+39	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	obl	_	_
+40-42	ⲛⲟⲩⲛⲉϩ	_	_	_	_	_	_	_	_
+40	ⲛ	ⲛ	ADP	PREP	_	42	case	_	_
+41	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	42	det	_	Entity=(substance
+42	ⲛⲉϩ	ⲛⲉϩ	NOUN	N	_	36	obj	_	Entity=substance)
+43	.	.	PUNCT	PUNCT	_	0	punct	_	_
+44	.	.	PUNCT	PUNCT	_	0	punct	_	_
+45	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_35_s0004
+# text_en = And it came to pass in her hard labour, that the midwife said to her, Be of good courage, for thou shalt also have this son.
+# text = ⲡⲁⲓ ⲅⲁⲣ ⲟⲩϣⲏⲣⲉ ⲛⲉⲡⲉ
+1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	dislocated	_	Entity=(person)
+2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+3-4	ⲟⲩϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(person
+4	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	0	root	_	_
+5-7	ⲛⲉⲡⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲉ	ⲛⲧⲟ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Entity=person)
+7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	4	cop	_	_
+
+# sent_id = sahidic_ot-01_Genesis_35_s0005
+# text_en = And it came to pass in her giving up the ghost (for she was dying), that she called his name, The son of my pain; but his father called his name Benjamin.
+# text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲉⲥⲛⲁⲕⲱ ⲙⲡⲧⲏⲩ ⲙⲡⲁϩⲓⲥⲉ ⲁⲡⲉϥⲉⲓⲱⲧ ⲇⲉ ⲙⲟⲩⲧⲉ ⲉⲣⲟϥ ϫⲉⲃⲉⲛⲓⲁⲙⲓⲛ
+1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-8	ⲉⲥⲛⲁⲕⲱ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	ⲛⲁ	ⲛⲁ	AUX	FUT	_	8	aux	_	_
+8	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	3	advcl	_	_
+9-11	ⲙⲡⲧⲏⲩ	_	_	_	_	_	_	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(abstract
+11	ⲧⲏⲩ	ⲧⲏⲩ	NOUN	N	_	8	obj	_	_
+12-14	ⲙⲡⲁϩⲓⲥⲉ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	Entity=(abstract
+14	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	11	nmod	_	Entity=abstract)abstract)
+15-17	ⲁⲡⲉϥⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+15	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
+16	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	Entity=(person
+17	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	19	nsubj	_	Entity=person)
+18	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	19	advmod	_	OrigLang=grc
+19	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	VerbForm=Fin	8	parataxis	_	_
+20-21	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+20	ⲉⲣⲟ	ⲉ	ADP	PREP	_	21	case	_	_
+21	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+22-23	ϫⲉⲃⲉⲛⲓⲁⲙⲓⲛ	_	_	_	_	_	_	_	_
+22	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	23	mark	_	_
+23	ⲃⲉⲛⲓⲁⲙⲓⲛ	ⲃⲉⲛⲓⲁⲙⲓⲛ	PROPN	NPROP	Foreign=Yes	19	ccomp	_	Entity=(person-Benjamin)|OrigLang=he
+
+# sent_id = sahidic_ot-01_Genesis_35_s0006
+# text_en = So Rachel died, and was buried in the way of the course of Ephratha, this is Bethleem.
+# text = ⲁϩⲣⲁⲭⲏⲗ ⲇⲉ ⲙⲟⲩ ⲁⲩⲧⲟⲙⲉⲥ ϩⲣⲁⲓ ϩⲛⲉⲫⲣⲁⲑⲁ ⲉⲧⲉⲧⲁⲓⲧⲉ ⲃⲏⲑⲗⲉⲉⲙ
+1-2	ⲁϩⲣⲁⲭⲏⲗ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ϩⲣⲁⲭⲏⲗ	ϩⲣⲁⲭⲏⲗ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=(person-Rachel)|OrigLang=he
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲁⲩⲧⲟⲙⲉⲥ	_	_	_	_	_	_	_	_
+5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
+6	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+7	ⲧⲟⲙⲉⲥ	ⲧⲟⲙⲉⲥ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+8	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	7	advmod	_	_
+9-10	ϩⲛⲉⲫⲣⲁⲑⲁ	_	_	_	_	_	_	_	_
+9	ϩⲛ	ϩⲛ	ADP	PREP	_	10	case	_	_
+10	ⲉⲫⲣⲁⲑⲁ	ⲉⲫⲣⲁⲑⲁ	PROPN	NPROP	_	7	obl	_	Entity=(place-Ephrath)
+11-13	ⲉⲧⲉⲧⲁⲓⲧⲉ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	13	mark	_	_
+12	ⲧⲉ	ⲛⲧⲟ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+13	ⲧⲁⲓⲧⲉ	ⲧⲁⲓⲧⲉ	VERB	V	VerbForm=Fin	7	advcl	_	_
+14	ⲃⲏⲑⲗⲉⲉⲙ	ⲃⲏⲑⲗⲉⲉⲙ	PROPN	NPROP	Foreign=Yes	13	obj	_	Entity=(place-Bethlehem)|OrigLang=he
+
+# sent_id = sahidic_ot-01_Genesis_35_s0007
+# text_en = And Jacob set up a pillar on her tomb; this is the pillar on the tomb of Rachel, until this day.
+# text = ⲁⲓⲁⲕⲱⲃ ⲧⲁϩⲟ ⲉⲣⲁⲧϥ ⲛⲟⲩⲟⲉⲓⲧ ⲉϩⲣⲁⲓ ⲉϫⲙⲡⲉⲥⲉⲙϩⲁⲁⲩ ⲡⲁⲓⲡⲉ ⲡⲟⲩⲟⲉⲓⲧ ⲙⲡⲙϩⲁⲁⲩ ⲛϩⲣⲁⲭⲏⲗ ϣⲁϩⲣⲁⲓ ⲉⲡϩⲟⲟⲩ ⲛϩⲟⲟⲩ
+1-2	ⲁⲓⲁⲕⲱⲃ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+2	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	14	nsubj	_	Entity=(person-Jacob|OrigLang=he
+3-4	ⲧⲁϩⲟ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ⲁϩⲟ	ⲁϩⲟ	NOUN	N	_	2	appos	_	_
+5-6	ⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
+5	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	6	case	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+7-8	ⲛⲟⲩⲟⲉⲓⲧ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲟⲩⲟⲉⲓⲧ	ⲟⲩⲟⲉⲓⲧ	NOUN	N	_	6	nmod	_	Entity=(abstract
+9	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	8	advmod	_	Entity=abstract)
+10-13	ⲉϫⲙⲡⲉⲥⲉⲙϩⲁⲁⲩ	_	_	_	_	_	_	_	_
+10	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	13	case	_	_
+11	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place
+12	ⲥⲉ	ⲥⲉ	NUM	NUM	NumType=Card	13	det	_	Entity=(abstract)
+13	ⲙϩⲁⲁⲩ	ⲙϩⲁⲁⲩ	NOUN	N	_	2	nmod	_	Entity=place)person-Jacob)
+14-15	ⲡⲁⲓⲡⲉ	_	_	_	_	_	_	_	_
+14	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract
+15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	_
+16-17	ⲡⲟⲩⲟⲉⲓⲧ	_	_	_	_	_	_	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ⲟⲩⲟⲉⲓⲧ	ⲟⲩⲟⲉⲓⲧ	NOUN	N	_	14	nsubj	_	_
+18-20	ⲙⲡⲙϩⲁⲁⲩ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(place
+20	ⲙϩⲁⲁⲩ	ⲙϩⲁⲁⲩ	NOUN	N	_	17	nmod	_	_
+21-22	ⲛϩⲣⲁⲭⲏⲗ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ϩⲣⲁⲭⲏⲗ	ϩⲣⲁⲭⲏⲗ	PROPN	NPROP	Foreign=Yes	20	nmod	_	Entity=(person-Rachel)place)abstract)|OrigLang=he
+23	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	26	advmod	_	_
+24-26	ⲉⲡϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	26	case	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Entity=(time
+26	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	14	obl	_	Orig=ⲟⲟⲩ
+27-28	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+28	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	26	nmod	_	Entity=time)abstract)
+
+# sent_id = sahidic_ot-01_Genesis_35_s0008
+# text_en = And it came to pass when Israel dwelt in that land, that Ruben went and lay with Balla, the concubine of his father Jacob; and Israel heard, and the thing appeared grievous before him.
+# text = ⲁⲥϣⲱⲡⲉ ⲇⲉ . . .
+1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5	.	.	PUNCT	PUNCT	_	0	punct	_	_
+6	.	.	PUNCT	PUNCT	_	0	punct	_	_
+7	.	.	PUNCT	PUNCT	_	0	punct	_	_
+

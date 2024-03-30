@@ -1,0 +1,61 @@
+# newdoc id = sahidic.ot:36_Zephaniah_02
+# sent_id = sahidic_ot-36_Zephaniah_02_s0001
+# text_en = Be ye gathered and closely joined together, O unchastened nation;
+# text = ⲥⲱⲟⲩϩ ⲉϩⲟⲩⲛ ⲛⲧⲉⲧⲛⲥⲟⲡⲥ ϩⲓⲟⲩⲥⲟⲡ ⲛϩⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲛⲁⲧⲥⲃⲱ
+1	ⲥⲱⲟⲩϩ	ⲥⲱⲟⲩϩ	VERB	V	VerbForm=Fin	0	root	_	_
+2	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	1	advmod	_	_
+3-5	ⲛⲧⲉⲧⲛⲥⲟⲡⲥ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	5	aux	_	_
+4	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+5	ⲥⲟⲡⲥ	ⲥⲟⲡⲥ	VERB	V	VerbForm=Fin	1	advcl	_	_
+6-8	ϩⲓⲟⲩⲥⲟⲡ	_	_	_	_	_	_	_	_
+6	ϩⲓ	ϩⲓ	ADP	PREP	_	8	case	_	_
+7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
+8	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	5	obl	_	_
+9-10	ⲛϩⲉⲑⲛⲟⲥ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ϩⲉⲑⲛⲟⲥ	ϩⲉⲑⲛⲟⲥ	NOUN	N	Foreign=Yes	8	nmod	_	Entity=(person|OrigLang=grc
+11-12	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	10	advmod	_	_
+12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	Entity=person)
+13-15	ⲛⲁⲧⲥⲃⲱ	_	_	_	_	_	_	_	_
+13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	15	case	_	_
+14	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Entity=(abstract
+15	ⲥⲃⲱ	ⲥⲃⲱ	NOUN	N	_	5	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-36_Zephaniah_02_s0002
+# text_en = before ye become as the flower that passes away, before the anger of the Lord come upon you, before the day of the wrath of the Lord come upon you.
+# text = ⲙⲡⲁⲧⲉⲧⲛϣⲱⲡⲉ ⲛⲧϩⲉ ⲛⲟⲩϩⲣⲏⲣⲉ ⲉϣⲁϥⲧⲁⲕⲟ ⲙⲡⲁⲧⲥⲉⲓ ⲉϫⲛⲧⲏⲩⲧⲛ ⲛϭⲓⲧⲟⲣⲅⲏ ⲙⲡ⳪ ⲙⲛⲡⲉϥⲱⲛⲧ
+1-2	ⲙⲡⲁⲧⲉⲧⲛϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲙⲡⲁⲧⲉⲧⲛ	ⲙⲡⲁⲧⲉⲧⲛ	PRON	PPERS	_	2	nsubj	_	_
+2	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+3-5	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+4	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Orig=ⲑ
+5	ϩⲉ	ϩⲉ	NOUN	N	_	2	obl	_	Orig=ⲉ
+6-8	ⲛⲟⲩϩⲣⲏⲣⲉ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(plant
+8	ϩⲣⲏⲣⲉ	ϩⲣⲏⲣⲉ	NOUN	N	_	5	nmod	_	_
+9-12	ⲉϣⲁϥⲧⲁⲕⲟ	_	_	_	_	_	_	_	_
+9	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+10	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	12	aux	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	8	acl	_	_
+13-15	ⲙⲡⲁⲧⲥⲉⲓ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(person
+15	ⲁⲧⲥⲉⲓ	ⲁⲧⲥⲉⲓ	NOUN	N	_	12	obj	_	Entity=person)|Orig=ⲁⲧⲉⲥⲉⲓ
+16-17	ⲉϫⲛⲧⲏⲩⲧⲛ	_	_	_	_	_	_	_	_
+16	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	17	case	_	_
+17	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	12	obl	_	Entity=plant)
+18-20	ⲛϭⲓⲧⲟⲣⲅⲏ	_	_	_	_	_	_	_	_
+18	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	20	case	_	_
+19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Entity=(abstract
+20	ⲟⲣⲅⲏ	ⲟⲣⲅⲏ	NOUN	N	Foreign=Yes	12	dislocated	_	Entity=abstract)|OrigLang=grc
+21	ⲙⲡ⳪	ⲙⲡ⳪	VERB	V	VerbForm=Fin	12	parataxis	_	_
+22-24	ⲙⲛⲡⲉϥⲱⲛⲧ	_	_	_	_	_	_	_	_
+22	ⲙⲛ	ⲙⲛ	ADP	PREP	_	24	cc	_	_
+23	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	Entity=(abstract
+24	ⲱⲛⲧ	ⲱⲛⲧ	NOUN	N	_	20	conj	_	Entity=abstract)
+

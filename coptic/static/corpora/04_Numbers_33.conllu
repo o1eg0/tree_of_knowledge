@@ -1,0 +1,1880 @@
+# newdoc id = sahidic.ot:04_Numbers_33
+# sent_id = sahidic_ot-04_Numbers_33_s0001
+# text_en = And these are the stages of the children of Israel, as they went out from the land of Egypt with their host by the hand of Moses and Aaron.
+# text = ⲁⲩⲱ ⲛⲁⲓ ⲛⲉ ⲙⲙⲁⲛϭⲟⲓⲗⲉ ⲛⲛϣⲏⲣⲉ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲛⲧⲉⲣⲟⲩⲉⲓ ⲉⲃⲟⲗ ϩⲙⲡⲕⲁϩ ⲛⲕⲏⲙⲉ ⲙⲛⲧⲉⲩϭⲟⲙ ϩⲣⲁⲓ ϩⲛⲧϭⲓϫ ⲙⲙⲱⲩⲥⲏⲥ ⲙⲛⲛⲁⲁⲣⲱⲛ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Entity=(abstract)
+3	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	2	cop	_	_
+4-7	ⲙⲙⲁⲛϭⲟⲓⲗⲉ	_	_	_	_	_	_	_	_
+4	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(place
+5	ⲙⲁ	ⲙⲁ	NOUN	N	_	2	nsubj	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ϭⲟⲓⲗⲉ	ϭⲟⲉⲓⲗⲉ	NOUN	N	_	5	nmod	_	Entity=(place
+8-10	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	det	_	Entity=(person
+10	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	7	nmod	_	_
+11-13	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+13	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	10	nmod	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)person)place)place)|Orig=ⲓⲏⲗ|OrigLang=he
+14-16	ⲛⲧⲉⲣⲟⲩⲉⲓ	_	_	_	_	_	_	_	_
+14	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	16	aux	_	_
+15	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+16	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	2	advcl	_	_
+17	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	16	advmod	_	_
+18-20	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+18	ϩⲙ	ϩⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(place
+20	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	16	obl	_	_
+21-22	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	20	nmod	_	Entity=(place-Egypt)
+23-25	ⲙⲛⲧⲉⲩϭⲟⲙ	_	_	_	_	_	_	_	_
+23	ⲙⲛ	ⲙⲛ	ADP	PREP	_	25	cc	_	_
+24	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	25	det	_	Entity=(abstract
+25	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	22	conj	_	_
+26	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	25	advmod	_	Entity=abstract)place)
+27-29	ϩⲛⲧϭⲓϫ	_	_	_	_	_	_	_	_
+27	ϩⲛ	ϩⲛ	ADP	PREP	_	29	case	_	_
+28	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	Entity=(object
+29	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	16	obl	_	_
+30-31	ⲙⲙⲱⲩⲥⲏⲥ	_	_	_	_	_	_	_	_
+30	ⲙ	ⲛ	ADP	PREP	_	31	case	_	_
+31	ⲙⲱⲩⲥⲏⲥ	ⲙⲱⲩⲥⲏⲥ	PROPN	NPROP	Foreign=Yes	29	nmod	_	Entity=(person-Moses)|OrigLang=he
+32-34	ⲙⲛⲛⲁⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+32	ⲙⲛ	ⲙⲛ	ADP	PREP	_	34	cc	_	_
+33	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	34	det	_	Entity=(person-Aaron
+34	ⲁⲣⲱⲛ	ⲁⲣⲱⲛ	PROPN	NPROP	_	31	conj	_	Entity=person-Aaron)object)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0002
+# text_en = And Moses wrote their removals and their stages, by the word of the Lord: and these are the stages of their journeying.
+# text = ⲁⲩⲱ ⲁⲙⲱⲩⲥⲏⲥ ⲥⲉϩ ⲛⲉⲩⲙⲁⲙⲙⲟⲟϣⲉ ⲙⲛⲛⲉⲩⲙⲁⲛϭⲟⲓⲗⲉ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡϣⲁϫⲉ ⲙⲡϣⲁϫⲉ ⲙⲡϫⲟⲉⲓⲥ ⲁⲩⲱ ⲛⲁⲓ ⲛⲉ ⲙⲙⲁⲛϭⲟⲓⲗⲉ ⲛⲧⲉⲩϩⲓⲏ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-3	ⲁⲙⲱⲩⲥⲏⲥ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲙⲱⲩⲥⲏⲥ	ⲙⲱⲩⲥⲏⲥ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=(person-Moses)|OrigLang=he
+4	ⲥⲉϩ	ⲥϩⲁⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲛⲉⲩⲙⲁⲙⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
+5	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	7	aux	_	_
+6	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+7	ⲙⲁⲙⲙⲟⲟϣⲉ	ⲙⲁⲙⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+8-11	ⲙⲛⲛⲉⲩⲙⲁⲛϭⲟⲓⲗⲉ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	case	_	_
+9	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(animal
+10	ⲙⲁⲛ	ⲙⲁⲛ	NOUN	N	_	7	obl	_	Entity=animal)
+11	ϭⲟⲓⲗⲉ	ϭⲟⲉⲓⲗⲉ	VERB	V	VerbForm=Fin	7	parataxis	_	_
+12	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	15	case	_	_
+13-15	ϩⲓⲧⲙⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
+13	ϩⲓⲧⲙ	ϩⲓⲧⲛ	ADP	PREP	_	12	fixed	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(abstract
+15	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	11	obl	_	_
+16-18	ⲙⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
+16	ⲙ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(abstract
+18	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	15	nmod	_	_
+19-21	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(person
+21	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	18	nmod	_	Entity=person)abstract)abstract)
+22	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	23	cc	_	_
+23	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	11	conj	_	Entity=(abstract)
+24	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	23	cop	_	_
+25-27	ⲙⲙⲁⲛϭⲟⲓⲗⲉ	_	_	_	_	_	_	_	_
+25	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	26	det	_	Entity=(person
+26	ⲙⲁⲛ	ⲙⲁⲛ	NOUN	N	_	23	nsubj	_	Entity=person)
+27	ϭⲟⲓⲗⲉ	ϭⲟⲉⲓⲗⲉ	VERB	V	VerbForm=Fin	23	parataxis	_	_
+28-30	ⲛⲧⲉⲩϩⲓⲏ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+29	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	Entity=(abstract
+30	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	27	obj	_	Entity=abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0003
+# text_en = They departed from Ramesses in the first month, on the fifteenth day of the first month; on the day after the passover the children of Israel went forth with a high hand before all the Egyptians.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛϩⲣⲁⲙⲉⲥⲥⲏ ϩⲙⲡϣⲟⲣⲡ ⲛⲛⲉⲃⲟⲧ ⲛⲥⲟⲩⲙⲛⲧⲏ ⲙⲡϣⲟⲣⲡ ⲛⲉⲃⲟⲧ ϩⲙⲡⲉⲥⲛⲁⲩ ⲙⲡⲡⲁⲥⲭⲁ ⲁⲛϣⲏⲣⲉ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲉⲓ ⲉⲃⲟⲗ ϩⲣⲁⲓ ϩⲛⲟⲩϭⲓϫ ⲉⲥϫⲟⲥⲉ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛⲛⲣⲙⲛⲕⲏⲙⲉ ⲧⲏⲣⲟⲩ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛϩⲣⲁⲙⲉⲥⲥⲏ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ϩⲣⲁⲙⲉⲥⲥⲏ	ϩⲣⲁⲙⲉⲥⲥⲏ	NOUN	N	_	3	obl	_	Entity=(object)
+7-9	ϩⲙⲡϣⲟⲣⲡ	_	_	_	_	_	_	_	_
+7	ϩⲙ	ϩⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(abstract
+9	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	3	obl	_	_
+10-12	ⲛⲛⲉⲃⲟⲧ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	Entity=(time
+12	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	9	nmod	_	_
+13-15	ⲛⲥⲟⲩⲙⲛⲧⲏ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ⲥⲟⲩ	ⲥⲟⲩ	NOUN	N	_	12	nmod	_	Entity=(time
+15	ⲙⲛⲧⲏ	ⲙⲛⲧⲏ	NUM	NUM	Foreign=Yes|NumType=Card	14	nummod	_	Entity=time)time)abstract)|Morphs=ⲙⲛⲧ-ⲏ|OrigLang=grc
+16-18	ⲙⲡϣⲟⲣⲡ	_	_	_	_	_	_	_	_
+16	ⲙ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(time
+18	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	3	obl	_	_
+19-20	ⲛⲉⲃⲟⲧ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	18	nmod	_	Entity=time)
+21-23	ϩⲙⲡⲉⲥⲛⲁⲩ	_	_	_	_	_	_	_	_
+21	ϩⲙ	ϩⲛ	ADP	PREP	_	23	case	_	_
+22	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(person
+23	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NOUN	N	_	3	obl	_	_
+24-26	ⲙⲡⲡⲁⲥⲭⲁ	_	_	_	_	_	_	_	_
+24	ⲙ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Entity=(event
+26	ⲡⲁⲥⲭⲁ	ⲡⲁⲥⲭⲁ	NOUN	N	Foreign=Yes	23	nmod	_	Entity=event)person)|OrigLang=grc
+27-29	ⲁⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+27	ⲁ	ⲁ	AUX	APST	_	33	aux	_	_
+28	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	29	det	_	Entity=(person
+29	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	33	nsubj	_	_
+30-32	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+30	ⲙ	ⲛ	ADP	PREP	_	32	case	_	_
+31	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+32	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	29	nmod	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)person)|Orig=ⲓⲏⲗ|OrigLang=he
+33	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+34	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	33	advmod	_	_
+35	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	33	advmod	_	_
+36-38	ϩⲛⲟⲩϭⲓϫ	_	_	_	_	_	_	_	_
+36	ϩⲛ	ϩⲛ	ADP	PREP	_	34	fixed	_	_
+37	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	38	det	_	Entity=(object
+38	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	33	obl	_	Entity=object)
+39-41	ⲉⲥϫⲟⲥⲉ	_	_	_	_	_	_	_	_
+39	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	41	mark	_	_
+40	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	_
+41	ϫⲟⲥⲉ	ϫⲓⲥⲉ	VERB	VSTAT	VerbForm=Fin	33	advcl	_	_
+42-44	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+42	ⲙ	ⲛ	ADP	PREP	_	44	case	_	_
+43	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	Entity=(abstract
+44	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	41	obl	_	_
+45	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	44	advmod	_	_
+46-48	ⲛⲛⲣⲙⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+46	ⲛ	ⲛ	ADP	PREP	_	48	case	_	_
+47	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	48	det	_	Entity=(person
+48	ⲣⲙⲛⲕⲏⲙⲉ	ⲣⲙⲛⲕⲏⲙⲉ	NOUN	N	_	44	nmod	_	_
+49-50	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+49	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	48	advmod	_	_
+50	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	49	det	_	Entity=person)abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0004
+# text_en = And the Egyptians buried those that died of them, even all that the Lord smote, every first-born in the land of Egypt; also the Lord executed vengeance on their gods.
+# text = ⲛⲣⲙⲛⲕⲏⲙⲉ ⲇⲉ ⲛⲉⲩⲧⲱⲙⲥ ⲡⲉ ⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲁϥⲙⲟⲩ ⲉⲃⲟⲗ ⲛϩⲏⲧⲟⲩ ⲛⲁⲓ ⲉⲛⲧⲁⲡϫⲟⲉⲓⲥ ⲡⲁⲧⲁⲥⲥⲉ ⲙⲙⲟⲟⲩ ϣⲣⲡⲙⲙⲓⲥⲉ ⲛⲓⲙ ϩⲣⲁⲓ ϩⲙⲡⲕⲁϩ ⲛⲕⲏⲙⲉ ⲁⲩⲱ ⲁⲡϫⲟⲉⲓⲥ ⲉⲓⲣⲉ ⲟⲛ ⲙⲡϫⲓⲕⲃⲁ ϩⲣⲁⲓ ϩⲛⲛⲉⲩⲛⲟⲩⲧⲉ
+1-2	ⲛⲣⲙⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Entity=(person
+2	ⲣⲙⲛⲕⲏⲙⲉ	ⲣⲙⲛⲕⲏⲙⲉ	NOUN	N	_	6	dislocated	_	Entity=person)
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
+4-6	ⲛⲉⲩⲧⲱⲙⲥ	_	_	_	_	_	_	_	_
+4	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	6	aux	_	_
+5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+6	ⲧⲱⲙⲥ	ⲧⲱⲙⲥ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	_
+8-9	ⲛⲟⲩⲟⲛ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	6	obl	_	Entity=(person
+10	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	9	det	_	_
+11-14	ⲉⲁϥⲙⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	14	mark	_	_
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	9	acl	_	_
+15	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	case	_	_
+16-17	ⲛϩⲏⲧⲟⲩ	_	_	_	_	_	_	_	_
+16	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	15	fixed	_	_
+17	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obl	_	_
+18	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	9	appos	_	_
+19-22	ⲉⲛⲧⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+19	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	23	mark	_	_
+20	ⲁ	ⲁ	AUX	APST	_	23	aux	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(person
+22	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	23	nsubj	_	Entity=person)
+23	ⲡⲁⲧⲁⲥⲥⲉ	ⲡⲁⲧⲁⲥⲥⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	18	acl	_	OrigLang=grc
+24-25	ⲙⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+24	ⲙⲙⲟ	ⲛ	ADP	PREP	_	25	case	_	_
+25	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	obj	_	Entity=person)
+26-27	ϣⲣⲡⲙⲙⲓⲥⲉ	_	_	_	_	_	_	_	_
+26	ϣⲣⲡ	ϣⲱⲣⲡ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+27	ⲙⲙⲓⲥⲉ	ⲙⲙⲓⲥⲉ	NOUN	N	_	26	obj	_	Entity=(abstract
+28	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	27	det	_	Entity=abstract)
+29	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	26	advmod	_	_
+30-32	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+30	ϩⲙ	ϩⲛ	ADP	PREP	_	32	case	_	_
+31	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	Entity=(place-Egypt
+32	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	26	obl	_	_
+33-34	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+33	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
+34	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	32	nmod	_	Entity=place-Egypt)
+35	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	39	cc	_	_
+36-38	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+36	ⲁ	ⲁ	AUX	APST	_	39	aux	_	_
+37	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Entity=(person
+38	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	39	nsubj	_	Entity=person)|Orig=ϫⲟⲓⲥ
+39	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	6	conj	_	_
+40	ⲟⲛ	ⲟⲛ	ADV	ADV	_	39	advmod	_	_
+41-43	ⲙⲡϫⲓⲕⲃⲁ	_	_	_	_	_	_	_	_
+41	ⲙ	ⲛ	ADP	PREP	_	43	case	_	_
+42	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	Entity=(abstract
+43	ϫⲓⲕⲃⲁ	ϫⲓⲕⲃⲁ	NOUN	N	_	39	obj	_	Entity=abstract)|Morphs=ϫⲓ-ⲕⲃⲁ
+44	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	39	advmod	_	_
+45-47	ϩⲛⲛⲉⲩⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+45	ϩⲛ	ϩⲛ	ADP	PREP	_	47	case	_	_
+46	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	47	det	_	Entity=(person
+47	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	39	obl	_	Entity=person)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0005
+# text_en = And the children of Israel departed from Ramesses, and encamped in Socchoth:
+# text = ⲁⲩⲱ ⲁⲛϣⲏⲣⲉ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛϩⲣⲁⲙⲉⲥⲥⲏ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲥⲟⲅⲭⲱⲑ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
+2-4	ⲁⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
+3	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	4	det	_	Entity=(person
+4	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	8	nsubj	_	_
+5-7	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+7	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	4	nmod	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)person)|Orig=ⲓⲏⲗ|OrigLang=he
+8	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+9	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	11	case	_	_
+10-11	ϩⲛϩⲣⲁⲙⲉⲥⲥⲏ	_	_	_	_	_	_	_	_
+10	ϩⲛ	ϩⲛ	ADP	PREP	_	9	fixed	_	_
+11	ϩⲣⲁⲙⲉⲥⲥⲏ	ϩⲣⲁⲙⲉⲥⲥⲏ	PROPN	NPROP	_	8	obl	_	Entity=(person)
+12-14	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	8	parataxis	_	_
+15	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	14	advmod	_	_
+16-17	ⲉⲥⲟⲅⲭⲱⲑ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
+17	ⲥⲟⲅⲭⲱⲑ	ⲥⲟⲅⲭⲱⲑ	PROPN	NPROP	_	14	obl	_	Entity=(place)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0006
+# text_en = and they departed from Socchoth and encamped in Buthan, which is a part of the wilderness.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲥⲟⲅⲭⲱⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲃⲟⲩⲑⲁⲛ ⲡⲁⲓ ⲟⲩⲙⲉⲣⲟⲥ ⲡⲉ ⲛⲧⲉⲡϫⲁⲓⲉ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲥⲟⲅⲭⲱⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲥⲟⲅⲭⲱⲑ	ⲥⲟⲅⲭⲱⲑ	PROPN	NPROP	_	3	obl	_	Entity=(place)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲃⲟⲩⲑⲁⲛ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ⲃⲟⲩⲑⲁⲛ	ⲃⲟⲩⲑⲁⲛ	PROPN	NPROP	_	9	obl	_	Entity=(place)
+13	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	15	nsubj	_	Entity=(person)
+14-15	ⲟⲩⲙⲉⲣⲟⲥ	_	_	_	_	_	_	_	_
+14	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	15	det	_	Entity=(abstract
+15	ⲙⲉⲣⲟⲥ	ⲙⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	9	parataxis	_	OrigLang=grc
+16	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	15	cop	_	_
+17-19	ⲛⲧⲉⲡϫⲁⲓⲉ	_	_	_	_	_	_	_	_
+17	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ϫⲁⲓⲉ	ϫⲁⲉⲓⲉ	NOUN	N	_	15	nmod	_	Entity=place)abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0007
+# text_en = And they departed from Buthan and encamped at the mouth of Iroth, which is opposite Beel-sepphon, and encamped opposite Magdol.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲃⲟⲩⲑⲁⲛ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲧⲧⲁⲡⲣⲟ ⲛⲁⲉⲓⲣⲱⲑ ⲡⲁⲓ ⲉⲧⲉⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛⲃⲉⲗⲥⲉⲡⲫⲱⲛ ⲁⲩⲟⲩⲉϩⲛⲁⲩ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲙⲁⲅⲇⲱⲗ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲃⲟⲩⲑⲁⲛ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲃⲟⲩⲑⲁⲛ	ⲃⲟⲩⲑⲁⲛ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉϫⲛⲧⲧⲁⲡⲣⲟ	_	_	_	_	_	_	_	_
+11	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	13	case	_	_
+12	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Entity=(object
+13	ⲧⲁⲡⲣⲟ	ⲧⲁⲡⲣⲟ	NOUN	N	_	9	obl	_	Entity=object)
+14	ⲛⲁⲉⲓⲣⲱⲑ	ⲛⲁⲉⲓⲣⲱⲑ	ADP	PREP	_	15	case	_	_
+15	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	obl	_	Entity=(abstract
+16-19	ⲉⲧⲉⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+16	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(abstract
+19	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	15	acl	_	_
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	19	advmod	_	_
+21-22	ⲛⲃⲉⲗⲥⲉⲡⲫⲱⲛ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ⲃⲉⲗⲥⲉⲡⲫⲱⲛ	ⲃⲉⲗⲥⲉⲡⲫⲱⲛ	PROPN	NPROP	_	19	nmod	_	Entity=(person)abstract)abstract)
+23-25	ⲁⲩⲟⲩⲉϩⲛⲁⲩ	_	_	_	_	_	_	_	_
+23	ⲁ	ⲁ	AUX	APST	_	25	aux	_	_
+24	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
+25	ⲟⲩⲉϩⲛⲁⲩ	ⲟⲩⲉϩⲛⲁⲩ	VERB	V	VerbForm=Fin	9	parataxis	_	_
+26-28	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+26	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(abstract
+28	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	25	obl	_	_
+29	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	28	advmod	_	_
+30-31	ⲙⲙⲁⲅⲇⲱⲗ	_	_	_	_	_	_	_	_
+30	ⲙ	ⲛ	ADP	PREP	_	31	case	_	_
+31	ⲙⲁⲅⲇⲱⲗ	ⲙⲁⲅⲇⲱⲗ	NOUN	N	_	28	nmod	_	Entity=(person)abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0008
+# text_en = And they departed from before Iroth, and crossed the middle of the sea into the wilderness; and they went a journey of three days through the wilderness, and encamped in Picriae.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛⲁⲉⲓⲣⲱⲑ ⲁⲩϫⲓⲟⲟⲣ ⲛⲧⲙⲏⲧⲉ ⲛⲧⲑⲁⲗⲁⲥⲥⲁ ⲉϩⲟⲩⲛ ⲉⲡϫⲁⲓⲉ ⲁⲩⲱ ⲁⲩⲃⲱⲕ ⲛⲟⲩϩⲓⲏ ⲛϣⲟⲙⲛⲧ ⲛϩⲟⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡϫⲁⲓⲉ ⲛⲧⲟⲟⲩ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲛⲉⲧⲥⲁϣⲉ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(abstract
+6	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	3	obl	_	_
+7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	advmod	_	_
+8	ⲛⲁⲉⲓⲣⲱⲑ	ⲛⲁⲉⲓⲣⲱⲑ	PROPN	NPROP	_	6	appos	_	Entity=abstract)
+9-11	ⲁⲩϫⲓⲟⲟⲣ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	ϫⲓⲟⲟⲣ	ϫⲓⲟⲟⲣ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+12-14	ⲛⲧⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	11	obj	_	_
+15-17	ⲛⲧⲑⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(place|Orig=ⲑ
+17	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	14	nmod	_	Entity=place)place)|Orig=ⲁⲗⲁⲥⲥⲁ|OrigLang=grc
+18	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	21	case	_	_
+19-21	ⲉⲡϫⲁⲓⲉ	_	_	_	_	_	_	_	_
+19	ⲉ	ⲉ	ADP	PREP	_	21	case	_	_
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(place
+21	ϫⲁⲓⲉ	ϫⲁⲉⲓⲉ	NOUN	N	_	11	obl	_	Entity=place)
+22	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	_
+23-25	ⲁⲩⲃⲱⲕ	_	_	_	_	_	_	_	_
+23	ⲁ	ⲁ	AUX	APST	_	25	aux	_	_
+24	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
+25	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	11	conj	_	_
+26-28	ⲛⲟⲩϩⲓⲏ	_	_	_	_	_	_	_	_
+26	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+27	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	28	det	_	Entity=(place
+28	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	25	obl	_	Entity=place)
+29-30	ⲛϣⲟⲙⲛⲧ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	32	case	_	_
+30	ϣⲟⲙⲛⲧ	ϣⲟⲙⲛⲧ	NUM	NUM	NumType=Card	32	nummod	_	Entity=(time
+31-32	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+31	ⲛ	ⲛ	ADP	PREP	_	32	case	_	_
+32	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	25	obl	_	Entity=time)
+33	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	36	case	_	_
+34-36	ϩⲓⲧⲙⲡϫⲁⲓⲉ	_	_	_	_	_	_	_	_
+34	ϩⲓⲧⲙ	ϩⲓⲧⲛ	ADP	PREP	_	33	fixed	_	_
+35	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	Entity=(place
+36	ϫⲁⲓⲉ	ϫⲁⲉⲓⲉ	NOUN	N	_	25	obl	_	Entity=place)
+37	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	Definite=Def|Number=Plur|Person=3|PronType=Prs	40	dislocated	_	_
+38-40	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+38	ⲁ	ⲁ	AUX	APST	_	40	aux	_	_
+39	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	40	nsubj	_	_
+40	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+41	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	40	advmod	_	_
+42-44	ⲉⲛⲉⲧⲥⲁϣⲉ	_	_	_	_	_	_	_	_
+42	ⲉⲛⲉ	ⲉⲣⲉ_ⲁⲛⲟⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	43	nsubj	_	_
+43	ⲧⲥⲁ	ⲧⲥⲁ	VERB	V	VerbForm=Fin	40	advcl	_	_
+44	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	43	nsubj	_	Entity=(abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0009
+# text_en = And they departed from Picriae, and came to Aelim; and in Aelim were twelve fountains of water, and seventy palm-trees, and they encamped there by the water.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲛⲥⲓϣⲉ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲗⲓⲙ ⲁⲩⲱ ⲛⲉ ⲟⲩⲛ ⲙⲛⲧⲥⲛⲟⲟⲩⲥⲉ ⲛϩⲟⲛⲃⲉ ⲙⲙⲟⲟⲩ ⲙⲛϣⲃⲉ ⲛⲕⲁⲁϥ ⲛⲃⲛⲛⲉ ϩⲣⲁⲓ ϩⲛⲛⲁⲓⲗⲓⲙ ⲁⲩⲱ ⲁⲩⲟⲩⲉϩⲛⲁⲩ ⲙⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ ϩⲁⲧⲙ ⲡⲙⲟⲟⲩ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲛⲥⲓϣⲉ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(abstract
+7	ⲥⲓϣⲉ	ⲥⲓϣⲉ	NOUN	N	_	3	obl	_	Entity=abstract)
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲉⲗⲓⲙ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	_
+13	ⲗⲓⲙ	ⲗⲓⲙ	VERB	V	VerbForm=Inf	10	xcomp	_	_
+14	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
+15	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	16	aux	_	_
+16	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	10	conj	_	_
+17-19	ⲙⲛⲧⲥⲛⲟⲟⲩⲥⲉ	_	_	_	_	_	_	_	_
+17	ⲙⲛ	ⲙⲛ	ADP	PREP	_	19	cc	_	_
+18	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	Entity=(substance
+19	ⲥⲛⲟⲟⲩⲥⲉ	ⲥⲛⲟⲟⲩⲥⲉ	NOUN	N	_	16	conj	_	_
+20-21	ⲛϩⲟⲛⲃⲉ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ϩⲟⲛⲃⲉ	ϩⲟⲛⲃⲉ	NOUN	N	_	19	nmod	_	Entity=(abstract
+22-23	ⲙⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+22	ⲙⲙⲟ	ⲛ	ADP	PREP	_	23	case	_	_
+23	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	21	nmod	_	Entity=abstract)
+24-25	ⲙⲛϣⲃⲉ	_	_	_	_	_	_	_	_
+24	ⲙⲛ	ⲙⲛ	ADP	PREP	_	25	cc	_	_
+25	ϣⲃⲉ	ϣⲃⲉ	NOUN	N	_	16	conj	_	Entity=(person)
+26-28	ⲛⲕⲁⲁϥ	_	_	_	_	_	_	_	_
+26	ⲛ	ⲛ	ADP	PREP	_	27	case	_	_
+27	ⲕⲁⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	19	nmod	_	_
+28	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	_
+29-30	ⲛⲃⲛⲛⲉ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲃⲛⲛⲉ	ⲃⲛⲛⲉ	NOUN	N	_	27	obl	_	Entity=(plant)
+31	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	27	advmod	_	_
+32-33	ϩⲛⲛⲁⲓⲗⲓⲙ	_	_	_	_	_	_	_	_
+32	ϩⲛ	ϩⲛ	ADP	PREP	_	33	case	_	_
+33	ⲛⲁⲓⲗⲓⲙ	ⲛⲁⲓⲗⲓⲙ	PROPN	NPROP	_	27	obl	_	Entity=(place)substance)
+34	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	37	cc	_	_
+35-37	ⲁⲩⲟⲩⲉϩⲛⲁⲩ	_	_	_	_	_	_	_	_
+35	ⲁ	ⲁ	AUX	APST	_	37	aux	_	_
+36	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	37	nsubj	_	_
+37	ⲟⲩⲉϩⲛⲁⲩ	ⲟⲩⲉϩⲛⲁⲩ	VERB	V	VerbForm=Fin	3	conj	_	_
+38-40	ⲙⲡⲙⲁ	_	_	_	_	_	_	_	_
+38	ⲙ	ⲛ	ADP	PREP	_	40	case	_	_
+39	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	Entity=(place
+40	ⲙⲁ	ⲙⲁ	NOUN	N	_	37	obl	_	_
+41-42	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+41	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	42	mark	_	_
+42	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	40	acl	_	Entity=place)
+43	ϩⲁⲧⲙ	ϩⲁⲧⲛ	ADP	PREP	_	45	case	_	_
+44-45	ⲡⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+44	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	Entity=(substance
+45	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	37	obl	_	Entity=substance)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0010
+# text_en = And they departed from Aelim, and encamped by the Red Sea.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲛⲁⲓⲗⲓⲙ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲧⲉⲣⲩⲑⲣⲁ ⲧϩⲁⲗⲁⲥⲥⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲛⲁⲓⲗⲓⲙ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲛⲁⲓⲗⲓⲙ	ⲛⲁⲓⲗⲓⲙ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉϫⲛⲧⲉⲣⲩⲑⲣⲁ	_	_	_	_	_	_	_	_
+11	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	13	case	_	_
+12	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Entity=(abstract
+13	ⲉⲣⲩⲑⲣⲁ	ⲉⲣⲩⲑⲣⲁ	NOUN	N	_	9	obl	_	Entity=abstract)
+14-15	ⲧϩⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+14	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Entity=(place|Orig=ⲑ
+15	ϩⲁⲗⲁⲥⲥⲁ	ϩⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	9	dislocated	_	Entity=place)|Orig=ⲁⲗⲁⲥⲥⲁ|OrigLang=grc
+
+# sent_id = sahidic_ot-04_Numbers_33_s0011
+# text_en = And they departed from the Red Sea, and encamped in the wilderness of Sin.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲧⲉⲣⲩⲑⲣⲁ ⲧϩⲁⲗⲁⲥⲥⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲧⲉⲣⲏⲙⲟⲥ ⲛⲥⲓⲛ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲧⲉⲣⲩⲑⲣⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲉⲣⲩⲑⲣⲁ	ⲉⲣⲩⲑⲣⲁ	NOUN	N	_	3	obl	_	_
+8-9	ⲧϩⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+8	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Orig=ⲑ
+9	ϩⲁⲗⲁⲥⲥⲁ	ϩⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	7	appos	_	Entity=abstract)|Orig=ⲁⲗⲁⲥⲥⲁ|OrigLang=grc
+10-12	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+13	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+14-16	ⲉⲧⲉⲣⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	ADP	PREP	_	16	case	_	_
+15	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Entity=(place
+16	ⲉⲣⲏⲙⲟⲥ	ⲉⲣⲏⲙⲟⲥ	NOUN	N	Foreign=Yes	12	obl	_	OrigLang=grc
+17-18	ⲛⲥⲓⲛ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ⲥⲓⲛ	ⲥⲓⲛ	NOUN	N	_	16	nmod	_	Entity=(abstract)place)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0012
+# text_en = And they departed from the wilderness of Sin, and encamped in Raphaca.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲧⲉⲣⲏⲙⲟⲥ ⲛⲥⲓⲛ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲇⲁⲫⲁⲅⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲧⲉⲣⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Entity=(place
+7	ⲉⲣⲏⲙⲟⲥ	ⲉⲣⲏⲙⲟⲥ	NOUN	N	Foreign=Yes	3	obl	_	OrigLang=grc
+8-9	ⲛⲥⲓⲛ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲥⲓⲛ	ⲥⲓⲛ	NOUN	N	_	7	nmod	_	Entity=(abstract)place)
+10-12	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+13	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+14-15	ⲉⲇⲁⲫⲁⲅⲁ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	PART	PREP	_	15	mark	_	_
+15	ⲇⲁⲫⲁⲅⲁ	ⲇⲁⲫⲁⲅⲁ	VERB	V	VerbForm=Inf	12	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0013
+# text_en = And they departed from Raphaca, and encamped in Aelus.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲇⲁⲫⲁⲅⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲁⲓⲗⲓⲙ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲇⲁⲫⲁⲅⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲇⲁⲫⲁⲅⲁ	ⲇⲁⲫⲁⲅⲁ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲁⲓⲗⲓⲙ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	13	mark	_	_
+12	ⲁ	ⲁ	AUX	APST	_	13	nsubj	_	_
+13	ⲓⲗⲓⲙ	ⲓⲗⲓⲙ	PROPN	NPROP	_	9	nsubj	_	Entity=(person)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0014
+# text_en = And they departed from Aelus, and encamped in Raphidin; and there was no water there for the people to drink.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲛⲁⲓⲗⲓⲙ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉϩⲣⲁⲫⲓⲇⲓⲛ ⲁⲩⲱ ⲛⲉ ⲙⲛⲙⲟⲟⲩ ⲡⲉ ⲙⲙⲁⲩ ⲉⲧⲣⲉⲡⲗⲁⲟⲥ ⲥⲱ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲛⲁⲓⲗⲓⲙ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲛⲁⲓⲗⲓⲙ	ⲛⲁⲓⲗⲓⲙ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	11	advmod	_	_
+11	ⲉϩⲣⲁⲫⲓⲇⲓⲛ	ⲉϩⲣⲁⲫⲓⲇⲓⲛ	VERB	V	VerbForm=Fin	9	xcomp	_	_
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+13	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	14	aux	_	_
+14-15	ⲙⲛⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+14	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	9	conj	_	_
+15	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	14	nsubj	_	Entity=(substance)
+16	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	_
+17	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	14	advmod	_	_
+18-21	ⲉⲧⲣⲉⲡⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+18	ⲉ	ⲉ	PART	PREP	_	19	mark	_	_
+19	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	14	xcomp	_	_
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(organization
+21	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	14	vocative	_	OrigLang=grc
+22-23	ⲥⲱ	_	_	_	_	_	_	_	_
+22	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	21	det	_	Entity=organization)
+23	ⲱ	ⲱ	PART	PTC	Foreign=Yes	21	discourse	_	OrigLang=grc
+
+# sent_id = sahidic_ot-04_Numbers_33_s0015
+# text_en = And they departed from Raphidin, and encamped in the wilderness of Sina.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛϩⲣⲁⲫⲓⲇⲓⲛ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲡϫⲁⲓⲉ ⲛⲥⲓⲛⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛϩⲣⲁⲫⲓⲇⲓⲛ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ϩⲣⲁⲫⲓⲇⲓⲛ	ϩⲣⲁⲫⲓⲇⲓⲛ	NOUN	N	_	3	obl	_	Entity=(object)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲡϫⲁⲓⲉ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place
+13	ϫⲁⲓⲉ	ϫⲁⲉⲓⲉ	NOUN	N	_	9	obl	_	_
+14-15	ⲛⲥⲓⲛⲁ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲥⲓⲛⲁ	ⲥⲓⲛⲁ	PROPN	NPROP	_	13	nmod	_	Entity=(place-Mount_Sinai_%28Bible%29)place)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0016
+# text_en = And they departed from the wilderness of Sina, and encamped at the Graves of Lust.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲙⲡϫⲁⲓⲉ ⲛⲥⲓⲛⲁ ⲁⲩⲱ ⲁⲩⲟⲩⲉϩⲛⲁⲩ ϩⲛⲛⲙϩⲁⲁⲩ ⲛⲧⲉⲡⲓⲑⲩⲙⲓⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲙⲡϫⲁⲓⲉ	_	_	_	_	_	_	_	_
+5	ϩⲙ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place
+7	ϫⲁⲓⲉ	ϫⲁⲉⲓⲉ	NOUN	N	_	3	obl	_	_
+8-9	ⲛⲥⲓⲛⲁ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲥⲓⲛⲁ	ⲥⲓⲛⲁ	PROPN	NPROP	_	7	nmod	_	Entity=(place-Mount_Sinai_%28Bible%29)place)
+10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+11-13	ⲁⲩⲟⲩⲉϩⲛⲁⲩ	_	_	_	_	_	_	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+13	ⲟⲩⲉϩⲛⲁⲩ	ⲟⲩⲉϩⲛⲁⲩ	VERB	V	VerbForm=Fin	3	conj	_	_
+14-16	ϩⲛⲛⲙϩⲁⲁⲩ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	16	case	_	_
+15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	Entity=(place
+16	ⲙϩⲁⲁⲩ	ⲙϩⲁⲁⲩ	NOUN	N	_	13	obl	_	_
+17-19	ⲛⲧⲉⲡⲓⲑⲩⲙⲓⲁ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	Entity=(abstract
+19	ⲉⲡⲓⲑⲩⲙⲓⲁ	ⲉⲡⲓⲑⲩⲙⲓⲁ	NOUN	N	Foreign=Yes	16	nmod	_	Entity=abstract)place)|OrigLang=grc
+
+# sent_id = sahidic_ot-04_Numbers_33_s0017
+# text_en = And they departed from the Graves of Lust, and encamped in Aseroth.
+# text = ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲁⲥⲏⲣⲱⲑ
+1-3	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	3	advmod	_	_
+5-7	ⲉⲁⲥⲏⲣⲱⲑ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	7	mark	_	_
+6	ⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	ⲥⲏⲣⲱⲑ	ⲥⲏⲣⲱⲑ	VERB	V	VerbForm=Fin	3	advcl	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0018
+# text_en = And they departed from Aseroth, and encamped in Rathama.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲛⲁⲥⲏⲣⲱⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲣⲁⲑⲙⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲛⲁⲥⲏⲣⲱⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	Entity=(event
+7	ⲥⲏⲣⲱⲑ	ⲥⲏⲣⲱⲑ	NOUN	N	_	3	obl	_	Entity=event)
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲉⲣⲁⲑⲙⲁ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	_
+13	ⲣⲁⲑⲙⲁ	ⲣⲁⲑⲙⲁ	VERB	V	VerbForm=Inf	10	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0019
+# text_en = And they departed from Rathama, and encamped in Remmon Phares.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲣⲁⲑⲙⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲣⲉⲙⲙⲱⲛ ⲫⲁⲣⲉⲥ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲣⲁⲑⲙⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲣⲁⲑⲙⲁ	ⲣⲁⲑⲙⲁ	PROPN	NPROP	_	3	obl	_	Entity=(place)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲣⲉⲙⲙⲱⲛ	_	_	_	_	_	_	_	_
+11	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+12	ⲙⲙⲱⲛ	ⲙⲙⲱⲛ	PROPN	NPROP	_	9	dislocated	_	Entity=(person
+13	ⲫⲁⲣⲉⲥ	ⲫⲁⲣⲉⲥ	PROPN	NPROP	Foreign=Yes	12	appos	_	Entity=person)|OrigLang=he
+
+# sent_id = sahidic_ot-04_Numbers_33_s0020
+# text_en = And they departed from Remmon Phares, and encamped in Lebona.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲣⲉⲙⲙⲱⲛ ⲫⲁⲣⲉⲥ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲗⲉⲃⲱⲛⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲣⲉⲙⲙⲱⲛ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲣⲉⲙⲙⲱⲛ	ⲣⲉⲙⲙⲱⲛ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7	ⲫⲁⲣⲉⲥ	ⲫⲁⲣⲉⲥ	PROPN	NPROP	Foreign=Yes	10	dislocated	_	Entity=(place-Rimmon_Perez)|OrigLang=he
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲉⲗⲉⲃⲱⲛⲁ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	_
+13	ⲗⲉⲃⲱⲛⲁ	ⲗⲉⲃⲱⲛⲁ	VERB	V	VerbForm=Inf	10	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0021
+# text_en = And they departed from Lebona, and encamped in Ressan.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲗⲉⲃⲱⲛⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲇⲉⲥⲥⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲗⲉⲃⲱⲛⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲗⲉⲃⲱⲛⲁ	ⲗⲉⲃⲱⲛⲁ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲇⲉⲥⲥⲁ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲇⲉⲥ	ⲇⲉⲥ	DET	ART	_	13	det	_	Entity=(place
+13	ⲥⲁ	ⲥⲁ	NOUN	N	_	9	obl	_	Entity=place)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0022
+# text_en = And they departed from Ressan, and encamped in Makellath.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲛⲉⲇⲉⲥⲥⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲙⲁⲅⲉⲗⲗⲁⲑ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲛⲉⲇⲉⲥⲥⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲛⲉⲇⲉⲥⲥⲁ	ⲛⲉⲇⲉⲥⲥⲁ	PROPN	NPROP	_	3	obl	_	Entity=(place)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲙⲁⲅⲉⲗⲗⲁⲑ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ⲙⲁⲅⲉⲗⲗⲁⲑ	ⲙⲁⲅⲉⲗⲗⲁⲑ	PROPN	NPROP	_	9	obl	_	Entity=(place-Makheloth)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0023
+# text_en = And they departed from Makellath, and encamped in Saphar.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲙⲁⲅⲉⲗⲗⲁⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲥⲁⲫⲁⲣ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲙⲁⲅⲉⲗⲗⲁⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲙⲁⲅⲉⲗⲗⲁⲑ	ⲙⲁⲅⲉⲗⲗⲁⲑ	PROPN	NPROP	_	3	obl	_	Entity=(place-Makheloth)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲥⲁⲫⲁⲣ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	PART	PREP	_	12	mark	_	_
+12	ⲥⲁⲫⲁⲣ	ⲥⲁⲫⲁⲣ	VERB	V	VerbForm=Inf	9	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0024
+# text_en = And they departed from Saphar, and encamped in Charadath.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲥⲁⲫⲁⲣ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲭⲁⲣⲁⲇⲁⲑ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲥⲁⲫⲁⲣ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲥⲁⲫⲁⲣ	ⲥⲁⲫⲁⲣ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲭⲁⲣⲁⲇⲁⲑ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	PART	PREP	_	12	mark	_	_
+12	ⲭⲁⲣⲁⲇⲁⲑ	ⲭⲁⲣⲁⲇⲁⲑ	VERB	V	VerbForm=Inf	9	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0025
+# text_en = And they departed from Charadath, and encamped in Makeloth.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲭⲁⲣⲁⲇⲁⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲙⲁⲕⲏⲗⲱⲑ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲭⲁⲣⲁⲇⲁⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲭⲁⲣⲁⲇⲁⲑ	ⲭⲁⲣⲁⲇⲁⲑ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲙⲁⲕⲏⲗⲱⲑ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	Entity=(place)
+13	ⲕⲏⲗⲱⲑ	ⲕⲏⲗⲱⲑ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0026
+# text_en = And they departed from Makeloth, and encamped in Kataath.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲙⲁⲕⲏⲗⲱⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲕⲁⲧⲧⲁⲁⲑ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲙⲁⲕⲏⲗⲱⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲙⲁⲕⲏⲗⲱⲑ	ⲙⲁⲕⲏⲗⲱⲑ	PROPN	NPROP	_	3	obl	_	Entity=(place)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲕⲁⲧⲧⲁⲁⲑ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	PART	PREP	_	12	mark	_	_
+12	ⲕⲁⲧⲧⲁⲁⲑ	ⲕⲁⲧⲧⲁⲁⲑ	VERB	V	VerbForm=Inf	9	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0027
+# text_en = And they departed from Kataath, and encamped in Tarath.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲕⲁⲧⲧⲁⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲧⲁⲣⲁⲑ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲕⲁⲧⲧⲁⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲕⲁⲧⲧⲁⲑ	ⲕⲁⲧⲧⲁⲑ	PROPN	NPROP	_	3	obl	_	Entity=(place)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲧⲁⲣⲁⲑ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	PART	PREP	_	12	mark	_	_
+12	ⲧⲁⲣⲁⲑ	ⲧⲁⲣⲁⲑ	VERB	V	VerbForm=Inf	9	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0028
+# text_en = And they departed from Tarath, and encamped in Mathecca.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲧⲁⲣⲁⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲙⲁⲇⲉⲕⲕⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲧⲁⲣⲁⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	Entity=(event
+7	ⲣⲁⲑ	ⲣⲁⲑ	NOUN	N	_	3	obl	_	Entity=event)
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲉⲙⲁⲇⲉⲕⲕⲁ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+13	ⲙⲁⲇⲉⲕⲕⲁ	ⲙⲁⲇⲉⲕⲕⲁ	PROPN	NPROP	_	10	obl	_	Entity=(person)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0029
+# text_en = And they departed from Mathecca, and encamped in Selmona.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲙⲁⲇⲉⲕⲕⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲥⲉⲗⲙⲱⲛⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲙⲁⲇⲉⲕⲕⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲙⲁⲇⲉⲕⲕⲁ	ⲙⲁⲇⲉⲕⲕⲁ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲥⲉⲗⲙⲱⲛⲁ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	PART	PREP	_	12	mark	_	_
+12	ⲥⲉⲗⲙⲱⲛⲁ	ⲥⲉⲗⲙⲱⲛⲁ	VERB	V	VerbForm=Inf	9	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0030
+# text_en = And they departed from Selmona, and encamped in Masuruth.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲥⲉⲗⲙⲱⲛⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲙⲁⲥⲟⲩⲣⲟⲩⲑ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲥⲉⲗⲙⲱⲛⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲥⲉⲗⲙⲱⲛⲁ	ⲥⲉⲗⲙⲱⲛⲁ	PROPN	NPROP	_	3	obl	_	Entity=(place-Zalmonah)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲙⲁⲥⲟⲩⲣⲟⲩⲑ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ⲙⲁⲥⲟⲩⲣⲟⲩⲑ	ⲙⲁⲥⲟⲩⲣⲟⲩⲑ	PROPN	NPROP	_	9	obl	_	Entity=(place-Moseroth)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0031
+# text_en = And they departed from Masuruth, and encamped in Banaea.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲙⲁⲥⲟⲩⲣⲟⲩⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲃⲁⲛⲁⲓⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲙⲁⲥⲟⲩⲣⲟⲩⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲙⲁⲥⲟⲩⲣⲟⲩⲑ	ⲙⲁⲥⲟⲩⲣⲟⲩⲑ	PROPN	NPROP	_	3	obl	_	Entity=(place-Moseroth)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲃⲁⲛⲁⲓⲁ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ⲃⲁⲛⲁⲓⲁ	ⲃⲁⲛⲁⲓⲁ	PROPN	NPROP	_	9	obl	_	Entity=(place-Be'eroth_Bene-Jaakan)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0032
+# text_en = And they departed from Banaea, and encamped in the mountain Gadgad.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲃⲁⲛⲁⲓⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲡⲧⲟⲟⲩ ⲛⲅⲁⲇⲅⲁⲇ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲃⲁⲛⲁⲓⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲃⲁⲛⲁⲓⲁ	ⲃⲁⲛⲁⲓⲁ	PROPN	NPROP	_	3	obl	_	Entity=(place-Be'eroth_Bene-Jaakan)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place
+13	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	9	obl	_	_
+14-15	ⲛⲅⲁⲇⲅⲁⲇ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲅⲁⲇⲅⲁⲇ	ⲅⲁⲇⲅⲁⲇ	PROPN	NPROP	_	13	nmod	_	Entity=(place-Hor_Haggidgad)place)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0033
+# text_en = And they departed from the mountain Gadgad, and encamped in Etebatha.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲙⲡⲧⲟⲟⲩ ⲛⲅⲁⲇⲅⲁⲇ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲇⲉⲃⲁⲑⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲙⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+5	ϩⲙ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place
+7	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	3	obl	_	_
+8-9	ⲛⲅⲁⲇⲅⲁⲇ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲅⲁⲇⲅⲁⲇ	ⲅⲁⲇⲅⲁⲇ	PROPN	NPROP	_	7	nmod	_	Entity=(place-Hor_Haggidgad)place)
+10-12	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+13	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+14-15	ⲉⲇⲉⲃⲁⲑⲁ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	PART	PREP	_	15	mark	_	_
+15	ⲇⲉⲃⲁⲑⲁ	ⲇⲉⲃⲁⲑⲁ	VERB	V	VerbForm=Inf	12	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0034
+# text_en = And they departed from Etebatha, and encamped in Ebrona.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲇⲉⲃⲁⲑⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲛⲣⲱⲛⲁ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲇⲉⲃⲁⲑⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲇⲉⲃⲁⲑⲁ	ⲇⲉⲃⲁⲑⲁ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲛⲣⲱⲛⲁ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	13	det	_	Entity=(person|Orig=ⲃ
+13	ⲣⲱⲛⲁ	ⲣⲱⲛⲁ	NOUN	N	_	9	obl	_	Entity=person)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0035
+# text_en = And they departed from Ebrona, and encamped in Gesion Gaber.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲉⲃⲣⲱⲛⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲅⲉⲥⲓⲱⲛ ⲅⲁⲃⲉⲣ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲉⲃⲣⲱⲛⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲉⲃⲣⲱⲛⲁ	ⲉⲃⲣⲱⲛⲁ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲅⲉⲥⲓⲱⲛ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲅⲉ	ⲅⲉ	DET	ART	Foreign=Yes	13	det	_	Entity=(place-Zion|OrigLang=grc
+13	ⲥⲓⲱⲛ	ⲥⲓⲱⲛ	PROPN	NPROP	_	9	obl	_	Entity=place-Zion)
+14	ⲅⲁⲃⲉⲣ	ⲅⲁⲃⲉⲣ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0036
+# text_en = And they departed from Gesion Gaber, and encamped in the wilderness of Sin; and they departed from the wilderness of Sin, and encamped in the wilderness of Pharan; this is Cades.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲅⲉⲥⲓⲱⲛ ⲅⲁⲃⲉⲣ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲧⲉⲣⲏⲙⲟⲥ ⲛⲥⲓⲛ ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲙⲡϫⲁⲓⲉ ⲛⲥⲓⲛ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲧⲉⲣⲏⲙⲟⲥ ⲙⲫⲁⲣⲁⲛ ⲧⲁⲓ ⲧⲉ ⲕⲁⲇⲏⲥ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲅⲉⲥⲓⲱⲛ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲅⲉⲥⲓⲱⲛ	ⲅⲉⲥⲓⲱⲛ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7	ⲅⲁⲃⲉⲣ	ⲅⲁⲃⲉⲣ	PROPN	NPROP	_	10	dislocated	_	Entity=(place)
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-14	ⲉⲧⲉⲣⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
+13	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲉⲣⲏⲙⲟⲥ	ⲉⲣⲏⲙⲟⲥ	NOUN	N	Foreign=Yes	10	obl	_	OrigLang=grc
+15-16	ⲛⲥⲓⲛ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+16	ⲥⲓⲛ	ⲥⲓⲛ	NOUN	N	_	14	nmod	_	Entity=(abstract)place)
+17-19	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+17	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
+18	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+19	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	10	parataxis	_	_
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	case	_	_
+21-23	ϩⲙⲡϫⲁⲓⲉ	_	_	_	_	_	_	_	_
+21	ϩⲙ	ϩⲛ	ADP	PREP	_	20	fixed	_	_
+22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(place
+23	ϫⲁⲓⲉ	ϫⲁⲉⲓⲉ	NOUN	N	_	19	obl	_	_
+24-25	ⲛⲥⲓⲛ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+25	ⲥⲓⲛ	ⲥⲓⲛ	NOUN	N	_	23	nmod	_	Entity=(abstract)place)
+26-28	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+26	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
+27	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	28	nsubj	_	_
+28	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	19	parataxis	_	_
+29	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	28	advmod	_	_
+30-32	ⲉⲧⲉⲣⲏⲙⲟⲥ	_	_	_	_	_	_	_	_
+30	ⲉ	ⲉ	ADP	PREP	_	32	case	_	_
+31	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	Entity=(place
+32	ⲉⲣⲏⲙⲟⲥ	ⲉⲣⲏⲙⲟⲥ	NOUN	N	Foreign=Yes	28	obl	_	OrigLang=grc
+33-34	ⲙⲫⲁⲣⲁⲛ	_	_	_	_	_	_	_	_
+33	ⲙ	ⲛ	ADP	PREP	_	34	case	_	_
+34	ⲫⲁⲣⲁⲛ	ⲫⲁⲣⲁⲛ	NOUN	N	_	32	nmod	_	Entity=(place)place)
+35	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	28	parataxis	_	Entity=(abstract)
+36	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	35	cop	_	_
+37	ⲕⲁⲇⲏⲥ	ⲕⲁⲇⲏⲥ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0037
+# text_en = And they departed from Cades, and encamped in mount Or near the land of Edom.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲕⲁⲇⲏⲥ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲱⲣ ⲡⲧⲟⲟⲩ ϩⲓⲧⲟⲩⲱⲛ ⲡⲕⲁϩ ⲛⲛⲉⲇⲱⲙ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲕⲁⲇⲏⲥ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲕⲁⲇⲏⲥ	ⲕⲁⲇⲏⲥ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲱⲣ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	PART	PREP	_	12	mark	_	_
+12	ⲱⲣ	ⲱⲣ	VERB	V	VerbForm=Inf	9	xcomp	_	_
+13-14	ⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	12	obj	_	Entity=place)
+15-16	ϩⲓⲧⲟⲩⲱⲛ	_	_	_	_	_	_	_	_
+15	ϩⲓⲧⲟⲩⲱ	ϩⲓⲧⲟⲩⲛ	ADP	PREP	_	18	case	_	Orig=ϩⲓⲧⲟⲩ
+16	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	18	det	_	Entity=(place
+17-18	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	12	obl	_	_
+19-20	ⲛⲛⲉⲇⲱⲙ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲛⲉⲇⲱⲙ	ⲛⲉⲇⲱⲙ	NOUN	N	_	18	nmod	_	Entity=(abstract)place)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0038
+# text_en = And Aaron the priest went up by the command of the Lord, and died there in the fortieth year of the departure of the children of Israel from the land of Egypt, in the fifth month, on the first day of the month.
+# text = ⲁⲩⲱ ⲁⲁⲣⲱⲛ ⲡⲟⲩⲏⲏⲃ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡⲟⲩⲉϩⲥⲁϩⲛⲉ ⲙⲡϫⲟⲉⲓⲥ ⲁϥⲃⲱⲕ ⲉϩⲣⲁⲓ ⲙⲙⲁⲩ ⲁϥⲙⲟⲩ ϩⲛⲧⲙⲉϩϩⲙⲉ ⲛⲣⲟⲙⲡⲉ ⲙⲡⲓⲉⲃⲟⲗ ⲛⲛϣⲏⲣⲉ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲉⲃⲟⲗ ϩⲙⲡⲕⲁϩ ⲛⲕⲏⲙⲉ ϩⲙⲡϣⲟⲣⲡ ⲛⲛⲉⲃⲟⲧ ⲛⲥⲟⲩⲟⲩⲁ ⲙⲡⲉⲃⲟⲧ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
+2-3	ⲁⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
+3	ⲁⲣⲱⲛ	ⲁⲣⲱⲛ	PROPN	NPROP	_	15	dislocated	_	Entity=(person-Aaron
+4-5	ⲡⲟⲩⲏⲏⲃ	_	_	_	_	_	_	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ⲟⲩⲏⲏⲃ	ⲟⲩⲏⲏⲃ	NOUN	N	_	3	appos	_	_
+6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	case	_	_
+7-9	ϩⲓⲧⲙⲡⲟⲩⲉϩⲥⲁϩⲛⲉ	_	_	_	_	_	_	_	_
+7	ϩⲓⲧⲙ	ϩⲓⲧⲛ	ADP	PREP	_	6	fixed	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(abstract
+9	ⲟⲩⲉϩⲥⲁϩⲛⲉ	ⲟⲩⲉϩⲥⲁϩⲛⲉ	NOUN	N	_	3	nmod	_	Morphs=ⲟⲩⲉϩ-ⲥⲁϩⲛⲉ
+10-12	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(person
+12	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	9	nmod	_	Entity=person)abstract)person-Aaron)
+13-15	ⲁϥⲃⲱⲕ	_	_	_	_	_	_	_	_
+13	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+16	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	15	advmod	_	_
+17	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	15	advmod	_	Orig=ⲉⲙⲁⲩ
+18-20	ⲁϥⲙⲟⲩ	_	_	_	_	_	_	_	_
+18	ⲁ	ⲁ	AUX	APST	_	20	aux	_	_
+19	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+20	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	15	parataxis	_	_
+21-23	ϩⲛⲧⲙⲉϩϩⲙⲉ	_	_	_	_	_	_	_	_
+21	ϩⲛ	ϩⲛ	ADP	PREP	_	23	case	_	_
+22	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
+23	ⲙⲉϩϩⲙⲉ	ⲙⲉϩϩⲙⲉ	NOUN	N	_	20	obl	_	_
+24-25	ⲛⲣⲟⲙⲡⲉ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+25	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	23	nmod	_	Entity=(time)
+26-28	ⲙⲡⲓⲉⲃⲟⲗ	_	_	_	_	_	_	_	_
+26	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(place
+28	ⲓⲉⲃⲟⲗ	ⲓⲉⲃⲟⲗ	NOUN	N	_	23	nmod	_	_
+29-31	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	31	case	_	_
+30	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	31	det	_	Entity=(person
+31	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	28	nmod	_	_
+32-34	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+32	ⲙ	ⲛ	ADP	PREP	_	34	case	_	_
+33	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+34	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	31	nmod	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)person)|Orig=ⲓⲏⲗ|OrigLang=he
+35	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	38	case	_	_
+36-38	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+36	ϩⲙ	ϩⲛ	ADP	PREP	_	35	fixed	_	_
+37	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Entity=(place
+38	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	28	nmod	_	_
+39-40	ⲛⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+39	ⲛ	ⲛ	ADP	PREP	_	40	case	_	_
+40	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	38	nmod	_	Entity=(place-Egypt)
+41-43	ϩⲙⲡϣⲟⲣⲡ	_	_	_	_	_	_	_	_
+41	ϩⲙ	ϩⲛ	ADP	PREP	_	43	case	_	_
+42	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	Entity=(time
+43	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	20	obl	_	Entity=time)
+44-46	ⲛⲛⲉⲃⲟⲧ	_	_	_	_	_	_	_	_
+44	ⲛ	ⲛ	ADP	PREP	_	46	case	_	_
+45	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	46	det	_	Entity=(time
+46	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	38	nmod	_	_
+47-48	ⲛⲥⲟⲩⲟⲩⲁ	_	_	_	_	_	_	_	_
+47	ⲛ	ⲛ	ADP	PREP	_	48	case	_	_
+48	ⲥⲟⲩⲟⲩⲁ	ⲥⲟⲩⲟⲩⲁ	NOUN	N	_	46	nmod	_	Entity=(time|Morphs=ⲥⲟⲩ-ⲟⲩⲁ|Orig=ⲥⲟⲩⲁ
+49-51	ⲙⲡⲉⲃⲟⲧ	_	_	_	_	_	_	_	_
+49	ⲙ	ⲛ	ADP	PREP	_	51	case	_	_
+50	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	Entity=(time
+51	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	48	nmod	_	Entity=time)time)time)place)place)abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0039
+# text_en = And Aaron was a hundred and twenty-three years old, when he died in mount Or.
+# text = ⲁⲩⲱ ⲁⲁⲣⲱⲛ ⲛⲉϥϩⲛϣⲉ ϫⲟⲩⲧϫⲟⲙⲧⲉ ⲛⲣⲟⲙⲡⲉ ⲡⲉ ⲉϥⲛⲁⲙⲟⲩ ϩⲣⲁⲓ ϩⲛⲱⲣ ⲡⲧⲟⲟⲩ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+2-3	ⲁⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+3	ⲁⲣⲱⲛ	ⲁⲣⲱⲛ	PROPN	NPROP	_	9	nsubj	_	Entity=(person-Aaron
+4-6	ⲛⲉϥϩⲛϣⲉ	_	_	_	_	_	_	_	_
+4	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	Entity=person-Aaron)
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	9	case	_	_
+6	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	9	det	_	Entity=(abstract)(time
+7	ϫⲟⲩⲧϫⲟⲙⲧⲉ	ϫⲟⲩⲧϫⲟⲙⲧⲉ	NUM	NUM	NumType=Card	9	nummod	_	_
+8-9	ⲛⲣⲟⲙⲡⲉ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	0	root	_	_
+10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	9	cop	_	_
+11-14	ⲉϥⲛⲁⲙⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	14	mark	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	ⲛⲁ	ⲛⲁ	AUX	FUT	_	14	aux	_	_
+14	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	9	acl	_	_
+15	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	14	advmod	_	_
+16-17	ϩⲛⲱⲣ	_	_	_	_	_	_	_	_
+16	ϩⲛ	ϩⲛ	ADP	PREP	_	17	case	_	_
+17	ⲱⲣ	ⲱⲣ	PROPN	NPROP	_	14	obl	_	Entity=(place-Mount_Hor
+18-19	ⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	17	appos	_	Entity=place-Mount_Hor)time)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0040
+# text_en = And Arad the Chananitish king (he too dwelt in the land of Chanaan) having heard when the children of Israel were entering the land
+# text = ⲁⲩⲱ ⲁϥⲥⲱⲧⲙ ⲛϭⲓⲭⲁⲛⲁⲛⲓⲥ ⲡⲣⲣⲟ ⲛⲁⲣⲁⲇ ⲁⲩⲱ ⲡⲁⲓ ⲛⲉϥⲟⲩⲏϩ ⲡⲉ ϩⲙⲡⲕⲁϩ ⲛⲭⲁⲛⲁⲁⲛ ⲉⲣⲉⲛϣⲏⲣⲉ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲛⲁⲃⲱⲕ ⲉϩⲟⲩⲛ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁϥⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ⲛϭⲓⲭⲁⲛⲁⲛⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+6	ⲭⲁⲛⲁⲛⲓⲥ	ⲭⲁⲛⲁⲛⲓⲥ	PROPN	NPROP	_	4	dislocated	_	Entity=(person
+7-8	ⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	6	appos	_	Entity=person)
+9-10	ⲛⲁⲣⲁⲇ	_	_	_	_	_	_	_	_
+9	ⲛⲁ	ⲛⲁ	AUX	FUT	_	10	aux	_	_
+10	ⲣⲁⲇ	ⲣⲁⲇ	VERB	V	VerbForm=Fin	4	ccomp	_	_
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
+12	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	15	dislocated	_	Entity=(abstract)
+13-15	ⲛⲉϥⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+13	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	15	aux	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	4	conj	_	_
+16	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	15	cop	_	_
+17-19	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+17	ϩⲙ	ϩⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(place
+19	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	15	obl	_	_
+20-21	ⲛⲭⲁⲛⲁⲁⲛ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ⲭⲁⲛⲁⲁⲛ	ⲭⲁⲛⲁⲁⲛ	PROPN	NPROP	Foreign=Yes	19	nmod	_	Entity=(place-Canaan)place)|OrigLang=he
+22-24	ⲉⲣⲉⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+22	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	24	mark	_	_
+23	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	24	det	_	Entity=(person
+24	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	15	nsubj	_	_
+25-27	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+25	ⲙ	ⲛ	ADP	PREP	_	27	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+27	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	24	nmod	_	Orig=ⲓⲏⲗ|OrigLang=he
+28-29	ⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ⲁⲃⲱⲕ	ⲁⲃⲱⲕ	NOUN	N	_	27	nmod	_	Entity=(abstract)place-Kingdom_of_Israel_%28united_monarchy%29)
+30	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	24	advmod	_	Entity=person)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0041
+# text_en = then they departed from mount Or, and encamped in Selmona.
+# text = ⲁⲩⲱ ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲱⲣ ⲡⲧⲟⲟⲩ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲥⲉⲗⲙⲱⲛⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+6-7	ϩⲛⲱⲣ	_	_	_	_	_	_	_	_
+6	ϩⲛ	ϩⲛ	ADP	PREP	_	5	fixed	_	_
+7	ⲱⲣ	ⲱⲣ	PROPN	NPROP	_	4	obl	_	Entity=(person-Hur_%28Bible%29
+8-9	ⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	7	appos	_	Entity=person-Hur_%28Bible%29)
+10-12	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+13	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+14-15	ⲉⲥⲉⲗⲙⲱⲛⲁ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	PART	PREP	_	15	mark	_	_
+15	ⲥⲉⲗⲙⲱⲛⲁ	ⲥⲉⲗⲙⲱⲛⲁ	VERB	V	VerbForm=Inf	12	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0042
+# text_en = And they departed from Selmona, and encamped in Phino.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲥⲉⲗⲙⲱⲛⲁ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲡϩⲓⲛⲱ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲥⲉⲗⲙⲱⲛⲁ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲥⲉⲗⲙⲱⲛⲁ	ⲥⲉⲗⲙⲱⲛⲁ	PROPN	NPROP	_	3	obl	_	Entity=(place-Zalmonah)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ⲉⲡϩⲓⲛⲱ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place|Orig=ⲫ
+13	ϩⲓⲛⲱ	ϩⲓⲛⲱ	NOUN	N	_	9	obl	_	Entity=place)|Orig=ⲓⲛⲱ
+
+# sent_id = sahidic_ot-04_Numbers_33_s0043
+# text_en = And they departed from Phino, and encamped in Oboth.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲡϩⲓⲛⲱ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲍⲱⲃⲱⲑ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲡϩⲓⲛⲱ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(event|Orig=ⲫ
+7	ϩⲓⲛⲱ	ϩⲓⲛⲱ	NOUN	N	_	3	obl	_	Entity=event)|Orig=ⲓⲛⲱ
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲉⲍⲱⲃⲱⲑ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	_
+13	ⲍⲱⲃⲱⲑ	ⲍⲱⲃⲱⲑ	VERB	V	VerbForm=Inf	10	xcomp	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0044
+# text_en = And they departed from Oboth, and encamped in Gai, on the other side Jordan on the borders of Moab.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲥⲱⲃⲱⲑ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲅⲁⲓ ⲉⲡⲉⲕⲣⲟ ⲉϫⲛⲛⲧⲟϣ ⲙⲙⲱⲁⲃ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲥⲱⲃⲱⲑ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲥⲱⲃⲱⲑ	ⲥⲱⲃⲱⲑ	PROPN	NPROP	_	3	obl	_	Entity=(person)
+7-9	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-12	ⲉⲅⲁⲓ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	PART	PREP	_	12	mark	_	_
+12	ⲅⲁⲓ	ⲅⲁⲓ	VERB	V	VerbForm=Inf	9	xcomp	_	_
+13-15	ⲉⲡⲉⲕⲣⲟ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
+14	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(place
+15	ⲕⲣⲟ	ⲕⲣⲟ	NOUN	N	_	12	obl	_	Entity=place)
+16-18	ⲉϫⲛⲛⲧⲟϣ	_	_	_	_	_	_	_	_
+16	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	18	case	_	_
+17	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	18	det	_	Entity=(abstract
+18	ⲧⲟϣ	ⲧⲟϣ	NOUN	N	_	12	obl	_	_
+19-20	ⲙⲙⲱⲁⲃ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲙⲱⲁⲃ	ⲙⲱⲁⲃ	PROPN	NPROP	Foreign=Yes	18	nmod	_	Entity=(place-Moab)abstract)|OrigLang=he
+
+# sent_id = sahidic_ot-04_Numbers_33_s0045
+# text_en = And they departed from Gai, and encamped in Daebon Gad.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲅⲁⲓ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲇⲉⲃⲱⲛ ⲅⲁⲇ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-7	ϩⲛⲅⲁⲓ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲅ	ⲅ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	7	det	_	Entity=(abstract
+7	ⲁⲓ	ⲁⲓ	NOUN	N	_	3	obl	_	Entity=abstract)
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲉⲇⲉⲃⲱⲛ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+13	ⲇⲉⲃⲱⲛ	ⲇⲉⲃⲱⲛ	PROPN	NPROP	_	10	obl	_	Entity=(person
+14	ⲅⲁⲇ	ⲅⲁⲇ	PROPN	NPROP	_	13	appos	_	Entity=person)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0046
+# text_en = And they departed from Daebon Gad, and encamped in Gelmon Deblathaim.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲇⲉⲃⲱⲛ ⲅⲁⲇ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉⲅⲉⲗⲙⲱⲛ ⲛⲇⲉⲃⲗⲁⲑⲁⲓⲙ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-6	ϩⲛⲇⲉⲃⲱⲛ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲇⲉⲃⲱⲛ	ⲇⲉⲃⲱⲛ	DET	ART	_	7	det	_	Entity=(person-Gad_%28son_of_Jacob%29
+7	ⲅⲁⲇ	ⲅⲁⲇ	PROPN	NPROP	_	3	obl	_	Entity=person-Gad_%28son_of_Jacob%29)
+8-10	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-13	ⲉⲅⲉⲗⲙⲱⲛ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+13	ⲅⲉⲗⲙⲱⲛ	ⲅⲉⲗⲙⲱⲛ	PROPN	NPROP	_	10	obl	_	Entity=(place
+14-15	ⲛⲇⲉⲃⲗⲁⲑⲁⲓⲙ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲇⲉⲃⲗⲁⲑⲁⲓⲙ	ⲇⲉⲃⲗⲁⲑⲁⲓⲙ	PROPN	NPROP	_	13	nmod	_	Entity=(person)place)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0047
+# text_en = And they departed from Gelmon Deblathaim, and encamped on the mountains of Abarim, over against Nabau.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲅⲉⲗⲙⲱⲛ ⲛⲇⲉⲑⲗⲁⲑⲁⲓⲙ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲛⲧⲟⲩⲉⲓⲏ ⲛⲁⲃⲁⲣⲓⲙ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛⲛⲁⲃⲁⲩ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+5-6	ϩⲛⲅⲉⲗⲙⲱⲛ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲅⲉⲗⲙⲱⲛ	ⲅⲉⲗⲙⲱⲛ	PROPN	NPROP	_	3	obl	_	Entity=(person
+7-8	ⲛⲇⲉⲑⲗⲁⲑⲁⲓⲙ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲇⲉⲑⲗⲁⲑⲁⲓⲙ	ⲇⲉⲑⲗⲁⲑⲁⲓⲙ	PROPN	NPROP	_	6	nmod	_	Entity=(person)person)
+9-11	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+12	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	11	advmod	_	_
+13-15	ⲉϫⲛⲛⲧⲟⲩⲉⲓⲏ	_	_	_	_	_	_	_	_
+13	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	15	case	_	_
+14	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	det	_	Entity=(place
+15	ⲧⲟⲩⲉⲓⲏ	ⲧⲟⲟⲩ	NOUN	N	_	11	obl	_	Entity=place)
+16	ⲛⲁⲃⲁⲣⲓⲙ	ⲛⲁⲃⲁⲣⲓⲙ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+17-19	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(abstract
+19	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	16	obl	_	_
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	19	advmod	_	_
+21-22	ⲛⲛⲁⲃⲁⲩ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ⲛⲁⲃⲁⲩ	ⲛⲁⲃⲁⲩ	NOUN	N	_	19	nmod	_	Entity=(abstract)abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0048
+# text_en = And they departed from the mountains of Abarim, and encamped on the west of Moab, at Jordan by Jericho.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲛⲧⲟⲩⲉⲓⲏ ⲛⲛⲁⲃⲁⲣⲓⲙ ⲁⲩⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲙⲙⲁⲛϩⲱⲧⲡ ⲙⲙⲱⲁⲃ ϩⲓϫⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛϩⲓⲉⲣⲓⲭⲱ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲛⲛⲧⲟⲩⲉⲓⲏ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(place
+7	ⲧⲟⲩⲉⲓⲏ	ⲧⲟⲟⲩ	NOUN	N	_	3	obl	_	_
+8-9	ⲛⲛⲁⲃⲁⲣⲓⲙ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲛⲁⲃⲁⲣⲓⲙ	ⲛⲁⲃⲁⲣⲓⲙ	PROPN	NPROP	_	7	nmod	_	Entity=(person)place)
+10-12	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+13	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	12	advmod	_	_
+14-17	ⲉϫⲛⲙⲙⲁⲛϩⲱⲧⲡ	_	_	_	_	_	_	_	_
+14	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	16	case	_	_
+15	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	Entity=(person
+16	ⲙⲁⲛ	ⲙⲁⲛ	NOUN	N	_	12	obl	_	Entity=person)
+17	ϩⲱⲧⲡ	ϩⲱⲧⲡ	VERB	V	VerbForm=Fin	12	parataxis	_	_
+18-19	ⲙⲙⲱⲁⲃ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ⲙⲱⲁⲃ	ⲙⲱⲁⲃ	PROPN	NPROP	Foreign=Yes	17	obj	_	Entity=(place-Moab)|OrigLang=he
+20-22	ϩⲓϫⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ	_	_	_	_	_	_	_	_
+20	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	22	case	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(place-Jordan_River
+22	ⲓⲟⲣⲇⲁⲛⲏⲥ	ⲓⲟⲣⲇⲁⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	17	obl	_	Entity=place-Jordan_River)|OrigLang=he
+23-25	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+23	ⲙ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(abstract
+25	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	17	obl	_	_
+26	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	25	advmod	_	_
+27-28	ⲛϩⲓⲉⲣⲓⲭⲱ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+28	ϩⲓⲉⲣⲓⲭⲱ	ϩⲓⲉⲣⲓⲭⲱ	NOUN	N	Foreign=Yes	25	nmod	_	Entity=(place)abstract)|OrigLang=he
+
+# sent_id = sahidic_ot-04_Numbers_33_s0049
+# text_en = And they encamped by Jordan between Aesimoth, as far as Belsa to the west of Moab.
+# text = ⲁⲩⲱ ⲁⲩⲟⲩⲉϩⲛⲁⲩ ϩⲁⲧⲙ ⲡⲓⲟⲣⲇⲁⲛⲏⲥ ⲛⲧⲙⲏⲧⲉ ⲛⲓⲉⲥⲓⲙⲱⲑ ϣⲁϩⲣⲁⲓ ⲉⲃⲉⲗⲥⲁ ⲉⲧϩⲁⲧⲛ ⲙⲙⲁⲡϩⲱⲧⲡ ⲙⲙⲱⲁⲃ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲁⲩⲟⲩⲉϩⲛⲁⲩ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲟⲩⲉϩⲛⲁⲩ	ⲟⲩⲉϩⲛⲁⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ϩⲁⲧⲙ	ϩⲁⲧⲛ	ADP	PREP	_	7	case	_	_
+6-7	ⲡⲓⲟⲣⲇⲁⲛⲏⲥ	_	_	_	_	_	_	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place-Jordan_River
+7	ⲓⲟⲣⲇⲁⲛⲏⲥ	ⲓⲟⲣⲇⲁⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	4	obl	_	OrigLang=he
+8-10	ⲛⲧⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Entity=(place
+10	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	7	nmod	_	Entity=place)place-Jordan_River)
+11	ⲛⲓⲉⲥⲓⲙⲱⲑ	ⲛⲓⲉⲥⲓⲙⲱⲑ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+12	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	11	advmod	_	_
+13-15	ⲉⲃⲉⲗⲥⲁ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉ	PART	PREP	_	14	mark	_	_
+14	ⲃⲉⲗ	ⲃⲱⲗ	VERB	V	VerbForm=Inf	11	xcomp	_	_
+15	ⲥⲁ	ⲥⲁ	NOUN	N	_	14	obj	_	Entity=(place)
+16-18	ⲉⲧϩⲁⲧⲛ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉ	ADP	PREP	_	20	case	_	_
+17	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Entity=(place
+18	ϩⲁⲧⲛ	ϩⲁⲧⲛ	ADP	PREP	_	20	case	_	_
+19-22	ⲙⲙⲁⲡϩⲱⲧⲡ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
+20	ⲙⲁ	ⲙⲁ	NOUN	N	_	14	obl	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	ϩⲱⲧⲡ	ϩⲱⲧⲡ	NOUN	N	_	20	appos	_	_
+23-24	ⲙⲙⲱⲁⲃ	_	_	_	_	_	_	_	_
+23	ⲙ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲙⲱⲁⲃ	ⲙⲱⲁⲃ	PROPN	NPROP	Foreign=Yes	22	nmod	_	Entity=(place-Moab)place)|OrigLang=he
+
+# sent_id = sahidic_ot-04_Numbers_33_s0050
+# text_en = And the Lord spoke to Moses at the west of Moab by Jordan at Jericho, saying,
+# text = ⲁⲩⲱ ⲁⲡϫⲟⲉⲓⲥ ϣⲁϫⲉ ⲛⲛⲁϩⲣⲙⲙⲱⲩⲥⲏⲥ ϩⲓϫⲛⲙⲙⲁⲛϩⲱⲧⲡ ⲙⲙⲱⲁⲃ ϩⲁⲧⲙ ⲡⲓⲟⲣⲇⲁⲛⲏⲥ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛϩⲓⲉⲣⲓⲭⲱ ⲉϥϫⲱ ⲙⲙⲟⲥ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
+2-4	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Entity=(person
+4	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	5	nsubj	_	Entity=person)
+5	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6-7	ⲛⲛⲁϩⲣⲙⲙⲱⲩⲥⲏⲥ	_	_	_	_	_	_	_	_
+6	ⲛⲛⲁϩⲣⲙ	ⲛⲛⲁϩⲣⲛ	ADP	PREP	_	7	case	_	_
+7	ⲙⲱⲩⲥⲏⲥ	ⲙⲱⲩⲥⲏⲥ	PROPN	NPROP	Foreign=Yes	5	obl	_	Entity=(person-Moses)|OrigLang=he
+8-11	ϩⲓϫⲛⲙⲙⲁⲛϩⲱⲧⲡ	_	_	_	_	_	_	_	_
+8	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	10	case	_	_
+9	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	det	_	Entity=(person
+10	ⲙⲁⲛ	ⲙⲁⲛ	NOUN	N	_	5	obl	_	Entity=person)
+11	ϩⲱⲧⲡ	ϩⲱⲧⲡ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+12-13	ⲙⲙⲱⲁⲃ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲙⲱⲁⲃ	ⲙⲱⲁⲃ	PROPN	NPROP	Foreign=Yes	11	obj	_	Entity=(place-Moab)|OrigLang=he
+14	ϩⲁⲧⲙ	ϩⲁⲧⲛ	ADP	PREP	_	16	case	_	_
+15-16	ⲡⲓⲟⲣⲇⲁⲛⲏⲥ	_	_	_	_	_	_	_	_
+15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Entity=(place-Jordan_River
+16	ⲓⲟⲣⲇⲁⲛⲏⲥ	ⲓⲟⲣⲇⲁⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	11	obl	_	Entity=place-Jordan_River)|OrigLang=he
+17-19	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(abstract
+19	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	11	obl	_	_
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	19	advmod	_	_
+21-22	ⲛϩⲓⲉⲣⲓⲭⲱ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ϩⲓⲉⲣⲓⲭⲱ	ϩⲓⲉⲣⲓⲭⲱ	NOUN	N	Foreign=Yes	19	nmod	_	Entity=(place)abstract)|OrigLang=he
+23-25	ⲉϥϫⲱ	_	_	_	_	_	_	_	_
+23	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	25	mark	_	_
+24	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+25	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	11	advcl	_	_
+26-27	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+26	ⲙⲙⲟ	ⲛ	ADP	PREP	_	27	case	_	_
+27	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0051
+# text_en = Speak to the children of Israel, and thou shalt say to them, Ye are to pass over Jordan into the land of Chanaan.
+# text = ϫⲉϣⲁϫⲉ ⲙⲛⲛϣⲏⲣⲉ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲛⲅϫⲟⲟⲥ ⲛⲁⲩ ϫⲉⲛⲧⲱⲧⲛ ⲧⲉⲧⲛⲁϫⲓⲟⲟⲣ ⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ ⲉϩⲟⲩⲛ ⲉⲡⲕⲁϩ ⲛⲭⲁⲛⲁⲁⲛ
+1-2	ϫⲉϣⲁϫⲉ	_	_	_	_	_	_	_	_
+1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	2	mark	_	_
+2	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+3-4	ⲙⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+3	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	case	_	_
+4	ⲛϣⲏⲣⲉ	ⲛϣⲏⲣⲉ	NOUN	N	_	2	obl	_	Entity=(person
+5-7	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+7	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	4	nmod	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)person)|Orig=ⲓⲏⲗ|OrigLang=he
+8-11	ⲛⲅϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	10	aux	_	_
+9	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+10	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	2	advcl	_	_
+11	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12-13	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+12	ⲛⲁ	ⲛⲁ	ADP	PREP	_	13	case	_	_
+13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obl	_	_
+14-15	ϫⲉⲛⲧⲱⲧⲛ	_	_	_	_	_	_	_	_
+14	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	15	mark	_	_
+15	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	10	ccomp	_	_
+16-19	ⲧⲉⲧⲛⲁϫⲓⲟⲟⲣ	_	_	_	_	_	_	_	_
+16	ⲧ	ⲧ	PRON	COP	Gender=Fem|Number=Sing	15	cop	_	_
+17	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
+18	ⲛⲁ	ⲛⲁ	AUX	FUT	_	19	aux	_	_
+19	ϫⲓⲟⲟⲣ	ϫⲓⲟⲟⲣ	VERB	V	VerbForm=Fin	15	csubj	_	_
+20-22	ⲙⲡⲓⲟⲣⲇⲁⲛⲏⲥ	_	_	_	_	_	_	_	_
+20	ⲙ	ⲛ	ADP	PREP	_	22	case	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(place-Jordan_River
+22	ⲓⲟⲣⲇⲁⲛⲏⲥ	ⲓⲟⲣⲇⲁⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	19	obj	_	Entity=place-Jordan_River)|OrigLang=he
+23	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	19	advmod	_	_
+24-26	ⲉⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	26	case	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Entity=(place
+26	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	19	obl	_	_
+27-28	ⲛⲭⲁⲛⲁⲁⲛ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+28	ⲭⲁⲛⲁⲁⲛ	ⲭⲁⲛⲁⲁⲛ	PROPN	NPROP	Foreign=Yes	26	nmod	_	Entity=(place-Canaan)place)|OrigLang=he
+
+# sent_id = sahidic_ot-04_Numbers_33_s0052
+# text_en = And ye shall destroy all that dwell in the land before your face, and ye shall abolish their high places, and all their molten images ye shall destroy, and ye shall demolish all their pillars.
+# text = ⲁⲩⲱ ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟ ⲛⲛⲉⲧⲟⲩⲏϩ ⲧⲏⲣⲟⲩ ϩⲙⲡⲕⲁϩ ⲙⲡⲉⲧⲛⲙⲧⲟ ⲉⲃⲟⲗ ⲉⲧⲉⲧⲛⲉϥⲱⲧⲉ ⲉⲃⲟⲗ ⲛⲛⲉⲩⲛⲁϩⲧⲉ ⲛⲉⲩⲉⲓⲇⲱⲗⲟⲛ ⲛⲟⲩⲱⲧϩ ⲧⲏⲣⲟⲩ ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟ ⲙⲙⲟⲟⲩ ⲛⲉⲩⲥⲧⲏⲗⲏ ⲧⲏⲣⲟⲩ ⲉⲧⲉⲧⲛⲉϥⲓⲧⲟⲩ ⲙⲙⲁⲩ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2-3	ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟ	_	_	_	_	_	_	_	_
+2	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+4-7	ⲛⲛⲉⲧⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	obl	_	Entity=(person
+6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+7	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	5	acl	_	_
+8-9	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+8	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	5	advmod	_	_
+9	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	8	det	_	_
+10-12	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+10	ϩⲙ	ϩⲛ	ADP	PREP	_	12	case	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(place
+12	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	7	obl	_	Entity=place)person)
+13-15	ⲙⲡⲉⲧⲛⲙⲧⲟ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	15	det	_	Entity=(abstract
+15	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	18	obj	_	_
+16	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	15	advmod	_	Entity=abstract)
+17-18	ⲉⲧⲉⲧⲛⲉϥⲱⲧⲉ	_	_	_	_	_	_	_	_
+17	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_
+18	ϥⲱⲧⲉ	ϥⲱⲧⲉ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	18	advmod	_	_
+20-22	ⲛⲛⲉⲩⲛⲁϩⲧⲉ	_	_	_	_	_	_	_	_
+20	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	Polarity=Neg	22	aux	_	_
+21	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
+22	ⲛⲁϩⲧⲉ	ⲛⲁϩⲧⲉ	VERB	V	VerbForm=Fin	18	parataxis	_	_
+23-24	ⲛⲉⲩⲉⲓⲇⲱⲗⲟⲛ	_	_	_	_	_	_	_	_
+23	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	Entity=(object
+24	ⲉⲓⲇⲱⲗⲟⲛ	ⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	Foreign=Yes	22	obj	_	OrigLang=grc
+25-26	ⲛⲟⲩⲱⲧϩ	_	_	_	_	_	_	_	_
+25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+26	ⲟⲩⲱⲧϩ	ⲟⲩⲱⲧϩ	NOUN	N	_	24	nmod	_	Entity=(abstract
+27-28	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+27	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	34	advmod	_	_
+28	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	35	det	_	Entity=(abstract)abstract)
+29-30	ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟ	_	_	_	_	_	_	_	_
+29	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	30	nsubj	_	_
+30	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	22	parataxis	_	_
+31-32	ⲙⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+31	ⲙⲙⲟ	ⲛ	ADP	PREP	_	32	case	_	_
+32	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	30	obj	_	_
+33-34	ⲛⲉⲩⲥⲧⲏⲗⲏ	_	_	_	_	_	_	_	_
+33	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
+34	ⲥⲧⲏⲗⲏ	ⲥⲧⲏⲗⲏ	NOUN	N	Foreign=Yes	38	dislocated	_	OrigLang=grc
+35-36	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+35	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	34	advmod	_	_
+36	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	35	det	_	Entity=object)
+37-39	ⲉⲧⲉⲧⲛⲉϥⲓⲧⲟⲩ	_	_	_	_	_	_	_	_
+37	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	38	nsubj	_	_
+38	ϥⲓⲧ	ϥⲓ	VERB	V	VerbForm=Fin	30	parataxis	_	_
+39	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	38	obj	_	_
+40	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	38	advmod	_	_
+
+# sent_id = sahidic_ot-04_Numbers_33_s0053
+# text_en = And ye shall destroy all the inhabitants of the land, and ye shall dwell in it, for I have given their land to you for an inheritance.
+# text = ⲁⲩⲱ ⲛⲉⲧⲟⲩⲏϩ ⲧⲏⲣⲟⲩ ϩⲙⲡⲕⲁϩ ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟⲟⲩ ⲁⲩⲱ ⲛⲧⲉⲧⲛⲟⲩⲱϩ ϩⲣⲁⲓ ⲛϩⲏⲧϥ ⲁⲓϯ ⲅⲁⲣ ⲛⲏⲧⲛ ⲙⲡⲉⲩⲕⲁϩ ϩⲛⲟⲩⲕⲗⲏⲣⲟⲥ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
+2-4	ⲛⲉⲧⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	11	dislocated	_	Entity=(person
+3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
+4	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	2	acl	_	_
+5-6	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+5	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	2	advmod	_	_
+6	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	det	_	_
+7-9	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+7	ϩⲙ	ϩⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(place
+9	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	4	obl	_	Entity=place)person)
+10-12	ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟⲟⲩ	_	_	_	_	_	_	_	_
+10	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
+11	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
+14-16	ⲛⲧⲉⲧⲛⲟⲩⲱϩ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	16	aux	_	_
+15	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
+16	ⲟⲩⲱϩ	ⲟⲩⲱϩ	VERB	V	VerbForm=Fin	11	conj	_	_
+17	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	16	advmod	_	_
+18-19	ⲛϩⲏⲧϥ	_	_	_	_	_	_	_	_
+18	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	19	case	_	_
+19	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+20-22	ⲁⲓϯ	_	_	_	_	_	_	_	_
+20	ⲁ	ⲁ	AUX	APST	_	22	aux	_	_
+21	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+22	ϯ	ϯ	VERB	V	VerbForm=Fin	11	conj	_	_
+23	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	22	advmod	_	OrigLang=grc
+24-25	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
+24	ⲛⲏ	ⲛⲁ	ADP	PREP	_	25	case	_	_
+25	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	22	obl	_	_
+26-28	ⲙⲡⲉⲩⲕⲁϩ	_	_	_	_	_	_	_	_
+26	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	28	det	_	Entity=(place
+28	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	22	obj	_	Entity=place)
+29-31	ϩⲛⲟⲩⲕⲗⲏⲣⲟⲥ	_	_	_	_	_	_	_	_
+29	ϩⲛ	ϩⲛ	ADP	PREP	_	31	case	_	_
+30	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	31	det	_	Entity=(abstract
+31	ⲕⲗⲏⲣⲟⲥ	ⲕⲗⲏⲣⲟⲥ	NOUN	N	Foreign=Yes	22	obl	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-04_Numbers_33_s0054
+# text_en = And ye shall inherit their land according to your tribes; to the greater number ye shall give the larger possession, and to the smaller ye shall give the less possession; to whatsoever part a man's name shall go forth by lot, there shall be his property: ye shall inherit according to the tribes of your families.
+# text = ⲉⲧⲉⲧⲛⲉⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲙⲡⲉⲩⲕⲁϩ ϩⲛⲟⲩⲕⲗⲏⲣⲟⲥ ⲕⲁⲧⲁⲛⲧⲉⲧⲛⲫⲩⲗⲟⲟⲩⲉ ⲛⲉⲧⲟϣ ⲉⲧⲉⲧⲛⲉⲧⲁϣⲟ ⲛⲁⲩ ⲙⲡⲉⲩⲙⲁⲛⲁⲙⲁϩⲧⲉ ⲁⲩⲱ ⲛⲉⲧⲥⲟⲃⲕ ⲉⲧⲉⲧⲛⲉⲥⲃⲕⲟ ⲛⲁⲩ ⲛⲡⲉⲩⲙⲁⲛⲁⲙⲁϩⲧⲉ ⲡⲙⲁ ⲉⲧⲉⲣⲉⲡⲉϥⲣⲁⲛ ⲛⲁⲃⲱⲕ ⲉⲃⲟⲗ ⲉⲣⲟϥ ⲉϥⲛⲁⲣ ⲡⲱϥ ⲉⲧⲉⲧⲛⲁⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲅⲁⲣ ⲕⲁⲧⲁⲛⲉⲧⲛⲫⲩⲗⲟⲟⲩⲉ ⲛⲛⲉⲧⲛⲡⲁⲧⲣⲓⲁ
+1-2	ⲉⲧⲉⲧⲛⲉⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	_	_	_	_	_	_	_	_
+1	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲓ|OrigLang=grc
+3-5	ⲙⲡⲉⲩⲕⲁϩ	_	_	_	_	_	_	_	_
+3	ⲙ	ⲛ	ADP	PREP	_	5	case	_	_
+4	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	Entity=(place
+5	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	2	obj	_	Entity=place)
+6-8	ϩⲛⲟⲩⲕⲗⲏⲣⲟⲥ	_	_	_	_	_	_	_	_
+6	ϩⲛ	ϩⲛ	ADP	PREP	_	8	case	_	_
+7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(abstract
+8	ⲕⲗⲏⲣⲟⲥ	ⲕⲗⲏⲣⲟⲥ	NOUN	N	Foreign=Yes	2	obl	_	Entity=abstract)|OrigLang=grc
+9-12	ⲕⲁⲧⲁⲛⲧⲉⲧⲛⲫⲩⲗⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+9	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	10	case	_	OrigLang=grc
+10	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	2	obl	_	_
+11	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	Orig=ⲉⲧⲛ
+12	ⲫⲩⲗⲟⲟⲩⲉ	ⲫⲩⲗⲟⲟⲩⲉ	VERB	V	VerbForm=Fin	2	parataxis	_	_
+13-15	ⲛⲉⲧⲟϣ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	obj	_	Entity=(person
+14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	15	mark	_	_
+15	ⲟϣ	ⲱϣ	VERB	VSTAT	VerbForm=Fin	13	acl	_	Entity=person)
+16-17	ⲉⲧⲉⲧⲛⲉⲧⲁϣⲟ	_	_	_	_	_	_	_	_
+16	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	17	nsubj	_	_
+17	ⲧⲁϣⲟ	ⲧⲁϣⲟ	VERB	V	VerbForm=Fin	12	parataxis	_	_
+18-19	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+18	ⲛⲁ	ⲛⲁ	ADP	PREP	_	19	case	_	_
+19	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	obl	_	_
+20-22	ⲙⲡⲉⲩⲙⲁⲛⲁⲙⲁϩⲧⲉ	_	_	_	_	_	_	_	_
+20	ⲙ	ⲛ	ADP	PREP	_	22	case	_	_
+21	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	Entity=(object
+22	ⲙⲁⲛⲁⲙⲁϩⲧⲉ	ⲙⲁⲛⲁⲙⲁϩⲧⲉ	NOUN	N	_	17	obj	_	Entity=object)
+23	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	27	cc	_	_
+24-26	ⲛⲉⲧⲥⲟⲃⲕ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	27	dislocated	_	Entity=(person
+25	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	26	mark	_	_
+26	ⲥⲟⲃⲕ	ⲥⲟⲃⲕ	VERB	VSTAT	VerbForm=Fin	24	acl	_	Entity=person)
+27	ⲉⲧⲉⲧⲛⲉⲥⲃⲕⲟ	ⲉⲧⲉⲧⲛⲉⲥⲃⲕⲟ	VERB	V	VerbForm=Fin	17	conj	_	_
+28-29	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+28	ⲛⲁ	ⲛⲁ	ADP	PREP	_	29	case	_	_
+29	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	27	obl	_	_
+30-32	ⲛⲡⲉⲩⲙⲁⲛⲁⲙⲁϩⲧⲉ	_	_	_	_	_	_	_	_
+30	ⲛ	ⲛ	ADP	PREP	_	32	case	_	_
+31	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	32	det	_	Entity=(object
+32	ⲙⲁⲛⲁⲙⲁϩⲧⲉ	ⲙⲁⲛⲁⲙⲁϩⲧⲉ	NOUN	N	_	27	obj	_	_
+33-34	ⲡⲙⲁ	_	_	_	_	_	_	_	_
+33	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	ⲙⲁ	ⲙⲁ	NOUN	N	_	32	appos	_	Entity=object)
+35-37	ⲉⲧⲉⲣⲉⲡⲉϥⲣⲁⲛ	_	_	_	_	_	_	_	_
+35	ⲉⲧⲉⲣⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	40	mark	_	_
+36	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	37	det	_	Entity=(abstract
+37	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	27	nsubj	_	_
+38-39	ⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
+38	ⲛ	ⲛ	ADP	PREP	_	39	case	_	_
+39	ⲁⲃⲱⲕ	ⲁⲃⲱⲕ	NOUN	N	_	37	nmod	_	Entity=(abstract)abstract)
+40	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	39	case	_	_
+41-42	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+41	ⲉⲣⲟ	ⲉ	ADP	PREP	_	40	fixed	_	_
+42	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nmod	_	_
+43-46	ⲉϥⲛⲁⲣ	_	_	_	_	_	_	_	_
+43	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	46	mark	_	_
+44	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	nsubj	_	_
+45	ⲛⲁ	ⲛⲁ	AUX	FUT	_	46	aux	_	_
+46	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	27	advcl	_	_
+47	ⲡⲱϥ	ⲡⲱϥ	ADV	ADV	_	46	advmod	_	_
+48-52	ⲉⲧⲉⲧⲛⲁⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	_	_	_	_	_	_	_	_
+48	ⲉ	ⲉ	ADP	PREP	_	49	case	_	_
+49	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	obl	_	Entity=(abstract
+50	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	52	mark	_	_
+51	ⲛⲁ	ⲛⲁ	AUX	FUT	_	52	aux	_	_
+52	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	49	acl	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲓ|OrigLang=grc
+53	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	46	advmod	_	OrigLang=grc
+54-56	ⲕⲁⲧⲁⲛⲉⲧⲛⲫⲩⲗⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+54	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	56	case	_	OrigLang=grc
+55	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	56	det	_	Entity=(abstract
+56	ⲫⲩⲗⲟⲟⲩⲉ	ⲫⲩⲗⲟⲟⲩⲉ	NOUN	N	_	52	obl	_	_
+57-59	ⲛⲛⲉⲧⲛⲡⲁⲧⲣⲓⲁ	_	_	_	_	_	_	_	_
+57	ⲛ	ⲛ	ADP	PREP	_	59	case	_	_
+58	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	59	det	_	Entity=(abstract
+59	ⲡⲁⲧⲣⲓⲁ	ⲡⲁⲧⲣⲓⲁ	NOUN	N	Foreign=Yes	56	nmod	_	Entity=abstract)abstract)abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-04_Numbers_33_s0055
+# text_en = But if ye will not destroy the dwellers in the land from before you, then it shall come to pass that whomsoever of them ye shall leave shall be thorns in your eyes, and darts in your sides, and they shall be enemies to you on the land on which ye shall dwell;
+# text = ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟ ⲇⲉ ⲛⲛⲉⲧⲟⲩⲏϩ ϩⲣⲁⲓ ϩⲓϫⲙⲡⲕⲁϩ ⲙⲡⲉⲧⲛⲙⲧⲟ ⲉⲃⲟⲗ ⲥⲉⲛⲁϣⲱⲡⲉ ⲛϭⲓⲛⲉⲧⲉⲧⲛⲁϣⲟϫⲡⲟⲩ ⲉⲃⲟⲗ ⲛϩⲏⲧⲟⲩ ⲛⲥⲣⲃⲛⲛⲉ ϩⲣⲁⲓ ϩⲛⲛⲉⲧⲛⲃⲁⲗ ⲁⲩⲱ ⲛⲥⲟⲟⲧⲉ ϩⲣⲁⲓ ϩⲛⲛⲧⲉⲧⲛⲥⲡⲓⲣⲟⲟⲩⲉ ⲛⲥⲉⲣϫⲁϫⲉ ϩⲣⲁⲓ ϩⲓϫⲙⲡⲕⲁϩ ⲡⲁⲓ ⲛⲧⲱⲧⲛ ⲉⲧⲉⲧⲛⲁⲟⲩⲱϩ ϩⲓϫⲱϥ
+1-2	ⲉⲧⲉⲧⲛⲉⲧⲁⲕⲟ	_	_	_	_	_	_	_	_
+1	ⲉⲧⲉⲧⲛⲉ	ⲉⲣⲉ_ⲛⲧⲱⲧⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	2	advmod	_	OrigLang=grc
+4-7	ⲛⲛⲉⲧⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	obl	_	Entity=(person
+6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+7	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	5	acl	_	_
+8	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	7	advmod	_	_
+9-11	ϩⲓϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+9	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(place
+11	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	7	obl	_	Entity=place)
+12-14	ⲙⲡⲉⲧⲛⲙⲧⲟ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	14	det	_	Entity=(abstract
+14	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	7	obl	_	_
+15	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	14	advmod	_	Entity=abstract)person)
+16-18	ⲥⲉⲛⲁϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+16	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
+17	ⲛⲁ	ⲛⲁ	AUX	FUT	_	18	aux	_	_
+18	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	2	parataxis	_	_
+19-23	ⲛϭⲓⲛⲉⲧⲉⲧⲛⲁϣⲟϫⲡⲟⲩ	_	_	_	_	_	_	_	_
+19	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	21	case	_	_
+20	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+21	ⲉⲧⲉⲧⲛⲁ	ⲉⲧⲉⲧⲛⲁ	NOUN	N	_	18	dislocated	_	_
+22	ϣⲟϫⲡ	ϣⲟϫⲡ	VERB	V	VerbForm=Fin	18	parataxis	_	_
+23	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	obj	_	_
+24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	26	case	_	_
+25-26	ⲛϩⲏⲧⲟⲩ	_	_	_	_	_	_	_	_
+25	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	24	fixed	_	_
+26	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	obl	_	_
+27-28	ⲛⲥⲣⲃⲛⲛⲉ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+28	ⲥⲣⲃⲛⲛⲉ	ⲥⲣⲃⲛⲛⲉ	NOUN	N	_	26	nmod	_	Entity=(abstract
+29	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	28	advmod	_	_
+30-32	ϩⲛⲛⲉⲧⲛⲃⲁⲗ	_	_	_	_	_	_	_	_
+30	ϩⲛ	ϩⲛ	ADP	PREP	_	29	fixed	_	_
+31	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	32	det	_	Entity=(object
+32	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	28	nmod	_	Entity=object)
+33	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	35	cc	_	_
+34-35	ⲛⲥⲟⲟⲧⲉ	_	_	_	_	_	_	_	_
+34	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	35	det	_	Entity=(object
+35	ⲥⲟⲟⲧⲉ	ⲥⲟⲟⲧⲉ	NOUN	N	_	32	conj	_	_
+36	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	35	advmod	_	Entity=object)abstract)
+37-40	ϩⲛⲛⲧⲉⲧⲛⲥⲡⲓⲣⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+37	ϩⲛ	ϩⲛ	ADP	PREP	_	38	case	_	_
+38	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	40	obl	_	_
+39	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	40	nsubj	_	Orig=ⲉⲧⲛ
+40	ⲥⲡⲓⲣⲟⲟⲩⲉ	ⲥⲡⲓⲣⲟⲟⲩⲉ	VERB	V	VerbForm=Fin	22	advcl	_	_
+41-43	ⲛⲥⲉⲣϫⲁϫⲉ	_	_	_	_	_	_	_	_
+41	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	43	aux	_	_
+42	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	43	nsubj	_	_
+43	ⲣϫⲁϫⲉ	ⲣϫⲁϫⲉ	VERB	V	VerbForm=Fin	40	advcl	_	_
+44	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	43	advmod	_	_
+45-47	ϩⲓϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+45	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	47	case	_	_
+46	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	Entity=(place
+47	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	43	obl	_	_
+48	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	47	appos	_	Entity=place)
+49	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	48	vocative	_	_
+50-54	ⲉⲧⲉⲧⲛⲁⲟⲩⲱϩ	_	_	_	_	_	_	_	_
+50	ⲉ	ⲉ	ADP	PREP	_	51	case	_	_
+51	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	obl	_	Entity=(abstract
+52	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	54	mark	_	_
+53	ⲛⲁ	ⲛⲁ	AUX	FUT	_	54	aux	_	_
+54	ⲟⲩⲱϩ	ⲟⲩⲱϩ	VERB	V	VerbForm=Fin	51	acl	_	_
+55-56	ϩⲓϫⲱϥ	_	_	_	_	_	_	_	_
+55	ϩⲓϫⲱ	ϩⲓϫⲛ	ADP	PREP	_	56	case	_	_
+56	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	54	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-04_Numbers_33_s0056
+# text_en = and it shall come to pass that as I had determined to do to them, so I will do to you.
+# text = ⲁⲩⲱ ⲥⲛⲁϣⲱⲡⲉ ⲕⲁⲧⲁⲧϩⲉ ⲉⲛⲧⲁⲓⲥⲟⲩⲱⲛⲥ ⲉⲁⲁⲩ ⲙⲙⲟⲥ ϯⲛⲁⲁⲥ ⲛⲏⲧⲛ ⲡⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲥⲛⲁϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
+4	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲕⲁⲧⲁⲧϩⲉ	_	_	_	_	_	_	_	_
+5	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	7	case	_	OrigLang=grc
+6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Orig=ⲑ
+7	ϩⲉ	ϩⲉ	NOUN	N	_	4	obl	_	Orig=ⲉ
+8-12	ⲉⲛⲧⲁⲓⲥⲟⲩⲱⲛⲥ	_	_	_	_	_	_	_	_
+8	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	ⲥⲟⲩⲱⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	7	acl	_	_
+12	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13-15	ⲉⲁⲁⲩ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉ	PART	PREP	_	14	mark	_	_
+14	ⲁⲁ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Inf	11	xcomp	_	_
+15	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+16-17	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+16	ⲙⲙⲟ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
+18-20	ϯⲛⲁⲁⲥ	_	_	_	_	_	_	_	_
+18	ϯ	ϯ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲁⲁⲥ	ⲁⲁⲥ	NOUN	N	_	18	obj	_	Entity=(abstract)
+21-22	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
+21	ⲛⲏ	ⲛⲁ	ADP	PREP	_	22	case	_	_
+22	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	18	obl	_	_
+23	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	18	cop	_	_
+

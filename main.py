@@ -1,5 +1,7 @@
 import yadisk
 
+from coptic.coptic import coptic_processing
+
 
 def get_yadisk_client():
     global email, token
@@ -18,7 +20,7 @@ def ask_coptic_processing():
     ans = input('[Шаг 1] Вы хотите начать обработку коптского языка? [y/N]')
     if ans.lower() != 'y':
         return
-    # coptic_processing()
+    coptic_processing()
 
 
 def ask_sort_books(y):
@@ -61,12 +63,12 @@ token = 'invalid'
 
 if __name__ == '__main__':
     print('Добро пожаловать в Tree of knowledge')
-    client = get_yadisk_client()
+    # client = get_yadisk_client()
 
     ask_coptic_processing()
-    ask_sort_books(client)
-    ask_convert_pdf_eng_books_to_text(client)
-    ask_reduce_noise_and_preprocess(client)
-    ask_build_graphs()
-    ask_visualize_graphs()
+    # ask_sort_books(client)
+    # ask_convert_pdf_eng_books_to_text(client)
+    # ask_reduce_noise_and_preprocess(client)
+    # ask_build_graphs()
+    # ask_visualize_graphs()
     print('Выполнение программы завершено')

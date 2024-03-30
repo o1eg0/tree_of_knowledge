@@ -1,0 +1,296 @@
+# newdoc id = sahidic.ot:19_Psalms_141
+# sent_id = sahidic_ot-19_Psalms_141_s0001
+# text_en = ...
+# text = ⲧⲙⲛⲧⲣⲙⲛϩⲏⲧ ⲛⲇⲁⲩⲉⲓⲇ ⲡⲉϣⲗⲏⲗ ϩⲙⲡⲉϥϣⲱⲡⲉ ϩⲙⲡⲉⲙϩⲁⲁⲩⲉ
+1-2	ⲧⲙⲛⲧⲣⲙⲛϩⲏⲧ	_	_	_	_	_	_	_	_
+1	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ⲙⲛⲧⲣⲙⲛϩⲏⲧ	ⲙⲛⲧⲣⲙⲛϩⲏⲧ	NOUN	N	_	0	root	_	Morphs=ⲙⲛⲧ-ⲣⲙ-ⲛ-ϩⲏⲧ
+3-4	ⲛⲇⲁⲩⲉⲓⲇ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	_
+4	ⲇⲁⲩⲉⲓⲇ	ⲇⲁⲩⲉⲓⲇ	PROPN	NPROP	Foreign=Yes	2	nmod	_	Entity=(person-David)|OrigLang=he
+5-6	ⲡⲉϣⲗⲏⲗ	_	_	_	_	_	_	_	_
+5	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ϣⲗⲏⲗ	ϣⲗⲏⲗ	NOUN	N	_	2	appos	_	_
+7-9	ϩⲙⲡⲉϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+7	ϩⲙ	ϩⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+9	ϣⲱⲡⲉ	ϣⲱⲡⲉ	NOUN	N	_	2	nmod	_	_
+10-11	ϩⲙⲡⲉⲙϩⲁⲁⲩⲉ	_	_	_	_	_	_	_	_
+10	ϩⲙ	ϩⲛ	ADP	PREP	_	11	case	_	_
+11	ⲡⲉⲙϩⲁⲁⲩⲉ	ⲡⲉⲙϩⲁⲁⲩⲉ	NOUN	N	_	9	obl	_	Entity=(abstract)abstract)abstract)
+
+# sent_id = sahidic_ot-19_Psalms_141_s0002
+# text_en = I cried to the Lord with my voice; with my voice I made supplication to the Lord.
+# text = ⲁⲓϫⲓϣⲕⲁⲕ ⲉϩⲣⲁⲓ ϩⲛⲧⲁⲥⲙⲏ ⲉⲡϫⲟⲉⲓⲥ ⲁⲓⲥⲟⲡⲥ ϩⲛⲧⲁⲥⲙⲏ ⲉϩⲣⲁⲓ ⲉⲡϫⲟⲉⲓⲥ
+1-3	ⲁⲓϫⲓϣⲕⲁⲕ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ϫⲓϣⲕⲁⲕ	ϫⲓϣⲕⲁⲕ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ϫⲓ-ϣⲕⲁⲕ
+4	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	3	advmod	_	_
+5-7	ϩⲛⲧⲁⲥⲙⲏ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	7	case	_	_
+6	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	Entity=(abstract
+7	ⲥⲙⲏ	ⲥⲙⲏ	NOUN	N	_	3	obl	_	Entity=abstract)
+8-10	ⲉⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉ	ADP	PREP	_	10	case	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
+10	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	3	obl	_	Entity=person)
+11-13	ⲁⲓⲥⲟⲡⲥ	_	_	_	_	_	_	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+13	ⲥⲟⲡⲥ	ⲥⲟⲡⲥ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+14-16	ϩⲛⲧⲁⲥⲙⲏ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	16	case	_	_
+15	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	Entity=(abstract
+16	ⲥⲙⲏ	ⲥⲙⲏ	NOUN	N	_	13	obl	_	Entity=abstract)
+17	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	13	advmod	_	_
+18-20	ⲉⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+18	ⲉ	ⲉ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(person
+20	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	13	obl	_	Entity=person)
+
+# sent_id = sahidic_ot-19_Psalms_141_s0003
+# text_en = I will pour out before him my supplication: I will declare before him mine affliction.
+# text = ϯⲛⲁⲡⲱϩⲧ ⲙⲡⲁϣⲗⲏⲗ ⲙⲡⲉϥⲙⲧⲟ ⲉⲃⲟⲗ ϯⲛⲁϫⲱ ⲛⲧⲁⲑⲗⲓⲯⲓⲥ ⲙⲡⲉϥⲙⲧⲟ ⲉⲃⲟⲗ
+1-3	ϯⲛⲁⲡⲱϩⲧ	_	_	_	_	_	_	_	_
+1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ⲡⲱϩⲧ	ⲡⲱϩⲧ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲙⲡⲁϣⲗⲏⲗ	_	_	_	_	_	_	_	_
+4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	Entity=(abstract
+6	ϣⲗⲏⲗ	ϣⲗⲏⲗ	NOUN	N	_	3	obj	_	Entity=abstract)
+7-9	ⲙⲡⲉϥⲙⲧⲟ	_	_	_	_	_	_	_	_
+7	ⲙ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+9	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	3	obl	_	_
+10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	Entity=abstract)
+11-13	ϯⲛⲁϫⲱ	_	_	_	_	_	_	_	_
+11	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	_
+13	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+14-16	ⲛⲧⲁⲑⲗⲓⲯⲓⲥ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+15	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	Entity=(abstract
+16	ⲑⲗⲓⲯⲓⲥ	ⲑⲗⲓⲯⲓⲥ	NOUN	N	Foreign=Yes	13	obj	_	Entity=abstract)|OrigLang=grc
+17-19	ⲙⲡⲉϥⲙⲧⲟ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	Entity=(abstract
+19	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	13	obl	_	_
+20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	19	advmod	_	Entity=abstract)
+
+# sent_id = sahidic_ot-19_Psalms_141_s0004
+# text_en = When my spirit was fainting within me, then thou knewest my paths; in the very way wherein I was walking, they hid a snare for me.
+# text = ϩⲙⲡⲧⲣⲉⲡⲁⲡⲛⲉⲩⲙⲁ ⲱϫⲛ ⲛϩⲏⲧ ⲁⲩⲱ ⲛⲧⲟⲕ ⲁⲕⲉⲓⲙⲉ ⲉⲛⲁϩⲓⲟⲟⲩⲉ ⲁⲩϩⲱⲡ ⲉⲣⲟⲓ ⲛⲟⲩⲡⲁϣ ϩⲓⲧⲉϩⲓⲏ ⲉⲛⲧⲁⲓⲙⲟⲟϣⲉ ⲛϩⲏⲧⲥ
+1-5	ϩⲙⲡⲧⲣⲉⲡⲁⲡⲛⲉⲩⲙⲁ	_	_	_	_	_	_	_	_
+1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(event
+3	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
+4	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	Entity=(abstract
+5	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	Foreign=Yes	6	nsubj	_	Entity=abstract)|OrigLang=grc
+6	ⲱϫⲛ	ⲱϫⲛ	VERB	V	VerbForm=Fin	3	xcomp	_	_
+7-8	ⲛϩⲏⲧ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	6	obl	_	Entity=(abstract)event)
+9	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+10	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	dislocated	_	_
+11-13	ⲁⲕⲉⲓⲙⲉ	_	_	_	_	_	_	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+13	ⲉⲓⲙⲉ	ⲉⲓⲙⲉ	VERB	V	VerbForm=Fin	3	conj	_	_
+14-16	ⲉⲛⲁϩⲓⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	ADP	PREP	_	16	case	_	_
+15	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	Entity=(abstract
+16	ϩⲓⲟⲟⲩⲉ	ϩⲓⲏ	NOUN	N	_	13	obl	_	Entity=abstract)
+17-19	ⲁⲩϩⲱⲡ	_	_	_	_	_	_	_	_
+17	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
+18	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+19	ϩⲱⲡ	ϩⲱⲡ	VERB	V	VerbForm=Fin	13	parataxis	_	_
+20-21	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+20	ⲉⲣⲟ	ⲉ	ADP	PREP	_	21	case	_	_
+21	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	19	obl	_	_
+22-24	ⲛⲟⲩⲡⲁϣ	_	_	_	_	_	_	_	_
+22	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+23	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	24	det	_	Entity=(object
+24	ⲡⲁϣ	ⲡⲁϣ	NOUN	N	_	19	obj	_	_
+25-27	ϩⲓⲧⲉϩⲓⲏ	_	_	_	_	_	_	_	_
+25	ϩⲓ	ϩⲓ	ADP	PREP	_	27	case	_	_
+26	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	Entity=(place
+27	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	24	nmod	_	_
+28-31	ⲉⲛⲧⲁⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
+28	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	31	mark	_	_
+29	ⲁ	ⲁ	AUX	APST	_	31	aux	_	_
+30	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	31	nsubj	_	_
+31	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	27	acl	_	_
+32-33	ⲛϩⲏⲧⲥ	_	_	_	_	_	_	_	_
+32	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	33	case	_	_
+33	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	obl	_	Entity=place)object)
+
+# sent_id = sahidic_ot-19_Psalms_141_s0005
+# text_en = I looked on my right hand, and behold, for there was none that noticed me; refuge failed me; and there was none that cared for my soul.
+# text = ⲁⲓϭⲱϣⲧ ϩⲓⲟⲩⲛⲁⲙ ⲙⲙⲟⲓ ⲉⲓⲛⲁⲩ ϫⲉⲙⲛⲡⲉⲧⲥⲟⲟⲩⲛ ⲙⲙⲟⲓ ⲙⲡⲓϭⲛⲑⲉ ⲛⲣⲃⲟⲗ ⲁⲩⲱ ⲙⲛⲡⲉⲧϣⲓⲛⲉ ⲛⲥⲁⲧⲁⲯⲩⲭⲏ
+1-3	ⲁⲓϭⲱϣⲧ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ϩⲓⲟⲩⲛⲁⲙ	_	_	_	_	_	_	_	_
+4	ϩⲓ	ϩⲓ	ADP	PREP	_	5	case	_	_
+5	ⲟⲩⲛⲁⲙ	ⲟⲩⲛⲁⲙ	NOUN	N	_	3	obl	_	Entity=(object
+6-7	ⲙⲙⲟⲓ	_	_	_	_	_	_	_	_
+6	ⲙⲙⲟ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Entity=object)
+8-10	ⲉⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+9	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	3	advcl	_	_
+11-15	ϫⲉⲙⲛⲡⲉⲧⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
+11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
+12	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	10	ccomp	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nsubj	_	Entity=(person
+14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	15	mark	_	_
+15	ⲥⲟⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	13	acl	_	_
+16-17	ⲙⲙⲟⲓ	_	_	_	_	_	_	_	_
+16	ⲙⲙⲟ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	15	obj	_	Entity=person)
+18-20	ⲙⲡⲓϭⲛⲑⲉ	_	_	_	_	_	_	_	_
+18	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	20	aux	_	_
+19	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+20	ϭⲛⲑⲉ	ϭⲛⲑⲉ	VERB	V	VerbForm=Fin	10	ccomp	_	_
+21-22	ⲛⲣⲃⲟⲗ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ⲣⲃⲟⲗ	ⲣⲃⲟⲗ	VERB	V	VerbForm=Fin	20	xcomp	_	Morphs=ⲣ-ⲃⲟⲗ
+23	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	_
+24-27	ⲙⲛⲡⲉⲧϣⲓⲛⲉ	_	_	_	_	_	_	_	_
+24	ⲙⲛ	ⲙⲛ	ADP	PREP	_	25	case	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	conj	_	Entity=(person
+26	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	27	mark	_	_
+27	ϣⲓⲛⲉ	ϣⲓⲛⲉ	VERB	V	VerbForm=Fin	25	acl	_	_
+28-30	ⲛⲥⲁⲧⲁⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+28	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	30	case	_	_
+29	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	30	det	_	Entity=(abstract
+30	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	27	obl	_	Entity=abstract)person)|OrigLang=grc
+
+# sent_id = sahidic_ot-19_Psalms_141_s0006
+# text_en = I cried unto thee, O Lord, and said, Thou art my hope, my portion in the land of the living.
+# text = ⲁⲓϫⲓϣⲕⲁⲕ ⲉϩⲣⲁⲓ ⲉⲣⲟⲕ ⲡϫⲟⲉⲓⲥ ⲁⲓϫⲟⲟⲥ ϫⲉⲛⲧⲕ ⲧⲁϩⲉⲗⲡⲓⲥ ⲧⲁⲙⲉⲣⲓⲥ ϩⲙⲡⲕⲁϩ ⲛⲛⲉⲧⲟⲛϩ
+1-3	ⲁⲓϫⲓϣⲕⲁⲕ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ϫⲓϣⲕⲁⲕ	ϫⲓϣⲕⲁⲕ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ϫⲓ-ϣⲕⲁⲕ
+4	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	3	advmod	_	_
+5-6	ⲉⲣⲟⲕ	_	_	_	_	_	_	_	_
+5	ⲉⲣⲟ	ⲉ	ADP	PREP	_	6	case	_	_
+6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+7-8	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(person
+8	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	3	dislocated	_	Entity=person)
+9-12	ⲁⲓϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+12	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13-15	ϫⲉⲛⲧⲕ	_	_	_	_	_	_	_	_
+13	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	17	mark	_	_
+14	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	17	mark	_	_
+15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+16-17	ⲧⲁϩⲉⲗⲡⲓⲥ	_	_	_	_	_	_	_	_
+16	ⲧⲁ	ⲛⲧⲉ_ⲁⲛⲟⲕ	PRON	ACONJ_PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+17	ϩⲉⲗⲡⲓⲥ	ϩⲉⲗⲡⲓⲥ	VERB	V	Foreign=Yes|VerbForm=Fin	11	ccomp	_	OrigLang=grc
+18-19	ⲧⲁⲙⲉⲣⲓⲥ	_	_	_	_	_	_	_	_
+18	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	Entity=(abstract
+19	ⲙⲉⲣⲓⲥ	ⲙⲉⲣⲓⲥ	NOUN	N	Foreign=Yes	17	obj	_	Entity=abstract)|OrigLang=grc
+20-22	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+20	ϩⲙ	ϩⲛ	ADP	PREP	_	22	case	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(place
+22	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	17	obl	_	_
+23-26	ⲛⲛⲉⲧⲟⲛϩ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	nmod	_	Entity=(person
+25	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	26	mark	_	_
+26	ⲟⲛϩ	ⲱⲛϩ	VERB	VSTAT	VerbForm=Fin	24	acl	_	Entity=person)place)
+
+# sent_id = sahidic_ot-19_Psalms_141_s0007
+# text_en = Attend to my supplication, for I am brought very low; deliver me from them that persecute me; for they are stronger than I.
+# text = ϯϩⲧⲏⲕ ⲉⲡⲉϩⲣⲟⲟⲩ ⲙⲡⲁⲥⲟⲡⲥ ϫⲉⲁⲓⲑⲃⲃⲓⲟ ⲉⲙⲁⲧⲉ ⲙⲁⲧⲟⲩϫⲟⲓ ⲉⲛⲉⲧⲡⲏⲧ ⲛⲥⲱⲓ ϫⲉⲁⲩϭⲙϭⲟⲙ ⲉϩⲟⲩ ⲉⲣⲟⲓ
+1-2	ϯϩⲧⲏⲕ	_	_	_	_	_	_	_	_
+1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ϩⲧⲏⲕ	ϩⲧⲏⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+3-5	ⲉⲡⲉϩⲣⲟⲟⲩ	_	_	_	_	_	_	_	_
+3	ⲉ	ⲉ	ADP	PREP	_	5	case	_	_
+4	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(abstract
+5	ϩⲣⲟⲟⲩ	ϩⲣⲟⲟⲩ	NOUN	N	_	2	obl	_	_
+6-8	ⲙⲡⲁⲥⲟⲡⲥ	_	_	_	_	_	_	_	_
+6	ⲙ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	Entity=(abstract
+8	ⲥⲟⲡⲥ	ⲥⲟⲡⲥ	NOUN	N	_	5	nmod	_	Entity=abstract)abstract)
+9-12	ϫⲉⲁⲓⲑⲃⲃⲓⲟ	_	_	_	_	_	_	_	_
+9	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+12	ⲑⲃⲃⲓⲟ	ⲑⲃⲃⲓⲟ	VERB	V	VerbForm=Fin	2	ccomp	_	_
+13	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	14	advmod	_	_
+14-15	ⲙⲁⲧⲟⲩϫⲟⲓ	_	_	_	_	_	_	_	_
+14	ⲙⲁⲧⲟⲩϫⲟ	ⲙⲁⲧⲟⲩϫⲟ	VERB	VBD	VerbForm=Fin	12	parataxis	_	_
+15	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+16-19	ⲉⲛⲉⲧⲡⲏⲧ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
+17	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	obl	_	Entity=(abstract
+18	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
+19	ⲡⲏⲧ	ⲡⲱⲧ	VERB	VSTAT	VerbForm=Fin	17	acl	_	_
+20-21	ⲛⲥⲱⲓ	_	_	_	_	_	_	_	_
+20	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	21	case	_	_
+21	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	19	obl	_	Entity=abstract)
+22-25	ϫⲉⲁⲩϭⲙϭⲟⲙ	_	_	_	_	_	_	_	_
+22	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	25	mark	_	_
+23	ⲁ	ⲁ	AUX	APST	_	25	aux	_	_
+24	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
+25	ϭⲙϭⲟⲙ	ϭⲙϭⲟⲙ	VERB	V	VerbForm=Fin	19	ccomp	_	_
+26	ⲉϩⲟⲩ	ⲉϩⲟⲩ	ADV	ADV	_	25	advmod	_	Morphs=ⲉ-ϩⲟⲩ
+27-28	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+27	ⲉⲣⲟ	ⲉ	ADP	PREP	_	28	case	_	_
+28	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	25	obl	_	_
+
+# sent_id = sahidic_ot-19_Psalms_141_s0008
+# text_en = Bring my soul out of prison, that I may give thanks to thy name, O Lord; the righteous shall wait for me, until thou recompense me.
+# text = ⲁⲛⲓⲛⲉ ⲛⲧⲁⲯⲩⲭⲏ ⲉⲃⲟⲗ ϩⲙⲡⲉϣⲧⲉⲕⲟ ⲉⲧⲣⲁⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲙⲡⲉⲕⲣⲁⲛ ⲡϫⲟⲉⲓⲥ ⲉⲣⲉⲛⲇⲓⲕⲁⲓⲟⲥ ϭⲉⲉⲧ ⲉⲣⲟⲓ ϣⲁⲛⲧⲕⲧⲟⲩⲉⲓⲟ ⲛⲁⲓ
+1-2	ⲁⲛⲓⲛⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	2	aux	_	_
+2	ⲛⲓⲛⲉ	ⲛⲓⲛⲉ	NOUN	N	_	0	root	_	Entity=(person
+3-5	ⲛⲧⲁⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+4	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	Entity=(abstract
+5	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	2	nmod	_	Entity=abstract)|OrigLang=grc
+6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	case	_	_
+7-9	ϩⲙⲡⲉϣⲧⲉⲕⲟ	_	_	_	_	_	_	_	_
+7	ϩⲙ	ϩⲛ	ADP	PREP	_	6	fixed	_	_
+8	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(place
+9	ϣⲧⲉⲕⲟ	ϣⲧⲉⲕⲟ	NOUN	N	_	2	nmod	_	Entity=place)
+10-13	ⲉⲧⲣⲁⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉ	PART	PREP	_	11	mark	_	_
+11	ⲧⲣ	ⲧⲣⲉ	VERB	ACAUS	_	2	xcomp	_	_
+12	ⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+13	ⲟⲩⲱⲛϩ	ⲟⲩⲱⲛϩ	VERB	V	VerbForm=Fin	11	xcomp	_	_
+14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	13	advmod	_	_
+15-17	ⲙⲡⲉⲕⲣⲁⲛ	_	_	_	_	_	_	_	_
+15	ⲙ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	Entity=(abstract
+17	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	13	obj	_	_
+18-19	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	17	appos	_	Entity=abstract)
+20-22	ⲉⲣⲉⲛⲇⲓⲕⲁⲓⲟⲥ	_	_	_	_	_	_	_	_
+20	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	23	mark	_	_
+21	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	det	_	Entity=(person
+22	ⲇⲓⲕⲁⲓⲟⲥ	ⲇⲓⲕⲁⲓⲟⲥ	NOUN	N	Foreign=Yes	23	nsubj	_	Entity=person)|OrigLang=grc
+23	ϭⲉⲉⲧ	ϭⲱ	VERB	VSTAT	VerbForm=Fin	2	acl	_	_
+24-25	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+24	ⲉⲣⲟ	ⲉ	ADP	PREP	_	25	case	_	_
+25	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	23	obl	_	Entity=person)
+26-28	ϣⲁⲛⲧⲕⲧⲟⲩⲉⲓⲟ	_	_	_	_	_	_	_	_
+26	ϣⲁⲛⲧ	ϣⲁⲛⲧⲉ	AUX	ALIM	_	28	aux	_	_
+27	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	28	nsubj	_	_
+28	ⲧⲟⲩⲉⲓⲟ	ⲧⲟⲩⲉⲓⲟ	VERB	V	VerbForm=Fin	23	advcl	_	_
+29-30	ⲛⲁⲓ	_	_	_	_	_	_	_	_
+29	ⲛⲁ	ⲛⲁ	ADP	PREP	_	30	case	_	_
+30	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	28	obl	_	_
+

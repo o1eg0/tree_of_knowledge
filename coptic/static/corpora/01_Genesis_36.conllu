@@ -1,0 +1,439 @@
+# newdoc id = sahidic.ot:01_Genesis_36
+# sent_id = sahidic_ot-01_Genesis_36_s0001
+# text_en = For their substance was too great for them to dwell together; and the land of their sojourning could not bear them, because of the abundance of their possessions.
+# text = . . . ⲉⲃⲟⲗ ϩⲙⲡⲁϣⲁⲓ ⲛⲛⲉⲩϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	case	_	_
+5-7	ϩⲙⲡⲁϣⲁⲓ	_	_	_	_	_	_	_	_
+5	ϩⲙ	ϩⲛ	ADP	PREP	_	4	fixed	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲁϣⲁⲓ	ⲁϣⲁⲓ	NOUN	N	_	0	root	_	_
+8-10	ⲛⲛⲉⲩϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(object
+10	ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ	ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ	NOUN	N	Foreign=Yes	7	nmod	_	Entity=object)abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-01_Genesis_36_s0002
+# text_en = And Esau dwelt in mount Seir; Esau, he is Edom.
+# text = ⲁⲏⲥⲁⲩ ⲇⲉ ⲟⲩⲱϩ ϩⲣⲁⲓ ϩⲙⲡⲁⲕϩ ⲛⲥⲏⲉⲓⲣ ⲏⲥⲁⲩ ⲉⲧⲉⲡⲁⲓⲡⲉ ⲉⲇⲱⲙ
+1-2	ⲁⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=(person-Esau)|OrigLang=he
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4	ⲟⲩⲱϩ	ⲟⲩⲱϩ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	4	advmod	_	_
+6-7	ϩⲙⲡⲁⲕϩ	_	_	_	_	_	_	_	_
+6	ϩⲙ	ϩⲛ	ADP	PREP	_	7	case	_	_
+7	ⲡⲁⲕϩ	ⲡⲁⲕϩ	NOUN	N	_	4	obl	_	Entity=(abstract
+8-9	ⲛⲥⲏⲉⲓⲣ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲥⲏⲉⲓⲣ	ⲥⲏⲉⲓⲣ	NOUN	N	_	7	nmod	_	Entity=(person-Esau
+10	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	9	appos	_	OrigLang=he
+11-13	ⲉⲧⲉⲡⲁⲓⲡⲉ	_	_	_	_	_	_	_	_
+11	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
+12	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	acl	_	Entity=(abstract)
+13	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	12	cop	_	_
+14-15	ⲉⲇⲱⲙ	_	_	_	_	_	_	_	_
+14	ⲉ	ⲉ	PART	PREP	_	15	mark	_	_
+15	ⲇⲱⲙ	ⲇⲱⲙ	VERB	V	VerbForm=Inf	12	csubj	_	Entity=person-Esau)abstract)
+
+# sent_id = sahidic_ot-01_Genesis_36_s0003
+# text_en = And these the generations of Esau, the father of Edom in the mount Seir.
+# text = ⲛⲁⲓ ⲇⲉⲛⲉ ⲛϣⲏⲣⲉ ⲛⲏⲥⲁⲩ ⲡⲉⲓⲱⲧ ⲛⲉⲇⲱⲙ ϩⲣⲁⲓ ϩⲙⲡⲧⲟⲟⲩ ⲛⲥⲏⲉⲓⲣ
+1	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Entity=(abstract)
+2-3	ⲇⲉⲛⲉ	_	_	_	_	_	_	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
+3	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	1	cop	_	_
+4-5	ⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(person
+5	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	1	nsubj	_	_
+6-7	ⲛⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	5	nmod	_	Entity=(person-Esau)|OrigLang=he
+8-9	ⲡⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	5	appos	_	Entity=person)
+10	ⲛⲉⲇⲱⲙ	ⲛⲉⲇⲱⲙ	VERB	V	VerbForm=Fin	1	parataxis	_	_
+11	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	10	advmod	_	_
+12-14	ϩⲙⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+12	ϩⲙ	ϩⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	10	obl	_	_
+15-16	ⲛⲥⲏⲉⲓⲣ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+16	ⲥⲏⲉⲓⲣ	ⲥⲏⲉⲓⲣ	NOUN	N	_	14	nmod	_	Entity=(object)place)
+
+# sent_id = sahidic_ot-01_Genesis_36_s0004
+# text_en = And these the names of the sons of Esau. Eliphas, the son of Ada, the wife of Esau; and Raguel, the son of Basemath, wife of Esau.
+# text = ⲛⲁⲓ ⲇⲉⲛⲉ ⲛⲣⲁⲛ ⲛⲛϣⲏⲣⲉ ⲛⲏⲥⲁⲩ ⲉⲗⲓⲫⲁⲥ ⲡϣⲏⲣⲉ ⲛⲁⲇⲇⲁ ⲧϩⲓⲙⲉ ⲛⲏⲥⲁⲩ ⲁⲩⲱ ϩⲣⲁⲅⲟⲩⲏⲗ ⲡϣⲏⲣⲉ ⲛⲃⲁⲥⲉⲙⲁⲑ ⲧⲉⲥϩⲓⲙⲉ ⲛⲏⲥⲁⲩ
+1	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Entity=(abstract)
+2-3	ⲇⲉⲛⲉ	_	_	_	_	_	_	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
+3	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	1	cop	_	_
+4-5	ⲛⲣⲁⲛ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(abstract
+5	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	1	nsubj	_	_
+6-8	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(person|Orig=ⲉⲛ
+8	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	5	nmod	_	_
+9-10	ⲛⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	8	nmod	_	Entity=(person-Esau)|OrigLang=he
+11-12	ⲉⲗⲓⲫⲁⲥ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ⲗⲓⲫⲁⲥ	ⲗⲓⲫⲁⲥ	PROPN	NPROP	_	8	nmod	_	Entity=(person
+13-14	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	12	appos	_	Entity=person)
+15	ⲛⲁⲇⲇⲁ	ⲛⲁⲇⲇⲁ	ADP	PREP	_	17	case	_	_
+16-17	ⲧϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(person|Orig=ⲑ
+17	ϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	5	nmod	_	Orig=ⲓⲙⲉ
+18-19	ⲛⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	17	nmod	_	Entity=(person-Esau)person)|OrigLang=he
+20	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	21	cc	_	_
+21	ϩⲣⲁⲅⲟⲩⲏⲗ	ϩⲣⲁⲅⲟⲩⲏⲗ	PROPN	NPROP	_	12	conj	_	Entity=(person
+22-23	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	21	appos	_	_
+24-25	ⲛⲃⲁⲥⲉⲙⲁⲑ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+25	ⲃⲁⲥⲉⲙⲁⲑ	ⲃⲁⲥⲉⲙⲁⲑ	PROPN	NPROP	_	23	nmod	_	Entity=(person
+26-27	ⲧⲉⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+26	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	25	appos	_	_
+28-29	ⲛⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	27	nmod	_	Entity=(person-Esau)person)person)person)abstract)|OrigLang=he
+
+# sent_id = sahidic_ot-01_Genesis_36_s0005
+# text_en = And the sons of Eliphas were Thaeman, Omar, Sophar, Gothom, and Kenez.
+# text = ⲁⲩϣⲱⲡⲉ ⲇⲉ ⲛϭⲓϩⲉⲛϣⲏⲣⲉ ⲛⲉⲗⲓⲫⲁⲥ ⲑⲁⲓⲙⲁⲛ ⲱⲙⲁⲣ . . .
+1-3	ⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-7	ⲛϭⲓϩⲉⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	7	case	_	_
+6	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	3	dislocated	_	_
+8	ⲛⲉⲗⲓⲫⲁⲥ	ⲛⲉⲗⲓⲫⲁⲥ	X	UNKNOWN	_	7	nummod	_	_
+9	ⲑⲁⲓⲙⲁⲛ	ⲑⲁⲓⲙⲁⲛ	X	UNKNOWN	_	7	nummod	_	_
+10	ⲱⲙⲁⲣ	ⲱⲙⲁⲣ	X	UNKNOWN	_	7	nummod	_	Entity=person)
+11	.	.	PUNCT	PUNCT	_	0	punct	_	_
+12	.	.	PUNCT	PUNCT	_	0	punct	_	_
+13	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0006
+# text_en = These the chiefs of the son of Esau, the sons of Eliphas, the first-born of Esau; chief Thaeman, chief Omar, chief Sophar, chief Kenez,
+# text = ⲛⲁⲓⲛⲉ ⲛϩⲏⲅⲉⲙⲱⲛ ⲛϣⲏⲣⲉ ⲛⲏⲥⲁⲩ ⲛϣⲏⲣⲉ ⲛⲉⲗⲓⲫⲁⲥ ⲡϣⲣⲡⲙⲓⲥⲉ ⲛⲏⲥⲁⲩ ϩⲏⲅⲉⲙⲱⲛ ⲑⲁⲓⲙⲁⲛ ϩⲏⲅⲉⲙⲱⲛ ⲱⲙⲁⲣ ϩⲏⲅⲉⲙⲱⲛ ⲕⲉⲛⲉⲍ ϩⲏⲅⲉⲙⲱⲛ ⲕⲟⲣⲉ
+1-2	ⲛⲁⲓⲛⲉ	_	_	_	_	_	_	_	_
+1	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Entity=(abstract)
+2	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	1	cop	_	_
+3-4	ⲛϩⲏⲅⲉⲙⲱⲛ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	4	det	_	Entity=(person
+4	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	1	nsubj	_	OrigLang=grc
+5-6	ⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	4	nmod	_	Entity=(person
+7-8	ⲛⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	6	nmod	_	Entity=(person-Esau|OrigLang=he
+9-10	ⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+10	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	8	appos	_	Entity=person-Esau)person)
+11	ⲛⲉⲗⲓⲫⲁⲥ	ⲛⲉⲗⲓⲫⲁⲥ	ADP	PREP	_	13	case	_	_
+12-13	ⲡϣⲣⲡⲙⲓⲥⲉ	_	_	_	_	_	_	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(abstract
+13	ϣⲣⲡⲙⲓⲥⲉ	ϣⲣⲡⲙⲓⲥⲉ	NOUN	N	_	4	nmod	_	Morphs=ϣⲣⲡ-ⲙⲓⲥⲉ
+14-15	ⲛⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	13	nmod	_	Entity=(person-Esau|OrigLang=he
+16	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	X	FM	Foreign=Yes	15	appos	_	Entity=person-Esau)abstract)person)|OrigLang=grc
+17	ⲑⲁⲓⲙⲁⲛ	ⲑⲁⲓⲙⲁⲛ	X	FM	_	16	dep	_	_
+18	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	X	FM	Foreign=Yes	17	dep	_	OrigLang=grc
+19	ⲱⲙⲁⲣ	ⲱⲙⲁⲣ	X	FM	_	18	appos	_	_
+20	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	X	FM	Foreign=Yes	17	dep	_	OrigLang=grc
+21	ⲕⲉⲛⲉⲍ	ⲕⲉⲛⲉⲍ	X	FM	_	17	dep	_	_
+22	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	X	FM	Foreign=Yes	18	appos	_	OrigLang=grc
+23	ⲕⲟⲣⲉ	ⲕⲟⲣⲉ	PROPN	NPROP	_	18	appos	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0007
+# text_en = chief Core, chief Gothom, chief Amalec. These the chiefs of Eliphas, in the land of Edom; these are the sons of Ada.
+# text = ϩⲏⲅⲉⲙⲱⲛ ⲅⲟⲑⲟⲙ ϩⲏⲅⲉⲙⲱⲛ ⲁⲙⲁⲗⲏⲕ ⲛⲁⲓⲛⲉ ⲛϩⲏⲅⲉⲙⲱⲛ ⲛⲉⲗⲓⲫⲁⲥ ϩⲙⲡⲕⲁϩ ⲙⲧⲓⲇⲟⲩⲙⲁⲓⲁ ⲛⲁⲓⲛⲉ ⲛϣⲏⲣⲉ ⲛⲁⲇⲁ
+1	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	6	dislocated	_	Entity=(person|OrigLang=grc
+2	ⲅⲟⲑⲟⲙ	ⲅⲟⲑⲟⲙ	ADP	PREP	_	3	case	_	_
+3	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	1	nmod	_	Entity=(person)person)|OrigLang=grc
+4-5	ⲁⲙⲁⲗⲏⲕ	_	_	_	_	_	_	_	_
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ⲙⲁⲗⲏⲕ	ⲙⲁⲗⲏⲕ	PROPN	NPROP	_	6	nsubj	_	Entity=(person)
+6-7	ⲛⲁⲓⲛⲉ	_	_	_	_	_	_	_	_
+6	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Entity=(abstract)
+7	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	6	cop	_	_
+8-9	ⲛϩⲏⲅⲉⲙⲱⲛ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	det	_	Entity=(person
+9	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	6	nsubj	_	Entity=person)|OrigLang=grc
+10	ⲛⲉⲗⲓⲫⲁⲥ	ⲛⲉⲗⲓⲫⲁⲥ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+11-13	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+11	ϩⲙ	ϩⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(place
+13	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	10	obl	_	_
+14-16	ⲙⲧⲓⲇⲟⲩⲙⲁⲓⲁ	_	_	_	_	_	_	_	_
+14	ⲙ	ⲛ	ADP	PREP	_	16	case	_	_
+15	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Entity=(place|Orig=ϯ
+16	ⲓⲇⲟⲩⲙⲁⲓⲁ	ⲓⲇⲟⲩⲙⲁⲓⲁ	NOUN	N	_	13	nmod	_	Entity=place)place)|Orig=ⲇⲟⲩⲙⲁⲓⲁ
+17-19	ⲛⲁⲓⲛⲉ	_	_	_	_	_	_	_	_
+17	ⲛⲁ	ⲛⲁ	ADP	PREP	_	18	case	_	_
+18	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	10	obl	_	_
+19	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	6	cop	_	_
+20-21	ⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	Entity=(person
+21	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	10	nsubj	_	Entity=person)
+22	ⲛⲁⲇⲁ	ⲛⲁⲇⲁ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0008
+# text_en = And these the sons of Raguel, the son of Esau; chief Nachoth, chief Zare, chief Some, chief Moze. These the chiefs of Raguel, in the land of Edom; these are the sons of Basemath, wife of Esau.
+# text = ⲛⲁⲓ ϩⲱⲟⲩⲛⲉ ⲛϣⲏⲣⲉ ⲛϩⲣⲁⲅⲟⲩⲏⲗ ⲡϣⲏⲣⲉ ⲛⲏⲥⲁⲩ . . .
+1-2	ⲛⲁⲓ	_	_	_	_	_	_	_	_
+1	ⲛⲁ	ⲛⲁ	ADP	PREP	_	2	case	_	_
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Entity=(person
+3	ϩⲱⲟⲩⲛⲉ	ϩⲱⲟⲩⲛⲉ	ADP	PREP	_	5	case	_	_
+4-5	ⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	0	root	_	_
+6-7	ⲛϩⲣⲁⲅⲟⲩⲏⲗ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ϩⲣⲁⲅⲟⲩⲏⲗ	ϩⲣⲁⲅⲟⲩⲏⲗ	NOUN	N	_	5	nmod	_	Entity=(person)
+8-9	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	5	appos	_	_
+10-11	ⲛⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲏⲥⲁⲩ	ⲏⲥⲁⲩ	PROPN	NPROP	Foreign=Yes	9	nmod	_	Entity=(person-Esau)person)|OrigLang=he
+12	.	.	PUNCT	PUNCT	_	0	punct	_	_
+13	.	.	PUNCT	PUNCT	_	0	punct	_	_
+14	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0009
+# text_en = And Asom died; and Adad son of Barad, who cut off Madiam in the plain of Moab, ruled in his stead; and the name of his city was Getthaim.
+# text = ⲁϥⲙⲟⲩⲇⲉ ⲛϭⲓⲁⲥⲟⲙ ⲁϥⲉⲣⲣⲣⲟ ⲉⲡⲉϥⲙⲁ ⲛϭⲓⲁⲇⲁⲑ ⲡϣⲏⲣⲉ ⲛⲃⲁⲣⲁⲑ ⲡⲉⲛⲧⲁϥϭⲟϫϭϫ ⲙⲙⲁⲇⲓϩⲁⲙ ϩⲣⲁⲓ ϩⲛⲧⲥⲱϣⲉ ⲙⲙⲱⲁⲃ ⲁⲩⲱ ⲡⲣⲁⲛ ⲛⲧⲉϥⲡⲟⲗⲓⲥⲡⲉ ⲅⲉⲑⲉⲙ
+1-3	ⲁϥⲙⲟⲩⲇⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲙⲟⲩⲇⲉ	ⲙⲟⲩⲇⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲛϭⲓⲁⲥⲟⲙ	_	_	_	_	_	_	_	_
+4	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	5	case	_	_
+5	ⲁⲥⲟⲙ	ⲁⲥⲟⲙ	PROPN	NPROP	_	3	dislocated	_	Entity=(person)
+6-8	ⲁϥⲉⲣⲣⲣⲟ	_	_	_	_	_	_	_	_
+6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
+7	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	ⲉⲣⲣⲣⲟ	ⲉⲣⲣⲣⲟ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+9-11	ⲉⲡⲉϥⲙⲁ	_	_	_	_	_	_	_	_
+9	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
+10	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(place
+11	ⲙⲁ	ⲙⲁ	NOUN	N	_	8	obl	_	Entity=place)
+12-13	ⲛϭⲓⲁⲇⲁⲑ	_	_	_	_	_	_	_	_
+12	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	13	case	_	_
+13	ⲁⲇⲁⲑ	ⲁⲇⲁⲑ	VERB	V	VerbForm=Fin	8	dislocated	_	_
+14-15	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	13	appos	_	_
+16-17	ⲛⲃⲁⲣⲁⲑ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲃⲁⲣⲁⲑ	ⲃⲁⲣⲁⲑ	PROPN	NPROP	_	15	nmod	_	Entity=(person
+18-22	ⲡⲉⲛⲧⲁϥϭⲟϫϭϫ	_	_	_	_	_	_	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	appos	_	_
+19	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	22	mark	_	_
+20	ⲁ	ⲁ	AUX	APST	_	22	aux	_	_
+21	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+22	ϭⲟϫϭϫ	ϭⲟϫϭⲉϫ	VERB	V	VerbForm=Fin	18	acl	_	_
+23-24	ⲙⲙⲁⲇⲓϩⲁⲙ	_	_	_	_	_	_	_	_
+23	ⲙ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲙⲁⲇⲓϩⲁⲙ	ⲙⲁⲇⲓϩⲁⲙ	PROPN	NPROP	_	22	obj	_	Entity=(person-Midian,_son_of_Abraham)
+25	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	22	advmod	_	_
+26-28	ϩⲛⲧⲥⲱϣⲉ	_	_	_	_	_	_	_	_
+26	ϩⲛ	ϩⲛ	ADP	PREP	_	28	case	_	_
+27	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	Entity=(place
+28	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	22	obl	_	_
+29-30	ⲙⲙⲱⲁⲃ	_	_	_	_	_	_	_	_
+29	ⲙ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲙⲱⲁⲃ	ⲙⲱⲁⲃ	PROPN	NPROP	Foreign=Yes	28	nmod	_	Entity=(place-Moab)place)|OrigLang=he
+31	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	33	cc	_	_
+32-33	ⲡⲣⲁⲛ	_	_	_	_	_	_	_	_
+32	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	Entity=(abstract
+33	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	28	conj	_	_
+34-36	ⲛⲧⲉϥⲡⲟⲗⲓⲥⲡⲉ	_	_	_	_	_	_	_	_
+34	ⲛ	ⲛ	ADP	PREP	_	36	case	_	_
+35	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	Entity=(abstract
+36	ⲡⲟⲗⲓⲥⲡⲉ	ⲡⲟⲗⲓⲥⲡⲉ	NOUN	N	_	33	nmod	_	Entity=abstract)abstract)person)
+37	ⲅⲉⲑⲉⲙ	ⲅⲉⲑⲉⲙ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0010
+# text_en = And Adad died; and Samada of Massecca reigned in his stead.
+# text = ⲁϥⲙⲟⲩ ⲇⲉ ⲛϭⲓⲁⲇⲁⲑ ⲁϥⲉⲣⲣⲣⲟ ⲉⲡⲉϥⲙⲁ ⲛϭⲓⲥⲁⲙⲁⲗⲁⲕ ⲡⲉⲉⲃⲟⲗ ϩⲛⲙⲁⲥⲥⲉⲕⲁⲥ
+1-3	ⲁϥⲙⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-6	ⲛϭⲓⲁⲇⲁⲑ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+6	ⲁⲇⲁⲑ	ⲁⲇⲁⲑ	PROPN	NPROP	_	3	dislocated	_	Entity=(person)
+7-9	ⲁϥⲉⲣⲣⲣⲟ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲉⲣⲣⲣⲟ	ⲉⲣⲣⲣⲟ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10-12	ⲉⲡⲉϥⲙⲁ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+11	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Entity=(place
+12	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	Entity=place)
+13-14	ⲛϭⲓⲥⲁⲙⲁⲗⲁⲕ	_	_	_	_	_	_	_	_
+13	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	14	case	_	_
+14	ⲥⲁⲙⲁⲗⲁⲕ	ⲥⲁⲙⲁⲗⲁⲕ	PROPN	NPROP	_	9	dislocated	_	Entity=(person
+15-16	ⲡⲉⲉⲃⲟⲗ	_	_	_	_	_	_	_	_
+15	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+16	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	18	case	_	_
+17-18	ϩⲛⲙⲁⲥⲥⲉⲕⲁⲥ	_	_	_	_	_	_	_	_
+17	ϩⲛ	ϩⲛ	ADP	PREP	_	16	fixed	_	_
+18	ⲙⲁⲥⲥⲉⲕⲁⲥ	ⲙⲁⲥⲥⲉⲕⲁⲥ	PROPN	NPROP	_	14	appos	_	Entity=person)
+
+# sent_id = sahidic_ot-01_Genesis_36_s0011
+# text_en = Samada died; and Saul of Rhooboth by the river reigned in his stead.
+# text = ⲁϥⲙⲟⲩ ⲇⲉ ⲛϭⲓⲥⲁⲙⲁⲗⲁⲕ ⲁϥⲣⲣⲣⲟ ⲉⲡⲉϥⲙⲁ ⲛϭⲓⲥⲁⲟⲩⲗ ⲡⲉⲉⲃⲟⲗ ϩⲛⲣⲟⲱⲃⲱⲑ ⲧⲁⲓ ⲉⲧϩⲁⲧⲙⲡⲓⲉⲣⲟ
+1-3	ⲁϥⲙⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-6	ⲛϭⲓⲥⲁⲙⲁⲗⲁⲕ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+6	ⲥⲁⲙⲁⲗⲁⲕ	ⲥⲁⲙⲁⲗⲁⲕ	PROPN	NPROP	_	3	dislocated	_	Entity=(person)
+7-9	ⲁϥⲣⲣⲣⲟ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲣⲣⲣⲟ	ⲣⲣⲣⲟ	VERB	V	VerbForm=Fin	3	parataxis	_	Morphs=ⲣ-ⲣⲣⲟ
+10-12	ⲉⲡⲉϥⲙⲁ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+11	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Entity=(place
+12	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	Entity=place)
+13-14	ⲛϭⲓⲥⲁⲟⲩⲗ	_	_	_	_	_	_	_	_
+13	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	14	case	_	_
+14	ⲥⲁⲟⲩⲗ	ⲥⲁⲟⲩⲗ	PROPN	NPROP	_	9	dislocated	_	Entity=(person-Saul_%28Edomite_king%29
+15-16	ⲡⲉⲉⲃⲟⲗ	_	_	_	_	_	_	_	_
+15	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+16	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	18	case	_	_
+17-18	ϩⲛⲣⲟⲱⲃⲱⲑ	_	_	_	_	_	_	_	_
+17	ϩⲛ	ϩⲛ	ADP	PREP	_	16	fixed	_	_
+18	ⲣⲟⲱⲃⲱⲑ	ⲣⲟⲱⲃⲱⲑ	PROPN	NPROP	_	14	appos	_	_
+19	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	appos	_	_
+20-22	ⲉⲧϩⲁⲧⲙⲡⲓⲉⲣⲟ	_	_	_	_	_	_	_	_
+20	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	21	mark	_	_
+21	ϩⲁⲧⲙ	ϩⲁⲧⲙ	VERB	VSTAT	VerbForm=Fin	19	acl	_	Entity=person-Saul_%28Edomite_king%29)
+22	ⲡⲓⲉⲣⲟ	ⲡⲓⲉⲣⲟ	PUNCT	PUNCT	_	0	punct	_	Orig=ⲡⲉⲓⲉⲣⲟ
+
+# sent_id = sahidic_ot-01_Genesis_36_s0012
+# text_en = And Saul died; and Ballenon the son of Achobor reigned in his stead.
+# text = ⲁϥⲙⲟⲩ ⲇⲉ ⲛϭⲓⲥⲁⲟⲩⲗ ⲁϥⲣⲣⲣⲟ ⲉⲡⲉϥⲙⲁ . . .
+1-3	ⲁϥⲙⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-6	ⲛϭⲓⲥⲁⲟⲩⲗ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+6	ⲥⲁⲟⲩⲗ	ⲥⲁⲟⲩⲗ	PROPN	NPROP	_	3	dislocated	_	Entity=(person-Saul_%28Edomite_king%29)
+7-9	ⲁϥⲣⲣⲣⲟ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲣⲣⲣⲟ	ⲣⲣⲣⲟ	VERB	V	VerbForm=Fin	3	parataxis	_	Morphs=ⲣ-ⲣⲣⲟ
+10-12	ⲉⲡⲉϥⲙⲁ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+11	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Entity=(place
+12	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	Entity=place)
+13	.	.	PUNCT	PUNCT	_	0	punct	_	_
+14	.	.	PUNCT	PUNCT	_	0	punct	_	_
+15	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0013
+# text_en = These the names of the chiefs of Esau, in their tribes, according to their place, in their countries, and in their nations; chief Thamna, chief Gola, chief Jether,
+# text = . . . ϩⲛⲛⲉⲩϩⲉⲑⲛⲟⲥ ⲙⲛϩⲛⲛⲉⲩⲣⲁⲛ ϩⲏⲅⲉⲙⲱⲛ ⲑⲁⲙⲛⲁ ϩⲏⲅⲉⲙⲱⲛ ⲅⲱⲗⲁ ϩⲏⲅⲉⲙⲱⲛ ⲓⲉⲑⲉⲣ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4-6	ϩⲛⲛⲉⲩϩⲉⲑⲛⲟⲥ	_	_	_	_	_	_	_	_
+4	ϩⲛ	ϩⲛ	ADP	PREP	_	6	case	_	_
+5	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	Entity=(person
+6	ϩⲉⲑⲛⲟⲥ	ϩⲉⲑⲛⲟⲥ	NOUN	N	Foreign=Yes	0	root	_	Entity=person)|OrigLang=grc
+7-10	ⲙⲛϩⲛⲛⲉⲩⲣⲁⲛ	_	_	_	_	_	_	_	_
+7	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	cc	_	_
+8	ϩⲛ	ϩⲛ	ADP	PREP	_	10	case	_	_
+9	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(abstract
+10	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	6	conj	_	_
+11	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	10	appos	_	OrigLang=grc
+12	ⲑⲁⲙⲛⲁ	ⲑⲁⲙⲛⲁ	ADP	PREP	_	13	case	_	_
+13	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	10	nmod	_	Entity=(person|OrigLang=grc
+14	ⲅⲱⲗⲁ	ⲅⲱⲗⲁ	ADP	PREP	_	15	case	_	_
+15	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	13	nmod	_	Entity=(person)person)abstract)|OrigLang=grc
+16	ⲓⲉⲑⲉⲣ	ⲓⲉⲑⲉⲣ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0014
+# text_en = chief Olibema, chief Helas, chief Phinon,
+# text = ϩⲏⲅⲉⲙⲱⲛ ⲉⲗⲓⲃⲉⲙⲁ ϩⲏⲅⲉⲙⲱⲛ ⲅⲏⲗⲁ ϩⲏⲅⲉⲙⲱⲛ ⲫⲓⲛⲱⲛ
+1	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	0	root	_	Entity=(person|OrigLang=grc
+2-3	ⲉⲗⲓⲃⲉⲙⲁ	_	_	_	_	_	_	_	_
+2	ⲉ	ⲉ	ADP	PREP	_	4	case	_	_
+3	ⲗⲓⲃⲉⲙⲁ	ⲗⲓⲃⲉⲙⲁ	DET	ART	_	4	det	_	Entity=(person
+4	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	1	nmod	_	OrigLang=grc
+5	ⲅⲏⲗⲁ	ⲅⲏⲗⲁ	ADP	PREP	_	6	case	_	_
+6	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	4	nmod	_	Entity=(person)person)person)|OrigLang=grc
+7	ⲫⲓⲛⲱⲛ	ⲫⲓⲛⲱⲛ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0015
+# text_en = chief Kenez, chief Thaeman, chief Mazar,
+# text = ϩⲏⲅⲉⲙⲱⲛ ⲕⲉⲛⲉⲍ ϩⲉⲅⲉⲙⲱⲛ ⲑⲁⲓⲙⲁⲛ ϩⲏⲅⲉⲙⲱⲛ ⲙⲁⲍⲁⲣ
+1	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	CCONJ	CONJ	Foreign=Yes	2	cc	_	OrigLang=grc
+2	ⲕⲉⲛⲉⲍ	ⲕⲉⲛⲉⲍ	VERB	EXIST	_	0	root	_	_
+3	ϩⲉⲅⲉⲙⲱⲛ	ϩⲉⲅⲉⲙⲱⲛ	NOUN	N	_	2	nsubj	_	Entity=(abstract
+4	ⲑⲁⲓⲙⲁⲛ	ⲑⲁⲓⲙⲁⲛ	ADP	PREP	_	5	case	_	_
+5	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=(person)abstract)|OrigLang=grc
+6	ⲙⲁⲍⲁⲣ	ⲙⲁⲍⲁⲣ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_36_s0016
+# text_en = chief Magediel, chief Zaphoin. These are the chiefs of Edom in their dwelling-places in the land of their possession; this is Esau, the father of Edom.
+# text = ϩⲏⲅⲉⲙⲱⲛ ⲙⲉⲅⲉⲇⲓⲏⲗ ϩⲏⲅⲉⲙⲱⲛ ⲍⲁⲫⲱⲓⲛ ⲛⲁⲓⲛⲉ ⲛϩⲏⲅⲉⲙⲱⲛ ⲛⲉⲇⲱⲙ ϩⲣⲁⲓ ϩⲛⲛⲉⲩⲙⲁ ⲛⲟⲩⲱϩ ϩⲙⲡⲕⲁϩ ⲛⲧⲉⲩⲙⲛⲧⲣⲣⲟ . . .
+1	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	X	FM	Foreign=Yes	5	dep	_	OrigLang=grc
+2	ⲙⲉⲅⲉⲇⲓⲏⲗ	ⲙⲉⲅⲉⲇⲓⲏⲗ	X	FM	_	1	appos	_	_
+3	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	X	FM	Foreign=Yes	2	nsubj	_	OrigLang=grc
+4	ⲍⲁⲫⲱⲓⲛ	ⲍⲁⲫⲱⲓⲛ	X	FM	_	5	parataxis	_	_
+5-6	ⲛⲁⲓⲛⲉ	_	_	_	_	_	_	_	_
+5	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Entity=(abstract)
+6	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	5	cop	_	_
+7-8	ⲛϩⲏⲅⲉⲙⲱⲛ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(person
+8	ϩⲏⲅⲉⲙⲱⲛ	ϩⲏⲅⲉⲙⲱⲛ	NOUN	N	Foreign=Yes	9	nsubj	_	Entity=person)|OrigLang=grc
+9	ⲛⲉⲇⲱⲙ	ⲛⲉⲇⲱⲙ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+10	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	9	advmod	_	_
+11-13	ϩⲛⲛⲉⲩⲙⲁ	_	_	_	_	_	_	_	_
+11	ϩⲛ	ϩⲛ	ADP	PREP	_	13	case	_	_
+12	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	Entity=(place
+13	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	_
+14-15	ⲛⲟⲩⲱϩ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲟⲩⲱϩ	ⲟⲩⲱϩ	VERB	V	VerbForm=Fin	13	nmod	_	_
+16-18	ϩⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+16	ϩⲙ	ϩⲛ	ADP	PREP	_	18	case	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(place
+18	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	15	obl	_	_
+19-21	ⲛⲧⲉⲩⲙⲛⲧⲣⲣⲟ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	Entity=(abstract
+21	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	18	nmod	_	Entity=abstract)place)place)|Morphs=ⲙⲛⲧ-ⲣⲣⲟ
+22	.	.	PUNCT	PUNCT	_	0	punct	_	_
+23	.	.	PUNCT	PUNCT	_	0	punct	_	_
+24	.	.	PUNCT	PUNCT	_	0	punct	_	_
+

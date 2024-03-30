@@ -1,0 +1,135 @@
+# newdoc id = sahidic.ot:19_Psalms_132
+# sent_id = sahidic_ot-19_Psalms_132_s0001
+# text_en = See now! what is so good, or what so pleasant, as for brethren to dwell together?
+# text = ⲧⲱⲇⲏ ⲛⲛⲧⲱⲣⲧⲣ ⲉⲓⲥ ϩⲏⲏⲧⲉ ⲟⲩ ⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲏ ⲟⲩ ⲡⲉⲧⲛⲟⲧⲙ ⲛⲥⲁⲧⲣⲉϩⲉⲛⲥⲛⲏⲩ ⲟⲩⲱϩ ϩⲛⲟⲩⲙⲁ ⲛⲟⲩⲱⲧ
+1-2	ⲧⲱⲇⲏ	_	_	_	_	_	_	_	_
+1	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ⲱⲇⲏ	ⲱⲇⲏ	NOUN	N	Foreign=Yes	0	root	_	OrigLang=grc
+3-5	ⲛⲛⲧⲱⲣⲧⲣ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(object
+5	ⲧⲱⲣⲧⲣ	ⲧⲱⲣⲧⲣ	NOUN	N	_	2	nmod	_	Entity=object)
+6	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	8	advmod	_	_
+7	ϩⲏⲏⲧⲉ	ϩⲏⲏⲧⲉ	PART	PTC	_	6	fixed	_	_
+8	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Ind	9	det	_	_
+9-12	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	_	_	_	_	_	_	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	appos	_	_
+10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
+11	ⲛⲁⲛⲟⲩ	ⲛⲁⲛⲟⲩ	VERB	VBD	VerbForm=Fin	9	acl	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+13	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	14	cc	_	OrigLang=grc
+14	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Ind	9	det	_	_
+15-17	ⲡⲉⲧⲛⲟⲧⲙ	_	_	_	_	_	_	_	_
+15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	conj	_	_
+16	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
+17	ⲛⲟⲧⲙ	ⲛⲟⲧⲙ	VERB	V	VerbForm=Fin	15	acl	_	_
+18-21	ⲛⲥⲁⲧⲣⲉϩⲉⲛⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
+18	ⲛⲥⲁ	ⲛⲥⲁ	PART	PREP	_	19	mark	_	_
+19	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	17	xcomp	_	_
+20	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	21	det	_	Entity=(person
+21	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	22	nsubj	_	Entity=person)
+22	ⲟⲩⲱϩ	ⲟⲩⲱϩ	VERB	V	VerbForm=Fin	19	xcomp	_	_
+23-25	ϩⲛⲟⲩⲙⲁ	_	_	_	_	_	_	_	_
+23	ϩⲛ	ϩⲛ	ADP	PREP	_	25	case	_	_
+24	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	25	det	_	Entity=(place
+25	ⲙⲁ	ⲙⲁ	NOUN	N	_	22	obl	_	_
+26-27	ⲛⲟⲩⲱⲧ	_	_	_	_	_	_	_	_
+26	ⲛ	ⲛ	ADP	PREP	_	27	case	_	_
+27	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	25	nmod	_	Entity=place)abstract)
+
+# sent_id = sahidic_ot-19_Psalms_132_s0002
+# text_en = It is as ointment on the head, that ran down to the beard, even the beard of Aaron; that ran down to the fringe of his clothing.
+# text = ⲉⲩⲛⲁⲣⲧϩⲉ ⲙⲡⲥⲟϭⲛ ⲉⲧϩⲓϫⲛ ⲧⲁⲡⲉ ⲛⲁⲁⲣⲱⲛ ⲉⲧⲛⲏⲩ ⲉⲡⲉⲥⲏⲧ ⲉϫⲛⲧⲉϥⲙⲟⲣⲧ ⲉⲧⲛⲏⲩ ⲉⲡⲉⲥⲏⲧ ⲉϫⲛⲛⲥⲱⲃⲉ ⲛⲛⲉϥϩⲟⲉⲓⲧⲉ
+1-4	ⲉⲩⲛⲁⲣⲧϩⲉ	_	_	_	_	_	_	_	_
+1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
+4	ⲣⲧϩⲉ	ⲣⲧϩⲉ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ⲧ-ϩⲉ|Orig=ⲣⲑⲉ
+5-7	ⲙⲡⲥⲟϭⲛ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(object
+7	ⲥⲟϭⲛ	ⲥⲟϭⲛ	NOUN	N	_	4	obj	_	Entity=object)
+8-10	ⲉⲧϩⲓϫⲛ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+9	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Entity=(person
+10	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	12	case	_	_
+11-12	ⲧⲁⲡⲉ	_	_	_	_	_	_	_	_
+11	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	ⲁⲡⲉ	ⲁⲡⲉ	NOUN	N	_	4	obl	_	_
+13-14	ⲛⲁⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ⲁⲁⲣⲱⲛ	ⲁⲁⲣⲱⲛ	PROPN	NPROP	_	12	nmod	_	Entity=(person-Aaron)
+15-16	ⲉⲧⲛⲏⲩ	_	_	_	_	_	_	_	_
+15	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+16	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	12	acl	_	_
+17-19	ⲉⲡⲉⲥⲏⲧ	_	_	_	_	_	_	_	_
+17	ⲉ	ⲉ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	ⲉⲥⲏⲧ	ⲉⲥⲏⲧ	NOUN	N	_	16	obl	_	Entity=person)
+20-22	ⲉϫⲛⲧⲉϥⲙⲟⲣⲧ	_	_	_	_	_	_	_	_
+20	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	22	case	_	_
+21	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	Entity=(abstract
+22	ⲙⲟⲣⲧ	ⲙⲟⲣⲧ	NOUN	N	_	4	obl	_	_
+23-24	ⲉⲧⲛⲏⲩ	_	_	_	_	_	_	_	_
+23	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	24	mark	_	_
+24	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	22	acl	_	_
+25-27	ⲉⲡⲉⲥⲏⲧ	_	_	_	_	_	_	_	_
+25	ⲉ	ⲉ	ADP	PREP	_	27	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	ⲉⲥⲏⲧ	ⲉⲥⲏⲧ	NOUN	N	_	24	obl	_	_
+28-30	ⲉϫⲛⲛⲥⲱⲃⲉ	_	_	_	_	_	_	_	_
+28	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	30	case	_	_
+29	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	30	det	_	Entity=(abstract
+30	ⲥⲱⲃⲉ	ⲥⲱⲃⲉ	NOUN	N	_	24	obl	_	_
+31-33	ⲛⲛⲉϥϩⲟⲉⲓⲧⲉ	_	_	_	_	_	_	_	_
+31	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
+32	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	33	det	_	Entity=(object
+33	ϩⲟⲉⲓⲧⲉ	ϩⲟⲉⲓⲧⲉ	NOUN	N	_	30	nmod	_	Entity=object)abstract)abstract)
+
+# sent_id = sahidic_ot-19_Psalms_132_s0003
+# text_en = As the dew of Aermon, that comes down on the mountains of Sion: for there, the Lord commanded the blessing, even life for ever.
+# text = ⲉⲩⲛⲁⲣⲧϩⲉ ⲛϯⲱⲧⲉ ⲛⲁⲉⲣⲙⲱⲛ ⲉⲧⲛⲏⲩ ⲉⲡⲉⲥⲏⲧ ⲉϫⲛⲛⲧⲟⲟⲩ ⲛⲥⲓⲱⲛ ϫⲉⲛⲧⲁⲡϫⲟⲉⲓⲥ ϩⲱⲛ ⲙⲙⲁⲩ ⲙⲡⲉϥⲥⲙⲟⲩ ⲟⲩⲱⲛϩ ϣⲁⲉⲛⲉϩ
+1-4	ⲉⲩⲛⲁⲣⲧϩⲉ	_	_	_	_	_	_	_	_
+1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
+4	ⲣⲧϩⲉ	ⲣⲧϩⲉ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ⲧ-ϩⲉ|Orig=ⲣⲑⲉ
+5-6	ⲛϯⲱⲧⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ϯⲱⲧⲉ	ϯⲱⲧⲉ	NOUN	N	_	4	obl	_	Entity=(abstract
+7-8	ⲛⲁⲉⲣⲙⲱⲛ	_	_	_	_	_	_	_	_
+7	ⲛⲁ	ⲛⲁ	ADP	PREP	_	8	case	_	_
+8	ⲉⲣⲙⲱⲛ	ⲉⲣⲙⲱⲛ	NOUN	N	_	6	nmod	_	Entity=(abstract
+9-10	ⲉⲧⲛⲏⲩ	_	_	_	_	_	_	_	_
+9	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	10	mark	_	_
+10	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	8	acl	_	_
+11-13	ⲉⲡⲉⲥⲏⲧ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ⲉⲥⲏⲧ	ⲉⲥⲏⲧ	NOUN	N	_	10	obl	_	_
+14-16	ⲉϫⲛⲛⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+14	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	16	case	_	_
+15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	Entity=(place
+16	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	10	obl	_	_
+17-18	ⲛⲥⲓⲱⲛ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ⲥⲓⲱⲛ	ⲥⲓⲱⲛ	PROPN	NPROP	_	16	nmod	_	Entity=(place-Zion)place)abstract)abstract)
+19-23	ϫⲉⲛⲧⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+19	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	24	mark	_	_
+20	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	24	mark	_	_
+21	ⲁ	ⲁ	AUX	APST	_	24	aux	_	_
+22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(person
+23	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	24	nsubj	_	Entity=person)
+24	ϩⲱⲛ	ϩⲱⲛ	VERB	V	VerbForm=Fin	4	advcl	_	_
+25	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	24	advmod	_	_
+26-28	ⲙⲡⲉϥⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
+26	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	28	det	_	Entity=(abstract
+28	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	24	obj	_	Entity=abstract)
+29-30	ⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+29	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	30	det	_	Entity=(abstract
+30	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	24	parataxis	_	Entity=abstract)
+31-32	ϣⲁⲉⲛⲉϩ	_	_	_	_	_	_	_	_
+31	ϣⲁ	ϣⲁ	ADP	PREP	_	32	case	_	_
+32	ⲉⲛⲉϩ	ⲉⲛⲉϩ	NOUN	N	_	24	obl	_	Entity=(time)
+

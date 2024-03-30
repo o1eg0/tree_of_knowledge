@@ -1,0 +1,146 @@
+# newdoc id = sahidic.ot:24_Jeremiah_34
+# sent_id = sahidic_ot-24_Jeremiah_34_s0001
+# text_en = Thus said the Lord; Make to thyself bonds and yokes, and put them about thy neck,
+# text = ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲛⲧⲁⲡϫⲟⲉⲓⲥ ϫⲟⲟⲥ ϫⲉⲧⲁⲙⲓⲟ ⲛⲁⲕ ⲛϩⲛⲙⲣⲣⲉ ⲙⲛϩⲛⲕⲗⲁⲗ ⲛⲅⲧⲁⲗⲟⲟⲩ ⲉϩⲣⲁⲓ ⲉϫⲙⲡⲉⲕⲙⲁⲕϩ
+1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)
+2	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	1	cop	_	_
+3-4	ⲧϩⲉ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Orig=ⲑ
+4	ϩⲉ	ϩⲉ	NOUN	N	_	1	nsubj	_	Orig=ⲉ
+5-8	ⲛⲧⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+6	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(person
+8	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	9	nsubj	_	Entity=person)
+9-10	ϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+9	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	4	acl	_	_
+10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11-12	ϫⲉⲧⲁⲙⲓⲟ	_	_	_	_	_	_	_	_
+11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
+12	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	VerbForm=Fin	9	ccomp	_	_
+13-14	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	14	case	_	_
+14	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obl	_	_
+15-17	ⲛϩⲛⲙⲣⲣⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ϩⲛ	ϩⲛ	DET	ART	_	17	det	_	Entity=(abstract
+17	ⲙⲣⲣⲉ	ⲙⲣⲣⲉ	NOUN	N	_	12	obj	_	Entity=abstract)
+18-20	ⲙⲛϩⲛⲕⲗⲁⲗ	_	_	_	_	_	_	_	_
+18	ⲙⲛ	ⲙⲛ	ADP	PREP	_	20	cc	_	_
+19	ϩⲛ	ϩⲛ	DET	ART	_	20	det	_	Entity=(object
+20	ⲕⲗⲁⲗ	ⲕⲗⲁⲗ	NOUN	N	_	17	conj	_	Entity=object)
+21-24	ⲛⲅⲧⲁⲗⲟⲟⲩ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	23	aux	_	_
+22	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	_
+23	ⲧⲁⲗⲟ	ⲧⲁⲗⲟ	VERB	V	VerbForm=Fin	12	advcl	_	_
+24	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	obj	_	_
+25	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	23	advmod	_	_
+26-28	ⲉϫⲙⲡⲉⲕⲙⲁⲕϩ	_	_	_	_	_	_	_	_
+26	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	28	case	_	_
+27	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	28	det	_	Entity=(object
+28	ⲙⲁⲕϩ	ⲙⲁⲕϩ	NOUN	N	_	23	obl	_	Entity=object)
+
+# sent_id = sahidic_ot-24_Jeremiah_34_s0002
+# text_en = and thou shalt send them to the king of Idumea, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Sidon, by the hands of their messengers that come to meet them at Jerusalem to Sedekias king of Juda.
+# text = ⲁⲩⲱ ⲉⲕⲉϫⲟⲟⲩⲥⲉ ϣⲁⲡⲣⲣⲟ ⲛⲧⲓⲇⲟⲩⲙⲁⲓⲁ ⲁⲩⲱ ϣⲁⲡⲣⲣⲟ ⲙⲙⲱⲁⲃ ⲁⲩⲱ ϣⲁⲡⲣⲣⲟ ⲛⲛϣⲏⲣⲉ ⲛⲁⲙⲙⲱⲛ ⲁⲩⲱ ϣⲁⲡⲣⲣⲟ ⲛⲇⲩⲣⲟⲥ ⲙⲛⲡⲣⲣⲟ ⲛⲥⲓⲇⲱⲛ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲛⲛⲉⲩⲃⲁⲓϣⲓⲛⲉ ⲉⲧⲛⲏⲩ ⲉϩⲣⲁⲓ ⲉⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲉⲣⲁⲧϥ ⲛⲥⲉⲇⲉⲕⲓⲁⲥ ⲡⲣⲣⲟ ⲛⲓⲟⲩⲇⲁ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2-4	ⲉⲕⲉϫⲟⲟⲩⲥⲉ	_	_	_	_	_	_	_	_
+2	ⲉⲕⲉ	ⲉⲣⲉ_ⲛⲧⲟⲕ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+5-7	ϣⲁⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+5	ϣⲁ	ϣⲁ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	3	obl	_	_
+8-10	ⲛⲧⲓⲇⲟⲩⲙⲁⲓⲁ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Entity=(place|Orig=ϯ
+10	ⲓⲇⲟⲩⲙⲁⲓⲁ	ⲓⲇⲟⲩⲙⲁⲓⲁ	NOUN	N	_	7	nmod	_	Entity=place)person)|Orig=ⲇⲟⲩⲙⲁⲓⲁ
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+12-14	ϣⲁⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+12	ϣⲁ	ϣⲁ	ADP	PREP	_	14	case	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(person
+14	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	7	conj	_	_
+15-16	ⲙⲙⲱⲁⲃ	_	_	_	_	_	_	_	_
+15	ⲙ	ⲛ	ADP	PREP	_	16	case	_	_
+16	ⲙⲱⲁⲃ	ⲙⲱⲁⲃ	PROPN	NPROP	Foreign=Yes	14	nmod	_	Entity=(place-Moab)person)|OrigLang=he
+17	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	20	cc	_	_
+18-20	ϣⲁⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+18	ϣⲁ	ϣⲁ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(person
+20	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	7	conj	_	_
+21-23	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	23	det	_	Entity=(person
+23	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	20	nmod	_	_
+24-25	ⲛⲁⲙⲙⲱⲛ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+25	ⲁⲙⲙⲱⲛ	ⲁⲙⲙⲱⲛ	PROPN	NPROP	_	23	nmod	_	Entity=(person-Ammon)
+26	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	29	cc	_	_
+27-29	ϣⲁⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+27	ϣⲁ	ϣⲁ	ADP	PREP	_	29	case	_	_
+28	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	Entity=(person
+29	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	7	conj	_	_
+30-31	ⲛⲇⲩⲣⲟⲥ	_	_	_	_	_	_	_	_
+30	ⲛ	ⲛ	ADP	PREP	_	31	case	_	_
+31	ⲇⲩⲣⲟⲥ	ⲇⲩⲣⲟⲥ	NOUN	N	_	29	nmod	_	Entity=(person)
+32-34	ⲙⲛⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+32	ⲙⲛ	ⲙⲛ	ADP	PREP	_	34	cc	_	_
+33	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	Entity=(person
+34	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	29	conj	_	_
+35-36	ⲛⲥⲓⲇⲱⲛ	_	_	_	_	_	_	_	_
+35	ⲛ	ⲛ	ADP	PREP	_	36	case	_	_
+36	ⲥⲓⲇⲱⲛ	ⲥⲓⲇⲱⲛ	PROPN	NPROP	Foreign=Yes	34	nmod	_	Entity=(place-Sidon)|OrigLang=grc
+37	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	39	case	_	_
+38-39	ϩⲓⲧⲟⲟⲧⲟⲩ	_	_	_	_	_	_	_	_
+38	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	37	fixed	_	_
+39	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	34	nmod	_	Entity=person)
+40-42	ⲛⲛⲉⲩⲃⲁⲓϣⲓⲛⲉ	_	_	_	_	_	_	_	_
+40	ⲛ	ⲛ	ADP	PREP	_	42	case	_	_
+41	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	42	det	_	Entity=(person
+42	ⲃⲁⲓϣⲓⲛⲉ	ⲃⲁⲓϣⲓⲛⲉ	NOUN	N	_	23	nmod	_	_
+43-44	ⲉⲧⲛⲏⲩ	_	_	_	_	_	_	_	_
+43	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	44	mark	_	_
+44	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	42	acl	_	_
+45	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	44	advmod	_	_
+46-48	ⲉⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	_	_	_	_	_	_	_	_
+46	ⲉ	ⲉ	ADP	PREP	_	48	case	_	_
+47	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	Entity=(place-Jerusalem|Orig=ⲑ
+48	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	PROPN	NPROP	Foreign=Yes	44	obl	_	Entity=place-Jerusalem)|Orig=ⲓⲗⲏⲙ|OrigLang=he
+49-50	ⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
+49	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	50	case	_	_
+50	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	obl	_	Entity=person)person)person)
+51-52	ⲛⲥⲉⲇⲉⲕⲓⲁⲥ	_	_	_	_	_	_	_	_
+51	ⲛ	ⲛ	ADP	PREP	_	52	case	_	_
+52	ⲥⲉⲇⲉⲕⲓⲁⲥ	ⲥⲉⲇⲉⲕⲓⲁⲥ	PROPN	NPROP	_	29	nmod	_	Entity=(person-Zedekiah
+53-54	ⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+53	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_
+54	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	52	appos	_	_
+55-56	ⲛⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+55	ⲛ	ⲛ	ADP	PREP	_	56	case	_	_
+56	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	54	nmod	_	Entity=(place-Judea)person-Zedekiah)person)|OrigLang=he
+
+# sent_id = sahidic_ot-24_Jeremiah_34_s0003
+# text_en = And thou shalt commission them to say to their lords, Thus said the Lord God of Israel; Thus shall ye say to your lords;
+# text = ⲁⲩⲱ ⲉⲕⲉϩⲱⲛ ⲉⲧⲟⲟⲧⲟⲩ ⲉⲧⲣⲉⲩϫⲟⲟⲥ ⲛⲛⲉⲩϫⲓⲥⲟⲟⲩⲉ ϫⲉ…
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2-3	ⲉⲕⲉϩⲱⲛ	_	_	_	_	_	_	_	_
+2	ⲉⲕⲉ	ⲉⲣⲉ_ⲛⲧⲟⲕ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	ϩⲱⲛ	ϩⲱⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲉⲧⲟⲟⲧⲟⲩ	_	_	_	_	_	_	_	_
+4	ⲉⲧⲟⲟⲧ	ⲉⲧⲛ	ADP	PREP	_	5	case	_	_
+5	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
+6-10	ⲉⲧⲣⲉⲩϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉ	PART	PREP	_	7	mark	_	_
+7	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	3	xcomp	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	7	xcomp	_	_
+10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11-13	ⲛⲛⲉⲩϫⲓⲥⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	Entity=(person
+13	ϫⲓⲥⲟⲟⲩⲉ	ϫⲟⲉⲓⲥ	NOUN	N	_	9	obl	_	Entity=person)
+14-15	ϫⲉ…	_	_	_	_	_	_	_	_
+14	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	15	mark	_	_
+15	…	UNKNOWN	X	UNKNOWN	_	9	ccomp	_	_
+

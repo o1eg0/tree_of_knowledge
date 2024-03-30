@@ -1,0 +1,28 @@
+# newdoc id = sahidic.ot:02_Exodus_27
+# sent_id = sahidic_ot-02_Exodus_27_s0001
+# text_en = in the tabernacle of the testimony, without the veil that is before the ark of the covenant, shall Aaron and his sons burn it from evening until morning, before the Lord: it is a perpetual ordinance throughout your generations of the children of Israel.
+# text = ⲙⲛⲧⲣⲉ ⲡⲃⲟⲗ ⲙⲡⲕⲁⲧⲁⲡⲉⲧⲁⲥⲙⲁ ⲡⲉⲧϩⲓⲣⲱⲥ ⲛⲧⲇⲓⲁⲑⲏⲕⲏ ⲉⲣⲉⲁⲁⲣⲱⲛ ϫⲉⲣⲱϥ
+1	ⲙⲛⲧⲣⲉ	ⲙⲛⲧⲣⲉ	NOUN	N	_	0	root	_	Entity=(abstract
+2-3	ⲡⲃⲟⲗ	_	_	_	_	_	_	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ⲃⲟⲗ	ⲃⲟⲗ	NOUN	N	_	1	appos	_	_
+4-6	ⲙⲡⲕⲁⲧⲁⲡⲉⲧⲁⲥⲙⲁ	_	_	_	_	_	_	_	_
+4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(object
+6	ⲕⲁⲧⲁⲡⲉⲧⲁⲥⲙⲁ	ⲕⲁⲧⲁⲡⲉⲧⲁⲥⲙⲁ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=object)|OrigLang=grc
+7-10	ⲡⲉⲧϩⲓⲣⲱⲥ	_	_	_	_	_	_	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	appos	_	_
+8	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+9	ϩⲓⲣⲱ	ϩⲓⲣⲱ	VERB	VBD	VerbForm=Fin	7	acl	_	_
+10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11-13	ⲛⲧⲇⲓⲁⲑⲏⲕⲏ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Entity=(abstract
+13	ⲇⲓⲁⲑⲏⲕⲏ	ⲇⲓⲁⲑⲏⲕⲏ	NOUN	N	Foreign=Yes	9	obl	_	Entity=abstract)abstract)|OrigLang=grc
+14-15	ⲉⲣⲉⲁⲁⲣⲱⲛ	_	_	_	_	_	_	_	_
+14	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	16	mark	_	_
+15	ⲁⲁⲣⲱⲛ	ⲁⲁⲣⲱⲛ	PROPN	NPROP	_	16	nsubj	_	Entity=(person-Aaron)
+16-17	ϫⲉⲣⲱϥ	_	_	_	_	_	_	_	_
+16	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	1	advcl	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+

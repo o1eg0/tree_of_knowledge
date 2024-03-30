@@ -1,0 +1,226 @@
+# newdoc id = sahidic.ot:01_Genesis_25
+# sent_id = sahidic_ot-01_Genesis_25_s0001
+# text_en = And these the generations of Isaac the son of Abraam.
+# text = . . . ⲛⲁⲓ ⲇⲉⲛⲉ ⲛⲉϫⲡⲟ ⲛⲓⲥⲁⲁⲕ ⲡϣⲏⲣⲉ ⲛⲁⲃⲣⲁϩⲁⲙⲙ
+1	.	.	PUNCT	PUNCT	_	0	punct	_	_
+2	.	.	PUNCT	PUNCT	_	0	punct	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	_
+4	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	8	dislocated	_	Entity=(abstract)
+5-6	ⲇⲉⲛⲉ	_	_	_	_	_	_	_	_
+5	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
+6	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	8	aux	_	_
+7-8	ⲛⲉϫⲡⲟ	_	_	_	_	_	_	_	_
+7	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(person
+8	ϫⲡⲟ	ϫⲡⲟ	NOUN	N	_	0	root	_	_
+9-10	ⲛⲓⲥⲁⲁⲕ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	8	nmod	_	Entity=(person-Isaac|OrigLang=he
+11-12	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	10	appos	_	Entity=person-Isaac)person)
+13	ⲛⲁⲃⲣⲁϩⲁⲙⲙ	ⲛⲁⲃⲣⲁϩⲁⲙⲙ	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-01_Genesis_25_s0002
+# text_en = Abraam begot Isaac. And Isaac was forty years old when he took to wife Rebecca, daughter of Bathuel the Syrian, out of Syrian Mesopotamia, sister of Laban the Syrian.
+# text = ⲁⲃⲣⲁϩⲁⲙ ⲁϥϫⲡⲉⲓⲥⲁⲁⲕ ⲓⲥⲁⲁⲕ ⲇⲉ ⲛⲉϥϩⲛϩⲙⲉ ⲛⲣⲟⲙⲡⲉⲡⲉ ⲉϥⲛⲁϫⲓ ⲛϩⲣⲉⲃⲉⲕⲕⲁ ⲧϣⲉⲉⲣⲉ ⲛⲃⲁⲑⲟⲩⲏⲗ ⲡⲥⲩⲣⲟⲥ ⲉⲃⲟⲗ ϩⲛⲧⲙⲉⲥⲟⲡⲟⲧⲁⲙⲓⲁ ⲧⲥⲱⲛⲉ ⲛⲗⲁⲃⲁⲛ ⲡⲥⲩⲣⲟⲥ ⲛⲁϥ ⲛⲥϩⲓⲙⲉ
+1	ⲁⲃⲣⲁϩⲁⲙ	ⲁⲃⲣⲁϩⲁⲙ	PROPN	NPROP	Foreign=Yes	4	dislocated	_	Entity=(person-Abraham)|OrigLang=he
+2-5	ⲁϥϫⲡⲉⲓⲥⲁⲁⲕ	_	_	_	_	_	_	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ϫⲡⲉ	ϫⲡⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	4	obj	_	Entity=(person-Isaac)|OrigLang=he
+6	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	13	dislocated	_	Entity=(person-Isaac)|OrigLang=he
+7	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	13	advmod	_	OrigLang=grc
+8-11	ⲛⲉϥϩⲛϩⲙⲉ	_	_	_	_	_	_	_	_
+8	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	13	aux	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+10	ϩⲛ	ϩⲛ	ADP	PREP	_	13	case	_	_
+11	ϩⲙⲉ	ϩⲙⲉ	NUM	NUM	NumType=Card	13	nummod	_	Entity=(time
+12-14	ⲛⲣⲟⲙⲡⲉⲡⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	4	parataxis	_	_
+14	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	13	cop	_	_
+15-18	ⲉϥⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+15	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	17	mark	_	_
+16	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	ⲛⲁϫ	ⲛⲁϫ	VERB	V	VerbForm=Fin	13	acl	_	_
+18	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	17	obj	_	_
+19-20	ⲛϩⲣⲉⲃⲉⲕⲕⲁ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ϩⲣⲉⲃⲉⲕⲕⲁ	ϩⲣⲉⲃⲉⲕⲕⲁ	PROPN	NPROP	Foreign=Yes	17	obl	_	Entity=(person-Rebecca|OrigLang=he
+21-22	ⲧϣⲉⲉⲣⲉ	_	_	_	_	_	_	_	_
+21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	20	appos	_	_
+23-24	ⲛⲃⲁⲑⲟⲩⲏⲗ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ⲃⲁⲑⲟⲩⲏⲗ	ⲃⲁⲑⲟⲩⲏⲗ	PROPN	NPROP	_	22	nmod	_	Entity=(person)
+25-26	ⲡⲥⲩⲣⲟⲥ	_	_	_	_	_	_	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	ⲥⲩⲣⲟⲥ	ⲥⲩⲣⲟⲥ	NOUN	N	_	20	appos	_	_
+27	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	30	case	_	_
+28-30	ϩⲛⲧⲙⲉⲥⲟⲡⲟⲧⲁⲙⲓⲁ	_	_	_	_	_	_	_	_
+28	ϩⲛ	ϩⲛ	ADP	PREP	_	27	fixed	_	_
+29	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	ⲙⲉⲥⲟⲡⲟⲧⲁⲙⲓⲁ	ⲙⲉⲥⲟⲡⲟⲧⲁⲙⲓⲁ	PROPN	NPROP	_	20	appos	_	_
+31-32	ⲧⲥⲱⲛⲉ	_	_	_	_	_	_	_	_
+31	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	ⲥⲱⲛⲉ	ⲥⲱⲛⲉ	NOUN	N	_	30	appos	_	_
+33-34	ⲛⲗⲁⲃⲁⲛ	_	_	_	_	_	_	_	_
+33	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
+34	ⲗⲁⲃⲁⲛ	ⲗⲁⲃⲁⲛ	PROPN	NPROP	Foreign=Yes	32	nmod	_	Entity=(person-Laban_%28Bible%29|OrigLang=he
+35-36	ⲡⲥⲩⲣⲟⲥ	_	_	_	_	_	_	_	_
+35	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	ⲥⲩⲣⲟⲥ	ⲥⲩⲣⲟⲥ	NOUN	N	_	34	appos	_	_
+37-38	ⲛⲁϥ	_	_	_	_	_	_	_	_
+37	ⲛⲁ	ⲛⲁ	ADP	PREP	_	38	case	_	_
+38	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nmod	_	_
+39-40	ⲛⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+39	ⲛ	ⲛ	ADP	PREP	_	40	case	_	_
+40	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	36	nmod	_	Entity=(person)person-Laban_%28Bible%29)person-Rebecca)time)
+
+# sent_id = sahidic_ot-01_Genesis_25_s0003
+# text_en = And Isaac prayed the Lord concerning Rebecca his wife, because she was barren; and the Lord heard him, and his wife Rebecca conceived in her womb.
+# text = ⲁⲓⲥⲁⲁⲕ ⲇⲉ ⲧⲱⲃϩ ⲙⲡϫⲟⲉⲓⲥ ⲙⲁⲁⲧ ⲛⲧⲟⲕ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲙⲡϫⲟⲉⲓⲥ
+1-2	ⲁⲓⲥⲁⲁⲕ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	4	nsubj	_	Entity=(person-Isaac)|OrigLang=he
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4	ⲧⲱⲃϩ	ⲧⲱⲃϩ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	4	obl	_	_
+8	ⲙⲁⲁⲧ	ⲙⲁⲁⲧ	PROPN	NPROP	_	7	appos	_	Entity=person)
+9	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	dislocated	_	_
+10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	12	case	_	_
+11-12	ϩⲓⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+11	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	10	fixed	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+13-15	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(person
+15	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	12	nmod	_	Entity=person)
+
+# sent_id = sahidic_ot-01_Genesis_25_s0004
+# text_en = And Esau said to Jacob, Let me taste of that red pottage, because I am fainting; therefore his name was called Edom.
+# text = ⲁϥⲉⲓⲣⲉ ⲉⲣⲟⲟⲩ ⲛⲛⲟⲩϣⲟⲡⲥ ⲁⲩⲟⲩⲱⲙ ⲁⲩⲥⲱ
+1-3	ⲁϥⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲉⲣⲟⲟⲩ	_	_	_	_	_	_	_	_
+4	ⲉⲣⲟ	ⲉ	ADP	PREP	_	5	case	_	_
+5	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
+6-8	ⲛⲛⲟⲩϣⲟⲡⲥ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲛⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	Entity=(abstract
+8	ϣⲟⲡⲥ	ϣⲟⲡⲥ	NOUN	N	_	3	obj	_	Entity=abstract)
+9-11	ⲁⲩⲟⲩⲱⲙ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+12-14	ⲁⲩⲥⲱ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲥⲱ	ⲥⲱ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+
+# sent_id = sahidic_ot-01_Genesis_25_s0005
+# text_en = And Jacob said to Esau, Sell me this day thy birthright.
+# text = ⲁⲩⲧⲱⲟⲩⲛ ⲉϩⲧⲟⲟⲩⲉ ⲉⲣⲉⲡⲣⲱⲙⲉ ⲱⲣⲕ ⲉⲡⲉϥϩⲓⲧⲟⲩⲱϥ ⲁⲓⲥⲁⲁⲕ ⲧⲛⲛⲟⲟⲩⲥⲟⲩ ⲁⲩⲃⲱⲕ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ϩⲛⲟⲩⲟⲩϫⲁⲓ
+1-3	ⲁⲩⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲉϩⲧⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+4	ⲉ	ⲉ	ADP	PREP	_	5	case	_	_
+5	ϩⲧⲟⲟⲩⲉ	ϩⲧⲟⲟⲩⲉ	NOUN	N	_	3	obl	_	Entity=(time)
+6-8	ⲉⲣⲉⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+6	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(person
+8	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	10	nsubj	_	Entity=person)
+9-11	ⲱⲣⲕ	_	_	_	_	_	_	_	_
+9	ⲱ	ⲱ	PART	PTC	Foreign=Yes	10	discourse	_	OrigLang=grc
+10	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	3	advcl	_	_
+11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+12-15	ⲉⲡⲉϥϩⲓⲧⲟⲩⲱϥ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
+13	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+14	ϩⲓⲧⲟⲩⲱ	ϩⲓⲧⲟⲩⲛ	ADP	PREP	_	15	case	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+16-17	ⲁⲓⲥⲁⲁⲕ	_	_	_	_	_	_	_	_
+16	ⲁ	ⲁ	AUX	APST	_	18	aux	_	_
+17	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	18	nsubj	_	Entity=(person-Isaac)|OrigLang=he
+18-20	ⲧⲛⲛⲟⲟⲩⲥⲟⲩ	_	_	_	_	_	_	_	_
+18	ⲧⲛⲛⲟⲟⲩ	ⲧⲛⲛⲟⲟⲩ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+19	ⲥⲟ	ⲥⲟ	NOUN	N	_	18	obj	_	Entity=(person
+20	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	19	det	_	Entity=person)
+21-23	ⲁⲩⲃⲱⲕ	_	_	_	_	_	_	_	_
+21	ⲁ	ⲁ	AUX	APST	_	23	aux	_	_
+22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	18	parataxis	_	_
+24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	26	case	_	_
+25-26	ϩⲓⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+25	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	24	fixed	_	_
+26	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obl	_	_
+27-29	ϩⲛⲟⲩⲟⲩϫⲁⲓ	_	_	_	_	_	_	_	_
+27	ϩⲛ	ϩⲛ	ADP	PREP	_	29	case	_	_
+28	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	29	det	_	Entity=(abstract
+29	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	NOUN	N	_	23	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-01_Genesis_25_s0006
+# text_en = And Esau said, Behold, I am going to die, and for what good does this birthright to me?
+# text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ϩⲙⲡⲉϩⲟⲟⲩ ⲉⲧⲙⲙⲁⲩ ⲁⲩⲉⲓ ⲛϭⲓⲛϩⲙϩⲁⲗ ⲛⲓⲥⲁⲁⲕ ⲁⲩϫⲓⲡⲟⲩⲱ ⲉⲣⲟϥ ⲉⲧⲃⲉⲧϣⲱⲧⲉ ⲛⲧⲁⲩϣⲁⲕⲧⲥ ϫⲉⲙⲡⲟⲩϩⲉ ⲉⲙⲟⲟⲩ . . .
+1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-7	ϩⲙⲡⲉϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+5	ϩⲙ	ϩⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(time
+7	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	3	obl	_	_
+8-9	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+8	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+9	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	7	acl	_	Entity=time)
+10-12	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+13-15	ⲛϭⲓⲛϩⲙϩⲁⲗ	_	_	_	_	_	_	_	_
+13	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	15	case	_	_
+14	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	det	_	Entity=(person
+15	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	12	dislocated	_	_
+16-17	ⲛⲓⲥⲁⲁⲕ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	15	nmod	_	Entity=(person-Isaac)person)|OrigLang=he
+18-22	ⲁⲩϫⲓⲡⲟⲩⲱ	_	_	_	_	_	_	_	_
+18	ⲁ	ⲁ	AUX	APST	_	20	aux	_	_
+19	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+20	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	12	parataxis	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(abstract
+22	ⲟⲩⲱ	ⲟⲩⲱ	NOUN	N	_	20	obj	_	Entity=abstract)
+23-24	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+23	ⲉⲣⲟ	ⲉ	ADP	PREP	_	24	case	_	_
+24	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
+25-27	ⲉⲧⲃⲉⲧϣⲱⲧⲉ	_	_	_	_	_	_	_	_
+25	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	27	case	_	_
+26	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	Entity=(place
+27	ϣⲱⲧⲉ	ϣⲱⲧⲉ	NOUN	N	_	20	obl	_	_
+28-32	ⲛⲧⲁⲩϣⲁⲕⲧⲥ	_	_	_	_	_	_	_	_
+28	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	31	mark	_	_
+29	ⲁ	ⲁ	AUX	APST	_	31	aux	_	_
+30	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	31	nsubj	_	_
+31	ϣⲁⲕⲧ	ϣⲁⲕⲧ	VERB	V	VerbForm=Fin	27	acl	_	_
+32	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	obj	_	Entity=place)
+33-36	ϫⲉⲙⲡⲟⲩϩⲉ	_	_	_	_	_	_	_	_
+33	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	36	mark	_	_
+34	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	36	aux	_	_
+35	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	36	nsubj	_	_
+36	ϩⲉ	ϩⲉ	VERB	V	VerbForm=Fin	31	ccomp	_	_
+37-38	ⲉⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+37	ⲉ	ⲉ	ADP	PREP	_	38	case	_	_
+38	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	36	obl	_	Entity=(substance)
+39	.	.	PUNCT	PUNCT	_	0	punct	_	_
+40	.	.	PUNCT	PUNCT	_	0	punct	_	_
+41	.	.	PUNCT	PUNCT	_	0	punct	_	_
+

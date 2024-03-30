@@ -1,0 +1,1027 @@
+# newdoc id = sahidic.ot:71_Sirach_37
+# sent_id = sahidic_ot-71_Sirach_37_s0001
+# text_en = ...
+# text = ⲡϭⲱⲙ ⲉⲧⲉⲙⲛϫⲟⲗϫⲗ ⲙⲙⲟϥ ϣⲁⲩⲧⲟⲣⲡϥ ⲁⲩⲱ ⲡ ⲉⲧ ⲕⲱⲧⲉ ⲛⲁⲁϣ ⲁϩⲟⲙ ⲡⲙⲁ ⲉⲧⲉⲥϩⲓⲙⲉ ⲛ . ϩⲏⲧϥ ϣⲃⲏⲣ ⲛⲓⲙ ⲛⲁϫⲟⲟⲥ ϫⲉⲁⲓⲣ ϣⲃⲏⲣ ϩⲱ ⲁⲗⲗⲁ ⲟⲩⲛ ϣⲃⲏⲣ ⲉ ⲡⲉϥⲣⲁⲛ ⲙⲙⲁⲧⲉ ⲡⲉ ϣⲃⲏⲣ
+1-2	ⲡϭⲱⲙ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ϭⲱⲙ	ϭⲱⲙ	NOUN	N	_	10	dislocated	_	_
+3-5	ⲉⲧⲉⲙⲛϫⲟⲗϫⲗ	_	_	_	_	_	_	_	_
+3	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
+4	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	2	acl	_	_
+5	ϫⲟⲗϫⲗ	ϫⲟⲗϫⲗ	NOUN	N	_	4	nsubj	_	Entity=(person)
+6-7	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
+6	ⲙⲙⲟ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	Entity=abstract)
+8-11	ϣⲁⲩⲧⲟⲣⲡϥ	_	_	_	_	_	_	_	_
+8	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	10	aux	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲧⲟⲣⲡ	ⲧⲱⲣⲡ	VERB	V	VerbForm=Fin	0	root	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	19	cc	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	dislocated	_	Entity=(person
+14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	15	mark	_	_
+15	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	13	acl	_	_
+16-17	ⲛⲁⲁϣ	_	_	_	_	_	_	_	_
+16	ⲛⲁ	ⲛⲁ	ADP	PREP	_	7	case	_	_
+17	ⲁϣ	ⲁϣ	PRON	PINT	PronType=Int	15	obl	_	Entity=person)
+18-19	ⲁϩⲟⲙ	_	_	_	_	_	_	_	_
+18	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
+19	ϩⲟⲙ	ϩⲟⲙ	PROPN	NPROP	_	10	conj	_	Entity=(abstract
+20-21	ⲡⲙⲁ	_	_	_	_	_	_	_	_
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	ⲙⲁ	ⲙⲁ	NOUN	N	_	19	appos	_	_
+22-24	ⲉⲧⲉⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+22	ⲉ	ⲉ	ADP	PREP	_	24	case	_	_
+23	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	Entity=(person
+24	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	21	nmod	_	Entity=person)abstract)
+25	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+26	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+27-28	ϩⲏⲧϥ	_	_	_	_	_	_	_	_
+27	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	32	nsubj	_	Entity=(abstract
+28	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	27	det	_	_
+29	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	32	nsubj	_	Entity=(person)
+30	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	27	det	_	Entity=abstract)
+31-33	ⲛⲁϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+31	ⲛⲁ	ⲛⲁ	AUX	FUT	_	32	aux	_	_
+32	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	10	parataxis	_	_
+33	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	obj	_	_
+34-37	ϫⲉⲁⲓⲣ	_	_	_	_	_	_	_	_
+34	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	37	mark	_	_
+35	ⲁ	ⲁ	AUX	APST	_	37	aux	_	_
+36	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	37	nsubj	_	_
+37	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	32	ccomp	_	_
+38	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	37	obj	_	Entity=(person)
+39	ϩⲱ	ϩⲱⲱ	ADV	IMOD	_	37	advmod	_	_
+40	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	41	cc	_	OrigLang=grc
+41	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	37	conj	_	_
+42	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	41	nsubj	_	Entity=(person)
+43	ⲉ	ⲉ	ADP	PREP	_	45	case	_	_
+44-45	ⲡⲉϥⲣⲁⲛ	_	_	_	_	_	_	_	_
+44	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	45	det	_	Entity=(abstract
+45	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	41	obl	_	Entity=abstract)
+46	ⲙⲙⲁⲧⲉ	ⲙⲙⲁⲧⲉ	ADV	ADV	_	48	advmod	_	_
+47	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	Entity=(person
+48	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	41	nsubj	_	Entity=person)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0002
+# text_en = ...
+# text = ⲛⲓⲙ ⲡ ⲉⲧ ⲛⲁⲧⲁⲛϩⲟⲩⲧ … ⲉϥϩⲏⲕ ⲉϥϥⲱϭⲉ ⲉⲃⲟⲗ ϩⲛⲟⲩⲡⲟⲗⲓⲥ ⲉⲡⲟⲗⲓⲥ ⲙⲏ ⲙⲛⲗⲩⲡⲏ ϣⲟⲟⲡ ϣⲁϩⲣⲁⲓ ⲉⲡⲙⲟⲩ ⲁⲩⲱ ⲟⲩⲛ ϣⲃⲏⲣ ⲉⲩⲛⲙⲙⲁⲕ ⲉ ϣⲁⲩⲕⲟⲧⲟⲩ ⲉⲩⲙⲛⲧϫⲁϫⲉ
+1	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	0	root	_	_
+2	ⲡ	ⲡ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
+3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+4-5	ⲛⲁⲧⲁⲛϩⲟⲩⲧ	_	_	_	_	_	_	_	_
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ⲧⲁⲛϩⲟⲩⲧ	ⲧⲁⲛϩⲟⲩⲧ	VERB	V	VerbForm=Fin	1	csubj	_	_
+6	…	UNKNOWN	X	UNKNOWN	_	5	advmod	_	_
+7-9	ⲉϥϩⲏⲕ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ϩⲏⲕ	ϩⲏⲕ	VERB	V	VerbForm=Fin	5	advcl	_	_
+10-12	ⲉϥϥⲱϭⲉ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ϥⲱϭⲉ	ϥⲱϭⲉ	VERB	V	VerbForm=Fin	9	advcl	_	_
+13	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	12	advmod	_	_
+14-16	ϩⲛⲟⲩⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	16	case	_	_
+15	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	16	det	_	Entity=(place
+16	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	12	obl	_	Entity=place)|OrigLang=grc
+17-18	ⲉⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+17	ⲉ	ⲉ	ADP	PREP	_	18	case	_	Orig=[ⲉ
+18	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	12	obl	_	Entity=(place)|Orig=ⲡⲟⲗⲓⲥ]|OrigLang=grc
+19	ⲙⲏ	ⲙⲏ	CCONJ	CONJ	Foreign=Yes	22	advmod	_	OrigLang=grc
+20-21	ⲙⲛⲗⲩⲡⲏ	_	_	_	_	_	_	_	_
+20	ⲙⲛ	ⲙⲛ	AUX	EXIST	Polarity=Neg	22	aux	_	_
+21	ⲗⲩⲡⲏ	ⲗⲩⲡⲏ	NOUN	N	Foreign=Yes	22	nsubj	_	Entity=(abstract)|OrigLang=grc
+22	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	12	conj	_	_
+23	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	22	advmod	_	_
+24-26	ⲉⲡⲙⲟⲩ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	26	case	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Entity=(event
+26	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	22	obl	_	Entity=event)
+27	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	28	cc	_	_
+28	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	22	conj	_	_
+29	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	28	nsubj	_	Entity=(person
+30-33	ⲉⲩⲛⲙⲙⲁⲕ	_	_	_	_	_	_	_	_
+30	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	33	mark	_	_
+31	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_
+32	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	33	case	_	_
+33	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	29	acl	_	Entity=person)
+34	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	37	mark	_	_
+35-38	ϣⲁⲩⲕⲟⲧⲟⲩ	_	_	_	_	_	_	_	_
+35	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	37	aux	_	_
+36	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	37	nsubj	_	_
+37	ⲕⲟⲧ	ⲕⲱⲧ	VERB	V	VerbForm=Fin	28	advcl	_	_
+38	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	37	obj	_	_
+39-41	ⲉⲩⲙⲛⲧϫⲁϫⲉ	_	_	_	_	_	_	_	_
+39	ⲉ	ⲉ	ADP	PREP	_	41	case	_	_
+40	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	41	det	_	Entity=(abstract
+41	ⲙⲛⲧϫⲁϫⲉ	ⲙⲛⲧϫⲁϫⲉ	NOUN	N	_	37	obl	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ϫⲁϫⲉ
+
+# sent_id = sahidic_ot-71_Sirach_37_s0003
+# text_en = ...
+# text = ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲙⲛⲧϥ … ⲡⲉ ⲉ ϣⲁϥϭⲟⲉⲓⲗⲉ ⲉⲡⲙⲁ ⲉⲧ ϥⲛⲁϫⲓ ⲣⲟⲩϩⲉ ⲛϩⲏⲧϥ ⲱ ⲡⲙⲉⲉⲩⲉ ⲉⲧϩⲟⲟⲩ ⲛⲧⲁⲕⲉⲓ ⲧⲱⲛ ⲉϩⲃⲥ ⲡⲕⲁϩ ϩⲛⲟⲩ. ⲕⲣⲟϥ
+1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)
+2	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	1	cop	_	_
+3-4	ⲧϩⲉ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Orig=ⲑ
+4	ϩⲉ	ϩⲉ	NOUN	N	_	1	nsubj	_	Orig=ⲉ
+5-7	ⲛⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	4	nmod	_	Entity=person)
+8-9	ⲙⲛⲧϥ	_	_	_	_	_	_	_	_
+8	ⲙⲛⲧ	ⲙⲛⲧⲉ	VERB	EXIST	Polarity=Neg	1	parataxis	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+10	…	UNKNOWN	X	UNKNOWN	_	8	nsubj	_	_
+11	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	8	cop	_	_
+12	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
+13-15	ϣⲁϥϭⲟⲉⲓⲗⲉ	_	_	_	_	_	_	_	_
+13	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	15	aux	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	ϭⲟⲉⲓⲗⲉ	ϭⲟⲉⲓⲗⲉ	VERB	V	VerbForm=Fin	10	acl	_	_
+16-18	ⲉⲡⲙⲁ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉ	ADP	PREP	_	18	case	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(place
+18	ⲙⲁ	ⲙⲁ	NOUN	N	_	15	obl	_	_
+19	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	22	mark	_	_
+20-22	ϥⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+21	ⲛⲁ	ⲛⲁ	AUX	FUT	_	22	aux	_	_
+22	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	18	acl	_	_
+23	ⲣⲟⲩϩⲉ	ⲣⲟⲩϩⲉ	NOUN	N	_	22	obj	_	Entity=(time)
+24-25	ⲛϩⲏⲧϥ	_	_	_	_	_	_	_	_
+24	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	25	case	_	_
+25	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	_
+26	ⲱ	ⲱ	PART	PTC	Foreign=Yes	28	discourse	_	OrigLang=grc
+27-28	ⲡⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
+27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(abstract
+28	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	NOUN	N	_	15	vocative	_	_
+29-30	ⲉⲧϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+29	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	30	mark	_	Orig=ⲉⲑ
+30	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	28	acl	_	Entity=abstract)|Orig=ⲟⲟⲩ
+31-34	ⲛⲧⲁⲕⲉⲓ	_	_	_	_	_	_	_	_
+31	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	34	mark	_	_
+32	ⲁ	ⲁ	AUX	APST	_	34	aux	_	_
+33	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	34	nsubj	_	_
+34	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	18	acl	_	_
+35	ⲧⲱⲛ	ⲧⲱⲛ	ADV	ADV	_	34	advmod	_	_
+36-37	ⲉϩⲃⲥ	_	_	_	_	_	_	_	_
+36	ⲉ	ⲉ	PART	PREP	_	37	mark	_	_
+37	ϩⲃⲥ	ϩⲱⲃⲥ	VERB	V	VerbForm=Inf	34	xcomp	_	_
+38-39	ⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+38	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	Entity=(place
+39	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	37	obj	_	Entity=place)
+40-42	ϩⲛⲟⲩ.	_	_	_	_	_	_	_	_
+40	ϩⲛ	ϩⲛ	ADP	PREP	_	41	case	_	_
+41	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	37	obl	_	Entity=place)
+42	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+43-44	ⲕⲣⲟϥ	_	_	_	_	_	_	_	_
+43	ⲕⲣⲟ	ⲕⲣⲟ	VERB	V	VerbForm=Fin	8	parataxis	_	_
+44	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	obj	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0004
+# text_en = ...
+# text = ϣⲁⲣⲉⲟⲩϣⲃⲏⲣ ϩⲏⲇⲟⲛⲉ ⲙⲡⲉϥϣⲃⲏⲣ ϩⲛⲟⲩⲟⲩⲛⲟϥ ⲁⲩⲱ ϩⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲛⲧⲉⲑⲗⲓⲯⲓⲥ ϥⲛⲁϯ ⲟⲩⲃⲏϥ
+1-3	ϣⲁⲣⲉⲟⲩϣⲃⲏⲣ	_	_	_	_	_	_	_	_
+1	ϣⲁⲣⲉ	ϣⲁⲣⲉ	AUX	AAOR	_	4	aux	_	_
+2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	4	nsubj	_	Entity=person)
+4	ϩⲏⲇⲟⲛⲉ	ϩⲏⲇⲟⲛⲉ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϩⲏⲇⲁⲛⲉ
+5-7	ⲙⲡⲉϥϣⲃⲏⲣ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	Entity=(person
+7	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	4	obj	_	Entity=person)
+8-10	ϩⲛⲟⲩⲟⲩⲛⲟϥ	_	_	_	_	_	_	_	_
+8	ϩⲛ	ϩⲛ	ADP	PREP	_	10	case	_	_
+9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
+10	ⲟⲩⲛⲟϥ	ⲟⲩⲛⲟϥ	NOUN	N	_	4	obl	_	Entity=abstract)
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+12-14	ϩⲙⲡⲉⲟⲩⲟⲉⲓϣ	_	_	_	_	_	_	_	_
+12	ϩⲙ	ϩⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(time
+14	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	NOUN	N	_	10	conj	_	_
+15-17	ⲛⲧⲉⲑⲗⲓⲯⲓⲥ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ⲑⲗⲓⲯⲓⲥ	ⲑⲗⲓⲯⲓⲥ	NOUN	N	Foreign=Yes	14	nmod	_	Entity=abstract)time)|OrigLang=grc
+18-20	ϥⲛⲁϯ	_	_	_	_	_	_	_	_
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+19	ⲛⲁ	ⲛⲁ	AUX	FUT	_	20	aux	_	_
+20	ϯ	ϯ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+21-22	ⲟⲩⲃⲏϥ	_	_	_	_	_	_	_	_
+21	ⲟⲩⲃⲏ	ⲟⲩⲃⲉ	ADP	PREP	_	22	case	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0005
+# text_en = ...
+# text = ϣⲁⲣⲉⲟⲩϣⲃⲏⲣ ϣⲡ ϩⲓⲥⲉ ⲙⲛⲡⲉϥϣⲃⲏⲣ ⲉⲧⲃⲉϩⲏⲧϥ ⲁⲩⲱ ϥⲛⲁϫⲓ ⲛⲟⲩϭⲗ ⲙⲡⲉⲙⲧⲟ . ⲉⲃⲟⲗ ⲛⲟⲩⲡⲟⲗⲉⲙⲟⲥ
+1-3	ϣⲁⲣⲉⲟⲩϣⲃⲏⲣ	_	_	_	_	_	_	_	_
+1	ϣⲁⲣⲉ	ϣⲁⲣⲉ	AUX	AAOR	_	4	aux	_	_
+2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	4	nsubj	_	Entity=person)
+4	ϣⲡ	ϣⲱⲡ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ϩⲓⲥⲉ	_	_	_	_	_	_	_	_
+5	ϩⲓ	ϩⲓ	ADP	PREP	_	6	case	_	_
+6	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+7-9	ⲙⲛⲡⲉϥϣⲃⲏⲣ	_	_	_	_	_	_	_	_
+7	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	cc	_	_
+8	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Entity=(person
+9	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	4	conj	_	Entity=person)
+10-11	ⲉⲧⲃⲉϩⲏⲧϥ	_	_	_	_	_	_	_	_
+10	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	11	case	_	_
+11	ϩⲏⲧϥ	ϩⲏⲧϥ	NOUN	N	_	4	obl	_	Entity=(abstract)
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
+13-15	ϥⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	ⲛⲁ	ⲛⲁ	AUX	FUT	_	15	aux	_	_
+15	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	4	conj	_	_
+16-18	ⲛⲟⲩϭⲗ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	18	det	_	Entity=(abstract
+18	ϭⲗ	ϭⲗ	NOUN	N	_	15	obj	_	_
+19-21	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(abstract
+21	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	18	nmod	_	_
+22	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+23	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	15	advmod	_	_
+24-26	ⲛⲟⲩⲡⲟⲗⲉⲙⲟⲥ	_	_	_	_	_	_	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+25	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	26	det	_	Entity=(event
+26	ⲡⲟⲗⲉⲙⲟⲥ	ⲡⲟⲗⲉⲙⲟⲥ	NOUN	N	Foreign=Yes	21	nmod	_	Entity=event)abstract)abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-71_Sirach_37_s0006
+# text_en = ...
+# text = ⲙⲡⲣⲣ ⲡⲱⲃϣ ⲙⲡⲉⲕϣⲃⲏⲣ ϩⲙⲡⲉⲕϩⲏⲧ ⲁⲩⲱ ⲙⲡⲣⲣ ⲡⲱⲃϣ ⲙⲡⲉⲕϣⲃⲏⲣ ϩⲛⲛⲉⲕⲭⲣⲏⲙⲁ
+1-2	ⲙⲡⲣⲣ	_	_	_	_	_	_	_	_
+1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	_
+2	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+3-4	ⲡⲱⲃϣ	_	_	_	_	_	_	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ⲱⲃϣ	ⲱⲃϣ	NOUN	N	_	2	obj	_	_
+5-7	ⲙⲡⲉⲕϣⲃⲏⲣ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	7	det	_	Entity=(person
+7	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	4	nmod	_	Entity=person)
+8-10	ϩⲙⲡⲉⲕϩⲏⲧ	_	_	_	_	_	_	_	_
+8	ϩⲙ	ϩⲛ	ADP	PREP	_	10	case	_	_
+9	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	10	det	_	Entity=(abstract
+10	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	2	obl	_	Entity=abstract)
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+12-13	ⲙⲡⲣⲣ	_	_	_	_	_	_	_	_
+12	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	13	advmod	_	_
+13	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	2	conj	_	_
+14-15	ⲡⲱⲃϣ	_	_	_	_	_	_	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ⲱⲃϣ	ⲱⲃϣ	NOUN	N	_	13	obj	_	_
+16-18	ⲙⲡⲉⲕϣⲃⲏⲣ	_	_	_	_	_	_	_	_
+16	ⲙ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	18	det	_	Entity=(person
+18	ϣⲃⲏⲣ	ϣⲃⲏⲣ	NOUN	N	_	15	nmod	_	Entity=person)
+19-21	ϩⲛⲛⲉⲕⲭⲣⲏⲙⲁ	_	_	_	_	_	_	_	_
+19	ϩⲛ	ϩⲛ	ADP	PREP	_	21	case	_	_
+20	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	21	det	_	Entity=(abstract
+21	ⲭⲣⲏⲙⲁ	ⲭⲣⲏⲙⲁ	NOUN	N	Foreign=Yes	13	obl	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-71_Sirach_37_s0007
+# text_en = ...
+# text = ⲣⲉϥϫⲓ . ϣⲟϫⲛⲉ ⲛⲓⲙ ⲛⲁⲧⲟⲩⲛⲉⲥ ⲟⲩϣⲟϫⲛⲉ . ϣⲟϫⲛⲉ ⲉⲣⲟϥ ⲟⲩⲁⲁϥ
+1	ⲣⲉϥϫⲓ	ⲣⲉϥϫⲓ	NOUN	N	_	3	dislocated	_	Entity=(person)|Morphs=ⲣⲉϥ-ϫⲓ
+2	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+3	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	3	obj	_	_
+5-6	ⲛⲁⲧⲟⲩⲛⲉⲥ	_	_	_	_	_	_	_	_
+5	ⲛⲁ	ⲛⲁ	AUX	FUT	_	6	aux	_	_
+6	ⲧⲟⲩⲛⲉⲥ	ⲧⲟⲩⲛⲟⲥ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+7-8	ⲟⲩϣⲟϫⲛⲉ	_	_	_	_	_	_	_	_
+7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(abstract
+8	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	NOUN	N	_	6	obj	_	Entity=abstract)
+9	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+10	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+11-12	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+11	ⲉⲣⲟ	ⲉ	ADP	PREP	_	12	case	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+13-14	ⲟⲩⲁⲁϥ	_	_	_	_	_	_	_	_
+13	ⲟⲩⲁⲁ	ⲟⲩⲁⲁ	ADV	IMOD	_	10	advmod	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	13	det	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0008
+# text_en = ...
+# text = ⲁⲣⲉϩ ⲧⲉⲕⲯⲩⲭⲏ ⲉⲣⲉϥϫⲓ . ϣⲟϫⲛⲉ ⲓⲛⲉ ⲛϣⲟⲣⲡ ϫⲉⲉϥⲁϩⲉ ⲛⲁⲕ ⲛⲟⲩⲕⲁⲓ
+1-2	ⲁⲣⲉϩ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	2	aux	_	Orig=[ⲁ
+2	ⲣⲉϩ	ⲣⲉϩ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲣⲉϩ]
+3-4	ⲧⲉⲕⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+3	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	Entity=(abstract
+4	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	2	obj	_	Entity=abstract)|OrigLang=grc
+5-6	ⲉⲣⲉϥϫⲓ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
+6	ⲣⲉϥϫⲓ	ⲣⲉϥϫⲓ	NOUN	N	_	2	obl	_	Entity=(person)|Morphs=ⲣⲉϥ-ϫⲓ
+7	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+8	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	VERB	V	VerbForm=Fin	2	parataxis	_	_
+9-10	ⲓⲛⲉ	_	_	_	_	_	_	_	_
+9	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	8	obj	_	_
+10	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	8	cop	_	_
+11-12	ⲛϣⲟⲣⲡ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+12	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	8	obl	_	_
+13-16	ϫⲉⲉϥⲁϩⲉ	_	_	_	_	_	_	_	_
+13	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	16	mark	_	_
+14	ⲉ	ⲉⲣⲉ	PART	CFOC	_	16	mark	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	ⲁϩⲉ	ⲱϩⲉ	VERB	V	VerbForm=Fin	8	ccomp	_	_
+17-18	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+17	ⲛⲁ	ⲛⲁ	ADP	PREP	_	18	case	_	_
+18	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	obl	_	_
+19-21	ⲛⲟⲩⲕⲁⲓ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+20	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0009
+# text_en = ...
+# text = ⲅⲁⲣ ϥⲛⲁϫⲓ ϣⲟϫⲛⲉ ⲉⲣⲟϥ ⲟⲩⲁⲁϥ ⲙⲏⲡⲟⲧⲉ ⲛϥⲛⲉϫ ⲕⲗⲏⲣⲟⲥ ⲉϫⲱⲕ
+1	ⲕⲁⲓ	ⲕⲁⲓ	CCONJ	CONJ	Foreign=Yes	5	cc	_	Orig=[ⲕⲁ]ⲓ|OrigLang=grc
+2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
+3-5	ϥⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+7-8	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+7	ⲉⲣⲟ	ⲉ	ADP	PREP	_	8	case	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+9-10	ⲟⲩⲁⲁϥ	_	_	_	_	_	_	_	_
+9	ⲟⲩⲁⲁ	ⲟⲩⲁⲁ	ADV	IMOD	_	5	advmod	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	9	det	_	_
+11	ⲙⲏⲡⲟⲧⲉ	ⲙⲏⲡⲟⲧⲉ	SCONJ	CONJ	Foreign=Yes	14	mark	_	OrigLang=grc
+12-14	ⲛϥⲛⲉϫ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲛⲉϫ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	5	advcl	_	_
+15	ⲕⲗⲏⲣⲟⲥ	ⲕⲗⲏⲣⲟⲥ	NOUN	N	Foreign=Yes	14	obj	_	Entity=(abstract)|OrigLang=grc
+16-17	ⲉϫⲱⲕ	_	_	_	_	_	_	_	_
+16	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	17	case	_	_
+17	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	obl	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0010
+# text_en = ...
+# text = ⲛϥϫⲟⲟⲥ ⲛⲁⲕ ϫⲉⲛⲁⲛⲟⲩ ⲧⲉⲕϩⲓⲏ ⲛϥⲁϩⲉ ⲣⲁⲧϥ ⲙⲡⲉⲕⲙⲧⲟ . ⲉⲃⲟⲗ ⲉⲛⲁⲩ ⲉⲡⲉⲧ ⲛⲁϣⲱⲡⲉ ⲙⲙⲟⲕ
+1-4	ⲛϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5-6	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+5	ⲛⲁ	ⲛⲁ	ADP	PREP	_	6	case	_	_
+6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+7-10	ϫⲉⲛⲁⲛⲟⲩ	_	_	_	_	_	_	_	_
+7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	8	mark	_	_
+8	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	15	advmod	_	_
+9	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	8	advmod	_	_
+10	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Ind	8	det	_	_
+11-12	ⲧⲉⲕϩⲓⲏ	_	_	_	_	_	_	_	_
+11	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	12	det	_	Entity=(abstract
+12	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	8	nsubj	_	Entity=abstract)
+13-15	ⲛϥⲁϩⲉ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	15	aux	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	ⲁϩⲉ	ⲱϩⲉ	VERB	V	VerbForm=Fin	3	ccomp	_	_
+16-17	ⲣⲁⲧϥ	_	_	_	_	_	_	_	_
+16	ⲣⲁⲧ	ⲣⲁⲧ	NOUN	N	_	15	obj	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	16	det	_	_
+18-20	ⲙⲡⲉⲕⲙⲧⲟ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(abstract
+20	ⲕⲙⲧⲟ	ⲕⲙⲧⲟ	NOUN	N	_	15	obl	_	Entity=abstract)
+21	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+22	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	24	advmod	_	_
+23-24	ⲉⲛⲁⲩ	_	_	_	_	_	_	_	_
+23	ⲉ	ⲉ	PART	PREP	_	24	mark	_	_
+24	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	15	xcomp	_	_
+25-27	ⲉⲡⲉⲧ	_	_	_	_	_	_	_	_
+25	ⲉ	ⲉ	ADP	PREP	_	26	case	_	_
+26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	obl	_	Entity=(person
+27	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	29	mark	_	_
+28-29	ⲛⲁϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+28	ⲛⲁ	ⲛⲁ	AUX	FUT	_	29	aux	_	_
+29	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	26	acl	_	_
+30-31	ⲙⲙⲟⲕ	_	_	_	_	_	_	_	_
+30	ⲙⲙⲟ	ⲛ	ADP	PREP	_	31	case	_	_
+31	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	29	obl	_	Entity=person)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0011
+# text_en = ...
+# text = ⲙⲡⲣϫⲓ ϣⲟϫⲛⲉ ⲙⲛⲡⲉⲧ ⲙⲟⲩϩ ⲛⲉⲓⲉⲓⲁⲧϥ ⲙⲙⲟⲕ ⲁⲩⲱ ϩⲱⲡ ⲛⲛⲉⲕϣⲁϫⲉ ⲛ ⲉⲧ ⲕⲱϩ ⲉⲣⲟⲕ
+1-2	ⲙⲡⲣϫⲓ	_	_	_	_	_	_	_	_
+1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	_
+2	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+3	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	NOUN	N	_	2	obj	_	Entity=(abstract
+4-6	ⲙⲛⲡⲉⲧ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	case	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nmod	_	Entity=(person
+6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+7	ⲙⲟⲩϩ	ⲙⲟⲩϩ	VERB	V	VerbForm=Fin	5	acl	_	_
+8-10	ⲛⲉⲓⲉⲓⲁⲧϥ	_	_	_	_	_	_	_	_
+8	ⲛⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	9	det	_	Entity=(animal
+9	ⲉⲓⲁⲧ	ⲉⲓⲁ	NOUN	N	_	7	obj	_	Orig=ⲁⲧ
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	9	det	_	Entity=animal)
+11-12	ⲙⲙⲟⲕ	_	_	_	_	_	_	_	_
+11	ⲙⲙⲟ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	Entity=person)abstract)
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+14	ϩⲱⲡ	ϩⲱⲡ	VERB	V	VerbForm=Fin	2	conj	_	_
+15-17	ⲛⲛⲉⲕϣⲁϫⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	Entity=(abstract
+17	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	14	obj	_	_
+18	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	17	appos	_	Orig=ⲉⲛ
+19	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	20	mark	_	_
+20	ⲕⲱϩ	ⲕⲱϩ	VERB	V	VerbForm=Fin	18	acl	_	_
+21-22	ⲉⲣⲟⲕ	_	_	_	_	_	_	_	_
+21	ⲉⲣⲟ	ⲉ	ADP	PREP	_	22	case	_	_
+22	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0012
+# text_en = ...
+# text = ⲙⲡⲣϫⲓ ϣⲟϫⲛⲉ ⲙⲛⲟⲩⲥϩⲓⲙⲉ ⲉⲧⲃⲉⲧⲉⲥⲕⲟⲓϩⲉ ⲁⲩⲱ ⲙⲛⲟⲩϭⲱⲃ ⲉⲧⲃⲉⲟⲩⲡⲟⲗⲉⲙⲟⲥ
+1-2	ⲙⲡⲣϫⲓ	_	_	_	_	_	_	_	_
+1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	_
+2	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+3	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	NOUN	N	_	2	obj	_	Entity=(abstract
+4-6	ⲙⲛⲟⲩⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	6	case	_	_
+5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(person
+6	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	3	nmod	_	Entity=person)abstract)
+7-9	ⲉⲧⲃⲉⲧⲉⲥⲕⲟⲓϩⲉ	_	_	_	_	_	_	_	_
+7	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	9	case	_	_
+8	ⲧⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Entity=(person
+9	ⲕⲟⲓϩⲉ	ⲕⲟⲓϩⲉ	NOUN	N	_	2	obl	_	Entity=person)
+10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+11-13	ⲙⲛⲟⲩϭⲱⲃ	_	_	_	_	_	_	_	_
+11	ⲙⲛ	ⲙⲛ	ADP	PREP	_	13	cc	_	_
+12	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	13	det	_	Entity=(person
+13	ϭⲱⲃ	ϭⲱⲃ	NOUN	N	_	9	conj	_	Entity=person)
+14-16	ⲉⲧⲃⲉⲟⲩⲡⲟⲗⲉⲙⲟⲥ	_	_	_	_	_	_	_	_
+14	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	16	case	_	_
+15	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	16	det	_	Entity=(event
+16	ⲡⲟⲗⲉⲙⲟⲥ	ⲡⲟⲗⲉⲙⲟⲥ	NOUN	N	Foreign=Yes	2	obl	_	Entity=event)|OrigLang=grc
+
+# sent_id = sahidic_ot-71_Sirach_37_s0013
+# text_en = ...
+# text = ⲁⲩⲱ ⲙⲛⲟⲩⲉϣⲱⲧ ⲉⲧⲃⲉⲟⲩⲙⲉⲧⲁⲃⲟⲗⲏ ⲙⲛⲡⲉⲧϣⲱⲡ ⲉⲧⲃⲉϯ . ⲉⲃⲟⲗ ⲁⲩⲱ ⲙⲛⲟⲩⲉⲓⲉⲣ . ⲃⲟⲟⲛⲉ ⲉⲧⲃⲉⲟⲩⲙⲛⲧⲣⲉϥϯ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	21	cc	_	_
+2-4	ⲙⲛⲟⲩⲉϣⲱⲧ	_	_	_	_	_	_	_	_
+2	ⲙⲛ	ⲙⲛ	ADP	PREP	_	4	cc	_	_
+3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(abstract
+4	ⲉϣⲱⲧ	ⲉϣⲱⲧ	NOUN	N	_	21	obl	_	_
+5-7	ⲉⲧⲃⲉⲟⲩⲙⲉⲧⲁⲃⲟⲗⲏ	_	_	_	_	_	_	_	_
+5	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	7	case	_	_
+6	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲙⲉⲧⲁⲃⲟⲗⲏ	ⲙⲉⲧⲁⲃⲟⲗⲏ	NOUN	N	Foreign=Yes	4	obl	_	Entity=abstract)|OrigLang=grc
+8-11	ⲙⲛⲡⲉⲧϣⲱⲡ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	cc	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	conj	_	Entity=(person
+10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
+11	ϣⲱⲡ	ϣⲱⲡ	VERB	V	VerbForm=Fin	9	acl	_	_
+12-13	ⲉⲧⲃⲉϯ	_	_	_	_	_	_	_	_
+12	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	13	case	_	_
+13	ϯ	ⲡⲓ	DET	PDEM	_	11	obl	_	Entity=(event)person)
+14	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+15	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	21	advmod	_	_
+16	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	19	cc	_	_
+17-19	ⲙⲛⲟⲩⲉⲓⲉⲣ	_	_	_	_	_	_	_	_
+17	ⲙⲛ	ⲙⲛ	AUX	EXIST	Polarity=Neg	19	aux	_	_
+18	ⲟⲩⲉⲓⲉ	ⲟⲩⲉⲓⲉ	NOUN	N	_	19	nsubj	_	Entity=(abstract)
+19	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	7	conj	_	Entity=abstract)
+20	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+21	ⲃⲟⲟⲛⲉ	ⲃⲟⲟⲛⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+22-24	ⲉⲧⲃⲉⲟⲩⲙⲛⲧⲣⲉϥϯ	_	_	_	_	_	_	_	_
+22	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	24	case	_	_
+23	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	24	det	_	Entity=(abstract
+24	ⲙⲛⲧⲣⲉϥϯ	ⲙⲛⲧⲣⲉϥϯ	NOUN	N	_	21	obl	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ⲣⲉϥ-ϯ
+
+# sent_id = sahidic_ot-71_Sirach_37_s0014
+# text_en = ...
+# text = ⲙⲛⲟⲩⲁⲧⲛⲁ ⲉⲧⲃⲉⲟⲩⲙⲛⲧⲛⲁⲏⲧ ⲁⲩⲱ ⲙⲛⲟⲩⲣⲉϥϫⲛⲁⲁⲩ ⲉⲧⲃⲉϩⲱⲃ ⲛⲓⲙ
+1-3	ⲙⲛⲟⲩⲁⲧⲛⲁ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	3	case	_	_
+2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ⲁⲧⲛⲁ	ⲁⲧⲛⲁ	NOUN	N	_	0	root	_	Morphs=ⲁⲧ-ⲛⲁ
+4-6	ⲉⲧⲃⲉⲟⲩⲙⲛⲧⲛⲁⲏⲧ	_	_	_	_	_	_	_	_
+4	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	6	case	_	_
+5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(abstract
+6	ⲙⲛⲧⲛⲁⲏⲧ	ⲙⲛⲧⲛⲁⲏⲧ	NOUN	N	_	3	nmod	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ⲛⲁⲏⲧ
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	_
+8-10	ⲙⲛⲟⲩⲣⲉϥϫⲛⲁⲁⲩ	_	_	_	_	_	_	_	_
+8	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	cc	_	_
+9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(person
+10	ⲣⲉϥϫⲛⲁⲁⲩ	ⲣⲉϥϫⲛⲁⲁⲩ	NOUN	N	_	6	conj	_	Morphs=ⲣⲉϥ-ϫⲛⲁⲁⲩ
+11-12	ⲉⲧⲃⲉϩⲱⲃ	_	_	_	_	_	_	_	_
+11	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	12	case	_	_
+12	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	10	nmod	_	Entity=(abstract
+13	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	12	det	_	Entity=abstract)person)person)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0015
+# text_en = ...
+# text = ⲙⲛⲟⲩϫⲁⲓ . ⲃⲉⲕⲉ ⲙⲙⲏⲛⲉ ⲉⲧⲃⲉⲟⲩϫⲱⲕ . ⲉⲃⲟⲗ ⲁⲩⲱ ⲙⲛⲟⲩϩⲙϩⲁⲗ ⲛⲁⲣⲅⲟⲥ ⲉⲧⲃⲉⲟⲩⲛⲟϭ ⲛϩⲱⲃ
+1-2	ⲙⲛⲟⲩϫⲁⲓ	_	_	_	_	_	_	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+2	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	NOUN	N	_	4	obl	_	Entity=(abstract)
+3	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+4	ⲃⲉⲕⲉ	ⲃⲉⲕⲉ	NOUN	N	_	0	root	_	Entity=(abstract
+5-6	ⲙⲙⲏⲛⲉ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲙⲏⲛⲉ	ⲙⲏⲛⲉ	NOUN	N	_	4	orphan	_	Orig=ⲙⲏⲏⲛⲉ
+7-9	ⲉⲧⲃⲉⲟⲩϫⲱⲕ	_	_	_	_	_	_	_	_
+7	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	9	case	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(abstract
+9	ϫⲱⲕ	ϫⲱⲕ	NOUN	N	_	4	orphan	_	_
+10	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+11	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	Entity=abstract)
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
+13-15	ⲙⲛⲟⲩϩⲙϩⲁⲗ	_	_	_	_	_	_	_	_
+13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	15	cc	_	_
+14	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	15	det	_	Entity=(person
+15	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	9	conj	_	_
+16-17	ⲛⲁⲣⲅⲟⲥ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲁⲣⲅⲟⲥ	ⲁⲣⲅⲟⲥ	NOUN	N	Foreign=Yes	15	nmod	_	Entity=(person)person)|OrigLang=grc
+18-20	ⲉⲧⲃⲉⲟⲩⲛⲟϭ	_	_	_	_	_	_	_	_
+18	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	20	case	_	_
+19	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	Entity=(abstract
+20	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	4	obl	_	_
+21-22	ⲛϩⲱⲃ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	20	nmod	_	Entity=abstract)abstract)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0016
+# text_en = ...
+# text = ⲙⲡⲣⲕⲁ ϩⲧⲏⲕ ⲉⲛⲁⲓ ⲉⲧⲃⲉϣⲟϫⲛⲉ ⲛⲓⲙ
+1-2	ⲙⲡⲣⲕⲁ	_	_	_	_	_	_	_	_
+1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	_
+2	ⲕⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+3-4	ϩⲧⲏⲕ	_	_	_	_	_	_	_	_
+3	ϩⲧⲏ	ϩⲏⲧ	NOUN	N	_	2	obj	_	_
+4	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	3	det	_	_
+5-6	ⲉⲛⲁⲓ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
+6	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	2	obl	_	Entity=(abstract)
+7-8	ⲉⲧⲃⲉϣⲟϫⲛⲉ	_	_	_	_	_	_	_	_
+7	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	8	case	_	_
+8	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	NOUN	N	_	2	obl	_	Entity=(abstract
+9	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	8	det	_	Entity=abstract)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0017
+# text_en = ...
+# text = ⲁⲗⲗⲁ ⲉⲕⲛⲁⲧⲁϣⲟⲕ ⲙⲛⲟⲩⲣⲙ . ⲛⲛⲟⲩⲧⲉ ⲡ ⲉⲧ ⲕⲛⲁⲉⲓⲙⲉ ⲉⲣⲟϥ ϫⲉϥⲛⲁⲁⲣⲉϩ ⲉⲧⲉⲛⲧⲟⲗⲏ
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
+2-6	ⲉⲕⲛⲁⲧⲁϣⲟⲕ	_	_	_	_	_	_	_	_
+2	ⲉ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
+3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ⲧⲁϣⲟ	ⲧⲁϣⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+7-9	ⲙⲛⲟⲩⲣⲙ	_	_	_	_	_	_	_	_
+7	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	case	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(person
+9	ⲣⲙ	ⲣⲱⲙⲉ	NOUN	N	_	5	obl	_	Entity=person)
+10	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+11-12	ⲛⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	Entity=(person
+12	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	5	parataxis	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	appos	_	_
+14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
+15-17	ⲕⲛⲁⲉⲓⲙⲉ	_	_	_	_	_	_	_	_
+15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+16	ⲛⲁ	ⲛⲁ	AUX	FUT	_	17	aux	_	_
+17	ⲉⲓⲙⲉ	ⲉⲓⲙⲉ	VERB	V	VerbForm=Fin	13	acl	_	_
+18-19	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+18	ⲉⲣⲟ	ⲉ	ADP	PREP	_	19	case	_	_
+19	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	Entity=person)
+20-22	ϫⲉϥⲛⲁⲁⲣⲉϩ	_	_	_	_	_	_	_	_
+20	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	22	mark	_	_
+21	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+22	ⲛⲁⲁⲣⲉϩ	ⲛⲁⲁⲣⲉϩ	VERB	V	VerbForm=Fin	17	ccomp	_	_
+23-25	ⲉⲧⲉⲛⲧⲟⲗⲏ	_	_	_	_	_	_	_	_
+23	ⲉ	ⲉ	ADP	PREP	_	25	case	_	_
+24	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	Entity=(abstract
+25	ⲉⲛⲧⲟⲗⲏ	ⲉⲛⲧⲟⲗⲏ	NOUN	N	Foreign=Yes	22	obl	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-71_Sirach_37_s0018
+# text_en = ...
+# text = ⲉⲣⲉⲡⲉϥϩⲏⲧ ⲛⲛⲏⲩ ⲉϩⲟⲩⲛ …ⲁⲩⲱ ⲉⲕϣⲁⲛϫⲱⲣⲡ ϥⲛⲁϣⲡ ϩⲓⲥⲉ …
+1-3	ⲉⲣⲉⲡⲉϥϩⲏⲧ	_	_	_	_	_	_	_	_
+1	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
+2	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract
+3	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	4	nsubj	_	Entity=abstract)
+4	ⲛⲛⲏⲩ	ⲛⲛⲏⲩ	VERB	V	VerbForm=Fin	6	advcl	_	_
+5	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	4	advmod	_	Orig=ⲉϩ[ⲟⲩⲛ]
+6	…ⲁⲩⲱ	…ⲁⲩⲱ	VERB	V	VerbForm=Fin	11	advcl	_	_
+7-8	ⲉⲕϣⲁⲛϫⲱⲣⲡ	_	_	_	_	_	_	_	_
+7	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+8	ϫⲱⲣⲡ	ϫⲱⲣⲡ	VERB	V	VerbForm=Fin	4	advcl	_	_
+9-11	ϥⲛⲁϣⲡ	_	_	_	_	_	_	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
+11	ϣⲡ	ϣⲱⲡ	VERB	V	VerbForm=Fin	0	root	_	_
+12-13	ϩⲓⲥⲉ	_	_	_	_	_	_	_	_
+12	ϩⲓ	ϩⲓ	ADP	PREP	_	13	case	_	_
+13	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+14	…	UNKNOWN	X	UNKNOWN	_	11	parataxis	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0019
+# text_en = ...
+# text = ⲙⲡⲡ ⲉⲧ ⲛϩⲟⲧ ⲅⲁⲣ ⲉⲣⲟϥ ⲛⲁⲕ
+1-3	ⲙⲡⲡ	_	_	_	_	_	_	_	_
+1	ⲙ	ⲛ	ADP	PREP	_	3	case	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
+4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	_
+5-6	ⲛϩⲟⲧ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	6	det	_	Entity=(abstract
+6	ϩⲟⲧ	ϩⲟⲧ	NOUN	N	_	3	acl	_	Entity=abstract)
+7	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
+8-9	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+8	ⲉⲣⲟ	ⲉ	ADP	PREP	_	9	case	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+10-11	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+10	ⲛⲁ	ⲛⲁ	ADP	PREP	_	11	case	_	_
+11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Entity=person)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0020
+# text_en = ...
+# text = ϣⲁⲣⲉⲧⲉⲯⲩⲭⲏ ⲅⲁⲣ ⲙⲡⲣⲱⲙⲉ ⲧⲟⲛⲧⲛ ⲛϩⲛⲥⲟⲡ ⲉϩⲟⲩ ⲉⲥⲁϣϥ ⲛⲣⲉⲣϭⲱϣⲧ . ⲉⲃⲟⲗ ⲉⲩϩⲙⲟⲟⲥ ⲉⲩϭⲱϣⲧϩⲓ ⲟⲩⲙⲁ ⲉϥϫⲟⲥⲉ
+1-3	ϣⲁⲣⲉⲧⲉⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+1	ϣⲁⲣⲉ	ϣⲁⲣⲉ	AUX	AAOR	_	8	aux	_	_
+2	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nsubj	_	_
+3	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	8	nsubj	_	Entity=(abstract|OrigLang=grc
+4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
+5-7	ⲙⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	3	nmod	_	Entity=person)abstract)
+8	ⲧⲟⲛⲧⲛ	ⲧⲟⲛⲧⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+9-11	ⲛϩⲛⲥⲟⲡ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ϩⲛ	ϩⲛ	DET	ART	_	11	det	_	Entity=(time
+11	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	8	obl	_	Entity=time)
+12	ⲉϩⲟⲩ	ⲉϩⲟⲩ	ADV	ADV	_	16	case	_	Morphs=ⲉ-ϩⲟⲩ
+13-14	ⲉⲥⲁϣϥ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉ	ADP	PREP	_	12	fixed	_	_
+14	ⲥⲁϣϥ	ⲥⲁϣϥ	NUM	NUM	NumType=Card	16	nummod	_	Entity=(event
+15-17	ⲛⲣⲉⲣϭⲱϣⲧ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+16	ⲣⲉⲣ	ⲣⲉⲣ	NOUN	N	_	17	nsubj	_	Entity=event)
+17	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	8	parataxis	_	_
+18	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	advmod	_	_
+20-22	ⲉⲩϩⲙⲟⲟⲥ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	22	mark	_	_
+21	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
+22	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	VerbForm=Fin	17	advcl	_	Orig=ϩⲙ[ⲟ]ⲟⲥ
+23-25	ⲉⲩϭⲱϣⲧϩⲓ	_	_	_	_	_	_	_	_
+23	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	25	mark	_	_
+24	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
+25	ϭⲱϣⲧϩⲓ	ϭⲱϣⲧϩⲓ	VERB	V	VerbForm=Fin	22	advcl	_	_
+26-27	ⲟⲩⲙⲁ	_	_	_	_	_	_	_	_
+26	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	27	det	_	Entity=(place
+27	ⲙⲁ	ⲙⲁ	NOUN	N	_	25	obj	_	_
+28-30	ⲉϥϫⲟⲥⲉ	_	_	_	_	_	_	_	_
+28	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	30	mark	_	_
+29	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+30	ϫⲟⲥⲉ	ϫⲓⲥⲉ	VERB	VSTAT	VerbForm=Fin	27	acl	_	Entity=place)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0021
+# text_en = ...
+# text = ⲉϫⲛⲛⲁⲓ ⲧⲏⲣⲟⲩ ⲥⲟⲡⲥ ⲙⲡⲉⲧϫⲟⲥⲉ ϫⲉϥⲥⲟⲟⲩⲛ ⲛⲧⲉⲕϩⲓⲏ ϩⲛⲟⲩⲙⲉ
+1-2	ⲉϫⲛⲛⲁⲓ	_	_	_	_	_	_	_	_
+1	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	2	case	_	_
+2	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	6	obl	_	Entity=(abstract
+3-4	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+3	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	2	advmod	_	_
+4	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	3	det	_	Entity=abstract)
+5-6	ⲥⲟⲡⲥ	_	_	_	_	_	_	_	_
+5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ⲟⲡⲥ	ⲟⲡⲥ	VERB	V	VerbForm=Fin	0	root	_	_
+7-10	ⲙⲡⲉⲧϫⲟⲥⲉ	_	_	_	_	_	_	_	_
+7	ⲙ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	obj	_	Entity=(person
+9	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	10	mark	_	_
+10	ϫⲟⲥⲉ	ϫⲓⲥⲉ	VERB	VSTAT	VerbForm=Fin	8	acl	_	Entity=person)
+11-13	ϫⲉϥⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
+11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	ⲥⲟⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	6	ccomp	_	_
+14-16	ⲛⲧⲉⲕϩⲓⲏ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+15	ⲧⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	det	_	Entity=(abstract
+16	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	13	obj	_	Entity=abstract)
+17-19	ϩⲛⲟⲩⲙⲉ	_	_	_	_	_	_	_	_
+17	ϩⲛ	ϩⲛ	ADP	PREP	_	19	case	_	_
+18	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
+19	ⲙⲉ	ⲙⲉ	NOUN	N	_	13	obl	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0022
+# text_en = ...
+# text = ⲧⲁⲣⲭⲏ ⲛϩⲱⲃ ⲛⲓⲙ ⲡⲉ ⲡϣⲁϫⲉ ⲁⲩⲱ ⲧϩⲁⲏ ⲛϩⲱⲃ ⲛⲓⲙ ⲡⲉ ⲡϣⲟϫⲛⲉ
+1-2	ⲧⲁⲣⲭⲏ	_	_	_	_	_	_	_	_
+1	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Entity=(time
+2	ⲁⲣⲭⲏ	ⲁⲣⲭⲏ	NOUN	N	Foreign=Yes	0	root	_	OrigLang=grc
+3-4	ⲛϩⲱⲃ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	_
+4	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	2	nmod	_	Entity=(abstract
+5	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	4	det	_	Entity=abstract)time)
+6	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
+7-8	ⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(abstract
+8	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	2	nsubj	_	Entity=abstract)
+9	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
+10-11	ⲧϩⲁⲏ	_	_	_	_	_	_	_	_
+10	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(time|Orig=ⲑ
+11	ϩⲁⲏ	ϩⲁⲏ	NOUN	N	_	2	conj	_	Orig=ⲁⲏ
+12-13	ⲛϩⲱⲃ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	_
+13	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	11	nmod	_	Entity=(abstract
+14	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	13	det	_	Entity=abstract)time)
+15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	11	cop	_	_
+16-17	ⲡϣⲟϫⲛⲉ	_	_	_	_	_	_	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ϣⲟϫⲛⲉ	ϣⲟϫⲛⲉ	NOUN	N	_	2	nsubj	_	Entity=abstract)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0023
+# text_en = ...
+# text = ⲡⲟⲩⲱⲛϩ . ⲉⲃⲟⲗ ⲙⲡϣⲓⲃⲉ ⲡⲉ ⲡϩⲏⲧ
+1-2	ⲡⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ⲟⲩⲱⲛϩ	ⲟⲩⲱⲛϩ	NOUN	N	_	0	root	_	_
+3	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+4	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	advmod	_	_
+5-7	ⲙⲡϣⲓⲃⲉ	_	_	_	_	_	_	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ϣⲓⲃⲉ	ϣⲓⲃⲉ	NOUN	N	_	2	nmod	_	Entity=abstract)abstract)
+8	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
+9-10	ⲡϩⲏⲧ	_	_	_	_	_	_	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(abstract|Orig=ⲫ
+10	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	2	nsubj	_	Entity=abstract)|Orig=ⲏⲧ
+
+# sent_id = sahidic_ot-71_Sirach_37_s0024
+# text_en = ...
+# text = ϥⲧⲟⲟⲩ ⲛϩⲱⲃ ⲛ ⲉⲧ ⲟⲩⲟⲛϩ . ⲉⲃⲟⲗ ⲡⲁⲅⲁⲑⲟⲛ ⲙⲛⲡⲡⲉⲧϩⲟⲟⲩ ⲡⲱⲛϩ ⲙⲛⲡⲙⲟⲩ ⲡ ⲉⲧ ⲟ ⲇⲉ ⲛϫⲟⲉⲓⲥ ⲉϫⲱⲟⲩ ⲛϩⲁϩ ⲛⲥⲟⲡ ⲡⲉ ⲡⲗⲁⲥ
+1	ϥⲧⲟⲟⲩ	ϥⲧⲟⲟⲩ	NUM	NUM	NumType=Card	3	nummod	_	Entity=(abstract
+2-3	ⲛϩⲱⲃ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
+3	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	0	root	_	_
+4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	appos	_	_
+5	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	_
+6	ⲟⲩⲟⲛϩ	ⲟⲩⲱⲛϩ	VERB	VSTAT	VerbForm=Fin	4	acl	_	_
+7	.	.	PUNCT	PUNCT	_	0	punct	_	Orig=-
+8	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	10	advmod	_	_
+9-10	ⲡⲁⲅⲁⲑⲟⲛ	_	_	_	_	_	_	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ⲁⲅⲁⲑⲟⲛ	ⲁⲅⲁⲑⲟⲛ	NOUN	N	Foreign=Yes	3	appos	_	OrigLang=grc
+11-13	ⲙⲛⲡⲡⲉⲧϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲙⲛ	ⲙⲛ	ADP	PREP	_	13	cc	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(abstract
+13	ⲡⲉⲧϩⲟⲟⲩ	ⲡⲉⲑⲟⲟⲩ	NOUN	N	_	3	conj	_	Entity=abstract)|Morphs=ⲡ-ⲉⲧ-ϩⲟⲟⲩ|Orig=ⲡⲉⲑⲟⲟⲩ
+14-15	ⲡⲱⲛϩ	_	_	_	_	_	_	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	10	appos	_	_
+16-18	ⲙⲛⲡⲙⲟⲩ	_	_	_	_	_	_	_	_
+16	ⲙⲛ	ⲙⲛ	ADP	PREP	_	18	cc	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(event
+18	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	3	conj	_	Entity=event)
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	appos	_	_
+20	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	21	mark	_	_
+21	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	VerbForm=Fin	19	acl	_	_
+22	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	21	advmod	_	OrigLang=grc
+23-24	ⲛϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	24	det	_	Entity=(person
+24	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	21	obj	_	Entity=person)
+25-26	ⲉϫⲱⲟⲩ	_	_	_	_	_	_	_	_
+25	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	26	case	_	_
+26	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	21	obl	_	_
+27-28	ⲛϩⲁϩ	_	_	_	_	_	_	_	_
+27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
+28	ϩⲁϩ	ϩⲁϩ	NOUN	N	_	21	obl	_	Entity=(time
+29-30	ⲛⲥⲟⲡ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	28	nmod	_	Entity=time)
+31	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	10	cop	_	_
+32-33	ⲡⲗⲁⲥ	_	_	_	_	_	_	_	_
+32	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	ⲗⲁⲥ	ⲗⲁⲥ	NOUN	N	_	10	appos	_	Entity=abstract)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0025
+# text_en = ...
+# text = ⲟⲩⲛ ⲣⲱⲙⲉ ⲛⲥⲁⲃⲉ ⲛⲣⲉϥϯ ⲥⲃⲱ ⲛⲟⲩⲙⲏⲏϣⲉ ⲉⲩⲁⲧϣⲁⲩ ⲡⲉ ⲛⲧⲉϥⲯⲩⲭⲏ ⲙⲙⲓⲛⲙⲙⲟϥ
+1	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
+2	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	1	nsubj	_	Entity=(person
+3-4	ⲛⲥⲁⲃⲉ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	_
+4	ⲥⲁⲃⲉ	ⲥⲁⲃⲉ	NOUN	N	_	2	nmod	_	_
+5-6	ⲛⲣⲉϥϯ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲣⲉϥϯ	ⲣⲉϥϯ	NOUN	N	_	4	nmod	_	Entity=(person)person)|Morphs=ⲣⲉϥ-ϯ
+7-8	ⲥⲃⲱ	_	_	_	_	_	_	_	_
+7	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	ⲃⲱ	ⲃⲱ	VERB	V	VerbForm=Fin	1	parataxis	_	_
+9-11	ⲛⲟⲩⲙⲏⲏϣⲉ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	Entity=(person
+11	ⲙⲏⲏϣⲉ	ⲙⲏⲏϣⲉ	NOUN	N	_	8	obl	_	Entity=person)
+12-14	ⲉⲩⲁⲧϣⲁⲩ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
+13	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(person
+14	ⲁⲧϣⲁⲩ	ⲁⲧϣⲁⲩ	NOUN	N	_	8	obl	_	Morphs=ⲁⲧ-ϣⲁⲩ
+15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	_
+16-18	ⲛⲧⲉϥⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	Entity=(abstract
+18	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	14	nmod	_	Entity=abstract)person)|OrigLang=grc
+19-21	ⲙⲙⲓⲛⲙⲙⲟϥ	_	_	_	_	_	_	_	_
+19	ⲙⲙⲓⲛ	ⲙⲙⲓⲛ	VERB	V	VerbForm=Fin	8	parataxis	_	_
+20	ⲙⲙⲟ	ⲛ	ADP	PREP	_	21	case	_	_
+21	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+
+# sent_id = sahidic_ot-71_Sirach_37_s0026
+# text_en = ...
+# text = ⲟⲩⲛ ⲡ ⲉⲧ ϯ ⲥⲁⲕ ⲙⲙⲟϥ ϩⲛⲛⲉϥϣⲁϫⲉ ⲉⲩⲙⲉⲥⲧⲉ ⲡⲉ ⲡⲁⲓ ⲛⲁⲣ ϭⲣⲱϩ ϩⲛⲧⲣⲩⲫⲏ ⲛⲓⲙ
+1	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	nsubj	_	Entity=(person
+3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
+4	ϯ	ϯ	VERB	V	VerbForm=Fin	2	acl	_	_
+5-6	ⲥⲁⲕ	_	_	_	_	_	_	_	_
+5	ⲥⲁ	ⲥⲁ	NOUN	N	_	4	obj	_	Entity=(place
+6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	det	_	Entity=place)
+7-8	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
+7	ⲙⲙⲟ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+9-11	ϩⲛⲛⲉϥϣⲁϫⲉ	_	_	_	_	_	_	_	_
+9	ϩⲛ	ϩⲛ	ADP	PREP	_	11	case	_	_
+10	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(abstract
+11	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	4	obl	_	_
+12-14	ⲉⲩⲙⲉⲥⲧⲉ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	14	mark	_	_
+13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲙⲉⲥⲧⲉ	ⲙⲟⲥⲧⲉ	VERB	V	VerbForm=Fin	11	acl	_	_
+15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	Entity=abstract)person)
+16	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	Entity=(abstract)
+17-18	ⲛⲁⲣ	_	_	_	_	_	_	_	_
+17	ⲛⲁ	ⲛⲁ	AUX	FUT	_	18	aux	_	_
+18	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	1	parataxis	_	_
+19	ϭⲣⲱϩ	ϭⲣⲱϩ	NOUN	N	_	18	obj	_	Entity=(abstract)
+20-21	ϩⲛⲧⲣⲩⲫⲏ	_	_	_	_	_	_	_	_
+20	ϩⲛ	ϩⲛ	ADP	PREP	_	21	case	_	_
+21	ⲧⲣⲩⲫⲏ	ⲧⲣⲩⲫⲏ	NOUN	N	Foreign=Yes	18	obl	_	Entity=(abstract|OrigLang=grc
+22	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	21	det	_	Entity=abstract)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0027
+# text_en = ...
+# text = ⲙⲡⲟⲩϯ ⲛⲉϥⲭⲁⲣⲓⲥ ⲅⲁⲣ ⲛⲛⲁϩⲣⲛⲡϫⲟⲉⲓⲥ ϫⲉⲁⲩϩⲟⲩⲣⲱⲱϥ ⲛⲥⲟⲫⲓⲁ ⲛⲓⲙ
+1-3	ⲙⲡⲟⲩϯ	_	_	_	_	_	_	_	_
+1	ⲙ	ⲛ	ADP	PREP	_	3	case	_	_
+2	ⲡⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract
+3	ϯ	ϯ	NOUN	N	_	0	root	_	_
+4-5	ⲛⲉϥⲭⲁⲣⲓⲥ	_	_	_	_	_	_	_	_
+4	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	ⲭⲁⲣⲓⲥ	ⲭⲁⲣⲓⲥ	NOUN	N	Foreign=Yes	3	appos	_	OrigLang=grc
+6	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+7-9	ⲛⲛⲁϩⲣⲛⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+7	ⲛⲛⲁϩⲣⲛ	ⲛⲛⲁϩⲣⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(person
+9	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	5	nmod	_	Entity=person)
+10-13	ϫⲉⲁⲩϩⲟⲩⲣⲱⲱϥ	_	_	_	_	_	_	_	_
+10	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+13	ϩⲟⲩⲣⲱⲱϥ	ϩⲟⲩⲣⲱⲱϥ	VERB	V	VerbForm=Fin	5	ccomp	_	_
+14-15	ⲛⲥⲟⲫⲓⲁ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲥⲟⲫⲓⲁ	ⲥⲟⲫⲓⲁ	NOUN	N	Foreign=Yes	13	obl	_	Entity=(abstract|OrigLang=grc
+16	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	15	det	_	Entity=abstract)abstract)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0028
+# text_en = ...
+# text = ⲟⲩⲛ ⲡ ⲉⲧ ⲟ ⲛⲥⲟⲫⲟⲥ ϩⲛⲧⲉϥⲯⲩⲭⲏ ⲣⲉ ⲛⲕⲁⲣⲡⲟⲥ ⲛⲧⲉⲧⲉϥⲙⲛⲧⲥⲁⲃⲉ ⲛϩⲟⲧ ϩⲛⲧⲉϥⲧⲁⲡⲣⲟ
+1	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nsubj	_	Entity=(person
+3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
+4	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	VerbForm=Fin	2	acl	_	_
+5-6	ⲛⲥⲟⲫⲟⲥ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲥⲟⲫⲟⲥ	ⲥⲟⲫⲟⲥ	NOUN	N	Foreign=Yes	4	obl	_	Entity=(person)|OrigLang=grc
+7-9	ϩⲛⲧⲉϥⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+7	ϩⲛ	ϩⲛ	ADP	PREP	_	9	case	_	_
+8	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+9	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	4	obl	_	Entity=abstract)person)|OrigLang=grc
+10	ⲣⲉ	ⲣⲉ	VERB	V	VerbForm=Fin	1	parataxis	_	_
+11-12	ⲛⲕⲁⲣⲡⲟⲥ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ⲕⲁⲣⲡⲟⲥ	ⲕⲁⲣⲡⲟⲥ	NOUN	N	Foreign=Yes	10	obl	_	Entity=(plant)|OrigLang=grc
+13-15	ⲛⲧⲉⲧⲉϥⲙⲛⲧⲥⲁⲃⲉ	_	_	_	_	_	_	_	_
+13	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	15	case	_	_
+14	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	Entity=(abstract
+15	ⲙⲛⲧⲥⲁⲃⲉ	ⲙⲛⲧⲥⲁⲃⲉ	NOUN	N	_	10	obl	_	Morphs=ⲙⲛⲧ-ⲥⲁⲃⲉ
+16-17	ⲛϩⲟⲧ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ϩⲟⲧ	ϩⲟⲧ	NOUN	N	_	15	nmod	_	Entity=(abstract)abstract)
+18-20	ϩⲛⲧⲉϥⲧⲁⲡⲣⲟ	_	_	_	_	_	_	_	_
+18	ϩⲛ	ϩⲛ	ADP	PREP	_	20	case	_	_
+19	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	Entity=(object
+20	ⲧⲁⲡⲣⲟ	ⲧⲁⲡⲣⲟ	NOUN	N	_	10	obl	_	Entity=object)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0029
+# text_en = ...
+# text = ϣⲁⲣⲉⲟⲩⲣⲱⲙⲉ ⲛⲥⲟⲫⲟⲥ ϯ ⲥⲃⲱ ⲙⲡⲉϥⲗⲁⲟⲥ ⲁⲩⲱ ⲛⲕⲁⲣⲡⲟⲥ ⲛⲧⲉϥⲙⲛⲧⲥⲁⲃⲉ ⲛϩⲟⲧ
+1-3	ϣⲁⲣⲉⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+1	ϣⲁⲣⲉ	ϣⲁⲣⲉ	AUX	AAOR	_	6	aux	_	_
+2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	6	nsubj	_	_
+4-5	ⲛⲥⲟⲫⲟⲥ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲥⲟⲫⲟⲥ	ⲥⲟⲫⲟⲥ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=person)|OrigLang=grc
+6	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+7-8	ⲥⲃⲱ	_	_	_	_	_	_	_	_
+7	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	ⲃⲱ	ⲃⲱ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+9-11	ⲙⲡⲉϥⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(organization
+11	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	8	obj	_	Entity=organization)|OrigLang=grc
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+13-14	ⲛⲕⲁⲣⲡⲟⲥ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	Entity=(plant
+14	ⲕⲁⲣⲡⲟⲥ	ⲕⲁⲣⲡⲟⲥ	NOUN	N	Foreign=Yes	11	conj	_	OrigLang=grc
+15-17	ⲛⲧⲉϥⲙⲛⲧⲥⲁⲃⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	Entity=(abstract
+17	ⲙⲛⲧⲥⲁⲃⲉ	ⲙⲛⲧⲥⲁⲃⲉ	NOUN	N	_	14	nmod	_	Morphs=ⲙⲛⲧ-ⲥⲁⲃⲉ
+18-19	ⲛϩⲟⲧ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ϩⲟⲧ	ϩⲟⲧ	NOUN	N	_	17	nmod	_	Entity=(abstract)abstract)plant)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0030
+# text_en = ...
+# text = ⲟⲩⲛ ⲟⲩⲣⲱⲙⲉ ⲛⲥⲟⲫⲟⲥ ⲛⲁⲙⲟⲩϩ ⲛⲟⲩⲥⲙⲟⲩ ⲁⲩⲱ ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧ ⲛⲁⲩ ⲉⲣⲟϥ ⲛⲁⲧⲁⲉⲓⲟϥⲧ
+1	ⲟⲩⲛ	ⲟⲩⲛ	AUX	EXIST	_	7	aux	_	_
+2-3	ⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	7	nsubj	_	_
+4-5	ⲛⲥⲟⲫⲟⲥ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲥⲟⲫⲟⲥ	ⲥⲟⲫⲟⲥ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=person)|OrigLang=grc
+6-7	ⲛⲁⲙⲟⲩϩ	_	_	_	_	_	_	_	_
+6	ⲛⲁ	ⲛⲁ	AUX	FUT	_	7	aux	_	_
+7	ⲙⲟⲩϩ	ⲙⲟⲩϩ	VERB	V	VerbForm=Fin	0	root	_	_
+8-10	ⲛⲟⲩⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
+10	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	7	obj	_	Entity=abstract)
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_
+12	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	7	conj	_	Entity=(person
+13	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	12	det	_	_
+14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+15-16	ⲛⲁⲩ	_	_	_	_	_	_	_	_
+15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
+16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	acl	_	_
+17-18	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+17	ⲉⲣⲟ	ⲉ	ADP	PREP	_	18	case	_	_
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+19-20	ⲛⲁⲧⲁⲉⲓⲟϥⲧ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲁⲧⲁⲉⲓⲟϥⲧ	ⲁⲧⲁⲉⲓⲟϥⲧ	NOUN	N	_	12	nmod	_	Entity=(person)person)
+
+# sent_id = sahidic_ot-71_Sirach_37_s0031
+# text_en = ...
+# text = ⲡⲁϩⲉ ⲙⲡⲣⲱⲙⲉ ⲉϥϩⲛⲟⲩⲏⲡⲉ ⲛϩⲟⲟⲩ ⲁⲩⲱ ϩⲛⲁⲧⲏⲡⲉ ⲛⲉ ⲛⲉϩⲟⲟⲩ ⲙⲡⲓⲥⲣⲁⲏⲗ
+1-2	ⲡⲁϩⲉ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ⲁϩⲉ	ⲁϩⲉ	NOUN	N	_	0	root	_	_
+3-5	ⲙⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+3	ⲙ	ⲛ	ADP	PREP	_	5	case	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(person
+5	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	2	nmod	_	Entity=person)abstract)
+6-10	ⲉϥϩⲛⲟⲩⲏⲡⲉ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+7	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+8	ϩⲛ	ϩⲛ	ADP	PREP	_	10	case	_	_
+9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
+10	ⲏⲡⲉ	ⲏⲡⲉ	NOUN	N	_	2	acl	_	_
+11-12	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	10	nmod	_	Entity=(time)abstract)
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
+14-15	ϩⲛⲁⲧⲏⲡⲉ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	15	case	_	_
+15	ⲁⲧⲏⲡⲉ	ⲁⲧⲏⲡⲉ	NOUN	N	_	10	conj	_	Entity=(abstract)|Morphs=ⲁⲧ-ⲏⲡⲉ
+16	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	15	cop	_	_
+17-18	ⲛⲉϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+17	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	18	det	_	Entity=(time
+18	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	15	nsubj	_	_
+19-21	ⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+21	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	18	nmod	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)time)|OrigLang=he
+

@@ -1,0 +1,79 @@
+# newdoc id = sahidic.ot:24_Jeremiah_25
+# sent_id = sahidic_ot-24_Jeremiah_25_s0001
+# text_en = THE WORD THAT CAME TO JEREMIAS concerning all the people of Juda in the fourth year of Joakim, son of Josias, king of Juda;
+# text = ⲡϣⲁϫⲉ ⲉⲛⲧⲁϥϣⲱⲡⲉ ϣⲁⲓⲉⲣⲏⲙⲓⲁⲥ ⲉϫⲙⲡⲗⲁⲟⲥ ⲧⲏⲣϥ ⲛⲧⲉⲓⲟⲩⲇⲁ ϩⲛⲧⲙⲉϩϥⲧⲟ ⲛⲣⲟⲙⲡⲉ ⲛⲓⲱⲁⲕⲓⲙ ⲡϣⲏⲣⲉ ⲛⲓⲱⲥⲉⲓⲁⲥ ⲡⲣⲣⲟ ⲛⲓⲟⲩⲇⲁ
+1-2	ⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
+2	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	0	root	_	_
+3-6	ⲉⲛⲧⲁϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+3	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	_
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	2	acl	_	_
+7-8	ϣⲁⲓⲉⲣⲏⲙⲓⲁⲥ	_	_	_	_	_	_	_	_
+7	ϣⲁ	ϣⲁ	ADP	PREP	_	8	case	_	_
+8	ⲓⲉⲣⲏⲙⲓⲁⲥ	ⲓⲉⲣⲏⲙⲓⲁⲥ	PROPN	NPROP	_	6	obl	_	Entity=(person-Jeremiah)
+9-11	ⲉϫⲙⲡⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+9	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(organization
+11	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	6	obl	_	OrigLang=grc
+12-13	ⲧⲏⲣϥ	_	_	_	_	_	_	_	_
+12	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	11	advmod	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	12	det	_	_
+14-15	ⲛⲧⲉⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+14	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	15	case	_	_
+15	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	11	nmod	_	Entity=(place-Judea)organization)|OrigLang=he
+16-18	ϩⲛⲧⲙⲉϩϥⲧⲟ	_	_	_	_	_	_	_	_
+16	ϩⲛ	ϩⲛ	ADP	PREP	_	18	case	_	_
+17	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	Entity=(abstract
+18	ⲙⲉϩϥⲧⲟ	ⲙⲉϩϥⲧⲟ	NOUN	N	_	6	obl	_	_
+19-20	ⲛⲣⲟⲙⲡⲉ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	18	nmod	_	Entity=(time
+21-22	ⲛⲓⲱⲁⲕⲓⲙ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ⲓⲱⲁⲕⲓⲙ	ⲓⲱⲁⲕⲓⲙ	VERB	V	VerbForm=Fin	20	nmod	_	Orig=ⲓⲱⲁⲕⲉⲓⲙ
+23-24	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+23	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	22	appos	_	_
+25-26	ⲛⲓⲱⲥⲉⲓⲁⲥ	_	_	_	_	_	_	_	_
+25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
+26	ⲓⲱⲥⲉⲓⲁⲥ	ⲓⲱⲥⲉⲓⲁⲥ	PROPN	NPROP	_	24	nmod	_	Entity=(person
+27-28	ⲡⲣⲣⲟ	_	_	_	_	_	_	_	_
+27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	26	appos	_	_
+29-30	ⲛⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	28	nmod	_	Entity=(place-Judea)person)time)abstract)abstract)|OrigLang=he
+
+# sent_id = sahidic_ot-24_Jeremiah_25_s0002
+# text_en = which he spoke to all the people of Juda, and to the inhabitants of Jerusalem, saying,
+# text = ⲡⲁⲓ ⲉⲛⲧⲁϥϫⲟⲟϥ ⲛⲛⲁϩⲣⲙⲡⲗⲁⲟⲥ ⲧⲏⲣϥ ⲛⲧⲉⲓⲟⲩⲇⲁ ⲙⲛⲛⲉⲧϣⲟⲟⲡ ϩⲛⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ …
+1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Entity=(person
+2-6	ⲉⲛⲧⲁϥϫⲟⲟϥ	_	_	_	_	_	_	_	_
+2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	1	acl	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7-9	ⲛⲛⲁϩⲣⲙⲡⲗⲁⲟⲥ	_	_	_	_	_	_	_	_
+7	ⲛⲛⲁϩⲣⲙ	ⲛⲛⲁϩⲣⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(organization
+9	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	5	obl	_	OrigLang=grc
+10-11	ⲧⲏⲣϥ	_	_	_	_	_	_	_	_
+10	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	9	advmod	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	10	det	_	_
+12-13	ⲛⲧⲉⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+12	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	13	case	_	_
+13	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	9	nmod	_	Entity=(place-Judea)organization)|OrigLang=he
+14-17	ⲙⲛⲛⲉⲧϣⲟⲟⲡ	_	_	_	_	_	_	_	_
+14	ⲙⲛ	ⲙⲛ	ADP	PREP	_	15	cc	_	_
+15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	conj	_	Entity=(abstract
+16	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
+17	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	15	acl	_	_
+18-20	ϩⲛⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	_	_	_	_	_	_	_	_
+18	ϩⲛ	ϩⲛ	ADP	PREP	_	20	case	_	_
+19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Entity=(place-Jerusalem|Orig=ⲑ
+20	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	PROPN	NPROP	Foreign=Yes	17	obl	_	Entity=place-Jerusalem)abstract)person)|Orig=ⲓⲗⲏⲙ|OrigLang=he
+21	…	UNKNOWN	X	UNKNOWN	_	1	dep	_	_
+

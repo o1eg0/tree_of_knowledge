@@ -1,0 +1,29 @@
+# newdoc id = sahidic.ot:02_Exodus_25
+# sent_id = sahidic_ot-02_Exodus_25_s0001
+# text_en = See, thou shalt make them according to the pattern shewed thee in the mount.
+# text = ϭⲱϣⲧ ⲉⲕⲉⲧⲁⲙⲓⲟ ⲛⲛⲕⲁ ⲛⲓⲙ ⲕⲁⲧⲁⲡⲧⲏⲡⲟⲥ ⲉⲛⲧⲁⲩⲧⲥⲁⲃⲟⲕ ⲉⲣⲟϥ ϩⲓⲡⲧⲟⲟⲩ
+1	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	0	root	_	_
+2-3	ⲉⲕⲉⲧⲁⲙⲓⲟ	_	_	_	_	_	_	_	_
+2	ⲉⲕⲉ	ⲉⲣⲉ_ⲛⲧⲟⲕ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	VerbForm=Fin	1	xcomp	_	Orig=ⲧⲁⲙⲉⲓⲟ
+4-5	ⲛⲛⲕⲁ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲛⲕⲁ	ⲛⲕⲁ	NOUN	N	_	3	obl	_	Entity=(object
+6	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	5	det	_	Entity=object)
+7-8	ⲕⲁⲧⲁⲡⲧⲏⲡⲟⲥ	_	_	_	_	_	_	_	_
+7	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	8	case	_	OrigLang=grc
+8	ⲡⲧⲏⲡⲟⲥ	ⲡⲧⲏⲡⲟⲥ	NOUN	N	_	3	obl	_	Entity=(place
+9-13	ⲉⲛⲧⲁⲩⲧⲥⲁⲃⲟⲕ	_	_	_	_	_	_	_	_
+9	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲧⲥⲁⲃⲟ	ⲧⲥⲁⲃⲟ	VERB	V	VerbForm=Fin	8	acl	_	_
+13	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	_
+14-15	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+14	ⲉⲣⲟ	ⲉ	ADP	PREP	_	15	case	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
+16-18	ϩⲓⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+16	ϩⲓ	ϩⲓ	ADP	PREP	_	18	case	_	_
+17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(place
+18	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	12	obl	_	Entity=place)place)
+

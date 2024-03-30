@@ -1,0 +1,649 @@
+# newdoc id = sahidic.ot:25_Lamentations_05
+# sent_id = sahidic_ot-25_Lamentations_05_s0001
+# text_en = Remember, O Lord, what has happened to us: behold, and look on our reproach.
+# text = ⲁⲣⲓⲡⲙⲉⲉⲩⲉ ⲡϫⲟⲉⲓⲥ ϫⲉⲟⲩ ⲡⲉⲛⲧⲁϥϣⲱⲡⲉ ⲙⲙⲟⲛ ⲛⲅϭⲱϣⲧ ⲛⲅⲛⲁⲩ ⲉⲡⲉⲛⲛⲟϭⲛⲉϭ
+1-3	ⲁⲣⲓⲡⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
+1	ⲁⲣⲓ	ⲉⲓⲣⲉ	VERB	VIMP	VerbForm=Fin	0	root	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	NOUN	N	_	1	obj	_	_
+4-5	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	3	appos	_	_
+6-7	ϫⲉⲟⲩ	_	_	_	_	_	_	_	_
+6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	7	mark	_	_
+7	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	1	ccomp	_	_
+8-12	ⲡⲉⲛⲧⲁϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+8	ⲡ	ⲡ	PRON	COP	Gender=Masc|Number=Sing	7	cop	_	_
+9	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	7	csubj	_	_
+13-14	ⲙⲙⲟⲛ	_	_	_	_	_	_	_	_
+13	ⲙⲙⲟ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	obj	_	_
+15-17	ⲛⲅϭⲱϣⲧ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	17	aux	_	_
+16	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+17	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	12	advcl	_	_
+18-20	ⲛⲅⲛⲁⲩ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	20	aux	_	_
+19	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
+20	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	17	advcl	_	_
+21-23	ⲉⲡⲉⲛⲛⲟϭⲛⲉϭ	_	_	_	_	_	_	_	_
+21	ⲉ	ⲉ	ADP	PREP	_	23	case	_	_
+22	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	23	det	_	Entity=(abstract
+23	ⲛⲟϭⲛⲉϭ	ⲛⲟϭⲛⲉϭ	NOUN	N	_	20	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0002
+# text_en = Our inheritance has been turned away to aliens, our houses to strangers:
+# text = ⲁⲧⲉⲛⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ ⲕⲧⲟⲥ ⲛϩⲉⲛϣⲙⲙⲟ ⲁⲛⲉⲛⲏⲓ ⲣ ⲛⲁϩⲉⲛϣⲙⲙⲟ
+1-3	ⲁⲧⲉⲛⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲧⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract
+3	ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	NOUN	N	Foreign=Yes	4	nsubj	_	Entity=abstract)|OrigLang=grc
+4-5	ⲕⲧⲟⲥ	_	_	_	_	_	_	_	_
+4	ⲕⲧⲟ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6-8	ⲛϩⲉⲛϣⲙⲙⲟ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(person
+8	ϣⲙⲙⲟ	ϣⲙⲙⲟ	NOUN	N	_	4	obl	_	Entity=person)
+9-11	ⲁⲛⲉⲛⲏⲓ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+10	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	Entity=(place
+11	ⲏⲓ	ⲏⲓ	NOUN	N	_	12	nsubj	_	Entity=place)
+12	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+13-15	ⲛⲁϩⲉⲛϣⲙⲙⲟ	_	_	_	_	_	_	_	_
+13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	15	case	_	_
+14	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	15	det	_	Entity=(person
+15	ϣⲙⲙⲟ	ϣⲙⲙⲟ	NOUN	N	_	12	obl	_	Entity=person)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0003
+# text_en = we are become orphans, we have no father, our mothers are as widows.
+# text = ⲁⲛϣⲱⲡⲉ ⲛⲟⲣⲫⲁⲛⲟⲥ ⲉⲙⲛⲉⲓⲱⲧ ϣⲟⲟⲡ ⲛⲁⲛ ⲁⲛⲉⲛⲙⲁⲁⲩ ⲣ ⲧϩⲉ ⲛϩⲉⲛⲭⲏⲣⲁ
+1-3	ⲁⲛϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲛⲟⲣⲫⲁⲛⲟⲥ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲟⲣⲫⲁⲛⲟⲥ	ⲟⲣⲫⲁⲛⲟⲥ	NOUN	N	Foreign=Yes	3	obl	_	Entity=(person)|OrigLang=grc
+6-8	ⲉⲙⲛⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
+7	ⲙⲛ	ⲙⲛ	AUX	EXIST	Polarity=Neg	9	aux	_	_
+8	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	9	nsubj	_	Entity=(person)|Orig=ⲓⲱⲧ
+9	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	3	advcl	_	_
+10-11	ⲛⲁⲛ	_	_	_	_	_	_	_	_
+10	ⲛⲁ	ⲛⲁ	ADP	PREP	_	11	case	_	_
+11	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	9	obl	_	_
+12-14	ⲁⲛⲉⲛⲙⲁⲁⲩ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
+13	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	Entity=(person
+14	ⲙⲁⲁⲩ	ⲙⲁⲁⲩ	NOUN	N	_	15	nsubj	_	Entity=person)
+15	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+16-17	ⲧϩⲉ	_	_	_	_	_	_	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Orig=ⲑ
+17	ϩⲉ	ϩⲉ	NOUN	N	_	15	obj	_	Orig=ⲉ
+18-20	ⲛϩⲉⲛⲭⲏⲣⲁ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	Entity=(person
+20	ⲭⲏⲣⲁ	ⲭⲏⲣⲁ	NOUN	N	Foreign=Yes	17	nmod	_	Entity=person)|OrigLang=grc
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0004
+# text_en = We have drunk our water for money; our wood is sold to us for a burden on our neck:
+# text = ϩⲛⲛⲉⲛϩⲟⲟⲩ ⲡⲉⲛⲙⲟⲟⲩ ⲉⲛⲥⲱ ⲙⲙⲟϥ ϩⲁϩⲟⲙⲧ ⲛⲉⲛϣⲉ ϩⲁϣⲃⲉⲓⲱ
+1-3	ϩⲛⲛⲉⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ϩⲛ	ϩⲛ	ADP	PREP	_	3	case	_	_
+2	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	Entity=(time
+3	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	0	root	_	_
+4-5	ⲡⲉⲛⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+4	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	ⲙⲟⲟⲩ	ⲙⲟⲟⲩ	NOUN	N	_	3	appos	_	Entity=time)
+6-8	ⲉⲛⲥⲱ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
+7	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	ⲥⲱ	ⲥⲱ	VERB	V	VerbForm=Fin	5	advcl	_	_
+9-10	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
+9	ⲙⲙⲟ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+11-12	ϩⲁϩⲟⲙⲧ	_	_	_	_	_	_	_	_
+11	ϩⲁ	ϩⲁ	ADP	PREP	_	12	case	_	_
+12	ϩⲟⲙⲧ	ϩⲟⲙⲧ	NOUN	N	_	8	obl	_	Entity=(object)
+13-15	ⲛⲉⲛϣⲉ	_	_	_	_	_	_	_	_
+13	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	12	cop	_	_
+14	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	det	_	Entity=(person
+15	ϣⲉ	ϣⲉ	NOUN	N	_	12	nsubj	_	Entity=person)
+16-17	ϩⲁϣⲃⲉⲓⲱ	_	_	_	_	_	_	_	_
+16	ϩⲁ	ϩⲁ	ADP	PREP	_	17	case	_	_
+17	ϣⲃⲉⲓⲱ	ϣⲃⲉⲓⲱ	NOUN	N	_	8	obl	_	Entity=(abstract)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0005
+# text_en = we have been persecuted, we have laboured, we have had no rest.
+# text = ⲁⲩⲉⲓ ⲉϫⲛⲡⲉⲛⲙⲁⲕϩ ⲁⲩⲡⲱⲧ ⲛⲥⲱⲛ ⲁⲛϩⲓⲥⲉ ⲙⲡⲛⲙⲧⲟⲛ
+1-3	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲉϫⲛⲡⲉⲛⲙⲁⲕϩ	_	_	_	_	_	_	_	_
+4	ⲉϫⲛ	ⲉϫⲛ	ADP	PREP	_	6	case	_	_
+5	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	Entity=(object
+6	ⲙⲁⲕϩ	ⲙⲁⲕϩ	NOUN	N	_	3	obl	_	Entity=object)
+7-9	ⲁⲩⲡⲱⲧ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲡⲱⲧ	ⲡⲱⲧ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10-11	ⲛⲥⲱⲛ	_	_	_	_	_	_	_	_
+10	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	11	case	_	_
+11	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	9	obl	_	_
+12-14	ⲁⲛϩⲓⲥⲉ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	17	aux	_	_
+13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	Entity=(abstract
+14	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	17	dislocated	_	Entity=abstract)
+15-17	ⲙⲡⲛⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
+15	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	17	aux	_	_
+16	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+17	ⲙⲧⲟⲛ	ⲙⲧⲟⲛ	VERB	V	VerbForm=Fin	9	parataxis	_	_
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0006
+# text_en = Egypt gave the hand to us, Assur to their own satisfaction.
+# text = ⲁⲕⲏⲙⲉ ϯ ⲧⲟⲟⲧϥ ⲛⲁⲥⲥⲟⲩⲣⲉⲩⲥⲉⲓ ⲛⲟⲉⲓⲕ
+1-2	ⲁⲕⲏⲙⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲕⲏⲙⲉ	ⲕⲏⲙⲉ	PROPN	NPROP	_	3	nsubj	_	Entity=(place-Egypt)
+3	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+4	ⲧⲟⲟⲧ	ⲧⲱⲣⲉ	NOUN	N	_	3	obj	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
+6-9	ⲛⲁⲥⲥⲟⲩⲣⲉⲩⲥⲉⲓ	_	_	_	_	_	_	_	_
+6	ⲛⲁ	ⲛⲁ	ADP	PREP	_	7	case	_	_
+7	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+8	ⲥⲟⲩⲣⲉⲩ	ⲥⲟⲩⲣⲉⲩ	PRON	AOPT_PPERS	_	9	nsubj	_	_
+9	ⲥⲉⲓ	ⲥⲉⲓ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+10-11	ⲛⲟⲉⲓⲕ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲟⲉⲓⲕ	ⲟⲉⲓⲕ	NOUN	N	_	9	obl	_	Entity=(object)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0007
+# text_en = Our fathers sinned, and are not: we have borne their iniquities.
+# text = ⲛⲉⲛⲉⲓⲟⲧⲉ ⲁⲩⲣ ⲛⲟⲃⲉ ⲁⲩⲱ ⲛⲥⲉϣⲟⲟⲡ ⲁⲛ ⲁⲛⲟⲛ ⲇⲉ ⲁⲛϥⲓ ϩⲁⲛⲉⲩⲁⲛⲟⲙⲓⲁ
+1-2	ⲛⲉⲛⲉⲓⲟⲧⲉ	_	_	_	_	_	_	_	_
+1	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	Entity=(person
+2	ⲉⲓⲟⲧⲉ	ⲉⲓⲱⲧ	NOUN	N	_	5	dislocated	_	Entity=person)
+3-5	ⲁⲩⲣ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	5	obj	_	Entity=(abstract)
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	_
+8-10	ⲛⲥⲉϣⲟⲟⲡ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	10	advmod	_	_
+9	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	5	conj	_	_
+11	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	10	advmod	_	_
+12	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	16	dislocated	_	_
+13	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	16	advmod	_	OrigLang=grc
+14-16	ⲁⲛϥⲓ	_	_	_	_	_	_	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	_
+16	ϥⲓ	ϥⲓ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+17-19	ϩⲁⲛⲉⲩⲁⲛⲟⲙⲓⲁ	_	_	_	_	_	_	_	_
+17	ϩⲁ	ϩⲁ	ADP	PREP	_	19	case	_	_
+18	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	Entity=(abstract
+19	ⲁⲛⲟⲙⲓⲁ	ⲁⲛⲟⲙⲓⲁ	NOUN	N	Foreign=Yes	16	obl	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0008
+# text_en = Servants have ruled over us: there is none to ransom us out of their hand.
+# text = ⲁϩⲉⲛϩⲙϩⲁⲗ ⲣ ϫⲟⲉⲓⲥ ⲉⲣⲟⲛ ⲙⲙⲛⲡⲉⲧⲥⲱⲧⲉ ⲙⲙⲟⲛ ⲉⲃⲟⲗ ϩⲛⲛⲉⲩϭⲓϫ
+1-3	ⲁϩⲉⲛϩⲙϩⲁⲗ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	4	nsubj	_	Entity=person)
+4	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+5-6	ϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+5	ϫⲟⲉⲓ	ϫⲟⲉⲓ	NOUN	N	_	4	obj	_	Entity=(object
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	det	_	Entity=object)
+7-8	ⲉⲣⲟⲛ	_	_	_	_	_	_	_	_
+7	ⲉⲣⲟ	ⲉ	ADP	PREP	_	8	case	_	_
+8	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	4	obl	_	_
+9-12	ⲙⲙⲛⲡⲉⲧⲥⲱⲧⲉ	_	_	_	_	_	_	_	_
+9	ⲙⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	4	parataxis	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nsubj	_	Entity=(person
+11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
+12	ⲥⲱⲧⲉ	ⲥⲱⲧⲉ	VERB	V	VerbForm=Fin	10	acl	_	_
+13-14	ⲙⲙⲟⲛ	_	_	_	_	_	_	_	_
+13	ⲙⲙⲟ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	obj	_	_
+15	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	18	case	_	_
+16-18	ϩⲛⲛⲉⲩϭⲓϫ	_	_	_	_	_	_	_	_
+16	ϩⲛ	ϩⲛ	ADP	PREP	_	15	fixed	_	_
+17	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	Entity=(object
+18	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	12	obl	_	Entity=object)person)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0009
+# text_en = We shall bring in our bread with danger of our lives, because of the sword of the wilderness.
+# text = ϩⲛⲛⲉⲛⲯⲩⲭⲏ ⲧⲛⲛⲁϫⲓ ⲉϩⲟⲩⲛ ⲙⲡⲉⲛⲟⲉⲓⲕ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛⲧⲥⲏϥⲉ ⲙⲡϫⲁⲓⲉ
+1-3	ϩⲛⲛⲉⲛⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+1	ϩⲛ	ϩⲛ	ADP	PREP	_	3	case	_	_
+2	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract
+3	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	6	obl	_	Entity=abstract)|OrigLang=grc
+4-6	ⲧⲛⲛⲁϫⲓ	_	_	_	_	_	_	_	_
+4	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+5	ⲛⲁ	ⲛⲁ	AUX	FUT	_	6	aux	_	_
+6	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	6	advmod	_	_
+8-10	ⲙⲡⲉⲛⲟⲉⲓⲕ	_	_	_	_	_	_	_	_
+8	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	Entity=(object
+10	ⲟⲉⲓⲕ	ⲟⲉⲓⲕ	NOUN	N	_	6	obj	_	Entity=object)
+11-13	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(abstract
+13	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	6	obl	_	_
+14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	13	advmod	_	_
+15-17	ⲛⲧⲥⲏϥⲉ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(object
+17	ⲥⲏϥⲉ	ⲥⲏϥⲉ	NOUN	N	_	13	nmod	_	_
+18-20	ⲙⲡϫⲁⲓⲉ	_	_	_	_	_	_	_	_
+18	ⲙ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(place
+20	ϫⲁⲓⲉ	ϫⲁⲉⲓⲉ	NOUN	N	_	17	nmod	_	Entity=place)object)abstract)|Orig=ϫⲁⲉⲓⲉ
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0010
+# text_en = Our skin is blackened like an oven; they are convulsed, because of the storms of famine.
+# text = ⲁⲡⲉⲛϣⲁⲁⲣ ⲕⲙⲟⲙ ⲛⲧϩⲉ ⲛⲟⲩⲧⲣⲓⲣ ⲁⲩⲥⲟⲕⲟⲩ ⲉⲡⲉⲥⲏⲧ ϩⲓⲟⲩⲥⲟⲡ ⲙⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲛⲛϩⲁⲧⲏⲩ ⲙⲡϩⲉⲃⲱⲱⲛ
+1-3	ⲁⲡⲉⲛϣⲁⲁⲣ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+2	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	Entity=(substance
+3	ϣⲁⲁⲣ	ϣⲁⲁⲣ	NOUN	N	_	4	nsubj	_	Entity=substance)
+4	ⲕⲙⲟⲙ	ⲕⲙⲟⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Orig=ⲑ
+7	ϩⲉ	ϩⲉ	NOUN	N	_	4	obl	_	Orig=ⲉ
+8-10	ⲛⲟⲩⲧⲣⲓⲣ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(object
+10	ⲧⲣⲓⲣ	ⲧⲣⲓⲣ	NOUN	N	_	7	nmod	_	Entity=object)
+11-14	ⲁⲩⲥⲟⲕⲟⲩ	_	_	_	_	_	_	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+13	ⲥⲟⲕ	ⲥⲱⲕ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+14	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
+15-17	ⲉⲡⲉⲥⲏⲧ	_	_	_	_	_	_	_	_
+15	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
+16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	ⲉⲥⲏⲧ	ⲉⲥⲏⲧ	NOUN	N	_	13	obl	_	_
+18-20	ϩⲓⲟⲩⲥⲟⲡ	_	_	_	_	_	_	_	_
+18	ϩⲓ	ϩⲓ	ADP	PREP	_	20	case	_	_
+19	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
+20	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	13	obl	_	_
+21-23	ⲙⲡⲉⲙⲧⲟ	_	_	_	_	_	_	_	_
+21	ⲙ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
+23	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	13	obl	_	_
+24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	advmod	_	_
+25-27	ⲛⲛϩⲁⲧⲏⲩ	_	_	_	_	_	_	_	_
+25	ⲛ	ⲛ	ADP	PREP	_	27	case	_	_
+26	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	27	det	_	Entity=(abstract
+27	ϩⲁⲧⲏⲩ	ϩⲁⲧⲏⲩ	NOUN	N	_	23	nmod	_	Morphs=ϩⲁ-ⲧⲏⲩ
+28-29	ⲙⲡϩⲉⲃⲱⲱⲛ	_	_	_	_	_	_	_	_
+28	ⲙ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ⲡϩⲉⲃⲱⲱⲛ	ⲡϩⲉⲃⲱⲱⲛ	NOUN	N	_	27	nmod	_	Entity=(event)abstract)abstract)|Orig=ⲫⲉⲃⲱⲱⲛ
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0011
+# text_en = They humbled the women in Sion, the virgins in the cities of Juda.
+# text = ⲛⲉϩⲓⲟⲙⲉ ⲉⲧϩⲛⲥⲓⲱⲛ ⲁⲩⲑⲃⲃⲓⲟⲟⲩ ⲁⲩⲑⲃⲃⲓⲟ ⲛⲙⲡⲁⲣⲑⲉⲛⲟⲥ ϩⲛⲙⲡⲟⲗⲓⲥ ⲛⲓⲟⲩⲇⲁ
+1-2	ⲛⲉϩⲓⲟⲙⲉ	_	_	_	_	_	_	_	_
+1	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Entity=(person
+2	ϩⲓⲟⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	8	dislocated	_	_
+3-5	ⲉⲧϩⲛⲥⲓⲱⲛ	_	_	_	_	_	_	_	_
+3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+4	ϩⲛ	ϩⲛ	ADP	PREP	_	5	case	_	_
+5	ⲥⲓⲱⲛ	ⲥⲓⲱⲛ	PROPN	NPROP	_	2	acl	_	Entity=(place-Zion)person)
+6-9	ⲁⲩⲑⲃⲃⲓⲟⲟⲩ	_	_	_	_	_	_	_	_
+6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
+7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+8	ⲑⲃⲃⲓⲟ	ⲑⲃⲃⲓⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+9	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+10-12	ⲁⲩⲑⲃⲃⲓⲟ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲑⲃⲃⲓⲟ	ⲑⲃⲃⲓⲟ	VERB	V	VerbForm=Fin	8	parataxis	_	_
+13-15	ⲛⲙⲡⲁⲣⲑⲉⲛⲟⲥ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	det	_	Entity=(person
+15	ⲡⲁⲣⲑⲉⲛⲟⲥ	ⲡⲁⲣⲑⲉⲛⲟⲥ	NOUN	N	Foreign=Yes	12	obj	_	Entity=person)|OrigLang=grc
+16-18	ϩⲛⲙⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+16	ϩⲛ	ϩⲛ	ADP	PREP	_	18	case	_	_
+17	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	18	det	_	Entity=(place
+18	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	12	obl	_	OrigLang=grc
+19-20	ⲛⲓⲟⲩⲇⲁ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲓⲟⲩⲇⲁ	ⲓⲟⲩⲇⲁ	PROPN	NPROP	Foreign=Yes	18	nmod	_	Entity=(place-Judea)place)|OrigLang=he
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0012
+# text_en = Princes were hanged up by their hands: the elders were not honoured.
+# text = ⲛⲁⲣⲭⲱⲛ ⲁⲩⲉⲓϣⲉ ⲙⲙⲟⲟⲩ ⲉϩⲣⲁⲓ ϩⲛⲛⲉⲩϭⲓϫ ⲙⲡⲟⲩϯ ⲉⲟⲟⲩ ⲛⲛⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ
+1-2	ⲛⲁⲣⲭⲱⲛ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Entity=(person
+2	ⲁⲣⲭⲱⲛ	ⲁⲣⲭⲱⲛ	NOUN	N	Foreign=Yes	5	dislocated	_	Entity=person)|OrigLang=grc
+3-5	ⲁⲩⲉⲓϣⲉ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲉⲓϣⲉ	ⲉⲓϣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6-7	ⲙⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
+6	ⲙⲙⲟ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+8	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	_
+9-11	ϩⲛⲛⲉⲩϭⲓϫ	_	_	_	_	_	_	_	_
+9	ϩⲛ	ϩⲛ	ADP	PREP	_	11	case	_	_
+10	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	Entity=(object
+11	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	5	obl	_	Entity=object)
+12-14	ⲙⲡⲟⲩϯ	_	_	_	_	_	_	_	_
+12	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+13	ⲡⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	15	det	_	Entity=(abstract
+14	ϯ	ⲡⲓ	DET	PDEM	_	15	det	_	_
+15	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	5	obj	_	_
+16-18	ⲛⲛⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	18	det	_	Entity=(person
+18	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	15	nmod	_	Entity=person)abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0013
+# text_en = The chosen men lifted up the voice in weeping, and the youths fainted under the wood.
+# text = ⲛⲥⲱⲧⲡ ⲁⲩϩⲙⲟⲟⲥ ⲁⲩⲣⲓⲙⲉ ⲁⲩⲛⲟⲩⲧ ϩⲙⲡⲙⲁ ⲛⲛⲟⲩⲧ ⲁⲩⲱ ⲛϣⲓⲣⲉ ⲁⲩⲣ ϭⲱⲃ ϩⲛϩⲉⲛⲥⲁϣ ⲛϣⲉ
+1-3	ⲛⲥⲱⲧⲡ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	3	aux	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲱⲧⲡ	ⲱⲧⲡ	VERB	V	VerbForm=Fin	6	advcl	_	_
+4-6	ⲁⲩϩⲙⲟⲟⲥ	_	_	_	_	_	_	_	_
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+6	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	VerbForm=Fin	0	root	_	_
+7-9	ⲁⲩⲣⲓⲙⲉ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲣⲓⲙⲉ	ⲣⲓⲙⲉ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+10-12	ⲁⲩⲛⲟⲩⲧ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲛⲟⲩⲧ	ⲛⲟⲩⲧ	VERB	V	VerbForm=Fin	9	parataxis	_	_
+13-15	ϩⲙⲡⲙⲁ	_	_	_	_	_	_	_	_
+13	ϩⲙ	ϩⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(place
+15	ⲙⲁ	ⲙⲁ	NOUN	N	_	12	obl	_	_
+16-17	ⲛⲛⲟⲩⲧ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ⲛⲟⲩⲧ	ⲛⲟⲩⲧ	NOUN	N	_	15	nmod	_	Entity=(person)place)
+18	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	23	cc	_	_
+19-20	ⲛϣⲓⲣⲉ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	20	det	_	Entity=(person
+20	ϣⲓⲣⲉ	ϣⲓⲣⲉ	NOUN	N	_	23	obl	_	Entity=person)|Orig=ϩⲣϣⲓⲣⲉ
+21-23	ⲁⲩⲣ	_	_	_	_	_	_	_	_
+21	ⲁ	ⲁ	AUX	APST	_	23	aux	_	_
+22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	12	conj	_	_
+24	ϭⲱⲃ	ϭⲱⲃ	NOUN	N	_	23	obj	_	Entity=(abstract)
+25-27	ϩⲛϩⲉⲛⲥⲁϣ	_	_	_	_	_	_	_	_
+25	ϩⲛ	ϩⲛ	ADP	PREP	_	27	case	_	_
+26	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	27	det	_	Entity=(abstract
+27	ⲥⲁϣ	ⲥⲁϣ	NOUN	N	_	23	obl	_	_
+28-29	ⲛϣⲉ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ϣⲉ	ϣⲉ	NOUN	N	_	27	nmod	_	Entity=(abstract)abstract)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0014
+# text_en = And the elders ceased from the gate, the chosen men ceased from their music.
+# text = ⲛϩⲗⲗⲟ ⲁⲩⲗⲟ ϩⲓⲣⲛ ⲙⲡⲩⲗⲏ ⲁⲛⲥⲱⲧⲡ ⲗⲟ ⲉⲩϫⲱ ⲛⲛⲉⲩⲯⲁⲗⲙⲟⲥ
+1-2	ⲛϩⲗⲗⲟ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Entity=(person
+2	ϩⲗⲗⲟ	ϩⲗⲗⲟ	NOUN	N	_	5	dislocated	_	Entity=person)
+3-5	ⲁⲩⲗⲟ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲗⲟ	ⲗⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ϩⲓⲣⲛ	ϩⲓⲣⲛ	ADP	PREP	_	8	case	_	_
+7-8	ⲙⲡⲩⲗⲏ	_	_	_	_	_	_	_	_
+7	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(place
+8	ⲡⲩⲗⲏ	ⲡⲩⲗⲏ	NOUN	N	Foreign=Yes	5	obl	_	Entity=place)|OrigLang=grc
+9-11	ⲁⲛⲥⲱⲧⲡ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+10	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+11	ⲥⲱⲧⲡ	ⲥⲱⲧⲡ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+12	ⲗⲟ	ⲗⲟ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+13-15	ⲉⲩϫⲱ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
+14	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+15	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	12	advcl	_	_
+16-18	ⲛⲛⲉⲩⲯⲁⲗⲙⲟⲥ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	Entity=(abstract
+18	ⲯⲁⲗⲙⲟⲥ	ⲯⲁⲗⲙⲟⲥ	NOUN	N	Foreign=Yes	15	obj	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0015
+# text_en = The joy of our heart has ceased; our dance is turned into mourning.
+# text = ⲁϥⲱϫⲛ ⲛϭⲓⲡⲣⲁϣⲉ ⲙⲡⲉⲛϩⲏⲧ ⲁⲡⲉⲛⲭⲟⲣⲟⲥ ⲕⲧⲟϥ ⲉⲩϩⲏⲃⲉ
+1-3	ⲁϥⲱϫⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲱϫⲛ	ⲱϫⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲛϭⲓⲡⲣⲁϣⲉ	_	_	_	_	_	_	_	_
+4	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(abstract
+6	ⲣⲁϣⲉ	ⲣⲁϣⲉ	NOUN	N	_	3	dislocated	_	_
+7-9	ⲙⲡⲉⲛϩⲏⲧ	_	_	_	_	_	_	_	_
+7	ⲙ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+9	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	6	nmod	_	Entity=abstract)abstract)
+10-12	ⲁⲡⲉⲛⲭⲟⲣⲟⲥ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+11	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	12	det	_	Entity=(person
+12	ⲭⲟⲣⲟⲥ	ⲭⲟⲣⲟⲥ	NOUN	N	Foreign=Yes	13	nsubj	_	Entity=person)|OrigLang=grc
+13-14	ⲕⲧⲟϥ	_	_	_	_	_	_	_	_
+13	ⲕⲧⲟ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15-17	ⲉⲩϩⲏⲃⲉ	_	_	_	_	_	_	_	_
+15	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	17	mark	_	_
+16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+17	ϩⲏⲃⲉ	ϩⲏⲃⲉ	VERB	V	VerbForm=Fin	13	advcl	_	_
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0016
+# text_en = The crown has fallen from our head: yea, woe to us! for we have sinned.
+# text = ⲁϥϩⲉ ⲛϭⲓⲡⲉⲕⲗⲟⲙ ⲛⲧⲉⲛⲁⲡⲉ ⲟⲩⲟⲉⲓ ⲛⲁⲛ ϫⲉⲁⲛⲣ ⲛⲟⲃⲉ
+1-3	ⲁϥϩⲉ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϩⲉ	ϩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲛϭⲓⲡⲉⲕⲗⲟⲙ	_	_	_	_	_	_	_	_
+4	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
+5	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(object
+6	ⲕⲗⲟⲙ	ⲕⲗⲟⲙ	NOUN	N	_	3	dislocated	_	_
+7-9	ⲛⲧⲉⲛⲁⲡⲉ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲧⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	Entity=(person
+9	ⲁⲡⲉ	ⲁⲡⲉ	NOUN	N	_	6	nmod	_	Entity=person)object)
+10	ⲟⲩⲟⲉⲓ	ⲟⲩⲟⲓ	PART	PTC	_	3	advmod	_	_
+11-12	ⲛⲁⲛ	_	_	_	_	_	_	_	_
+11	ⲛⲁ	ⲛⲁ	ADP	PREP	_	12	case	_	_
+12	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+13-16	ϫⲉⲁⲛⲣ	_	_	_	_	_	_	_	_
+13	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	16	mark	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	_
+16	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	3	ccomp	_	_
+17	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	16	obj	_	Entity=(abstract)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0017
+# text_en = For this has grief come; our heart is sorrowful: for this our eyes are darkened.
+# text = ⲉⲧⲃⲉⲡⲁⲓ ⲁⲡⲉⲛϩⲏⲧ ϣⲱⲡⲉ ⲉϥⲙⲟⲕϩ ⲉⲧⲃⲉⲡⲁⲓ ⲁⲛⲉⲛⲃⲁⲗ ⲣ ⲕⲁⲕⲉ
+1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
+1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
+2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	Entity=(abstract)
+3-5	ⲁⲡⲉⲛϩⲏⲧ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+4	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	Entity=(abstract
+5	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	6	nsubj	_	Entity=abstract)
+6	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+7-9	ⲉϥⲙⲟⲕϩ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲙⲟⲕϩ	ⲙⲟⲩⲕϩ	VERB	VSTAT	VerbForm=Fin	6	advcl	_	_
+10-11	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
+10	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	11	case	_	_
+11	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	obl	_	Entity=(abstract)
+12-14	ⲁⲛⲉⲛⲃⲁⲗ	_	_	_	_	_	_	_	_
+12	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
+13	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	Entity=(object
+14	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	15	nsubj	_	Entity=object)
+15	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+16	ⲕⲁⲕⲉ	ⲕⲁⲕⲉ	NOUN	N	_	15	obj	_	Entity=(abstract)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0018
+# text_en = Over the mountain of Sion, because it is made desolate, foxes have walked therein.
+# text = ⲉϫⲙⲡⲧⲟⲟⲩ ⲛⲥⲓⲱⲛ ϫⲉⲁϥⲧⲁⲕⲟ ⲁⲛⲃⲁϣⲟⲣ ⲙⲟⲟϣⲉ ϩⲓϫⲱϥ
+1-3	ⲉϫⲙⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	3	case	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(place
+3	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	0	root	_	_
+4-5	ⲛⲥⲓⲱⲛ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲥⲓⲱⲛ	ⲥⲓⲱⲛ	PROPN	NPROP	_	3	nmod	_	Entity=(place-Zion)place)
+6-9	ϫⲉⲁϥⲧⲁⲕⲟ	_	_	_	_	_	_	_	_
+6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	9	mark	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	3	advcl	_	_
+10-12	ⲁⲛⲃⲁϣⲟⲣ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	Entity=(animal
+12	ⲃⲁϣⲟⲣ	ⲃⲁϣⲟⲣ	NOUN	N	_	13	nsubj	_	Entity=animal)
+13	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	9	parataxis	_	_
+14-15	ϩⲓϫⲱϥ	_	_	_	_	_	_	_	_
+14	ϩⲓϫⲱ	ϩⲓϫⲛ	ADP	PREP	_	15	case	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0019
+# text_en = But thou, O Lord, shalt dwell for ever; thy throne shall endure to generation and generation.
+# text = ⲛⲧⲟⲕ ⲇⲉ ⲡϫⲟⲉⲓⲥ ⲕϣⲟⲟⲡ ϣⲁϩⲉⲛⲅⲉⲛⲉⲁ ⲙⲛϩⲉⲛⲅⲉⲛⲉⲁ
+1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	dislocated	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
+3-4	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Entity=(person
+4	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	6	dislocated	_	Entity=person)
+5-6	ⲕϣⲟⲟⲡ	_	_	_	_	_	_	_	_
+5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+6	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	0	root	_	_
+7-9	ϣⲁϩⲉⲛⲅⲉⲛⲉⲁ	_	_	_	_	_	_	_	_
+7	ϣⲁ	ϣⲁ	ADP	PREP	_	9	case	_	_
+8	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(abstract
+9	ⲅⲉⲛⲉⲁ	ⲅⲉⲛⲉⲁ	NOUN	N	Foreign=Yes	6	obl	_	Entity=abstract)|OrigLang=grc
+10-12	ⲙⲛϩⲉⲛⲅⲉⲛⲉⲁ	_	_	_	_	_	_	_	_
+10	ⲙⲛ	ⲙⲛ	ADP	PREP	_	12	cc	_	_
+11	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	12	det	_	Entity=(abstract
+12	ⲅⲉⲛⲉⲁ	ⲅⲉⲛⲉⲁ	NOUN	N	Foreign=Yes	9	conj	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0020
+# text_en = Wherefore wilt thou utterly forget us, and abandon us a long time?
+# text = ⲉⲧⲃⲉⲟⲩ ⲕⲛⲁⲣ ⲡⲉⲛⲱⲃϣ ⲉⲩⲑⲃⲃⲓⲟ ⲛⲁⲛ ⲉⲕⲛⲁⲕⲁ ⲁⲛ ⲛⲥⲱⲕ ⲉϩⲉⲛϩⲟⲟⲩ ⲉⲛⲁϣⲱⲟⲩ
+1-2	ⲉⲧⲃⲉⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
+2	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	5	obl	_	_
+3-5	ⲕⲛⲁⲣ	_	_	_	_	_	_	_	_
+3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6-7	ⲡⲉⲛⲱⲃϣ	_	_	_	_	_	_	_	_
+6	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	Entity=(abstract
+7	ⲱⲃϣ	ⲱⲃϣ	NOUN	N	_	5	obj	_	Entity=abstract)
+8-10	ⲉⲩⲑⲃⲃⲓⲟ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲑⲃⲃⲓⲟ	ⲑⲃⲃⲓⲟ	VERB	V	VerbForm=Fin	5	advcl	_	_
+11-12	ⲛⲁⲛ	_	_	_	_	_	_	_	_
+11	ⲛⲁ	ⲛⲁ	ADP	PREP	_	12	case	_	_
+12	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+13-16	ⲉⲕⲛⲁⲕⲁ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉⲣⲉ	PART	CFOC	_	16	mark	_	_
+14	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	_
+15	ⲛⲁ	ⲛⲁ	AUX	FUT	_	16	aux	_	_
+16	ⲕⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+17	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	16	advmod	_	_
+18-19	ⲛⲥⲱⲕ	_	_	_	_	_	_	_	_
+18	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	19	case	_	_
+19	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	obl	_	_
+20-22	ⲉϩⲉⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉ	ADP	PREP	_	22	case	_	_
+21	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	22	det	_	Entity=(time
+22	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	16	obl	_	_
+23-25	ⲉⲛⲁϣⲱⲟⲩ	_	_	_	_	_	_	_	_
+23	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	24	mark	_	_
+24	ⲛⲁϣⲱ	ⲛⲁϣⲉ	VERB	VBD	VerbForm=Fin	22	acl	_	_
+25	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	Entity=time)
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0021
+# text_en = Turn us, O Lord, to thee, and we shall be turned; and renew our days as before.
+# text = ⲕⲧⲟⲛ ϣⲁⲣⲟⲕ ⲡϫⲟⲉⲓⲥ ⲁⲩⲱ ⲧⲛⲛⲁⲕⲧⲟⲛ ⲛⲅⲣ ⲛⲉⲛϩⲟⲟⲩ ⲛⲃⲣⲣⲉ ⲛⲧϩⲉ ⲛϣⲟⲣⲡ
+1-2	ⲕⲧⲟⲛ	_	_	_	_	_	_	_	_
+1	ⲕⲧⲟ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+2	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	1	obj	_	_
+3-4	ϣⲁⲣⲟⲕ	_	_	_	_	_	_	_	_
+3	ϣⲁⲣⲟ	ϣⲁ	ADP	PREP	_	4	case	_	_
+4	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5-6	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(person
+6	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	1	vocative	_	Entity=person)
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	_
+8-11	ⲧⲛⲛⲁⲕⲧⲟⲛ	_	_	_	_	_	_	_	_
+8	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+9	ⲛⲁ	ⲛⲁ	AUX	FUT	_	10	aux	_	_
+10	ⲕⲧⲟ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	1	conj	_	_
+11	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	10	obj	_	_
+12-14	ⲛⲅⲣ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
+13	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
+14	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	10	advcl	_	_
+15-17	ⲛⲉⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+15	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	14	cop	_	_
+16	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	17	det	_	Entity=(time
+17	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	14	obj	_	_
+18-19	ⲛⲃⲣⲣⲉ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	Orig=ⲃ
+19	ⲃⲣⲣⲉ	ⲃⲣⲣⲉ	NOUN	N	_	17	nmod	_	Entity=time)
+20-22	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Orig=ⲑ
+22	ϩⲉ	ϩⲉ	NOUN	N	_	14	obl	_	Orig=ⲉ
+23-24	ⲛϣⲟⲣⲡ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
+24	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	22	nmod	_	_
+
+# sent_id = sahidic_ot-25_Lamentations_05_s0022
+# text_en = For thou hast indeed rejected us; thou hast been very wroth against us.
+# text = ϫⲉϩⲛⲟⲩⲕⲱ ⲛⲥⲱⲕ ⲁⲕⲕⲁⲁⲛ ⲛⲥⲱⲕ ⲁⲩⲱ ⲁⲕϭⲱⲛⲧ ⲉⲣⲟⲛ ⲉⲙⲁⲧⲉ
+1-4	ϫⲉϩⲛⲟⲩⲕⲱ	_	_	_	_	_	_	_	_
+1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	4	mark	_	_
+2	ϩⲛ	ϩⲛ	ADP	PREP	_	4	case	_	_
+3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(abstract
+4	ⲕⲱ	ⲕⲱ	NOUN	N	_	9	obl	_	_
+5-6	ⲛⲥⲱⲕ	_	_	_	_	_	_	_	_
+5	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	6	case	_	_
+6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Entity=abstract)
+7-10	ⲁⲕⲕⲁⲁⲛ	_	_	_	_	_	_	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	ⲕⲁⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+10	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+11-12	ⲛⲥⲱⲕ	_	_	_	_	_	_	_	_
+11	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	12	case	_	_
+12	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	_
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
+14-16	ⲁⲕϭⲱⲛⲧ	_	_	_	_	_	_	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	_
+16	ϭⲱⲛⲧ	ϭⲱⲛⲧ	VERB	V	VerbForm=Fin	9	conj	_	_
+17-18	ⲉⲣⲟⲛ	_	_	_	_	_	_	_	_
+17	ⲉⲣⲟ	ⲉ	ADP	PREP	_	18	case	_	_
+18	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	16	obl	_	_
+19	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	16	advmod	_	_
+

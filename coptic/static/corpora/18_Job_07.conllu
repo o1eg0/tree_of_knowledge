@@ -1,0 +1,741 @@
+# newdoc id = sahidic.ot:18_Job_07
+# sent_id = sahidic_ot-18_Job_07_s0001
+# text_en = Is not the life of man upon earth a state of trial? and his existence as that of a hireling by the day?
+# text = ⲙⲏ ⲛⲟⲩⲙⲁⲛϫⲱⲙⲛⲧ ⲁⲛ ⲡⲉ ⲡⲁϩⲉ ⲙⲡⲣⲱⲙⲉ ϩⲓϫⲙⲡⲕⲁϩ ⲁⲩⲱ ⲡⲉϥⲁϩⲉ ⲛⲧϩⲉ ⲛⲟⲩϫⲁⲓⲃⲉⲕⲏ ⲙⲙⲏⲛⲉ
+1	ⲙⲏ	ⲙⲏ	CCONJ	CONJ	Foreign=Yes	4	advmod	_	OrigLang=grc
+2-4	ⲛⲟⲩⲙⲁⲛϫⲱⲙⲛⲧ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
+3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(person
+4	ⲙⲁⲛϫⲱⲙⲛⲧ	ⲙⲁⲛϫⲱⲙⲛⲧ	NOUN	N	_	0	root	_	Entity=person)
+5	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
+6	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	4	cop	_	_
+7-8	ⲡⲁϩⲉ	_	_	_	_	_	_	_	_
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(abstract
+8	ⲁϩⲉ	ⲁϩⲉ	NOUN	N	_	4	nsubj	_	_
+9-11	ⲙⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(person
+11	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	nmod	_	Entity=person)abstract)
+12-14	ϩⲓϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+12	ϩⲓϫⲙ	ϩⲓϫⲛ	ADP	PREP	_	14	case	_	_
+13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(place
+14	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	4	obl	_	Entity=place)
+15	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	17	cc	_	_
+16-17	ⲡⲉϥⲁϩⲉ	_	_	_	_	_	_	_	_
+16	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	Entity=(abstract
+17	ⲁϩⲉ	ⲁϩⲉ	NOUN	N	_	4	conj	_	_
+18-20	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Orig=ⲑ
+20	ϩⲉ	ϩⲉ	NOUN	N	_	17	obl	_	Orig=ⲉ
+21-23	ⲛⲟⲩϫⲁⲓⲃⲉⲕⲏ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
+23	ϫⲁⲓⲃⲉⲕⲏ	ϫⲁⲓⲃⲉⲕⲏ	NOUN	N	_	20	nmod	_	_
+24-25	ⲙⲙⲏⲛⲉ	_	_	_	_	_	_	_	_
+24	ⲙ	ⲛ	ADP	PREP	_	25	case	_	_
+25	ⲙⲏⲛⲉ	ⲙⲏⲛⲉ	NOUN	N	_	23	nmod	_	Entity=abstract)abstract)|Orig=ⲙⲏⲏⲛⲉ
+
+# sent_id = sahidic_ot-18_Job_07_s0002
+# text_en = Or as a servant that fears his master, and one who has grasped a shadow? or as a hireling waiting for his pay?
+# text = ⲏ ⲛⲧϩⲉ ⲛⲟⲩϩⲙϩⲁⲗ ⲉϥⲣϩⲟⲧⲉ ϩⲏⲧϥ ⲙⲡⲉϥϫⲟⲉⲓⲥ ⲁⲩⲱ ⲉⲁϥϩⲉ ⲉⲩϩⲟⲓⲃⲉⲥ ⲏ ⲛⲧϩⲉ ⲁⲛ ⲡⲉ ⲛⲟⲩϫⲁⲓⲃⲉⲕⲏ ⲉϥϭⲉⲉⲧ ⲉⲡⲉϥⲃⲉⲕⲉ
+1	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	4	cc	_	OrigLang=grc
+2-4	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲛ	ADP	PREP	_	4	case	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Orig=ⲑ
+4	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	Orig=ⲉ
+5-7	ⲛⲟⲩϩⲙϩⲁⲗ	_	_	_	_	_	_	_	_
+5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+6	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	4	nmod	_	_
+8-10	ⲉϥⲣϩⲟⲧⲉ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	ⲣϩⲟⲧⲉ	ⲣϩⲟⲧⲉ	VERB	V	VerbForm=Fin	7	acl	_	Morphs=ⲣ-ϩⲟⲧⲉ
+11-12	ϩⲏⲧϥ	_	_	_	_	_	_	_	_
+11	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	10	obl:npmod	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	_
+13-15	ⲙⲡⲉϥϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	Entity=(person
+15	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	10	obl	_	Entity=person)
+16	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	20	cc	_	_
+17-20	ⲉⲁϥϩⲉ	_	_	_	_	_	_	_	_
+17	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	20	mark	_	_
+18	ⲁ	ⲁ	AUX	APST	_	20	aux	_	_
+19	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+20	ϩⲉ	ϩⲉ	VERB	V	VerbForm=Fin	10	conj	_	Entity=person)
+21-23	ⲉⲩϩⲟⲓⲃⲉⲥ	_	_	_	_	_	_	_	_
+21	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	23	mark	_	_
+22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	ϩⲟⲓⲃⲉⲥ	ϩⲟⲓⲃⲉⲥ	VERB	V	VerbForm=Fin	20	advcl	_	_
+24	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	27	cc	_	OrigLang=grc
+25-27	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+25	ⲛ	ⲛ	ADP	PREP	_	27	case	_	_
+26	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	Orig=ⲑ
+27	ϩⲉ	ϩⲉ	NOUN	N	_	4	conj	_	Orig=ⲉ
+28	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	27	advmod	_	_
+29	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	27	cop	_	_
+30-32	ⲛⲟⲩϫⲁⲓⲃⲉⲕⲏ	_	_	_	_	_	_	_	_
+30	ⲛ	ⲛ	ADP	PREP	_	32	case	_	_
+31	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	32	det	_	Entity=(person
+32	ϫⲁⲓⲃⲉⲕⲏ	ϫⲁⲓⲃⲉⲕⲏ	NOUN	N	_	27	nmod	_	_
+33-35	ⲉϥϭⲉⲉⲧ	_	_	_	_	_	_	_	_
+33	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	35	mark	_	_
+34	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nsubj	_	_
+35	ϭⲉⲉⲧ	ϭⲱ	VERB	VSTAT	VerbForm=Fin	32	acl	_	_
+36-38	ⲉⲡⲉϥⲃⲉⲕⲉ	_	_	_	_	_	_	_	_
+36	ⲉ	ⲉ	ADP	PREP	_	38	case	_	_
+37	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	38	det	_	Entity=(abstract
+38	ⲃⲉⲕⲉ	ⲃⲉⲕⲉ	NOUN	N	_	35	obl	_	Entity=abstract)person)
+
+# sent_id = sahidic_ot-18_Job_07_s0003
+# text_en = So have I also endured months of vanity, and nights of pain have been appointed me.
+# text = ⲧⲁⲓ ⲧⲉ ⲧⲁϩⲉ ϩⲱⲱⲧ ⲛⲧⲁⲓϩⲩ ⲡⲟⲙⲓⲛⲏ ⲉϩⲉⲛⲉⲃⲁⲧⲉ ⲉⲩϣⲟⲩⲉⲓⲧ ϩⲉⲛⲟⲩϣⲏ ⲇⲉ ⲛϩⲓⲥⲉ ⲛⲉⲧⲧⲟ ⲛⲁⲓ
+1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract
+2	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	1	cop	_	_
+3-4	ⲧⲁϩⲉ	_	_	_	_	_	_	_	_
+3	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	ϩⲉ	ϩⲉ	NOUN	N	_	1	nsubj	_	_
+5-6	ϩⲱⲱⲧ	_	_	_	_	_	_	_	_
+5	ϩⲱⲱ	ϩⲱⲱ	ADV	IMOD	_	1	advmod	_	_
+6	ⲧ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	det	_	Entity=abstract)
+7-10	ⲛⲧⲁⲓϩⲩ	_	_	_	_	_	_	_	_
+7	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	10	mark	_	_
+8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
+9	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	ϩⲩ	ϩⲩ	VERB	V	VerbForm=Fin	4	acl	_	_
+11	ⲡⲟⲙⲓⲛⲏ	ⲡⲟⲙⲓⲛⲏ	NOUN	N	_	10	obj	_	Entity=(abstract)
+12-14	ⲉϩⲉⲛⲉⲃⲁⲧⲉ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
+13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(object
+14	ⲉⲃⲁⲧⲉ	ⲉⲃⲁⲧⲉ	NOUN	N	_	10	obl	_	_
+15-17	ⲉⲩϣⲟⲩⲉⲓⲧ	_	_	_	_	_	_	_	_
+15	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	17	mark	_	_
+16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+17	ϣⲟⲩⲉⲓⲧ	ϣⲟⲩⲟ	VERB	VSTAT	VerbForm=Fin	14	acl	_	Entity=object)
+18-19	ϩⲉⲛⲟⲩϣⲏ	_	_	_	_	_	_	_	_
+18	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	19	det	_	Entity=(time
+19	ⲟⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	10	conj	_	_
+20	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	19	advmod	_	OrigLang=grc
+21-22	ⲛϩⲓⲥⲉ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	det	_	Entity=(abstract
+22	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	19	nmod	_	_
+23-25	ⲛⲉⲧⲧⲟ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	19	nsubj	_	Entity=(person
+24	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	25	mark	_	_
+25	ⲧⲟ	ϯ	VERB	VSTAT	VerbForm=Fin	23	acl	_	Entity=person)
+26	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	22	appos	_	Entity=abstract)time)
+
+# sent_id = sahidic_ot-18_Job_07_s0004
+# text_en = Whenever I lie down, I say, When will it be day? and whenever I rise up, again I say when will it be evening? and I am full of pains from evening to morning.
+# text = ⲉⲓϣⲁⲛⲉⲛⲕⲟⲧⲕ ϣⲁⲓϫⲟⲟⲥ ϫⲉⲉⲣⲉϩⲧⲟⲟⲩⲉ ϣⲱⲡⲉ ⲧⲛⲁⲩ ⲁⲩⲱ ⲟⲛ ⲉⲓϣⲁⲛⲧⲱⲟⲩⲛ ϫⲉⲉⲣⲉⲣⲟⲩϩⲉ ⲛⲏⲩ ⲧⲛⲁⲩ ϯϣⲟⲟⲡ ⲇⲉ ⲉⲓⲙⲏϩ ⲛϩⲓⲥⲉ ϫⲓⲛⲣⲟⲩϩⲉ ϣⲁϩⲧⲟⲟⲩⲉ
+1-2	ⲉⲓϣⲁⲛⲉⲛⲕⲟⲧⲕ	_	_	_	_	_	_	_	_
+1	ⲉⲓϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ	PRON	ACOND_PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ⲉⲛⲕⲟⲧⲕ	ⲉⲛⲕⲟⲧⲕ	VERB	V	VerbForm=Fin	5	advcl	_	_
+3-6	ϣⲁⲓϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+3	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	5	aux	_	_
+4	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7-9	ϫⲉⲉⲣⲉϩⲧⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
+8	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	10	mark	_	_
+9	ϩⲧⲟⲟⲩⲉ	ϩⲧⲟⲟⲩⲉ	NOUN	N	_	10	nsubj	_	Entity=(time)
+10	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	5	ccomp	_	_
+11-12	ⲧⲛⲁⲩ	_	_	_	_	_	_	_	_
+11	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Entity=(time
+12	ⲛⲁⲩ	ⲛⲁⲩ	NOUN	N	_	10	obj	_	Entity=time)
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
+14	ⲟⲛ	ⲟⲛ	ADV	ADV	_	16	advmod	_	_
+15-16	ⲉⲓϣⲁⲛⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+15	ⲉⲓϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ	PRON	ACOND_PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+16	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	24	advcl	_	_
+17-19	ϫⲉⲉⲣⲉⲣⲟⲩϩⲉ	_	_	_	_	_	_	_	_
+17	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	20	mark	_	_
+18	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	20	mark	_	_
+19	ⲣⲟⲩϩⲉ	ⲣⲟⲩϩⲉ	NOUN	N	_	20	nsubj	_	Entity=(time)
+20	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	16	ccomp	_	_
+21-22	ⲧⲛⲁⲩ	_	_	_	_	_	_	_	_
+21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Entity=(time
+22	ⲛⲁⲩ	ⲛⲁⲩ	NOUN	N	_	20	obj	_	Entity=time)
+23-24	ϯϣⲟⲟⲡ	_	_	_	_	_	_	_	_
+23	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+24	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	10	conj	_	_
+25	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	24	advmod	_	OrigLang=grc
+26-28	ⲉⲓⲙⲏϩ	_	_	_	_	_	_	_	_
+26	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	28	mark	_	_
+27	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
+28	ⲙⲏϩ	ⲙⲟⲩϩ	VERB	VSTAT	VerbForm=Fin	24	advcl	_	_
+29-30	ⲛϩⲓⲥⲉ	_	_	_	_	_	_	_	_
+29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
+30	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	28	obl	_	Entity=(abstract)
+31-33	ϫⲓⲛⲣⲟⲩϩⲉ	_	_	_	_	_	_	_	_
+31	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	24	parataxis	_	_
+32	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
+33	ⲣⲟⲩϩⲉ	ⲣⲟⲩϩⲉ	NOUN	N	_	31	obj	_	Entity=(time)
+34-35	ϣⲁϩⲧⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+34	ϣⲁ	ϣⲁ	ADP	PREP	_	35	case	_	_
+35	ϩⲧⲟⲟⲩⲉ	ϩⲧⲟⲟⲩⲉ	NOUN	N	_	31	obl	_	Entity=(time)
+
+# sent_id = sahidic_ot-18_Job_07_s0005
+# text_en = And my body is covered with loathsome worms; and I waste away, scraping off clods of dust from my eruption.
+# text = ⲡⲁⲥⲱⲙⲁ ⲇⲉ ⲟⲩⲱϣⲙ ϩⲛϩⲉⲛⲃⲛⲧ ⲉⲩϩⲟⲟⲩ ϯⲃⲱⲗ ⲇⲉ ⲉⲃⲟⲗ ⲛϩⲉⲛⲡⲟⲗϭⲥ ⲛⲕⲁϩ ⲉⲓϩⲱⲱⲕⲉ ⲛⲧⲁⲉⲓⲁⲁⲃⲉ
+1-2	ⲡⲁⲥⲱⲙⲁ	_	_	_	_	_	_	_	_
+1	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Entity=(object
+2	ⲥⲱⲙⲁ	ⲥⲱⲙⲁ	NOUN	N	Foreign=Yes	4	nsubj	_	Entity=object)|OrigLang=grc
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
+4	ⲟⲩⲱϣⲙ	ⲟⲩⲱϣⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+5-7	ϩⲛϩⲉⲛⲃⲛⲧ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	7	case	_	_
+6	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(animal
+7	ⲃⲛⲧ	ⲃⲛⲧ	NOUN	N	_	4	obl	_	Entity=animal)
+8-10	ⲉⲩϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	4	advcl	_	_
+11-12	ϯⲃⲱⲗ	_	_	_	_	_	_	_	_
+11	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+12	ⲃⲱⲗ	ⲃⲱⲗ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+13	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	12	advmod	_	OrigLang=grc
+14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	12	advmod	_	_
+15-17	ⲛϩⲉⲛⲡⲟⲗϭⲥ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ⲡⲟⲗϭⲥ	ⲡⲟⲗϭⲥ	NOUN	N	_	12	obj	_	_
+18-19	ⲛⲕⲁϩ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	17	nmod	_	Entity=(place)abstract)
+20-22	ⲉⲓϩⲱⲱⲕⲉ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	22	mark	_	_
+21	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+22	ϩⲱⲱⲕⲉ	ϩⲱⲱⲕⲉ	VERB	V	VerbForm=Fin	12	advcl	_	_
+23-25	ⲛⲧⲁⲉⲓⲁⲁⲃⲉ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det	_	Entity=(object
+25	ⲉⲓⲁⲁⲃⲉ	ⲉⲓⲁⲁⲃⲉ	NOUN	N	_	22	obj	_	Entity=object)
+
+# sent_id = sahidic_ot-18_Job_07_s0006
+# text_en = And my life is lighter than a word, and has perished in vain hope.
+# text = ⲡⲁⲁϩⲉ ⲇⲉ ⲁⲥⲱⲟⲩ ⲉⲡϣⲁⲁϫⲉ ⲁϥⲧⲁⲕⲟ ⲇⲉ ϩⲛⲟⲩϩⲉⲗⲡⲓⲥ ⲉⲥϣⲟⲩⲉⲓⲧ
+1-2	ⲡⲁⲁϩⲉ	_	_	_	_	_	_	_	_
+1	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Entity=(abstract
+2	ⲁϩⲉ	ⲁϩⲉ	NOUN	N	_	6	dislocated	_	Entity=abstract)
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
+4-7	ⲁⲥⲱⲟⲩ	_	_	_	_	_	_	_	_
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ⲱ	ⲱⲱ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
+7	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+8-9	ⲉⲡϣⲁⲁϫⲉ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉ	PART	PREP	_	9	mark	_	_
+9	ⲡϣⲁⲁϫⲉ	ⲡϣⲁⲁϫⲉ	VERB	V	VerbForm=Inf	6	xcomp	_	_
+10-12	ⲁϥⲧⲁⲕⲟ	_	_	_	_	_	_	_	_
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+13	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	12	advmod	_	OrigLang=grc
+14-16	ϩⲛⲟⲩϩⲉⲗⲡⲓⲥ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	16	case	_	_
+15	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	16	det	_	Entity=(abstract
+16	ϩⲉⲗⲡⲓⲥ	ϩⲉⲗⲡⲓⲥ	NOUN	N	Foreign=Yes	12	obl	_	OrigLang=grc
+17-19	ⲉⲥϣⲟⲩⲉⲓⲧ	_	_	_	_	_	_	_	_
+17	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	19	mark	_	_
+18	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+19	ϣⲟⲩⲉⲓⲧ	ϣⲟⲩⲟ	VERB	VSTAT	VerbForm=Fin	16	acl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-18_Job_07_s0007
+# text_en = Remember then that my life is breath, and mine eye shalt not yet again see good.
+# text = ⲁⲣⲓⲡⲙⲉⲉⲩ ⲇⲉ ϫⲉⲟⲩⲛⲓⲃⲉ ⲡⲉ ⲡⲁⲱⲛϩ ⲁⲩⲱ ⲙⲡⲁⲃⲁⲗ ⲛⲁⲧⲥⲧⲟϥ ⲁⲛ ⲉⲛⲁⲩ ⲁⲅⲁⲑⲟⲛ .
+1-2	ⲁⲣⲓⲡⲙⲉⲉⲩ	_	_	_	_	_	_	_	_
+1	ⲁⲣⲓ	ⲉⲓⲣⲉ	VERB	VIMP	VerbForm=Fin	0	root	_	_
+2	ⲡⲙⲉⲉⲩ	ⲡⲙⲉⲉⲩ	NOUN	N	_	1	obj	_	Entity=(abstract)
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
+4-6	ϫⲉⲟⲩⲛⲓⲃⲉ	_	_	_	_	_	_	_	_
+4	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	6	mark	_	_
+5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(abstract
+6	ⲛⲓⲃⲉ	ⲛⲓⲃⲉ	NOUN	N	_	1	ccomp	_	Entity=abstract)
+7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	_
+8-9	ⲡⲁⲱⲛϩ	_	_	_	_	_	_	_	_
+8	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+9	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	6	nsubj	_	Entity=abstract)
+10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+11-13	ⲙⲡⲁⲃⲁⲗ	_	_	_	_	_	_	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	Entity=(object
+13	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	9	conj	_	Entity=object)
+14-16	ⲛⲁⲧⲥⲧⲟϥ	_	_	_	_	_	_	_	_
+14	ⲛⲁ	ⲛⲁ	AUX	FUT	_	15	aux	_	_
+15	ⲧⲥⲧⲟ	ⲧⲥⲧⲟ	VERB	V	VerbForm=Fin	6	conj	_	_
+16	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	15	advmod	_	_
+18-19	ⲉⲛⲁⲩ	_	_	_	_	_	_	_	_
+18	ⲉ	ⲉ	PART	PREP	_	19	mark	_	_
+19	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	15	xcomp	_	_
+20	ⲁⲅⲁⲑⲟⲛ	ⲁⲅⲁⲑⲟⲛ	NOUN	N	Foreign=Yes	19	obj	_	Entity=(abstract)|OrigLang=grc
+21	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-18_Job_07_s0008
+# text_en = I am as a cloud that is cleared away from the sky: for if a man go down to the grave, he shall not come up again:
+# text = ⲁⲓⲱϫⲛ ⲛⲧϩⲉ ⲛⲟⲩⲕⲗⲟⲟⲗⲉ ⲉⲁⲩⲧⲃⲃⲟⲥ ϩⲁⲧⲡⲉ ⲉⲣϣⲁⲛⲡⲣⲱⲙⲉ ⲇⲉ ⲃⲱⲕ ⲉⲡⲉⲥⲏⲧ ⲉⲁⲙⲛⲧⲉ ⲛϥⲧⲥⲧⲟϥ ⲁⲛ ⲉⲉⲓ ⲉϩⲣⲁⲓ
+1-3	ⲁⲓⲱϫⲛ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ⲱϫⲛ	ⲱϫⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Orig=ⲑ
+6	ϩⲉ	ϩⲉ	NOUN	N	_	3	obl	_	Orig=ⲉ
+7-9	ⲛⲟⲩⲕⲗⲟⲟⲗⲉ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(object
+9	ⲕⲗⲟⲟⲗⲉ	ⲕⲗⲟⲟⲗⲉ	NOUN	N	_	6	nmod	_	_
+10-14	ⲉⲁⲩⲧⲃⲃⲟⲥ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	13	mark	_	_
+11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
+12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+13	ⲧⲃⲃⲟ	ⲧⲃⲃⲟ	VERB	V	VerbForm=Fin	9	acl	_	_
+14	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15-17	ϩⲁⲧⲡⲉ	_	_	_	_	_	_	_	_
+15	ϩⲁ	ϩⲁ	ADP	PREP	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(place
+17	ⲡⲉ	ⲡⲉ	NOUN	N	_	13	obl	_	Entity=place)object)
+18-20	ⲉⲣϣⲁⲛⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+18	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	AUX	ACOND	_	22	aux	_	_
+19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(person
+20	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	22	nsubj	_	Entity=person)
+21	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	22	advmod	_	OrigLang=grc
+22	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	13	advcl	_	_
+23-25	ⲉⲡⲉⲥⲏⲧ	_	_	_	_	_	_	_	_
+23	ⲉ	ⲉ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	ⲉⲥⲏⲧ	ⲉⲥⲏⲧ	NOUN	N	_	22	obl	_	_
+26-27	ⲉⲁⲙⲛⲧⲉ	_	_	_	_	_	_	_	_
+26	ⲉ	ⲉ	ADP	PREP	_	27	case	_	_
+27	ⲁⲙⲛⲧⲉ	ⲁⲙⲛⲧⲉ	PROPN	NPROP	_	22	obl	_	Entity=(place-Duat)
+28-31	ⲛϥⲧⲥⲧⲟϥ	_	_	_	_	_	_	_	_
+28	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	30	aux	_	_
+29	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+30	ⲧⲥⲧⲟ	ⲧⲥⲧⲟ	VERB	V	VerbForm=Fin	22	advcl	_	_
+31	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obj	_	_
+32	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	30	advmod	_	_
+33-34	ⲉⲉⲓ	_	_	_	_	_	_	_	_
+33	ⲉ	ⲉ	PART	PREP	_	34	mark	_	_
+34	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Inf	30	xcomp	_	_
+35	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	34	advmod	_	_
+
+# sent_id = sahidic_ot-18_Job_07_s0009
+# text_en = and he shall surely not return to his own house, neither shall his place know him any more.
+# text = ⲁⲩⲱ ⲛⲛⲉϥⲥⲟⲧϥ ⲉⲡⲉϥⲏⲓ ⲙⲙⲓⲛⲉ ⲙⲙⲟϥ ⲁⲩⲱ ⲛⲛⲉⲡⲉϥⲙⲁ ⲕⲟⲧϥ ⲉⲥⲟⲩⲱⲛϥ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-5	ⲛⲛⲉϥⲥⲟⲧϥ	_	_	_	_	_	_	_	_
+2	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	Polarity=Neg	4	aux	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲥⲟⲧ	ⲥⲱⲧ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6-8	ⲉⲡⲉϥⲏⲓ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉ	ADP	PREP	_	8	case	_	_
+7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	Entity=(place
+8	ⲏⲓ	ⲏⲓ	NOUN	N	_	4	obl	_	_
+9-10	ⲙⲙⲓⲛⲉ	_	_	_	_	_	_	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲙⲓⲛⲉ	ⲙⲓⲛⲉ	NOUN	N	_	8	nmod	_	_
+11-12	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
+11	ⲙⲙⲟ	ⲛ	ADP	PREP	_	12	case	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Entity=place)
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	17	cc	_	_
+14-16	ⲛⲛⲉⲡⲉϥⲙⲁ	_	_	_	_	_	_	_	_
+14	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	Polarity=Neg	17	aux	_	_
+15	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	Entity=(place
+16	ⲙⲁ	ⲙⲁ	NOUN	N	_	17	nsubj	_	Entity=place)
+17-18	ⲕⲟⲧϥ	_	_	_	_	_	_	_	_
+17	ⲕⲟⲧ	ⲕⲱⲧ	VERB	V	VerbForm=Fin	4	conj	_	_
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+19-21	ⲉⲥⲟⲩⲱⲛϥ	_	_	_	_	_	_	_	_
+19	ⲉ	ⲉ	PART	PREP	_	20	mark	_	_
+20	ⲥⲟⲩⲱⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Inf	17	xcomp	_	_
+21	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+
+# sent_id = sahidic_ot-18_Job_07_s0010
+# text_en = Then neither will I refrain my mouth: I will speak being in distress; being in anguish I will disclose the bitterness of my soul.
+# text = ⲛϯⲛⲁϯⲥⲟ ϩⲱ ⲁⲛ ⲉⲣⲱⲓ ϯⲛⲁϣⲁϫⲉ ϩⲛⲧⲁⲁⲛⲁⲅⲕⲏ ⲉⲓϣⲟⲟⲡ ϩⲙⲡⲉⲛⲟⲩϭⲥ ⲛⲧⲁⲯⲩⲭⲏ
+1-4	ⲛϯⲛⲁϯⲥⲟ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
+2	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
+4	ϯⲥⲟ	ϯⲥⲟ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ϯ-ⲥⲟ
+5	ϩⲱ	ϩⲱⲱ_ⲁⲛⲟⲕ	PRON	IMOD_PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	obl:npmod	_	_
+6	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
+7-8	ⲉⲣⲱⲓ	_	_	_	_	_	_	_	_
+7	ⲉⲣⲱ	ⲉ	ADP	PREP	_	8	case	_	_
+8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+9-11	ϯⲛⲁϣⲁϫⲉ	_	_	_	_	_	_	_	_
+9	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
+11	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+12-14	ϩⲛⲧⲁⲁⲛⲁⲅⲕⲏ	_	_	_	_	_	_	_	_
+12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	_
+13	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	Entity=(abstract
+14	ⲁⲛⲁⲅⲕⲏ	ⲁⲛⲁⲅⲕⲏ	NOUN	N	Foreign=Yes	11	obl	_	Entity=abstract)|OrigLang=grc
+15-17	ⲉⲓϣⲟⲟⲡ	_	_	_	_	_	_	_	_
+15	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	17	mark	_	_
+16	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+17	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	11	advcl	_	_
+18-20	ϩⲙⲡⲉⲛⲟⲩϭⲥ	_	_	_	_	_	_	_	_
+18	ϩⲙ	ϩⲛ	ADP	PREP	_	20	case	_	_
+19	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	20	det	_	Entity=(abstract|Orig=ⲡⲛ
+20	ⲟⲩϭⲥ	ⲟⲩϭⲥ	NOUN	N	_	17	obl	_	_
+21-23	ⲛⲧⲁⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	23	det	_	Entity=(abstract
+23	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	20	nmod	_	Entity=abstract)abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-18_Job_07_s0011
+# text_en = Am I a sea, or a serpent, that thou hast set a watch over me?
+# text = ⲙⲏ ⲁⲛⲅ ⲧϩⲁⲗⲁⲥⲥⲁ ⲏ ⲡⲉⲇⲣⲁⲕⲱⲛ ϫⲉⲁⲕϯϩⲧⲏⲕ ⲉⲣⲟⲓ ϫⲉⲁⲕⲥⲙⲓⲛⲉ ⲛϩⲉⲛⲡⲉⲧϩⲟⲟⲩ ⲉⲣⲟⲓ
+1	ⲙⲏ	ⲙⲏ	CCONJ	CONJ	Foreign=Yes	4	advmod	_	OrigLang=grc
+2	ⲁⲛⲅ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3-4	ⲧϩⲁⲗⲁⲥⲥⲁ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Entity=(place|Orig=ⲑ
+4	ϩⲁⲗⲁⲥⲥⲁ	ϩⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	0	root	_	Entity=place)|Orig=ⲁⲗⲁⲥⲥⲁ|OrigLang=grc
+5	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	7	cc	_	OrigLang=grc
+6-7	ⲡⲉⲇⲣⲁⲕⲱⲛ	_	_	_	_	_	_	_	_
+6	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(animal
+7	ⲇⲣⲁⲕⲱⲛ	ⲇⲣⲁⲕⲱⲛ	NOUN	N	Foreign=Yes	4	conj	_	Entity=animal)|OrigLang=grc
+8-12	ϫⲉⲁⲕϯϩⲧⲏⲕ	_	_	_	_	_	_	_	_
+8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	11	mark	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+11	ϯϩⲧⲏ	ϯϩⲧⲏ	VERB	V	VerbForm=Fin	4	advcl	_	Morphs=ϯ-ϩⲧⲏ
+12	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+13-14	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+13	ⲉⲣⲟ	ⲉ	ADP	PREP	_	14	case	_	_
+14	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	obl	_	_
+15-18	ϫⲉⲁⲕⲥⲙⲓⲛⲉ	_	_	_	_	_	_	_	_
+15	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	18	mark	_	_
+16	ⲁ	ⲁ	AUX	APST	_	18	aux	_	_
+17	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	_
+18	ⲥⲙⲓⲛⲉ	ⲥⲙⲓⲛⲉ	VERB	V	VerbForm=Fin	11	advcl	_	_
+19-21	ⲛϩⲉⲛⲡⲉⲧϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	21	det	_	Entity=(abstract
+21	ⲡⲉⲧϩⲟⲟⲩ	ⲡⲉⲑⲟⲟⲩ	NOUN	N	_	18	obj	_	Entity=abstract)|Morphs=ⲡ-ⲉⲧ-ϩⲟⲟⲩ|Orig=ⲡⲉⲑⲟⲟⲩ
+22-23	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
+22	ⲉⲣⲟ	ⲉ	ADP	PREP	_	23	case	_	_
+23	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	18	obl	_	_
+
+# sent_id = sahidic_ot-18_Job_07_s0012
+# text_en = I said that my bed should comfort me, and I would privately counsel with myself on my couch.
+# text = ⲁⲓϫⲟⲟⲥ ϫⲉⲡⲁϭⲗⲟϭ ⲛⲧⲱⲟⲩⲛ ⲛⲁⲥⲗⲥⲱⲗⲧ ϯⲛⲁⲉⲓⲛⲉ ⲇⲉ ⲛⲁⲓ ⲙⲁⲩⲁⲁⲧ ⲛⲟⲩϣⲁϫⲉ ϩⲓⲡⲁϭⲗⲟϭ
+1-4	ⲁⲓϫⲟⲟⲥ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5-7	ϫⲉⲡⲁϭⲗⲟϭ	_	_	_	_	_	_	_	_
+5	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	11	mark	_	_
+6	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	Entity=(object
+7	ϭⲗⲟϭ	ϭⲗⲟϭ	NOUN	N	_	11	nsubj	_	_
+8-9	ⲛⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	NOUN	N	_	7	nmod	_	Entity=(event)object)
+10-12	ⲛⲁⲥⲗⲥⲱⲗⲧ	_	_	_	_	_	_	_	_
+10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
+11	ⲥⲗⲥⲱⲗ	ⲥⲟⲗⲥⲗ	VERB	V	VerbForm=Fin	3	ccomp	_	_
+12	ⲧ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+13-15	ϯⲛⲁⲉⲓⲛⲉ	_	_	_	_	_	_	_	_
+13	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+14	ⲛⲁ	ⲛⲁ	AUX	FUT	_	15	aux	_	_
+15	ⲉⲓⲛⲉ	ⲉⲓⲛⲉ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+16	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	15	advmod	_	OrigLang=grc
+17-18	ⲛⲁⲓ	_	_	_	_	_	_	_	_
+17	ⲛⲁ	ⲛⲁ	ADP	PREP	_	18	case	_	_
+18	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	15	obl	_	_
+19-20	ⲙⲁⲩⲁⲁⲧ	_	_	_	_	_	_	_	_
+19	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	ADV	IMOD	_	15	advmod	_	_
+20	ⲧ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	19	det	_	_
+21-23	ⲛⲟⲩϣⲁϫⲉ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+22	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
+23	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	15	obl	_	_
+24-26	ϩⲓⲡⲁϭⲗⲟϭ	_	_	_	_	_	_	_	_
+24	ϩⲓ	ϩⲓ	ADP	PREP	_	26	case	_	_
+25	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	Entity=(object
+26	ϭⲗⲟϭ	ϭⲗⲟϭ	NOUN	N	_	23	nmod	_	Entity=object)abstract)
+
+# sent_id = sahidic_ot-18_Job_07_s0013
+# text_en = Thou scarest me with dreams, and dost terrify me with visions.
+# text = ⲁⲕⲧϩⲣϣⲟⲓ ϩⲛϩⲉⲛⲣⲁⲥⲟⲩ ⲁⲩⲱ ⲁⲕⲛⲟϣⲡⲧ ϩⲛϩⲉⲛϩⲟⲣⲟⲙⲁ
+1-4	ⲁⲕⲧϩⲣϣⲟⲓ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	ⲧϩⲣϣⲟ	ⲧϩⲣϣⲟ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲑⲣϣⲟ
+4	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5-7	ϩⲛϩⲉⲛⲣⲁⲥⲟⲩ	_	_	_	_	_	_	_	_
+5	ϩⲛ	ϩⲛ	ADP	PREP	_	7	case	_	_
+6	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲣⲁⲥⲟⲩ	ⲣⲁⲥⲟⲩ	NOUN	N	_	3	obl	_	Entity=abstract)
+8	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
+9-11	ⲁⲕⲛⲟϣⲡⲧ	_	_	_	_	_	_	_	_
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+11	ⲛⲟϣⲡⲧ	ⲛⲟϣⲡⲧ	VERB	V	VerbForm=Fin	3	conj	_	_
+12-14	ϩⲛϩⲉⲛϩⲟⲣⲟⲙⲁ	_	_	_	_	_	_	_	_
+12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	_
+13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(abstract
+14	ϩⲟⲣⲟⲙⲁ	ϩⲟⲣⲟⲙⲁ	NOUN	N	Foreign=Yes	11	obl	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-18_Job_07_s0014
+# text_en = Thou wilt separate life from my spirit; and yet keep my bones from death.
+# text = ⲕⲛⲁⲡⲱⲣϫ ⲛⲧⲁⲯⲩⲭⲏ ⲉⲡⲁⲡⲛⲉⲩⲙⲁ ⲁⲩⲱ ⲛⲁⲕⲉⲉⲥ ⲉⲡⲙⲟⲩ
+1-3	ⲕⲛⲁⲡⲱⲣϫ	_	_	_	_	_	_	_	_
+1	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
+3	ⲡⲱⲣϫ	ⲡⲱⲣϫ	VERB	V	VerbForm=Fin	0	root	_	_
+4-6	ⲛⲧⲁⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	Entity=(abstract
+6	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	3	obj	_	Entity=abstract)|OrigLang=grc
+7-9	ⲉⲡⲁⲡⲛⲉⲩⲙⲁ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
+8	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	Entity=(abstract
+9	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	Foreign=Yes	3	obl	_	Entity=abstract)|Orig=ⲡⲛⲁ|OrigLang=grc
+10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_
+11-12	ⲛⲁⲕⲉⲉⲥ	_	_	_	_	_	_	_	_
+11	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	Entity=(object
+12	ⲕⲉⲉⲥ	ⲕⲉⲉⲥ	NOUN	N	_	15	conj	_	Entity=object)
+13-15	ⲉⲡⲙⲟⲩ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Entity=(event
+15	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	3	obl	_	Entity=event)
+
+# sent_id = sahidic_ot-18_Job_07_s0015
+# text_en = For I shall not live for ever, that I should patiently endure: depart from me, for my life is vain.
+# text = ⲛⲛⲉⲓⲛⲁⲱⲛϩ ⲅⲁⲣ ⲁⲛ ϣⲁⲉⲛⲉϩ ϫⲉⲉⲓⲁϩⲣⲟϣ ⲛϩⲏⲧ ⲥⲁϩⲱⲕ ⲉⲃⲟⲗ ⲙⲙⲟⲓ ⲡⲁⲁϩⲉ ⲅⲁⲣ ϣⲟⲩⲉⲓⲧ
+1-5	ⲛⲛⲉⲓⲛⲁⲱⲛϩ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
+2	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	det	_	Entity=(person
+3	ⲉⲓ	ⲉⲓ	NOUN	N	_	5	nsubj	_	Entity=person)
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ⲱⲛϩ	ⲱⲛϩ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
+7	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	5	advmod	_	_
+8-9	ϣⲁⲉⲛⲉϩ	_	_	_	_	_	_	_	_
+8	ϣⲁ	ϣⲁ	ADP	PREP	_	9	case	_	_
+9	ⲉⲛⲉϩ	ⲉⲛⲉϩ	NOUN	N	_	5	obl	_	Entity=(time)
+10-12	ϫⲉⲉⲓⲁϩⲣⲟϣ	_	_	_	_	_	_	_	_
+10	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
+11	ⲉⲓⲁ	ⲉⲓⲁ	PRON	AOPT_PPERS	_	12	nsubj	_	_
+12	ϩⲣⲟϣ	ϩⲣⲟϣ	VERB	V	VerbForm=Fin	5	ccomp	_	_
+13-14	ⲛϩⲏⲧ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	12	obl	_	Entity=(abstract)
+15-16	ⲥⲁϩⲱⲕ	_	_	_	_	_	_	_	_
+15	ⲥⲁϩⲱ	ⲥⲟⲟϩⲉ	VERB	V	VerbForm=Fin	12	advcl	_	_
+16	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	obj	_	_
+17	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	19	case	_	_
+18-19	ⲙⲙⲟⲓ	_	_	_	_	_	_	_	_
+18	ⲙⲙⲟ	ⲛ	ADP	PREP	_	19	case	_	_
+19	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	15	obl	_	_
+20-21	ⲡⲁⲁϩⲉ	_	_	_	_	_	_	_	_
+20	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	Entity=(abstract
+21	ⲁϩⲉ	ⲁϩⲉ	NOUN	N	_	23	nsubj	_	Entity=abstract)
+22	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	23	advmod	_	OrigLang=grc
+23	ϣⲟⲩⲉⲓⲧ	ϣⲟⲩⲟ	VERB	VSTAT	VerbForm=Fin	15	parataxis	_	_
+
+# sent_id = sahidic_ot-18_Job_07_s0016
+# text_en = For what is man, that thou hast magnified him? or that thou givest heed to him?
+# text = ⲟⲩ ⲅⲁⲣ ⲡⲉ ⲡⲣⲱⲙⲉ ϫⲉⲁⲕϫⲁⲥⲧϥ ⲏ ϫⲉⲉⲕϯ ⲛϩⲧⲏⲕ ⲉⲣⲟϥ .
+1	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	0	root	_	_
+2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
+3	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
+4-5	ⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(person
+5	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	1	nsubj	_	_
+6-10	ϫⲉⲁⲕϫⲁⲥⲧϥ	_	_	_	_	_	_	_	_
+6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	9	mark	_	_
+7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
+8	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	ϫⲁⲥⲧ	ϫⲓⲥⲉ	VERB	V	VerbForm=Fin	5	ccomp	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	15	cc	_	OrigLang=grc
+12-15	ϫⲉⲉⲕϯ	_	_	_	_	_	_	_	_
+12	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	15	mark	_	_
+13	ⲉ	ⲉⲣⲉ	PART	CFOC	_	15	mark	_	_
+14	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+15	ϯ	ϯ	VERB	V	VerbForm=Fin	9	conj	_	_
+16-17	ⲛϩⲧⲏⲕ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ϩⲧⲏⲕ	ϩⲧⲏⲕ	NOUN	N	_	15	obj	_	Entity=(abstract)
+18-19	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+18	ⲉⲣⲟ	ⲉ	ADP	PREP	_	19	case	_	_
+19	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	Entity=person)
+20	.	.	PUNCT	PUNCT	_	0	punct	_	_
+
+# sent_id = sahidic_ot-18_Job_07_s0017
+# text_en = Wilt thou visit him till the morning, and judge him till the time of rest?
+# text = ⲏ ϫⲉⲕⲛⲁϭⲙⲡⲉϥϣⲓⲛⲉ ⲉϩⲧⲟⲟⲩⲉ
+1	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
+2-7	ϫⲉⲕⲛⲁϭⲙⲡⲉϥϣⲓⲛⲉ	_	_	_	_	_	_	_	_
+2	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	5	mark	_	_
+3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
+5	ϭⲙ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	ϣⲓⲛⲉ	ϣⲓⲛⲉ	NOUN	N	_	5	obj	_	_
+8-9	ⲉϩⲧⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
+9	ϩⲧⲟⲟⲩⲉ	ϩⲧⲟⲟⲩⲉ	NOUN	N	_	5	obl	_	Entity=(time)
+
+# sent_id = sahidic_ot-18_Job_07_s0018
+# text_en = How long dost thou not let me alone, nor let me go, until I shall swallow down my spittle?
+# text = ⲏ ϫⲉⲉⲕⲉⲕⲣⲓⲛⲉ ⲙⲙⲟϥ ⲉⲩⲙⲧⲟⲛ ϣⲁⲧⲛⲁⲩ ⲉⲛⲅⲛⲁⲕⲁⲁⲧ ⲁⲛ ⲁⲩⲱ ⲛⲅⲛⲁⲃⲱϣ ⲛⲁⲓ ⲁⲛ ϣⲁⲛⲧⲓⲟⲩⲱⲙⲕ ⲛⲧⲁⲡⲁϭⲥⲉ ϩⲛⲟⲩϣⲥⲛϩⲏⲧ
+1	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	4	cc	_	OrigLang=grc
+2-4	ϫⲉⲉⲕⲉⲕⲣⲓⲛⲉ	_	_	_	_	_	_	_	_
+2	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	4	mark	_	_
+3	ⲉⲕⲉ	ⲉⲣⲉ_ⲛⲧⲟⲕ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	ⲕⲣⲓⲛⲉ	ⲕⲣⲓⲛⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
+5-6	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
+5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+7-9	ⲉⲩⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
+8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	ⲙⲧⲟⲛ	ⲙⲧⲟⲛ	VERB	V	VerbForm=Fin	4	advcl	_	_
+10-12	ϣⲁⲧⲛⲁⲩ	_	_	_	_	_	_	_	_
+10	ϣⲁ	ϣⲁ	ADP	PREP	_	12	case	_	_
+11	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Entity=(time
+12	ⲛⲁⲩ	ⲛⲁⲩ	NOUN	N	_	9	obl	_	Entity=time)
+13-18	ⲉⲛⲅⲛⲁⲕⲁⲁⲧ	_	_	_	_	_	_	_	_
+13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	17	mark	_	_
+14	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	17	advmod	_	_
+15	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+16	ⲛⲁ	ⲛⲁ	AUX	FUT	_	17	aux	_	_
+17	ⲕⲁⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	9	advcl	_	_
+18	ⲧ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	17	obj	_	_
+19	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	17	advmod	_	_
+20	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
+21-24	ⲛⲅⲛⲁⲃⲱϣ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	24	advmod	_	_
+22	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	_
+23	ⲛⲁ	ⲛⲁ	AUX	FUT	_	24	aux	_	_
+24	ⲃⲱϣ	ⲃⲱϣ	VERB	V	VerbForm=Fin	4	conj	_	_
+25-26	ⲛⲁⲓ	_	_	_	_	_	_	_	_
+25	ⲛⲁ	ⲛⲁ	ADP	PREP	_	26	case	_	_
+26	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	24	obl	_	_
+27	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	24	advmod	_	_
+28-31	ϣⲁⲛⲧⲓⲟⲩⲱⲙⲕ	_	_	_	_	_	_	_	_
+28	ϣⲁⲛⲧ	ϣⲁⲛⲧⲉ	AUX	ALIM	_	30	aux	_	Orig=ϣⲁⲛ
+29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	Orig=ϯ
+30	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	24	advcl	_	Orig=ⲱⲙ
+31	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	30	obj	_	_
+32-34	ⲛⲧⲁⲡⲁϭⲥⲉ	_	_	_	_	_	_	_	_
+32	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
+33	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	34	det	_	Entity=(substance
+34	ⲡⲁϭⲥⲉ	ⲡⲁϭⲥⲉ	NOUN	N	_	30	obl	_	Entity=substance)
+35-37	ϩⲛⲟⲩϣⲥⲛϩⲏⲧ	_	_	_	_	_	_	_	_
+35	ϩⲛ	ϩⲛ	ADP	PREP	_	37	case	_	_
+36	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	37	det	_	Entity=(abstract
+37	ϣⲥⲛϩⲏⲧ	ϣⲥⲛϩⲏⲧ	NOUN	N	_	30	obl	_	Entity=abstract)
+
+# sent_id = sahidic_ot-18_Job_07_s0019
+# text_en = If I have sinned, what shall I be able to do, O thou that understandest the mind of men? why hast thou made me as thine accuser, and why am I a burden to thee?
+# text = ⲉϣϫⲉ ⲁⲛⲟⲕ ⲁⲓⲣⲛⲟⲃⲉ ⲉⲓⲛⲁϣⲣ ⲟⲩ ⲛⲁⲕ ⲡⲉⲧⲥⲟⲟⲩⲛ ⲙⲡϩⲏⲧ ⲛⲛⲣⲱⲙⲉ ⲉⲧⲃⲉⲟⲩ ⲁϥⲕⲁⲁⲧ ⲟⲩⲃⲏⲕ ϯⲱ ⲇⲉ ⲛⲟⲩⲉⲧⲡⲱ ⲛⲁⲕ
+1	ⲉϣϫⲉ	ⲉϣϫⲉ	SCONJ	CONJ	_	5	mark	_	_
+2	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	_
+3-5	ⲁⲓⲣⲛⲟⲃⲉ	_	_	_	_	_	_	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	ⲣⲛⲟⲃⲉ	ⲣⲛⲟⲃⲉ	VERB	V	VerbForm=Fin	27	advcl	_	Morphs=ⲣ-ⲛⲟⲃⲉ
+6-10	ⲉⲓⲛⲁϣⲣ	_	_	_	_	_	_	_	_
+6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	10	aux	_	_
+9	ϣ	ϣ	AUX	V	VerbForm=Fin	10	aux	_	_
+10	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	5	advcl	_	_
+11	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	10	obj	_	_
+12-13	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+12	ⲛⲁ	ⲛⲁ	ADP	PREP	_	13	case	_	_
+13	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl	_	_
+14-16	ⲡⲉⲧⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
+14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	dislocated	_	Entity=(person
+15	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+16	ⲥⲟⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	14	acl	_	_
+17-19	ⲙⲡϩⲏⲧ	_	_	_	_	_	_	_	_
+17	ⲙ	ⲛ	ADP	PREP	_	19	case	_	_
+18	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Entity=(abstract
+19	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	16	obj	_	_
+20-22	ⲛⲛⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+20	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+21	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	det	_	Entity=(person
+22	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	19	nmod	_	Entity=person)abstract)
+23-24	ⲉⲧⲃⲉⲟⲩ	_	_	_	_	_	_	_	_
+23	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	24	case	_	_
+24	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	16	obl	_	Entity=person)
+25-28	ⲁϥⲕⲁⲁⲧ	_	_	_	_	_	_	_	_
+25	ⲁ	ⲁ	AUX	APST	_	27	aux	_	_
+26	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
+27	ⲕⲁⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+28	ⲧ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	27	obj	_	_
+29-30	ⲟⲩⲃⲏⲕ	_	_	_	_	_	_	_	_
+29	ⲟⲩⲃⲏ	ⲟⲩⲃⲉ	ADP	PREP	_	30	case	_	_
+30	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	27	obl	_	_
+31-32	ϯⲱ	_	_	_	_	_	_	_	_
+31	ϯ	ϯ	VERB	V	VerbForm=Fin	27	parataxis	_	_
+32	ⲱ	ⲱ	PART	PTC	Foreign=Yes	31	discourse	_	OrigLang=grc
+33	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	31	advmod	_	OrigLang=grc
+34-36	ⲛⲟⲩⲉⲧⲡⲱ	_	_	_	_	_	_	_	_
+34	ⲛ	ⲛ	ADP	PREP	_	36	case	_	_
+35	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	36	det	_	Entity=(abstract
+36	ⲉⲧⲡⲱ	ⲉⲧⲡⲱ	NOUN	N	_	31	obj	_	Entity=abstract)
+37-38	ⲛⲁⲕ	_	_	_	_	_	_	_	_
+37	ⲛⲁ	ⲛⲁ	ADP	PREP	_	38	case	_	_
+38	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	31	obl	_	_
+
+# sent_id = sahidic_ot-18_Job_07_s0020
+# text_en = Why hast thou not forgotten my iniquity, and purged my sin? but now I shall depart to the earth; and in the morning I am no more.
+# text = ⲉⲧⲃⲉⲟⲩ ⲙⲡⲉⲕⲣⲡⲱⲃϣ ⲛⲧⲁⲁⲛⲟⲙⲓⲁ ⲁⲩⲱ ⲛⲅⲧⲃⲃⲟ ⲙⲡⲁⲛⲟⲃⲉ ⲧⲉⲛⲟⲩ ⲇⲉ ⲉⲓⲛⲁⲃⲱⲕ ⲉⲡⲕⲁϩ ⲁⲩⲱ ϯⲛⲁⲧⲥⲧⲟⲓ ⲁⲛ ⲉϣⲟⲣⲡⲧ
+1-2	ⲉⲧⲃⲉⲟⲩ	_	_	_	_	_	_	_	_
+1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
+2	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	5	obl	_	_
+3-7	ⲙⲡⲉⲕⲣⲡⲱⲃϣ	_	_	_	_	_	_	_	_
+3	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	5	aux	_	_
+4	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ⲱⲃϣ	ⲱⲃϣ	NOUN	N	_	5	obj	_	_
+8-10	ⲛⲧⲁⲁⲛⲟⲙⲓⲁ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	Entity=(abstract
+10	ⲁⲛⲟⲙⲓⲁ	ⲁⲛⲟⲙⲓⲁ	NOUN	N	Foreign=Yes	7	nmod	_	Entity=abstract)|OrigLang=grc
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+12-14	ⲛⲅⲧⲃⲃⲟ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
+13	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
+14	ⲧⲃⲃⲟ	ⲧⲃⲃⲟ	VERB	V	VerbForm=Fin	5	advcl	_	_
+15-17	ⲙⲡⲁⲛⲟⲃⲉ	_	_	_	_	_	_	_	_
+15	ⲙ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	Entity=(abstract
+17	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	14	obj	_	Entity=abstract)
+18	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	30	advmod	_	_
+19	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	23	advmod	_	OrigLang=grc
+20-23	ⲉⲓⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉⲣⲉ	PART	CFOC	_	23	mark	_	_
+21	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_
+22	ⲛⲁ	ⲛⲁ	AUX	FUT	_	23	aux	_	_
+23	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	5	parataxis	_	_
+24-26	ⲉⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉ	ADP	PREP	_	26	case	_	_
+25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Entity=(place
+26	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	23	obl	_	Entity=place)
+27	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	30	cc	_	_
+28-31	ϯⲛⲁⲧⲥⲧⲟⲓ	_	_	_	_	_	_	_	_
+28	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_
+29	ⲛⲁ	ⲛⲁ	AUX	FUT	_	30	aux	_	_
+30	ⲧⲥⲧⲟ	ⲧⲥⲧⲟ	VERB	V	VerbForm=Fin	23	conj	_	_
+31	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	30	obj	_	_
+32	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	30	advmod	_	_
+33-34	ⲉϣⲟⲣⲡⲧ	_	_	_	_	_	_	_	_
+33	ⲉ	ⲉ	PART	PREP	_	34	mark	_	_
+34	ϣⲟⲣⲡⲧ	ϣⲟⲣⲡⲧ	VERB	V	VerbForm=Inf	30	xcomp	_	_
+

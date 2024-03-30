@@ -1,0 +1,311 @@
+# newdoc id = sahidic.ot:28_Hosea_06
+# sent_id = sahidic_ot-28_Hosea_06_s0001
+# text_en = In their affliction they will seek me early, saying, Let us go, and return to the Lord our God; for he has torn, and will heal us;
+# text = ϩⲛⲧⲉⲩⲑⲗⲓⲯⲓⲥ ⲥⲉⲛⲁϣⲟⲣⲡⲟⲩ ⲉⲣⲁⲧⲉⲩϫⲱ ⲙⲙⲟⲥ ϫⲉⲁⲙⲏⲓⲧⲛ ⲛⲧⲛⲕⲧⲟⲛ ⲉⲣⲁⲧϥ ⲙⲡϫⲟⲉⲓⲥ ⲡⲉⲛⲛⲟⲩⲧⲉ ϫⲉⲛⲧⲟϥ ⲡⲉ ⲛⲧⲁϥⲣⲁϩⲧⲛ ⲁⲩⲱ ϥⲛⲁⲧⲁⲗϭⲟⲛ ϥⲛⲁϣⲟⲟϭⲛ ⲁⲩⲱ ⲛⲉϥⲣ ⲡⲁϩⲣⲉ ⲉⲣⲟⲛ
+1-3	ϩⲛⲧⲉⲩⲑⲗⲓⲯⲓⲥ	_	_	_	_	_	_	_	_
+1	ϩⲛ	ϩⲛ	ADP	PREP	_	3	case	_	_
+2	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract
+3	ⲑⲗⲓⲯⲓⲥ	ⲑⲗⲓⲯⲓⲥ	NOUN	N	Foreign=Yes	6	obl	_	Entity=abstract)|OrigLang=grc
+4-7	ⲥⲉⲛⲁϣⲟⲣⲡⲟⲩ	_	_	_	_	_	_	_	_
+4	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+5	ⲛⲁ	ⲛⲁ	AUX	FUT	_	6	aux	_	_
+6	ϣⲟⲣⲡ	ϣⲱⲣⲡ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+8-12	ⲉⲣⲁⲧⲉⲩϫⲱ	_	_	_	_	_	_	_	_
+8	ⲉⲣⲁ	ⲉⲣⲁ	ADP	PREP	_	9	case	_	_
+9	ⲧ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	6	advcl	_	_
+13-14	ⲙⲙⲟⲥ	_	_	_	_	_	_	_	_
+13	ⲙⲙⲟ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+15-16	ϫⲉⲁⲙⲏⲓⲧⲛ	_	_	_	_	_	_	_	_
+15	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	16	mark	_	_
+16	ⲁⲙⲏⲓⲧⲛ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	12	ccomp	_	_
+17-20	ⲛⲧⲛⲕⲧⲟⲛ	_	_	_	_	_	_	_	_
+17	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	19	aux	_	_
+18	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
+19	ⲕⲧⲟ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	16	advcl	_	_
+20	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	19	obj	_	_
+21-22	ⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
+21	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	22	case	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+23-25	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+23	ⲙ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(person
+25	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	22	nmod	_	_
+26-27	ⲡⲉⲛⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+26	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+27	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	25	appos	_	Entity=person)
+28-29	ϫⲉⲛⲧⲟϥ	_	_	_	_	_	_	_	_
+28	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	29	mark	_	_
+29	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	ccomp	_	_
+30	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	29	cop	_	_
+31-35	ⲛⲧⲁϥⲣⲁϩⲧⲛ	_	_	_	_	_	_	_	_
+31	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	34	mark	_	_
+32	ⲁ	ⲁ	AUX	APST	_	34	aux	_	_
+33	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
+34	ⲣⲁϩⲧ	ⲣⲱϩⲧ	VERB	V	VerbForm=Fin	29	csubj	_	_
+35	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	34	obj	_	_
+36	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	47	cc	_	_
+37-40	ϥⲛⲁⲧⲁⲗϭⲟⲛ	_	_	_	_	_	_	_	_
+37	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	nsubj	_	_
+38	ⲛⲁ	ⲛⲁ	AUX	FUT	_	39	aux	_	_
+39	ⲧⲁⲗϭⲟ	ⲧⲁⲗϭⲟ	VERB	V	VerbForm=Fin	43	conj	_	_
+40	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	43	advmod	_	_
+41-43	ϥⲛⲁϣⲟⲟϭⲛ	_	_	_	_	_	_	_	_
+41	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	nsubj	_	_
+42	ⲛⲁ	ⲛⲁ	AUX	FUT	_	43	aux	_	_
+43	ϣⲟⲟϭⲛ	ϣⲟⲟϭⲛ	VERB	V	VerbForm=Fin	29	conj	_	_
+44	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	47	cc	_	_
+45-47	ⲛⲉϥⲣ	_	_	_	_	_	_	_	_
+45	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	47	aux	_	_
+46	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	_
+47	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	43	conj	_	_
+48-49	ⲡⲁϩⲣⲉ	_	_	_	_	_	_	_	_
+48	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	Entity=(abstract
+49	ⲁϩⲣⲉ	ⲁϩⲣ	NOUN	N	_	47	obj	_	Entity=abstract)
+50-51	ⲉⲣⲟⲛ	_	_	_	_	_	_	_	_
+50	ⲉⲣⲟ	ⲉ	ADP	PREP	_	51	case	_	_
+51	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	47	obl	_	_
+
+# sent_id = sahidic_ot-28_Hosea_06_s0002
+# text_en = he will smite, and bind us up.
+# text = ⲛϥⲧⲟⲩϫⲟⲛ ⲙⲛⲛⲥⲁϩⲟⲟⲩ ⲥⲛⲁⲩ ϩⲙⲡⲙⲉϩϣⲟⲙⲛⲧ ⲇⲉ ⲛϩⲟⲟⲩ ⲛⲛⲁⲧⲱⲟⲩⲛ ⲛⲧⲛⲥⲟⲩⲱⲛϥ
+1-4	ⲛϥⲧⲟⲩϫⲟⲛ	_	_	_	_	_	_	_	_
+1	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲧⲟⲩϫⲟ	ⲧⲟⲩϫⲟ	VERB	V	VerbForm=Fin	17	advcl	_	_
+4	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+5-7	ⲙⲛⲛⲥⲁϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+5	ⲙⲛ	ⲙⲛ	ADP	PREP	_	7	case	_	_
+6	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	7	case	_	_
+7	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	3	obl	_	Entity=(time
+8	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	7	nummod	_	Entity=time)
+9-11	ϩⲙⲡⲙⲉϩϣⲟⲙⲛⲧ	_	_	_	_	_	_	_	_
+9	ϩⲙ	ϩⲛ	ADP	PREP	_	14	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(time
+11	ⲙⲉϩϣⲟⲙⲛⲧ	ⲙⲉϩϣⲟⲙⲛⲧ	NUM	NUM	NumType=Card	14	nummod	_	Morphs=ⲙⲉϩ-ϣⲟⲙⲛⲧ
+12	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	17	advmod	_	OrigLang=grc
+13-14	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+14	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	17	obl	_	Entity=time)
+15-17	ⲛⲛⲁⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+16	ⲛⲁ	ⲛⲁ	AUX	FUT	_	17	aux	_	_
+17	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+18-21	ⲛⲧⲛⲥⲟⲩⲱⲛϥ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	20	aux	_	_
+19	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	_
+20	ⲥⲟⲩⲱⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	17	advcl	_	_
+21	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+
+# sent_id = sahidic_ot-28_Hosea_06_s0003
+# text_en = After two days he will heal us: in the third day we shall arise, and live before him, and shall know him:
+# text = ⲁⲩⲱ ⲧⲛⲛⲁⲡⲱⲧ ⲉⲧⲣⲉⲛⲥⲟⲩⲛ ⲡϫⲟⲉⲓⲥ ⲧⲛⲛⲁϩⲉ ⲉⲣⲟϥ ⲛⲧϩⲉ ⲙⲡⲛⲁⲩ ⲛϣⲱⲣⲡ ⲉϥⲥⲃⲧⲱⲧ ⲁⲩⲱ ⲉϥⲛⲏⲩ ⲛⲧϩⲉ ⲛⲟⲩϩⲟⲩⲙⲡⲉ ⲉϫⲙⲡⲕⲁϩ ⲛϣⲟⲣⲡ ⲁⲩⲱ ⲛϩⲁⲉ
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2-4	ⲧⲛⲛⲁⲡⲱⲧ	_	_	_	_	_	_	_	_
+2	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
+4	ⲡⲱⲧ	ⲡⲱⲧ	VERB	V	VerbForm=Fin	0	root	_	_
+5-8	ⲉⲧⲣⲉⲛⲥⲟⲩⲛ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	PART	PREP	_	6	mark	_	_
+6	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	4	xcomp	_	Orig=ⲧⲣ
+7	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	ⲥⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	6	xcomp	_	_
+9-10	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
+10	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	8	obj	_	Entity=person)
+11-13	ⲧⲛⲛⲁϩⲉ	_	_	_	_	_	_	_	_
+11	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+12	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	_
+13	ϩⲉ	ϩⲉ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+14-15	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
+14	ⲉⲣⲟ	ⲉ	ADP	PREP	_	15	case	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+16-18	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	Orig=ⲑ
+18	ϩⲉ	ϩⲉ	NOUN	N	_	13	obl	_	Orig=ⲉ
+19-21	ⲙⲡⲛⲁⲩ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	21	case	_	_
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(time
+21	ⲛⲁⲩ	ⲛⲁⲩ	NOUN	N	_	18	nmod	_	_
+22-23	ⲛϣⲱⲣⲡ	_	_	_	_	_	_	_	_
+22	ⲛ	ⲛ	ADP	PREP	_	23	case	_	_
+23	ϣⲱⲣⲡ	ϣⲱⲣⲡ	NOUN	N	_	21	nmod	_	Entity=(time
+24-26	ⲉϥⲥⲃⲧⲱⲧ	_	_	_	_	_	_	_	_
+24	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	26	mark	_	_
+25	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
+26	ⲥⲃⲧⲱⲧ	ⲥⲟⲃⲧⲉ	VERB	VSTAT	VerbForm=Fin	23	acl	_	_
+27	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	30	cc	_	_
+28-30	ⲉϥⲛⲏⲩ	_	_	_	_	_	_	_	_
+28	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	30	mark	_	_
+29	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+30	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	26	conj	_	_
+31-33	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+31	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
+32	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	Orig=ⲑ
+33	ϩⲉ	ϩⲉ	NOUN	N	_	30	obl	_	Orig=ⲉ
+34-36	ⲛⲟⲩϩⲟⲩⲙⲡⲉ	_	_	_	_	_	_	_	_
+34	ⲛ	ⲛ	ADP	PREP	_	36	case	_	_
+35	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	36	det	_	Entity=(abstract
+36	ϩⲟⲩⲙⲡⲉ	ϩⲟⲩⲙⲡⲉ	NOUN	N	_	33	nmod	_	Entity=abstract)
+37-39	ⲉϫⲙⲡⲕⲁϩ	_	_	_	_	_	_	_	_
+37	ⲉϫⲙ	ⲉϫⲛ	ADP	PREP	_	39	case	_	_
+38	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	Entity=(place
+39	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	30	obl	_	_
+40-41	ⲛϣⲟⲣⲡ	_	_	_	_	_	_	_	_
+40	ⲛ	ⲛ	ADP	PREP	_	41	case	_	_
+41	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	39	nmod	_	Entity=place)
+42	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	44	cc	_	_
+43-44	ⲛϩⲁⲉ	_	_	_	_	_	_	_	_
+43	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	44	det	_	Entity=(time
+44	ϩⲁⲉ	ϩⲁⲉ	NOUN	N	_	39	conj	_	Entity=time)time)time)
+
+# sent_id = sahidic_ot-28_Hosea_06_s0004
+# text_en = Therefore have I mown down your prophets; I have slain them with the word of my mouth: and my judgment shall go forth as the light.
+# text = ⲟⲩⲥⲟⲩⲛ ⲡⲛⲟⲩⲧ ⲉϩⲟⲩⲟ ⲉⲛϩⲛϭⲗⲓⲗ
+1-2	ⲟⲩⲥⲟⲩⲛ	_	_	_	_	_	_	_	_
+1	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	ⲥⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
+3-4	ⲡⲛⲟⲩⲧ	_	_	_	_	_	_	_	_
+3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Entity=(abstract
+4	ⲛⲟⲩⲧ	ⲛⲟⲩⲧ	NOUN	N	_	2	obj	_	Entity=abstract)
+5-6	ⲉϩⲟⲩⲟ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
+6	ϩⲟⲩⲟ	ϩⲟⲩⲟ	NOUN	N	_	2	obl	_	_
+7-10	ⲉⲛϩⲛϭⲗⲓⲗ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+8	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+9	ϩⲛ	ϩⲛ	ADP	PREP	_	10	case	_	_
+10	ϭⲗⲓⲗ	ϭⲗⲓⲗ	NOUN	N	_	6	acl	_	Entity=(abstract)
+
+# sent_id = sahidic_ot-28_Hosea_06_s0005
+# text_en = For I will have mercy rather than sacrifice, and the knowledge of God rather than whole-burnt-offerings.
+# text = ⲛⲧⲟⲟⲩ ⲇⲉ ⲉⲩⲟ ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲉϥⲡⲁⲣⲁⲃⲁ ⲛⲟⲩⲇⲓⲁⲑⲏⲕⲏ ⲁⲥⲡⲁⲣⲁⲃⲁ ⲙⲙⲟⲓ ⲙⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ
+1	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	dislocated	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	20	advmod	_	OrigLang=grc
+3-5	ⲉⲩⲟ	_	_	_	_	_	_	_	_
+3	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	5	mark	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	VerbForm=Fin	20	advcl	_	_
+6-8	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Orig=ⲑ
+8	ϩⲉ	ϩⲉ	NOUN	N	_	5	obl	_	Orig=ⲉ
+9-11	ⲛⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	Entity=(person
+11	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	nmod	_	_
+12-14	ⲉϥⲡⲁⲣⲁⲃⲁ	_	_	_	_	_	_	_	_
+12	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	14	mark	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲡⲁⲣⲁⲃⲁ	ⲡⲁⲣⲁⲃⲁ	VERB	V	Foreign=Yes|VerbForm=Fin	11	acl	_	OrigLang=grc
+15-17	ⲛⲟⲩⲇⲓⲁⲑⲏⲕⲏ	_	_	_	_	_	_	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+16	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	17	det	_	Entity=(abstract
+17	ⲇⲓⲁⲑⲏⲕⲏ	ⲇⲓⲁⲑⲏⲕⲏ	NOUN	N	Foreign=Yes	14	obl	_	Entity=abstract)person)|Orig=ⲇⲓⲁⲑⲩⲕⲏ|OrigLang=grc
+18-20	ⲁⲥⲡⲁⲣⲁⲃⲁ	_	_	_	_	_	_	_	_
+18	ⲁ	ⲁ	AUX	APST	_	20	aux	_	_
+19	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+20	ⲡⲁⲣⲁⲃⲁ	ⲡⲁⲣⲁⲃⲁ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
+21-22	ⲙⲙⲟⲓ	_	_	_	_	_	_	_	_
+21	ⲙⲙⲟ	ⲛ	ADP	PREP	_	22	case	_	_
+22	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	20	obj	_	_
+23-25	ⲙⲡⲙⲁ	_	_	_	_	_	_	_	_
+23	ⲙ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(place
+25	ⲙⲁ	ⲙⲁ	NOUN	N	_	20	obl	_	_
+26-27	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+26	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	27	mark	_	_
+27	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	25	acl	_	Entity=place)
+
+# sent_id = sahidic_ot-28_Hosea_06_s0006
+# text_en = But they are as a man transgressing a covenant:
+# text = ⲛϭⲓⲅⲁⲗⲁⲁⲇ ⲧⲡⲟⲗⲓⲥ ⲉⲧⲣϩⲱⲃ ⲉϩⲛⲡⲉⲧϣⲟⲩⲉⲓⲧ ⲡⲉⲥϯⲃⲥ
+1-2	ⲛϭⲓⲅⲁⲗⲁⲁⲇ	_	_	_	_	_	_	_	_
+1	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	2	case	_	_
+2	ⲅⲁⲗⲁⲁⲇ	ⲅⲁⲗⲁⲁⲇ	PROPN	NPROP	_	0	root	_	Entity=(place-Gilead
+3-4	ⲧⲡⲟⲗⲓⲥ	_	_	_	_	_	_	_	_
+3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	2	appos	_	OrigLang=grc
+5-7	ⲉⲧⲣϩⲱⲃ	_	_	_	_	_	_	_	_
+5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
+6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲣϩⲱⲃ	ⲣϩⲱⲃ	NOUN	N	_	4	nmod	_	Morphs=ⲣ-ϩⲱⲃ
+8-11	ⲉϩⲛⲡⲉⲧϣⲟⲩⲉⲓⲧ	_	_	_	_	_	_	_	_
+8	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
+9	ϩⲛ	ϩⲛ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(abstract
+11	ⲉⲧϣⲟⲩⲉⲓⲧ	ⲉⲧϣⲟⲩⲉⲓⲧ	NOUN	N	_	7	nmod	_	_
+12-13	ⲡⲉⲥϯⲃⲥ	_	_	_	_	_	_	_	_
+12	ⲡⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	ϯⲃⲥ	ϯⲃⲥ	NOUN	N	_	11	appos	_	Entity=abstract)abstract)place-Gilead)
+
+# sent_id = sahidic_ot-28_Hosea_06_s0007
+# text_en = there the city Galaad despised me, working vanity, troubling water.
+# text = ⲟⲩ ⲉⲃⲟⲗ ⲡⲉ ϩⲛⲟⲩⲥⲛⲟϥ ⲁⲩⲱ ⲧⲟⲩϭⲟⲙ ⲉⲥⲟ ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲣⲉϥϫⲓϫⲛⲓⲧ ⲁⲛⲟⲩⲏⲏⲃ ϩⲱⲡ ⲛⲧⲉϩⲓⲏ ⲙⲡϫⲟⲉⲓⲥ ⲁⲩϩⲱⲧⲃ ⲛⲥⲓϭⲓⲙⲁ ⲁⲩⲉⲓⲣⲉ ⲛⲟⲩⲁⲛⲟⲙⲓⲁ
+1	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(substance
+2	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	6	case	_	_
+3	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	_
+4-6	ϩⲛⲟⲩⲥⲛⲟϥ	_	_	_	_	_	_	_	_
+4	ϩⲛ	ϩⲛ	ADP	PREP	_	2	fixed	_	_
+5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
+6	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	0	root	_	_
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+8-9	ⲧⲟⲩϭⲟⲙ	_	_	_	_	_	_	_	_
+8	ⲧⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	_
+9	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	6	conj	_	_
+10-12	ⲉⲥⲟ	_	_	_	_	_	_	_	_
+10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+11	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	VerbForm=Fin	6	acl	_	_
+13-15	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_
+14	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Orig=ⲑ
+15	ϩⲉ	ϩⲉ	NOUN	N	_	12	obl	_	Orig=ⲉ
+16-18	ⲛⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+17	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	18	det	_	Entity=(person
+18	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	15	nmod	_	_
+19-20	ⲛⲣⲉϥϫⲓϫⲛⲓⲧ	_	_	_	_	_	_	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲣⲉϥϫⲓϫⲛⲓⲧ	ⲣⲉϥϫⲓϫⲛⲓⲧ	NOUN	N	_	18	nmod	_	Entity=(person)person)substance)|Morphs=ⲣⲉϥ-ϫⲓϫⲛⲓⲧ
+21-23	ⲁⲛⲟⲩⲏⲏⲃ	_	_	_	_	_	_	_	_
+21	ⲁ	ⲁ	AUX	APST	_	24	aux	_	_
+22	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	23	det	_	Entity=(person
+23	ⲟⲩⲏⲏⲃ	ⲟⲩⲏⲏⲃ	NOUN	N	_	24	nsubj	_	Entity=person)
+24	ϩⲱⲡ	ϩⲱⲡ	VERB	V	VerbForm=Fin	6	parataxis	_	_
+25-26	ⲛⲧⲉϩⲓⲏ	_	_	_	_	_	_	_	_
+25	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	26	case	_	_
+26	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	24	obl	_	Entity=(abstract
+27-29	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+27	ⲙ	ⲛ	ADP	PREP	_	29	case	_	_
+28	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	Entity=(person
+29	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	26	nmod	_	Entity=person)abstract)
+30-32	ⲁⲩϩⲱⲧⲃ	_	_	_	_	_	_	_	_
+30	ⲁ	ⲁ	AUX	APST	_	32	aux	_	_
+31	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
+32	ϩⲱⲧⲃ	ϩⲱⲧⲃ	VERB	V	VerbForm=Fin	24	parataxis	_	_
+33-34	ⲛⲥⲓϭⲓⲙⲁ	_	_	_	_	_	_	_	_
+33	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
+34	ⲥⲓϭⲓⲙⲁ	ⲥⲓϭⲓⲙⲁ	PROPN	NPROP	_	32	obl	_	Entity=(place)
+35-37	ⲁⲩⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
+35	ⲁ	ⲁ	AUX	APST	_	37	aux	_	_
+36	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	37	nsubj	_	_
+37	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	32	parataxis	_	_
+38-40	ⲛⲟⲩⲁⲛⲟⲙⲓⲁ	_	_	_	_	_	_	_	_
+38	ⲛ	ⲛ	ADP	PREP	_	40	case	_	_
+39	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	40	det	_	Entity=(abstract
+40	ⲁⲛⲟⲙⲓⲁ	ⲁⲛⲟⲙⲓⲁ	NOUN	N	Foreign=Yes	37	obj	_	Entity=abstract)|OrigLang=grc
+
+# sent_id = sahidic_ot-28_Hosea_06_s0008
+# text_en = And thy strength is that of a robber: the priests have hid the way, they have murdered the people of Sicima; for they have wrought iniquity in the house of Israel.
+# text = ϩⲙⲡⲓⲥⲣⲁⲏⲗ
+1-3	ϩⲙⲡⲓⲥⲣⲁⲏⲗ	_	_	_	_	_	_	_	_
+1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(place-Kingdom_of_Israel_%28united_monarchy%29
+3	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	Foreign=Yes	0	root	_	Entity=place-Kingdom_of_Israel_%28united_monarchy%29)|Orig=ⲓⲏⲗ|OrigLang=he
+
