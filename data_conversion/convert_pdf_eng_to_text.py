@@ -27,5 +27,7 @@ def convert_pdf_eng_books_to_text(
 
         if not y.exists(final_path):
             convert_pdf_to_txt(y, path, final_path)
-    os.remove('./file.txt')
-    os.remove('./file.pdf')
+    if os.path.exists('./file.txt'):
+        os.remove('./file.txt')
+    if os.path.exists('./file.pdf'):
+        os.remove('./file.pdf')

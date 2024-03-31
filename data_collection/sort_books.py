@@ -19,7 +19,7 @@ def sort_books(
     print(f'Папка {misc_files} для ваших неопределенных файлов, они сортируются в соответсвии с именем, которое выступает в роли MD5 хеша')
     print(f'Папка {raw_files} в которую складываются найденые файлы, пример {misc_files}/00de4d53bfab8484eb7da400185c5003 перейдет {raw_files}/english/pdf/Database driven website.pdf')
     print(f'В Папку {not_found} складываются не найденые файлы')
-    _ = input('Убедитесь, что эти папки есть у вас на диске. Продолжить?')
+    _ = input('Убедитесь, что эти папки есть у вас на диске. Вам также может понадобиться VPN. Продолжить?')
 
     print('[INFO] Проверем файлы...')
     define_files(y, misc_files, raw_files, not_found)

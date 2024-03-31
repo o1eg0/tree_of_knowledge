@@ -1,3 +1,4 @@
+import logging
 import os
 from tqdm import tqdm
 
@@ -27,7 +28,10 @@ def reduce_noise_and_preprocess(
     find_files(y, english_processed, processed_files)
 
     processed_names = [path.split('/')[-1] for path in processed_files]
+
     res = set(_ for _ in files).difference(set(f'disk:/{english_text}/{name}' for name in processed_names))
+
+    logging.info(f'Файлов на обработку {len(res)}')
 
     for path in tqdm(list(res), desc='Обработка файлов'):
         y.download(path, simple_file)
@@ -37,17 +41,20 @@ def reduce_noise_and_preprocess(
         final_path = f'{english_processed}/{final_name}'
 
         if y.exists(final_path):
+            logging.info(f'Файл {final_path} уже существует')
             continue
 
         try:
             with open(simple_file, 'r', encoding='utf-8') as file:
                 text = file.read()
         except Exception as e:
+            logging.error(f'Во время обработки {path} возникла ошибка: {e}')
             continue
 
         with open(processed_file, 'w', encoding='utf-8') as file:
             file.write(NoiseCleaner(text).process())
         y.upload(processed_file, final_path)
+        logging.info(f'Файл {final_name} обработан')
 
     os.remove(simple_file)
     os.remove(processed_file)
