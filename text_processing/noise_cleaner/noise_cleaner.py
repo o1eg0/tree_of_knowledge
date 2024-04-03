@@ -3,14 +3,20 @@ import re
 import spacy
 from transformers import BertTokenizer, BertForNextSentencePrediction
 import torch
+from wordfreq import zipf_frequency
+from autocorrect import Speller
+import wordninja
 
 nlp = spacy.load("en_core_web_sm")
+nlp.max_length = 9000000
+
 
 class NoiseCleaner:
     def __init__(self, text: str):
         self.text = text
         self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
         self.model = BertForNextSentencePrediction.from_pretrained('bert-base-uncased')
+        self.pos_tags_to_remove = {'ADP', 'DET', 'CCONJ', 'PART', 'AUX', 'SPACE'}
 
     def remove_urls(self):
         """Удаляет ссылки из текста."""
@@ -39,6 +45,20 @@ class NoiseCleaner:
 
         # Соединяем отфильтрованные строки обратно в текст
         self.text = '\n'.join(filtered_lines)
+
+    def split_words(self):
+        # self.text = ' '.join(self.spell(self.text))
+        self.text = ' '.join(wordninja.split(self.text))
+
+    def filter_text_by_zipf(self, min_zipf=3.0):
+        words = self.text.split()
+        # Фильтрация слов на основе их Zipf-оценки
+        filtered_words = [word for word in words if zipf_frequency(word, 'en') >= min_zipf]
+        return ' '.join(filtered_words)
+
+    def remove_single_letters_except_i(self):
+        pattern = r'\b[^iI\s]\b'
+        self.text = re.sub(pattern, '', self.text)
 
     def remove_special_chars_and_ligatures(self):
         """Удаляет специальные символы и лигатуры."""
@@ -107,7 +127,6 @@ class NoiseCleaner:
         """Сжимает списки, где каждый элемент начинается с числа."""
         self.text = re.sub(r'(?<=\n)\d+\s*(\.\s*)?([A-Za-zА-Яа-я].+?)(?=\n\d+\s*(\.\s*)?[A-Za-zА-Яа-я])', r'\2; ',
                            self.text)
-
 
     def remove_roman_numerals(self):
         """Заменяет римские числа на 'NUMBER1'."""
@@ -209,14 +228,19 @@ class NoiseCleaner:
         self.remove_single_letter_spaces()
         # self.replace_newlines()
         # self.remove_extra_spaces()
+        self.split_words()
+        self.normalize_text()
+        # self.filter_text_by_zipf()
+
+        self.remove_single_letters_except_i()
+        self.remove_extra_spaces()
         return self.text.strip()
 
     def lemmatize_fragment(self, fragment):
         """Лемматизирует отдельный фрагмент текста."""
         corrected_fragment = fragment
         doc = nlp(corrected_fragment)
-        # print('\n'.join(f'{token.lemma_}:{token.ent_kb_id_}:{token.ent_type_}' for token in doc))
-        return ' '.join(token.lemma_ for token in doc if token.pos_ != 'SPACE')
+        return ' '.join(token.lemma_ for token in doc if token.pos_ not in self.pos_tags_to_remove)
 
     def normalize_text(self):
         """Нормализует весь текст, обрабатывая каждый фрагмент отдельно."""
@@ -247,13 +271,13 @@ class NoiseCleaner:
 
 
 if __name__ == "__main__":
-    path = '0000006_Pattersons_Allergic.txt'
+    path = '0000638_The_Description_Logi.txt'
     with open(path, 'r', encoding='utf-8') as file:
         sample_text = file.read()
 
     cleaner = NoiseCleaner(sample_text)
     cleaned_text = cleaner.process()
 
-    new_path = path.replace('.txt', '.phase1')
+    new_path = path.replace('.txt', '.processed')
     with open(new_path, 'w', encoding='utf-8') as file:
         file.write(cleaned_text)

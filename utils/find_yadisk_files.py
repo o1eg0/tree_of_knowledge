@@ -5,8 +5,10 @@ from tqdm import tqdm
 
 from utils.search import Search, SearchType
 
-logging.basicConfig(filename='process_log.log', filemode='w', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO, encoding='utf-8')
+logging.basicConfig(filename='process_log.log', filemode='w', format='%(asctime)s - %(levelname)s - %(message)s',
+                    level=logging.INFO, encoding='utf-8')
 ZEROS = 7
+
 
 def find_files(y, start_path, files):
     """

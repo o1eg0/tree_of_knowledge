@@ -6,6 +6,7 @@ from yadisk import Client
 
 from text_processing.noise_cleaner.noise_cleaner import NoiseCleaner
 from utils import find_files
+from utils.extract_text import create_corpus
 
 simple_file = './file.txt'
 processed_file = './file.processed'
@@ -58,3 +59,4 @@ def reduce_noise_and_preprocess(
 
     os.remove(simple_file)
     os.remove(processed_file)
+    create_corpus(y, english_processed)

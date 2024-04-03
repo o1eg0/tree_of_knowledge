@@ -1,10 +1,11 @@
 import os
-from tqdm import tqdm
 
+from tqdm import tqdm
 from yadisk import Client
 
 from utils.find_yadisk_files import find_files
 from utils.pdf_to_text import convert_pdf_to_txt
+
 
 def convert_pdf_eng_books_to_text(
         y: Client,
