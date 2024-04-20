@@ -39,7 +39,7 @@ def create_corpus(y: Client, processed):
 
     filename = 'corpus.fragment'
     corpus = []
-    for path in tqdm(files):
+    for path in tqdm(files, desc='Создание корпуса'):
         try:
             y.download(path, filename)
             with open(filename, 'r', encoding='utf-8') as file:
