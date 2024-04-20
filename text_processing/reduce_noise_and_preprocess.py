@@ -1,7 +1,7 @@
 import logging
 import os
-from tqdm import tqdm
 
+from tqdm import tqdm
 from yadisk import Client
 
 from text_processing.noise_cleaner.noise_cleaner import NoiseCleaner
@@ -57,6 +57,8 @@ def reduce_noise_and_preprocess(
         y.upload(processed_file, final_path)
         logging.info(f'Файл {final_name} обработан')
 
-    os.remove(simple_file)
-    os.remove(processed_file)
+    if os.path.exists(simple_file):
+        os.remove(simple_file)
+    if os.path.exists(processed_file):
+        os.remove(processed_file)
     create_corpus(y, english_processed)

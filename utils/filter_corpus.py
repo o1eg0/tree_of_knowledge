@@ -1,16 +1,24 @@
 import enchant
 from nltk.tokenize import word_tokenize
+from tqdm import tqdm
 
-# Создаем объект словаря для английского языка
+coef_of_useless = 0.2
 d = enchant.Dict("en_US")
 
 
 def filter_english_words(text):
-    # Токенизация исходного текста
-    tokens = word_tokenize(text)
+    texts = text.split('\n')
+    answer = []
+    for line in tqdm(texts, desc='Фильтр текстов'):
+        if line.count(' ') / len(line) > coef_of_useless:
+            continue
 
-    # Фильтрация слов, проверка на присутствие в английском языке
-    filtered_words = [word for word in tokens if d.check(word) or d.check(word.capitalize())]
+        tokens = word_tokenize(line)
 
-    # Возврат отфильтрованного текста
-    return ' '.join(filtered_words)
+        filtered_words = []
+        for word in tokens:
+            if d.check(word) or d.check(word.capitalize()):
+                filtered_words.append(word)
+
+        answer.append(' '.join(filtered_words))
+    return '\n'.join(answer)

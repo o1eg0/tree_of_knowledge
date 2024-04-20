@@ -1,11 +1,10 @@
 import re
 
 import spacy
-from transformers import BertTokenizer, BertForNextSentencePrediction
 import torch
-from wordfreq import zipf_frequency
-from autocorrect import Speller
 import wordninja
+from transformers import BertTokenizer, BertForNextSentencePrediction
+from wordfreq import zipf_frequency
 
 nlp = spacy.load("en_core_web_sm")
 nlp.max_length = 9000000

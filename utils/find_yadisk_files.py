@@ -1,13 +1,29 @@
 import logging
 
-from yadisk import Client
+import yadisk
 from tqdm import tqdm
+from yadisk import Client
 
 from utils.search import Search, SearchType
 
 logging.basicConfig(filename='process_log.log', filemode='w', format='%(asctime)s - %(levelname)s - %(message)s',
                     level=logging.INFO, encoding='utf-8')
 ZEROS = 7
+
+
+def get_yadisk_client(email='example@com', token='invalid token'):
+    yadisk_client = yadisk.Client(token=token, default_args={'timeout': 300.0})
+    if yadisk_client.check_token():
+        return yadisk_client
+    while True:
+        token = input(f'Пожалуйста, укажите ваш yadisk токен, если у вас его нет, обратитесь к {email}\n')
+        try:
+            yadisk_client = yadisk.Client(token=token, default_args={'timeout': 300.0})
+            if yadisk_client.check_token():
+                return yadisk_client
+        except Exception as e:
+            pass
+        print('Некорректный токен!')
 
 
 def find_files(y, start_path, files):

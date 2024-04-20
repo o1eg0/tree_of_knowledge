@@ -44,23 +44,8 @@ class Search:
 
 
 class SearchRequest:
-    col_names = [
-        "ID",
-        "Author",
-        "Title",
-        "Publisher",
-        "Year",
-        "Pages",
-        "Language",
-        "Size",
-        "Extension",
-        "Mirror_1",
-        "Mirror_2",
-        "Mirror_3",
-        "Mirror_4",
-        "Mirror_5",
-        "Edit",
-    ]
+    col_names = ["ID", "Author", "Title", "Publisher", "Year", "Pages", "Language", "Size", "Extension", "Mirror_1",
+                 "Mirror_2", "Mirror_3", "Mirror_4", "Mirror_5", "Edit"]
 
     def __init__(self, query, search_type: SearchType):
         self.query = query
@@ -85,26 +70,14 @@ class SearchRequest:
         soup = BeautifulSoup(search_page.text, "lxml")
         self.strip_i_tag_from_soup(soup)
 
-        # Libgen results contain 3 tables
-        # Table2: Table of data to scrape.
         information_table = soup.find_all("table")[2]
-
-        # Determines whether the link url (for the mirror)
-        # or link text (for the title) should be preserved.
-        # Both the book title and mirror links have a "title" attribute,
-        # but only the mirror links have it filled.(title vs title="libgen.io")
         raw_data = [
             [
                 td.a["href"]
-                if td.find("a")
-                   and td.find("a").has_attr("title")
-                   and td.find("a")["title"] != ""
+                if td.find("a") and td.find("a").has_attr("title") and td.find("a")["title"] != ""
                 else "".join(td.stripped_strings)
                 for td in row.find_all("td")
-            ]
-            for row in information_table.find_all("tr")[
-                       1:
-                       ]  # Skip row 0 as it is the headings row
+            ] for row in information_table.find_all("tr")[1:]
         ]
         output_data = [
             Book(

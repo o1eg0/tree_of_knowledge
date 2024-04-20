@@ -6,6 +6,7 @@ from tqdm import tqdm
 from yadisk import Client
 
 from utils import find_files
+from utils.filter_corpus import filter_english_words
 
 
 def create_corpus(y: Client, processed):
@@ -13,12 +14,13 @@ def create_corpus(y: Client, processed):
     find_files(y, processed, files)
 
     corpus_filename = 'corpus.txt'
+
     filename = 'corpus.fragment'
     corpus = []
     for path in tqdm(files):
         try:
             y.download(path, filename)
-            with open(filename,'r', encoding='utf-8') as file:
+            with open(filename, 'r', encoding='utf-8') as file:
                 text = file.read()
 
                 if len(text) == 0:
@@ -30,7 +32,7 @@ def create_corpus(y: Client, processed):
             logging.error(e)
 
     with open(corpus_filename, 'w', encoding='utf-8') as file:
-        file.write('\n'.join(corpus))
+        file.write(filter_english_words('\n'.join(corpus)))
 
     if os.path.exists(filename):
         os.remove(filename)
